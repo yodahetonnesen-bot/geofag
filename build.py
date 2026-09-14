@@ -92,6 +92,17 @@ def flett_ekstra(kap: dict) -> None:
         if data.get(felt):
             kap[felt] = data[felt]
 
+    # Avsnitt som egentlig er oppgaver, fjernes fra fagstoffet nar de i stedet
+    # legges inn som tilleggsoppgaver. "fjern" lister id-ene deres.
+    fjern = set(data.get("fjern") or [])
+    if fjern:
+        for d in kap["deler"]:
+            d["blokker"] = [
+                b for b in d["blokker"]
+                if not (b.get("tekst") and nokkel(b["tekst"]) in fjern)
+            ]
+        kap["deler"] = [d for d in kap["deler"] if d["blokker"]]
+
     # Oppgaver som star som vanlig brodtekst i kilden (de ender med punktum og
     # har ingen OPPGAVE-markor foran seg) legges inn her, med fasit.
     for blokk in data.get("tilleggsoppgaver") or []:

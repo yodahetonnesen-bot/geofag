@@ -1,0 +1,116 @@
+{
+  "intro": [],
+  "grupper": [],
+  "fjern": [
+    "e9aa8c0f54",
+    "a562454960",
+    "667b443d09",
+    "95a4be909b",
+    "62337b43ea",
+    "08338910df",
+    "2fc75c5153",
+    "5204d575d3",
+    "3019af8bd6",
+    "1599dc5d42",
+    "9e87d13fa0",
+    "edb44f7ef3",
+    "fc02023950",
+    "f3fc47ffee",
+    "23ca6fcd6f",
+    "feb7da5388",
+    "ef828e30b8",
+    "c2b8f30cea",
+    "d090332aea"
+  ],
+  "tilleggsoppgaver": [
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": 163,
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "dyphav – kontinentalskråning – kontinentalhylle",
+          "f": "Dyphav skal ut.\nKontinentalskråningen og kontinentalhylla er de to delene kontinentalsokkelen består av. Dyphavet ligger utenfor sokkelen, på den andre siden av skråningen, og har havbunnsskorpe i stedet for kontinentalskorpe."
+        },
+        {
+          "q": "Norskerenna – Vikinggraben – Sentralgraben",
+          "f": "Norskerenna skal ut.\nVikinggraben og Sentralgraben er riftstrukturer, dannet ved marin rifting i sen jura da jordskorpa ble strukket og sank inn.\nNorskerenna er ikke dannet tektonisk. Den er en fordypning erodert av isbreer i kvartær."
+        },
+        {
+          "q": "grunt havområde – Norskerenna – Doggerbank",
+          "f": "Norskerenna skal ut.\nDoggerbank er et grunt havområde — ikke dypere enn 40 meter. Norskerenna er tvert imot det dypeste området i Nordsjøen, en smal renne langs kysten."
+        },
+        {
+          "q": "karbon – ørken – sumpskog",
+          "f": "Ørken skal ut.\nI karbon var klimaet varmt og fuktig, og landområdene var dekket av sumper og regnskog. Det er nettopp de begravde sumpskogene som ble til kullagene.\nØrken hører til perm og trias, da området drev inn i den subtropiske høytrykksonen."
+        },
+        {
+          "q": "perm – steinsalt – kaldt klima",
+          "f": "Kaldt klima skal ut.\nI perm var klimaet varmt og tørt. Da havet trengte inn over det lavtliggende bassenget mot slutten av perioden, fordampet vannet i den høye temperaturen, og det ble avsatt kilometertykke lag med steinsalt.\nSteinsalt avsettes nettopp ved fordampning — det krever varme, ikke kulde."
+        },
+        {
+          "q": "sen jura – kontinental rifting – Sentralgraben",
+          "f": "Kontinental rifting skal ut.\nI sen jura var det marin rifting som foregikk: innsynkningen ble så dyp at havet trengte inn nordfra. Det var da Sentralgraben og Vikinggraben ble dannet.\nKontinental rifting hører til perm, da Pangea begynte å sprekke opp mens området fortsatt var tørt land."
+        },
+        {
+          "q": "kalkstein – kritt – perm",
+          "f": "Perm skal ut.\nKalksteinen på sokkelen ble avsatt i kritt, da havnivået steg og enorme mengder kalkholdige skall og skjelettrester la seg på bunnen. Det er disse krittaktige sedimentene som har gitt perioden navn, og som er reservoaret på Ekofisk.\nI perm ble det avsatt ørkensand og steinsalt, ikke kalkstein."
+        },
+        {
+          "q": "paleogen – erosjon av sokkelen – avsetning av løsmasser på sokkelen",
+          "f": "«Erosjon av sokkelen» skal ut.\nI paleogen ble landområdene i øst og vest hevet og erodert, og løsmassene ble avsatt ute på sokkelen. Det er land som eroderes, og sokkelen som mottar.\nUnntaket er Barentsområdet, der landhevingen var så kraftig at også sokkelen ble erodert — og der lekket oljen ut da takbergartene forsvant."
+        },
+        {
+          "gruppe": "Fleip eller fakta?"
+        },
+        {
+          "q": "Kontinentalsokkelen er det samme som kontinentalhylla.",
+          "f": "Fleip.\nKontinentalsokkelen består av to deler: den flate kontinentalhylla nærmest land og den bratte kontinentalskråningen ytterst. Hylla er altså bare den ene halvdelen."
+        },
+        {
+          "q": "Det er tre områder på norsk sokkel man leter etter petroleum.",
+          "f": "Fakta.\nBarentshavet, Norskehavet og Nordsjøen."
+        },
+        {
+          "q": "Norskerenna og Vikinggraben er dannet på samme måte.",
+          "f": "Fleip.\nVikinggraben er en riftstruktur, dannet ved at jordskorpa ble strukket og sank inn i sen jura.\nNorskerenna er erodert av isbreer i kvartær, altså mange millioner år senere og ved en helt annen prosess."
+        },
+        {
+          "q": "Det er ingen naturressurser rundt Doggerbank.",
+          "f": "Fleip.\nDe sørlige delene av Nordsjøen har gassforekomster med opphav i kullagene fra karbon. I tillegg er området et av Europas viktigste fiskefelt, det finnes sand- og grusressurser der, og de grunne dybdene gjør det godt egnet for havvind."
+        },
+        {
+          "q": "Paleografi og paleoklima handler om den samme perioden i jordhistorien.",
+          "f": "Fleip.\nBegge forstavelsene betyr «gammel», men de handler om ulike ting — ikke om én bestemt periode.\nPaleogeografi er studiet av hvordan kontinenter og hav var fordelt på jordoverflaten. Paleoklima er læren om tidligere tiders klima. De henger tett sammen, siden breddegraden avgjør klimaet, men de er ikke det samme."
+        },
+        {
+          "q": "Oppsplitting av et kontinent er ikke det samme som maritim rifting.",
+          "f": "Fakta.\nKontinental rifting er at et kontinent sprekker opp mens det fortsatt er tørt land, som i Øst-Afrika i dag.\nMarin rifting er neste trinn, når innsynkningen blir så dyp at havet trenger inn og oversvømmer riftsonen."
+        },
+        {
+          "q": "Baltika er ikke det samme kontinentet som Laurentia.",
+          "f": "Fakta.\nLaurentia omfattet Grønland og deler av Nord-Amerika. Baltika omfattet våre deler av dagens Eurasia.\nDa de to kolliderte i overgangen silur/devon, reiste den kaledonske fjellkjeden seg."
+        },
+        {
+          "q": "Nordsjøområdet har aldri vært tørt land.",
+          "f": "Fleip.\nOmrådet har vært tørt land flere ganger. I devon lå det som ørkenland like sør for ekvator, i perm var det stepper og ørken, og i trias var deler av sokkelen en ørkenslette med elver som periodevis tørket ut — der de første dinosaurene vandret rundt."
+        },
+        {
+          "q": "Det brytes kull på bunnen av Nordsjøen.",
+          "f": "Fleip.\nKullagene fra karbon ligger riktignok under Nordsjøen, men der brytes de ikke — de virker som kildebergart for gassen i de sørlige delene.\nDe samme lagene brytes derimot på land, i Storbritannia, Tyskland, Polen og Russland."
+        },
+        {
+          "q": "De samme bergartene finnes både på land og på sokkelen.",
+          "f": "Fakta.\nGrunnfjellet fra prekambrium ligger under sokkelen på samme måte som det ligger i dagen på land. Og vulkanismen i perm på sokkelen svarer til den man finner spor etter i Oslofeltet.\nForskjellen er at bergartene på sokkelen stort sett er begravd under tykke lag med yngre sedimenter."
+        },
+        {
+          "q": "På sokkelen er det bare sedimentære bergarter.",
+          "f": "Fleip.\nDe sedimentære bergartene dominerer og er de viktigste for petroleum, men under dem ligger det prekambriske grunnfjellet.\nI tillegg finnes vulkanske lag — fra riftingen i perm og fra havbunnsspredningen da Atlanterhavet åpnet seg i paleogen."
+        }
+      ]
+    }
+  ]
+}
