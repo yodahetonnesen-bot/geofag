@@ -460,8 +460,9 @@
           "tekst": "Jordskjelv hører til de naturkatastrofene som krever flest menneskeliv i et globalt perspektiv, særlig i fattige land der byggestandard og infrastruktur ofte er mindre robust enn i rike land. På den måten gjør jordskjelv forskjell på fattig og rik (figur 3.12)."
         },
         {
-          "t": "p",
-          "tekst": "Når på døgnet er et jordskjelv farligst, tror du? Begrunn svaret."
+          "t": "oppg",
+          "tekst": "Når på døgnet er et jordskjelv farligst, tror du? Begrunn svaret.",
+          "f": ""
         },
         {
           "t": "p",

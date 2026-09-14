@@ -127,8 +127,9 @@
           "tekst": "På vestsiden av forkastningen var det særlig Sri Lanka, vestkysten av India og øygruppene i Indiahavet som ble hardt rammet. Det tok tre timer før bølgene nådde Sri Lanka og den indiske østkysten."
         },
         {
-          "t": "p",
-          "tekst": "Trakk havet seg tilbake før bølgen slo inn over Sri Lanka? Begrunn svaret."
+          "t": "oppg",
+          "tekst": "Trakk havet seg tilbake før bølgen slo inn over Sri Lanka? Begrunn svaret.",
+          "f": ""
         },
         {
           "t": "p",

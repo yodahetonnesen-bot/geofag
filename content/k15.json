@@ -174,8 +174,9 @@
           "tekst": "Hevningen skjedde ikke samtidig langs hele vestkysten, deler av landblokken ble hevet til ulike tider og til ulike høyder. Noen steder «bulet» den opp. Hevningen var sterkest i vest, og aller størst var den i området rundt Jotunheimen og nord i Nordland. Det førte til at den norske landblokken ble stilt på skrå, og vi fikk de høydeforholdene vi ser i dag."
         },
         {
-          "t": "p",
-          "tekst": "Det er rester av to paleiske flater i ulike høyder på bildet i figur 15.1. Sammenlign med kartet i figur 15.6 og finn ut hvor høyt disse flatene ligger."
+          "t": "oppg",
+          "tekst": "Det er rester av to paleiske flater i ulike høyder på bildet i figur 15.1. Sammenlign med kartet i figur 15.6 og finn ut hvor høyt disse flatene ligger.",
+          "f": ""
         },
         {
           "t": "p",
@@ -291,8 +292,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Du ser et bilde av Hallingskarvet i figur 14.5. Let deg fram til et digitalt, geologisk kart som viser Hallingskarvet og området omkring. Undersøk hvilke bergarter som den øverste delen av Hallingskarvet består av."
+          "t": "oppg",
+          "tekst": "Du ser et bilde av Hallingskarvet i figur 14.5. Let deg fram til et digitalt, geologisk kart som viser Hallingskarvet og området omkring. Undersøk hvilke bergarter som den øverste delen av Hallingskarvet består av.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -314,16 +316,19 @@
           "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Er det subkambriske peneplanet en del av den paleiske overflaten, eller er det omvendt? Begrunn svaret."
+          "t": "oppg",
+          "tekst": "Er det subkambriske peneplanet en del av den paleiske overflaten, eller er det omvendt? Begrunn svaret.",
+          "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Hvor i Norge kan vi være sikre på at vi ser det subkambriske peneplanet? Begrunn svaret."
+          "t": "oppg",
+          "tekst": "Hvor i Norge kan vi være sikre på at vi ser det subkambriske peneplanet? Begrunn svaret.",
+          "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Du ser et bilde av Gaustatoppen i figur 15.2. Undersøk de geologiske forholdene her. Kan du finne det subkambriske peneplanet? Begrunn svaret."
+          "t": "oppg",
+          "tekst": "Du ser et bilde av Gaustatoppen i figur 15.2. Undersøk de geologiske forholdene her. Kan du finne det subkambriske peneplanet? Begrunn svaret.",
+          "f": ""
         }
       ]
     },

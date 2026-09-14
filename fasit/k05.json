@@ -30,6 +30,12 @@
   "f": "Se på hvilken vei havbunnen beveger seg på hver side av forkastningen (de hvite pilene).\nPå Sumatra-siden senker havbunnen seg. Når bunnen synker, synker vannflaten over med, og havet trekker seg derfor tilbake fra stranda før bølgen kommer.\nPå den andre siden av forkastningen heves havbunnen, og der kommer bølgetoppen først."
  },
  {
+  "id": "c317aac3c1",
+  "art": "oppgave-i-tekst",
+  "q": "Trakk havet seg tilbake før bølgen slo inn over Sri Lanka? Begrunn svaret.",
+  "f": ""
+ },
+ {
   "id": "45d658a722",
   "art": "tenk",
   "q": "Store jordskjelv i Norge kan ha en størrelse på 5. Hvor mye mer energi frigjøres i et skjelv med størrelse 9?",

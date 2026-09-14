@@ -152,8 +152,9 @@
           "tekst": "Leiravsetningene, som i dag er tørt land, har en fast, to–tre meter tykk tørrskorpe øverst. Kjemisk forvitring av leirpartiklene har frigjort jern og aluminium, som senere er felt ut igjen, og disse har sementert det øverste leirlaget og gjort det fast."
         },
         {
-          "t": "p",
-          "tekst": "Kan leire som er avsatt i innsjøer, bli til kvikkleire? Begrunn svaret."
+          "t": "oppg",
+          "tekst": "Kan leire som er avsatt i innsjøer, bli til kvikkleire? Begrunn svaret.",
+          "f": ""
         },
         {
           "t": "p",

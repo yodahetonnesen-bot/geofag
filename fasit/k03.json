@@ -102,6 +102,12 @@
   "f": "Selve rystelsene gjør sjelden skaden alene. De fleste omkommer når bygninger raser sammen eller i branner som oppstår etterpå.\nI bratte skråninger kan det gå skred, dambrudd kan gi flom, og skjelv under havbunnen kan sette i gang tsunamier. Transportnett, strøm og vannforsyning blir slått ut, noe som også gjør hjelpearbeidet vanskelig.\nOljeinstallasjoner på kontinentalsokkelen er særlig utsatt ved slike hendelser."
  },
  {
+  "id": "ef764663ba",
+  "art": "oppgave-i-tekst",
+  "q": "Når på døgnet er et jordskjelv farligst, tror du? Begrunn svaret.",
+  "f": ""
+ },
+ {
   "id": "c5012cea99",
   "art": "oppgave-i-tekst",
   "q": "Finn ut om jordskjelv har krevd menneskeliv i Norge.",

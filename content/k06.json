@@ -707,8 +707,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Et magma kan bruke lang tid på å nå opp til jordoverflaten. Regn ut hvor lang tid et magma bruker opp til overflaten fra et magmakammer 2 km under jordoverflaten når magmaet stiger med en hastighet på"
+          "t": "oppg",
+          "tekst": "Et magma kan bruke lang tid på å nå opp til jordoverflaten. Regn ut hvor lang tid et magma bruker opp til overflaten fra et magmakammer 2 km under jordoverflaten når magmaet stiger med en hastighet på",
+          "f": ""
         }
       ]
     },

@@ -728,8 +728,9 @@
           "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Hvilket avrenningsmønster har elvene i ditt nærområde (se figur 12.11)? Forklar hvorfor det er slik."
+          "t": "oppg",
+          "tekst": "Hvilket avrenningsmønster har elvene i ditt nærområde (se figur 12.11)? Forklar hvorfor det er slik.",
+          "f": ""
         },
         {
           "t": "p",

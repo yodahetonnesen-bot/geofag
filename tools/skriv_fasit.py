@@ -22,13 +22,25 @@ def main() -> int:
     rader = json.loads(sti.read_text(encoding="utf-8"))
     svar = json.load(sys.stdin)
 
+    # Nokkelen kan vare en id, eller starten pa selve sporsmalsteksten.
     kjente = {r["id"] for r in rader}
-    ukjente = [k for k in svar if k not in kjente]
     skrevet = 0
+    brukt = set()
     for r in rader:
         if r["id"] in svar:
             r["f"] = svar[r["id"]].strip()
+            brukt.add(r["id"])
             skrevet += 1
+            continue
+        for k, v in svar.items():
+            if k in kjente or k in brukt:
+                continue
+            if r["q"].startswith(k):
+                r["f"] = v.strip()
+                brukt.add(k)
+                skrevet += 1
+                break
+    ukjente = [k for k in svar if k not in brukt]
 
     sti.write_text(json.dumps(rader, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     mangler = sum(1 for r in rader if not r["f"])

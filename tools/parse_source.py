@@ -54,6 +54,13 @@ IMPERATIV = re.compile(
     r"|Sammenlign |Marker |Noter |Drøft |Presenter |Zoom )"
 )
 
+# ... og noen begynner med en innledende setning for selve oppdraget kommer.
+OPPDRAG = re.compile(
+    r"(?:^|[.?!] )(Sammenlign |Undersøk |Finn ut |Let deg fram |Studer |Forklar "
+    r"|Beskriv |Tegn |Regn ut |Marker |Diskuter |Vurder |Begrunn |Bruk figur "
+    r"|Bruk kartet |Bruk Google )"
+)
+
 
 def del_opp_sidetall(linje: str) -> tuple[str, int | None]:
     """Skiller ut sidetallet som er limt inntil slutten av linja."""
@@ -234,7 +241,7 @@ def parse_kapittel(linjer: list[str], start: int, slutt: int, nr: int) -> dict:
             gjeldende_del["blokker"].append({"t": "tenk", "tekst": tekst, "f": ""})
             continue
 
-        if IMPERATIV.match(tekst) and len(tekst) < 400:
+        if (IMPERATIV.match(tekst) or OPPDRAG.search(tekst)) and len(tekst) < 400:
             gjeldende_del["blokker"].append({"t": "oppg", "tekst": tekst, "f": ""})
             continue
 

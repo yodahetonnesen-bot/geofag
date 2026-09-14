@@ -201,8 +201,9 @@
           "tekst": "De vanligste skifrene er pressede sandsteiner (kvartssandstein), som for eksempel i Oppdal og Alta, eller fyllitter (Otta) og glimmerskifre (Jondalen i Hardanger). Skifer brukes til hellelegging, til tørrmurer og som beklednings- og dekorstein. Om lag en tredel av skiferproduksjonen eksporteres, og den slitesterke norske kvartsskiferen regnes som særlig egnet på arealer med stor trafikk."
         },
         {
-          "t": "p",
-          "tekst": "Er skifer en bestemt bergart? Begrunn svaret."
+          "t": "oppg",
+          "tekst": "Er skifer en bestemt bergart? Begrunn svaret.",
+          "f": ""
         }
       ]
     },
