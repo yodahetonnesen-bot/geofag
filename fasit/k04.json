@@ -3,199 +3,199 @@
   "id": "00a53e2cc8",
   "art": "tenk",
   "q": "Hvorfor har den tyktflytende lavaen en oppsprukket og ujevn overflate (figur 4.2), mens den lettflytende lavaen har en glatt overflate?",
-  "f": ""
+  "f": "Fordi den tyktflytende (felsiske) lavaen størkner mens den fortsatt beveger seg. Skorpa som dannes på overflaten, blir stiv og sprekker opp igjen og igjen når massen under skyver på — derfor blir overflaten ujevn og oppsprukket.\nDen lettflytende (mafiske) lavaen renner raskt og jevnt, og overflaten rekker å flyte ut før den stivner. Da blir den glatt."
  },
  {
   "id": "28e52f21fe",
   "art": "tenk",
   "q": "Hvorfor er sidene på skjoldvulkaner slake?",
-  "f": ""
+  "f": "Fordi lavaen er lettflytende. Mafisk lava renner langt før den størkner, og den legger seg derfor i tynne, vidstrakte lag i stedet for å hope seg opp rundt krateret.\nResultatet er en slak, bred form som minner om et skjold. Stratovulkaner, som bygges av tyktflytende lava, får motsatt form: bratte sider og tydelig kjegle."
  },
  {
   "id": "04a023ac54",
   "art": "tenk",
   "q": "Hvilke forskjeller er det på en vulkan og en «black smoker»?",
-  "f": ""
+  "f": "En vulkan slipper ut magma — smeltet stein — som størkner til lava på overflaten.\nEn «black smoker» slipper ikke ut magma, men varmt vann. Det er havvann som har sirkulert ned gjennom sprekker i jordskorpa, blitt varmet opp og løst opp mineraler i bergartene på veien.\nDet er derfor vannet er «svart»: det er fullt av oppløste grunnstoffer som felles ut når det møter det kalde havvannet. Slik påvirker de havets kjemi og livet i havet, og de avsetter verdifulle mineraler og metaller på havbunnen."
  },
  {
   "id": "a065627cd3",
   "art": "tenk",
   "q": "Hva er en hotspot?",
-  "f": ""
+  "f": "En hotspot er et smelteområde øverst i mantelen, like under litosfæreplata.\nDen oppstår der en søylestrøm av varme mantelbergarter stiger opp. Trykket minker oppover, smeltetemperaturen synker, og bergartene smelter til magma. Magmaet samler seg i magmakamre før det strømmer videre opp til vulkaner på overflaten."
  },
  {
   "id": "203017895b",
   "art": "tenk",
   "q": "Hva kalles de mantelstrømmene som danner en hotspot?",
-  "f": ""
+  "f": "Søylestrømmer — også kalt termiske oppdriftsstrømmer."
  },
  {
   "id": "85f35548eb",
   "art": "tenk",
   "q": "Hvor oppstår disse mantelstrømmene?",
-  "f": ""
+  "f": "Nederst i mantelen, like over den ytre jordkjernen. De starter langs yttergrensene av de to store lavhastighetsområdene under Afrika og Stillehavet."
  },
  {
   "id": "116910ba36",
   "art": "tenk",
   "q": "Hva slags magma (mafisk, felsisk) er det som gir opphav til vulkanene over en hotspot?",
-  "f": ""
+  "f": "Mafisk magma. Det gir lettflytende lava som bygger slake skjoldvulkaner, slik som på Hawaii."
  },
  {
   "id": "b893eb5b05",
   "art": "tenk",
   "q": "Hva er det som gjør at det dannes øyrekker på havbunnen over en hotspot?",
-  "f": ""
+  "f": "At hotspoten ligger omtrent i ro, mens havbunnsplata glir over den.\nStillehavsplata beveger seg mot nordvest med 7–8 cm i året. En vulkanøy bygges opp over hotspoten, føres så bort med plata og slukner, mens en ny øy begynner å vokse bak den.\nResultatet blir en rekke øyer som blir eldre og mer nedslitte jo lenger vekk fra hotspoten de ligger. Bare den yngste — Hawaii — har aktiv vulkanisme."
  },
  {
   "id": "093ac010c6",
   "art": "tenk",
   "q": "På kartskissen i figur 4.8 ser du at det er en tydelig retningsforandring på øyrekkene over flere hotspoter i Stillehavet. Hva har skjedd?",
-  "f": ""
+  "f": "Øyrekkene har en knekk fordi platas bevegelsesretning har endret seg.\nSiden hotspoten ligger i ro, tegner øyrekken opp sporet etter plata. Endrer plata kurs, får sporet en knekk — på samme måte som et pennestrøk knekker når du dreier arket.\nAt flere øyrekker i Stillehavet har knekken omtrent samtidig, styrker tolkningen: det var hele Stillehavsplata som skiftet retning."
  },
  {
   "id": "f4b6a3414a",
   "art": "tenk",
   "q": "Er det mulig å varsle et vulkanutbrudd?",
-  "f": ""
+  "f": "Ja, og det er enklere enn å varsle jordskjelv. Mange vulkaner varsler selv, uker eller måneder i forveien, og tydeligst de siste dagene.\nTegnene er svermer av små jordskjelv når magma stiger, rumling som kan høres, økte utslipp av vanndamp fordi grunnvannet varmes opp — og at selve fjellet vokser. Før Mount St. Helens i 1980 hevet fjellet seg 1,5 meter i døgnet og ble til sammen 100 meter høyere.\nI tillegg overvåkes vulkaner fra satellitt med temperaturmålinger og gassanalyser."
  },
  {
   "id": "23e4d979bc",
   "art": "sporsmal",
   "q": "Hva kommer ut av krateret på en vulkan når den har utbrudd?",
-  "f": ""
+  "f": "Lava, aske og gasser. I tillegg slynges det ut lavastein — vulkanske bomber — som kan treffe folk flere kilometer unna.\nVed eksplosive utbrudd kommer også pyroklastiske strømmer: en glohet blanding av aske, støv og gass."
  },
  {
   "id": "373e9865ba",
   "art": "sporsmal",
   "q": "Hvilken lavatype er mest lettflytende – felsisk eller mafisk?",
-  "f": ""
+  "f": "Mafisk lava. Den har mørke mineraler og lavt innhold av silisium, og er derfor lettflytende.\nFelsisk lava har lyse mineraler med mye silisium og er tyktflytende."
  },
  {
   "id": "0312e393e4",
   "art": "sporsmal",
   "q": "Hva er forskjellen på skjoldvulkaner og stratovulkaner?",
-  "f": ""
+  "f": "Skjoldvulkaner er bygd opp av lettflytende, mafisk lava. De har slake sider, dekker store arealer og har sjelden store eksplosjoner — lavaen renner ut som rødglødende elver. Mauna Loa på Hawaii er et eksempel.\nStratovulkaner er bygd opp av vekslende lag med størknet lava, vulkansk stein og aske (stratum = lag), av tyktflytende felsisk lava. De har bratte sider og tydelig kjegleform, og utbruddene er langt mer eksplosive. Mount Fuji er et eksempel."
  },
  {
   "id": "4610515829",
   "art": "sporsmal",
   "q": "Hva er en kaldera?",
-  "f": ""
+  "f": "En kaldera er en innsynkning som dannes når et dyptliggende magmakammer tømmes i et kraftig utbrudd, slik at jordskorpa over kollapser.\nOrdet betyr «gryte» på spansk. Yellowstone er et kjent eksempel."
  },
  {
   "id": "7af4942e66",
   "art": "sporsmal",
   "q": "Hvor på jordoverflaten ligger de fleste synlige vulkanene?",
-  "f": ""
+  "f": "Langs plategrensene — i kollisjonssoner og langs spredningsakser. Resten ligger over hotspoter inne på litosfæreplatene."
  },
  {
   "id": "837222ee58",
   "art": "sporsmal",
   "q": "Hvor på jordoverflaten strømmer det ut mest lava?",
-  "f": ""
+  "f": "Langs spredningsaksene, altså midthavsryggene. Der strømmer det ut ca. 3 km³ lava i året — mer enn noe annet sted på jordoverflaten.\nTil sammenligning kommer det «bare» ca. 1 km³ i året fra vulkanene i kollisjonssonene. Det er også derfor nesten to tredeler av jordvarmen som når overflaten, kommer ut langs midthavsryggene."
  },
  {
   "id": "a40b3d7394",
   "art": "sporsmal",
   "q": "Hva er en «black smoker»?",
-  "f": ""
+  "f": "En skorsteinslignende formasjon på havbunnen langs en spredningsakse, som spyr ut store mengder varmt vann.\nVannet er havvann som har sirkulert gjennom sprekker i jordskorpa og øverste del av mantelen, blitt varmet opp og løst opp mineraler underveis. Derfor er det rikt på grunnstoffer, og det felles ut verdifulle mineraler og metaller på havbunnen."
  },
  {
   "id": "832128d2e0",
   "art": "sporsmal",
   "q": "Hvor på jordoverflaten dannes vulkanske øybuer og vulkanske fjellkjeder?",
-  "f": ""
+  "f": "I kollisjonssoner, der en havbunnsplate kolliderer med en annen litosfæreplate.\nMøter den en annen havbunnsplate, dannes vulkanske øybuer — Tongaøyene i Stillehavet er et eksempel. Møter den en kontinentplate, dannes vulkanske fjellkjeder."
  },
  {
   "id": "463d6e7b74",
   "art": "hvatrordu",
   "q": "Hvordan vil du forklare at det kan komme både felsiske og mafiske lavastrømmer fra en og samme vulkan (se figur 4.2)?",
-  "f": ""
+  "f": "Fordi magmaet forandrer seg på veien opp.\nI en kollisjonssone dannes det først mafisk magma når mantelbergartene over den synkende havbunnsplata smelter. Når magmaet stiger, krystalliserer noen mineraler ut først (delvis krystallisasjon), og restsmelten blir gradvis mer silisiumrik — altså felsisk.\nHvor langt den prosessen har kommet når utbruddet skjer, avgjør om lavaen blir tyktflytende eller lettflytende. Derfor kan samme vulkan gi begge typer."
  },
  {
   "id": "b510b917b6",
   "art": "hvatrordu",
   "q": "Hvordan vil du forklare at bare en seksdel av verdens synlige vulkaner ligger langs spredningsakser, samtidig som det strømmer ut tre ganger mer lava langs spredningsaksene enn i kollisjonssonene?",
-  "f": ""
+  "f": "Fordi spredningsaksene stort sett ligger under vann.\nLangs midthavsryggene renner det ut store mengder mafisk lava hele tiden, men det skjer på havbunnen, flere kilometer under havflaten. Vi ser dem ikke, og de telles sjelden som «synlige» vulkaner. Island er det store unntaket.\nVulkanene i kollisjonssonene ligger derimot på land eller som øybuer, der de er godt synlige — selv om hver av dem gir mindre lava."
  },
  {
   "id": "35f3759899",
   "art": "hvatrordu",
   "q": "Forklar hvorfor det ikke er aktive vulkaner på alle øyene i Hawaii-øyrekken.",
-  "f": ""
+  "f": "Fordi bare den øya som ligger over hotspoten akkurat nå, har tilførsel av magma.\nStillehavsplata glir mot nordvest med 7–8 cm i året, mens søylestrømmen blir liggende. Når en øy føres bort fra hotspoten, mister den magmatilførselen og slukner — samtidig som en ny øy bygges opp bak.\nDerfor er de nordvestlige øyene gamle, slukkede og nedslitte, mens Hawaii lengst sørøst er den yngste og fortsatt aktive."
  },
  {
   "id": "6f31fe6461",
   "art": "hvatrordu",
   "q": "Kystene rundt Stillehavet blir ofte omtalt som «The Ring of Fire». Hva kan grunnen være?",
-  "f": ""
+  "f": "Fordi Stillehavet er nesten helt omkranset av kollisjonssoner.\nHavbunnsplatene i Stillehavet synker ned under nabolatene rundt hele bassenget — langs Sør- og Nord-Amerika, Alaska, Japan, Filippinene, Indonesia og New Zealand. Der dannes stratovulkaner og vulkanske øybuer, og der kommer også de kraftigste jordskjelvene.\nRingen av vulkaner og jordskjelv rundt Stillehavet er altså selve kjeden av subduksjonssoner."
  },
  {
   "id": "5a1aeed6ae",
   "art": "oppgave",
   "q": "Hvor dannes det vulkaner?",
-  "f": ""
+  "f": "Tre steder: langs spredningsakser (midthavsrygger), i kollisjonssoner, og over hotspoter inne på litosfæreplatene.\nDe to første ligger på plategrensene, den tredje ikke."
  },
  {
   "id": "9f6e20ff0f",
   "art": "oppgave",
   "q": "Se på figur 4.6.",
-  "f": ""
+  "f": "Figur 4.6 viser hvordan platetektonikk og søylestrømmer til sammen forklarer hvor vulkanene ligger.\nSe etter tre ting i figuren: magma som stiger opp der plater går fra hverandre, magma som dannes over en synkende havbunnsplate i en kollisjonssone, og søylestrømmer fra dypet som gir hotspoter midt inne på en plate."
  },
  {
   "id": "e4e8031bcd",
   "art": "oppgave",
   "q": "Finn fram til fire steder der det dannes vulkaner, og bruk platetektonikken til å forklare hvordan vulkanene oppstår i hvert enkelt tilfelle.",
-  "f": ""
+  "f": "Fire eksempler:\n- Island: ligger på Den midtatlantiske ryggen, altså på en spredningsakse. Platene glir fra hverandre, trykket avtar, og mafisk mantelmateriale smelter og strømmer opp. Island ligger dessuten over en søylestrøm, og den doble tilførselen er grunnen til at øya har bygd seg opp over havflaten.\n- Tongaøyene: en havbunnsplate synker under en annen havbunnsplate. Mantelbergartene over den synkende plata smelter, og magmaet bygger en vulkansk øybue.\n- Andesfjellene i Sør-Amerika: en havbunnsplate (Nazcaplata) synker under en kontinentplate. Det gir en vulkansk fjellkjede med stratovulkaner.\n- Hawaii: midt inne på Stillehavsplata, over en søylestrøm. Trykkfallet får mantelbergartene til å smelte i en hotspot, og plata glir videre over den."
  },
  {
   "id": "9cd8a461e1",
   "art": "oppgave",
   "q": "Hvordan er magmaet dannet, og hva slags magma er det i hvert av tilfellene?",
-  "f": ""
+  "f": "- Spredningsakse (Island): mantelbergartene smelter fordi trykket faller når platene går fra hverandre. Magmaet er mafisk og gir lettflytende lava.\n- Kollisjonssone (Tonga, Andes): mantelbergartene over den synkende havbunnsplata smelter. Magmaet starter mafisk, men blir i stor grad felsisk på vei opp gjennom delvis krystallisasjon. Det gir tyktflytende lava og stratovulkaner.\n- Hotspot (Hawaii): varme mantelbergarter i en søylestrøm smelter fordi trykket minker like under litosfæren. Magmaet er mafisk og gir skjoldvulkaner."
  },
  {
   "id": "e687a7fae8",
   "art": "sporsmal",
   "q": "Hvor mange aktive vulkaner regner vi med at det er på jordoverflaten?",
-  "f": ""
+  "f": "500–600 aktive vulkaner. Av dem er omtrent en tidel i utbrudd i løpet av et år."
  },
  {
   "id": "06c170db65",
   "art": "sporsmal",
   "q": "Hva er en pyroklastisk strøm?",
-  "f": ""
+  "f": "En glohet blanding av aske, støv og gass som raser nedover vulkansidene med 100–200 km/t.\nDen er umulig å løpe fra, og den er så kraftig, så varm og så giftig at den ødelegger alt i veien. Dette er den dødeligste av alle vulkanske trusler."
  },
  {
   "id": "d20b64f540",
   "art": "sporsmal",
   "q": "Hvilke skader kan oppstå som følge av et vulkanutbrudd?",
-  "f": ""
+  "f": "På bakken: lavastrømmer som ødelegger bebyggelse og infrastruktur, og pyroklastiske strømmer som dreper alt de treffer.\nFra lufta: vulkanske bomber — lavastein slynget ut fra krateret, som kan treffe folk flere kilometer unna. I Japan bruker folk nær aktive vulkaner harde hatter av den grunn.\nAskenedfall som dekker landområder i tykke lag, slik som på La Palma i 2021, og askeskyer som lammer flytrafikken, slik Eyjafjallajökull gjorde i 2010.\nI tillegg kan hele vulkaner kollapse, og undersjøiske skred kan gi tsunamier."
  },
  {
   "id": "650cc3605a",
   "art": "sporsmal",
   "q": "Hvordan kan vulkaner påvirke klimaet?",
-  "f": ""
+  "f": "Gjennom gassene og asken som slippes ut. Skyer av gass og støv sprer seg høyt i atmosfæren og kan reflektere sollys bort, slik at temperaturen synker over store deler av jordoverflaten.\nEt stort utbrudd kan derfor påvirke klimaet på hele kloden, ikke bare området rundt vulkanen."
  },
  {
   "id": "582fd0af21",
   "art": "sporsmal",
   "q": "Hva legger vi i begrepet aktiv vulkan?",
-  "f": ""
+  "f": "En vulkan som har hatt utbrudd i løpet av de siste tre–fire hundreårene.\nSovende vulkaner har ikke hatt utbrudd på mange hundre eller tusen år, men platebevegelsene tilsier at de fortsatt kan få det. I døde vulkaner er det ingenting som tyder på at de vil våkne igjen."
  },
  {
   "id": "499f196c77",
   "art": "sporsmal",
   "q": "Er det mulig å varsle et vulkanutbrudd? Hvilke tegn kan komme like før et utbrudd?",
-  "f": ""
+  "f": "Ja, i noen grad — lettere enn jordskjelv. Tegn like før et utbrudd:\n- Svermer av mindre jordskjelv når magma stiger opp mot krateret.\n- Rumling som kan høres av folk i nærheten.\n- Økte utslipp av vanndamp, fordi det varme magmaet koker grunnvannet.\n- At vulkanen «vokser». Mount St. Helens hevet seg 1,5 meter i døgnet og ble 100 meter høyere før utbruddet i 1980.\n- Temperatur- og gassmålinger fra satellitt."
  },
  {
   "id": "49fd20b9ce",
   "art": "hvatrordu",
   "q": "Hva er vanskeligst å varsle – jordskjelv eller vulkanutbrudd?",
-  "f": ""
+  "f": "Jordskjelv er klart vanskeligst.\nEt jordskjelv kommer når spenninger som har bygd seg opp i tiår, utløses på sekunder. Det gir nesten ingen forvarsel, og seismologene kan ikke si om skjelvet kommer i morgen eller om 25 år.\nEn vulkan varsler derimot ofte selv, uker eller måneder i forveien, med jordskjelvsvermer, rumling, gassutslipp og heving av fjellet. Det gir tid til evakuering.\nBegge deler kan langtidsvarsles ved kartlegging, men bare vulkanutbrudd lar seg korttidsvarsle noenlunde pålitelig."
  },
  {
   "id": "92d86ba250",
@@ -207,132 +207,132 @@
   "id": "aa34ca16f3",
   "art": "kapitteloppgave",
   "q": "Prøv så å lage noen «én skal ut»-oppgaver selv. Test dem på noen rundt deg.",
-  "f": ""
+  "f": "Dette er en egenproduksjonsoppgave uten fasit. Oppskriften er enkel:\nVelg tre faguttrykk der to henger tett sammen og det tredje skiller seg ut på én bestemt måte. Kontroller at du selv klarer å begrunne valget med én setning.\nEksempler du kan bygge videre på: «vulkansk bombe – pyroklastisk strøm – geysir», «Mauna Loa – Mount Fuji – Kilauea», «kaldera – krater – magmakammer».\nDe beste oppgavene er de der flere svar kan forsvares — da blir begrunnelsen det viktige."
  },
  {
   "id": "aebb34189d",
   "art": "kapitteloppgave",
   "q": "subduksjonssone – midthavsrygg – dyphavsgrop",
-  "f": ""
+  "f": "Midthavsrygg skal ut.\nSubduksjonssone og dyphavsgrop er to navn på det samme stedet, der en plate synker ned i mantelen. En midthavsrygg er det motsatte: der går platene fra hverandre og ny havbunn dannes."
  },
  {
   "id": "db3e8065b0",
   "art": "kapitteloppgave",
   "q": "black smoker – hotspot – midthavsrygg",
-  "f": ""
+  "f": "Hotspot skal ut.\n«Black smokers» og midthavsrygger hører sammen — skorsteinene finnes langs spredningsaksene. En hotspot ligger derimot midt inne på en plate, over en søylestrøm, og er ikke knyttet til noen plategrense."
  },
  {
   "id": "da6f846d45",
   "art": "kapitteloppgave",
   "q": "tyntflytende lava – stratovulkan – skjoldvulkan",
-  "f": ""
+  "f": "Stratovulkan skal ut.\nTyntflytende (mafisk) lava bygger nettopp skjoldvulkaner. En stratovulkan bygges av tyktflytende, felsisk lava og får bratte sider."
  },
  {
   "id": "d7d200567a",
   "art": "kapitteloppgave",
   "q": "magmakammer – kaldera – hotspot",
-  "f": ""
+  "f": "Kaldera skal ut, hvis du ser på det som en landform: magmakammer og hotspot er begge noe som ligger under overflaten, mens kalderaen er formen vi ser på overflaten etter at magmakammeret er tømt.\nDu kan også argumentere for hotspot: magmakammer og kaldera henger direkte sammen — kalderaen dannes når magmakammeret tømmes — mens hotspoten er selve smelteområdet lenger nede."
  },
  {
   "id": "27a25c6848",
   "art": "kapitteloppgave",
   "q": "pyroklastisk strøm – lava – vulkanske bomber",
-  "f": ""
+  "f": "Lava skal ut.\nPyroklastiske strømmer og vulkanske bomber er begge materiale som slynges eller raser gjennom lufta, og begge kan drepe folk på avstand. Lava renner langs bakken, og de fleste lavastrømmer er det mulig å komme seg unna."
  },
  {
   "id": "746b8044e2",
   "art": "kapitteloppgave",
   "q": "Det er flest synlige vulkaner der litosfæreplater kolliderer.",
-  "f": ""
+  "f": "Fakta.\nDe fleste synlige vulkanene ligger i kollisjonssoner, som vulkanske øybuer og fjellkjeder. Vulkanene langs spredningsaksene ligger stort sett under havflaten og er derfor ikke synlige."
  },
  {
   "id": "1feb4e7516",
   "art": "kapitteloppgave",
   "q": "Det kommer opp mest lava i kollisjonssoner mellom litosfæreplatene.",
-  "f": ""
+  "f": "Fleip.\nDet er motsatt: langs spredningsaksene strømmer det ut ca. 3 km³ lava i året, mot «bare» ca. 1 km³ i kollisjonssonene."
  },
  {
   "id": "a00ad903a1",
   "art": "kapitteloppgave",
   "q": "Hele vulkaner kan kollapse i et vulkanutbrudd.",
-  "f": ""
+  "f": "Fakta.\nMount St. Helens ble 418 meter lavere da fjellet eksploderte i 1980. Ved supervulkanutbrudd kan hele taket over magmakammeret kollapse og danne en kaldera."
  },
  {
   "id": "9558b45f55",
   "art": "kapitteloppgave",
   "q": "Skyer av gass og støv kan både gå til værs og strømme nedover vulkansidene i et vulkanutbrudd.",
-  "f": ""
+  "f": "Fakta.\nAskeskyer stiger til værs og kan spres over hele verdensdeler, slik Eyjafjallajökull gjorde i 2010. Pyroklastiske strømmer raser derimot nedover vulkansidene med 100–200 km/t."
  },
  {
   "id": "a413c9c0f6",
   "art": "kapitteloppgave",
   "q": "En mafisk lava er en tyktflytende lava.",
-  "f": ""
+  "f": "Fleip.\nMafisk lava er lettflytende. Det er den felsiske lavaen, med mye silisium, som er tyktflytende."
  },
  {
   "id": "ef80f2d711",
   "art": "kapitteloppgave",
   "q": "Skjoldvulkaner er vulkaner med bratte vulkansider.",
-  "f": ""
+  "f": "Fleip.\nSkjoldvulkaner har slake sider, fordi den lettflytende lavaen renner langt utover. Det er stratovulkanene som har bratte sider."
  },
  {
   "id": "5c56f79cc0",
   "art": "kapitteloppgave",
   "q": "Du kan løpe fra en pyroklastisk strøm.",
-  "f": ""
+  "f": "Fleip.\nEn pyroklastisk strøm går i 100–200 km/t og er glohet og giftig. Den er umulig å løpe fra, og den er den dødeligste av alle vulkanske trusler. Fra de fleste lavastrømmer kan du derimot komme deg unna."
  },
  {
   "id": "9cf4b16199",
   "art": "kapitteloppgave",
   "q": "Gass- og askeskyer fra vulkanutbrudd kan senke temperaturen over store deler av jordoverflaten.",
-  "f": ""
+  "f": "Fakta.\nGass og aske høyt i atmosfæren reflekterer sollys bort og kan senke temperaturen over store deler av kloden."
  },
  {
   "id": "642fb5cf84",
   "art": "kapitteloppgave",
   "q": "En aktiv vulkan må ha hatt utbrudd det siste året.",
-  "f": ""
+  "f": "Fleip.\nEn vulkan regnes som aktiv om den har hatt utbrudd i løpet av de siste tre–fire hundreårene."
  },
  {
   "id": "d13eb4b801",
   "art": "kapitteloppgave",
   "q": "Det er mulig å forandre retningen på en lavastrøm.",
-  "f": ""
+  "f": "Fakta — i noen tilfeller.\nUnder utbruddet på Heimaey på Island i 1973 spylte man lavastrømmen med kaldt sjøvann. Lavafronten størknet, og lavaen bak fant andre veier."
  },
  {
   "id": "b3cc7d11ef",
   "art": "kapitteloppgave",
   "q": "Finn fram et «ferskt» vulkanutbrudd – kanskje et utbrudd som er i gang?",
-  "f": ""
+  "f": "Dette er en oppgave med ferske data, så det finnes ingen fast fasit.\nBruk oversiktene på USGS eller Volcano World, eller Smithsonians ukentlige rapport over vulkanaktivitet. Velg gjerne et utbrudd som er i gang nå, eller et nylig utbrudd det finnes gode bilder og kart av.\nNoter navn, land, vulkantype, dato for utbruddsstart og hvilken plategrense eller hotspot vulkanen hører til."
  },
  {
   "id": "ee7d656feb",
   "art": "kapitteloppgave",
   "q": "En oversikt over de ferskeste vulkanutbruddene finner du på nettstedene nedenfor.",
-  "f": ""
+  "f": "Disse to nettstedene gir oversikt over ferske utbrudd:\n- U.S. Geological Survey (usgs.gov), som har både kart og statusrapporter.\n- Volcano World ved Oregon State University (volcano.oregonstate.edu), som har bakgrunnsstoff om vulkantyper og enkeltvulkaner.\nSmithsonian Institutions Global Volcanism Program er også nyttig for ukentlige oppdateringer."
  },
  {
   "id": "e603c06bac",
   "art": "kapitteloppgave",
   "q": "Beskriv vulkanutbruddet (vulkantype, forløp) og følgene av det.",
-  "f": ""
+  "f": "Ta med disse punktene:\n- Vulkantype: skjoldvulkan eller stratovulkan — og hvordan det henger sammen med om lavaen er mafisk eller felsisk.\n- Forløpet: forvarsler (jordskjelvsvermer, gassutslipp, heving av fjellet), utbruddets start, varighet og styrke, og om det var effusivt (lavastrømmer) eller eksplosivt.\n- Hva som kom ut: lava, aske, gass, vulkanske bomber, pyroklastiske strømmer.\n- Følgene: ødelagt bebyggelse og infrastruktur, askenedfall, evakuering, følger for flytrafikk, og eventuelle klimavirkninger."
  },
  {
   "id": "ca3d65c802",
   "art": "kapitteloppgave",
   "q": "Hvorfor skjedde vulkanutbruddet akkurat der? Bruk platetektonikken til å forklare.",
-  "f": ""
+  "f": "Plasser vulkanen i én av de tre situasjonene:\n- Spredningsakse: platene går fra hverandre, trykket faller, og mafisk mantelmateriale smelter. Gir lettflytende lava og skjoldformer. Island er eksempelet.\n- Kollisjonssone: en havbunnsplate synker ned, mantelbergartene over smelter, og magmaet blir felsisk på vei opp. Gir eksplosive stratovulkaner. Mount St. Helens og Mount Fuji er eksempler.\n- Hotspot: en søylestrøm fra dypet smelter like under litosfæren, midt inne på en plate. Gir mafisk magma og skjoldvulkaner. Hawaii og La Palma er eksempler.\nSammenlign med figur 4.6, og bruk figur 2.3 til å finne ut hvilke plater som møtes."
  },
  {
   "id": "4bdfdc1008",
   "art": "kapitteloppgave",
   "q": "U.S. Geological Survey sine nettsider (https://www.usgs.gov/)",
-  "f": ""
+  "f": "U.S. Geological Survey (usgs.gov) har oppdaterte kart og statusrapporter over vulkaner i utbrudd, særlig i USA, men også globalt. Der finner du også forklaringer på vulkantyper, varslingsnivåer og farekart."
  },
  {
   "id": "4946c28fae",
   "art": "kapitteloppgave",
   "q": "Oregon State University - Volcano World (https://volcano.oregonstate.edu/)",
-  "f": ""
+  "f": "Volcano World ved Oregon State University (volcano.oregonstate.edu) er et nettsted laget for undervisning. Det har bakgrunnsstoff om vulkantyper, bilder og beskrivelser av enkeltvulkaner over hele verden, og oversikt over pågående utbrudd."
  }
 ]

@@ -3,241 +3,241 @@
   "id": "85303150c0",
   "art": "tenk",
   "q": "Hvordan oppstår jordskjelv?",
-  "f": ""
+  "f": "Når litosfæreplatene flytter på seg, bygges det opp spenninger i jordskorpa. Et jordskjelv er det plutselige bruddet som skjer når spenningene utløses.\nPunktet der bruddet starter, er jordskjelvets sentrum. Derfra brer jordskjelvbølgene seg ut i alle retninger, og selve bruddsonen kalles en forkastning."
  },
  {
   "id": "11899d6aae",
   "art": "tenk",
   "q": "Press hendene hardt mot hverandre og prøv å skyve dem fra hverandre. Du klarer det nok. Hva har det med jordskjelv å gjøre?",
-  "f": ""
+  "f": "Det er en modell av hvordan spenninger bygges opp og utløses.\nSå lenge du presser hendene hardt sammen, holder friksjonen dem fast selv om du drar. Spenningen øker helt til friksjonen gir etter, og da glir hendene brått fra hverandre i ett rykk.\nSlik er det i en forkastning også: platene kan henge fast i tiår mens spenningen bygger seg opp, og så utløses alt på sekunder eller minutter — det er jordskjelvet."
  },
  {
   "id": "4b4408f6ec",
   "art": "tenk",
   "q": "Hva er forskjellen på langsbølger og tversbølger?",
-  "f": ""
+  "f": "I en langsbølge (P-bølge) svinger partiklene i samme retning som bølgen beveger seg — den presser sammen og strekker ut materialet foran seg.\nI en tversbølge (S-bølge) svinger partiklene på tvers av bevegelsesretningen.\nP-bølgene går raskest; S-bølgene har litt mindre enn to tredeler av farten til P-bølgene. Overflatebølger er også tversbølger."
  },
  {
   "id": "5244ab00b3",
   "art": "tenk",
   "q": "Kan du gi andre eksempler på langsbølger og tversbølger?",
-  "f": ""
+  "f": "Lyd i luft er en langsbølge: lufta trykkes sammen og utvides i samme retning som lyden går.\nBølger på et tau du rister opp og ned, er tversbølger. Det samme er bølger på vann og lys.\nEn slinky-fjær er fin til å vise begge deler: dytter du langs fjæra, får du en langsbølge; rister du den sidelengs, får du en tversbølge."
  },
  {
   "id": "51d4050f5c",
   "art": "tenk",
   "q": "Hva er forskjellen på en seismograf, en seismolog og et seismogram?",
-  "f": ""
+  "f": "En seismograf er instrumentet som registrerer rystelser i jordskorpa. Det kan måle bakkebevegelser helt ned til en milliontedels millimeter.\nEt seismogram er utskriften eller kurven instrumentet lager — der ser du P-bølgene komme først, så S-bølgene og til slutt overflatebølgene.\nEn seismolog er forskeren som studerer jordskjelv. Seismologi er læren om jordskjelv; seismos betyr «sjokk» på gresk."
  },
  {
   "id": "712e76fac2",
   "art": "tenk",
   "q": "Hvor mye energi blir utløst i et jordskjelv med størrelse 8 sammenlignet med et skjelv med størrelse 5?",
-  "f": ""
+  "f": "For hvert trinn på skalaen blir energien ca. 32 ganger større. Fra 5 til 8 er tre trinn.\n32 · 32 · 32 = ca. 33 000.\nEt jordskjelv med størrelse 8 utløser altså rundt 33 000 ganger så mye energi som et skjelv med størrelse 5."
  },
  {
   "id": "4722355549",
   "art": "tenk",
   "q": "Hvor mange jordskjelv er det som er større enn 5 hvert år?",
-  "f": ""
+  "f": "Les det av figur 3.6. Der ser du at skjelv med størrelse 5 og oppover kommer i størrelsesorden noen tusen i året — omtrent 1500–2000.\nTil sammenligning registreres det over en million jordskjelv i verden hvert år, men de aller fleste er så små at ingen merker dem."
  },
  {
   "id": "2803068e34",
   "art": "tenk",
   "q": "Hvordan kan et jordskjelv sette i gang en tsunami?",
-  "f": ""
+  "f": "Ved at havbunnen brått flytter på seg. I en kollisjonssone kan den overliggende plata gjøre et «byks» inn over den dykkende havbunnsplata, slik at havbunnen heves eller senkes over et stort område.\nDa løftes eller senkes hele vannsøylen over, og den bevegelsen brer seg utover som en tsunami.\nDet var slik tsunamiene i Indiahavet i 2004 og utenfor Japan i 2011 oppsto. Også skred på havbunnen kan sette i gang tsunamier."
  },
  {
   "id": "38151c9ed7",
   "art": "tenk",
   "q": "Kan vi oppleve megaskjelv i Norge?",
-  "f": ""
+  "f": "Nei. Megaskjelv krever at hele litosfæreplater forskyver seg i forhold til hverandre, og det skjer i kollisjonssoner. Det norske fastlandet ligger langt fra aktive plategrenser.\nVi kan likevel få jordskjelv: spenningene fra spredningen på Den midtatlantiske ryggen forplanter seg hit, og landhevingen etter istidene bidrar. NORSAR regner med skjelv på størrelse 6 omtrent hvert hundreår og størrelse 7 omtrent hvert tusenår."
  },
  {
   "id": "01f7530c94",
   "art": "tenk",
   "q": "Hvorfor er det alltid havbunnsplata som dukker under kontinentplata i en kollisjon – og ikke omvendt?",
-  "f": ""
+  "f": "Fordi havbunnsskorpe er tyngre enn kontinentskorpe. Den er dessuten kald og tung når den er gammel.\nNår de to møtes, er det derfor alltid den tunge havbunnsplata som synker ned i mantelen, mens den lette kontinentplata blir liggende oppå. Det er også grunnen til at kontinentskorpe kan være milliarder av år gammel, mens havbunnsskorpe sjelden er eldre enn ca. 200 millioner år."
  },
  {
   "id": "f955556fab",
   "art": "tenk",
   "q": "Hvordan beveger platene i figur 3.11 seg i forhold til hverandre (se figur 3.10)?",
-  "f": ""
+  "f": "De glir sidelengs forbi hverandre — det er en glidegrense, ikke en kollisjon eller en spredning.\nStillehavsplata beveger seg mot nordvest i forhold til Den nordamerikanske plata, i gjennomsnitt 3–4 cm i året."
  },
  {
   "id": "9cd950c291",
   "art": "tenk",
   "q": "Søk med «San Andreas» på Google Earth. Zoom, skråstill og snurr rundt etter behov. Skjer det noe der elveløpene krysser forkastningen? Hva er grunnen?",
-  "f": ""
+  "f": "Ja — elveløpene får en tydelig knekk der de krysser forkastningen. Mange av dem er forskjøvet sidelengs i samme retning.\nGrunnen er at elva graver seg ned tvers over forkastningen, mens platene sakte glir forbi hverandre. Over tusenvis av år blir nedre del av elveløpet dratt med den ene plata, slik at løpet knekker.\nSlike forskjøvne elveløp er et av de tydeligste sporene etter en aktiv glidegrense."
  },
  {
   "id": "2315c2cb86",
   "art": "tenk",
   "q": "Studer utbredelsen av grunne, middels dype og dype jordskjelv for eksempel i Sør-Amerika og i Japan (se figur 3.8). Hvordan vil du forklare det du ser?",
-  "f": ""
+  "f": "Du ser at skjelvene blir dypere jo lenger inn på kontinentet du kommer, i et skrått belte.\nUt mot dyphavsgropa er skjelvene grunne. Innover blir de middels dype, og lengst inne er de dypest — helt ned mot 700 km.\nForklaringen er at skjelvene følger den nedsynkende havbunnsplata. Beltet av skjelv tegner rett og slett opp plata der den dykker skrått ned under kontinentplata (se figur 3.9)."
  },
  {
   "id": "6eb51e4c9f",
   "art": "tenk",
   "q": "Hvilke skader gjør jordskjelv?",
-  "f": ""
+  "f": "Selve rystelsene gjør sjelden skaden alene. De fleste omkommer når bygninger raser sammen eller i branner som oppstår etterpå.\nI bratte skråninger kan det gå skred, dambrudd kan gi flom, og skjelv under havbunnen kan sette i gang tsunamier. Transportnett, strøm og vannforsyning blir slått ut, noe som også gjør hjelpearbeidet vanskelig.\nOljeinstallasjoner på kontinentalsokkelen er særlig utsatt ved slike hendelser."
  },
  {
   "id": "dd4f26b0c0",
   "art": "tenk",
   "q": "Er det mulig å varsle jordskjelv?",
-  "f": ""
+  "f": "Ikke på kort sikt. Seismologene kan ikke si om et forventet skjelv kommer i morgen eller om 25 år.\nLangtidsvarsling går derimot an: ut fra jordskjelvkart, kjente platebevegelser og spor etter forkastninger kan man si noe om sannsynligheten for skjelv i et område.\nI tillegg finnes en tredje mulighet: å varsle et skjelv som allerede er utløst. Radiobølger går 300 000 km/s, jordskjelvbølger bare noen få km/s, så man kan rekke å varsle noen titalls sekunder i forveien. ShakeAlert i California er et slikt system."
  },
  {
   "id": "0baaeb4460",
   "art": "tenk",
   "q": "Hvilke to områder på kartet i figur 3.13 har stor seismisk aktivitet? Hva er grunnen til det?",
-  "f": ""
+  "f": "Middelhavsområdet — særlig Italia, Hellas og Tyrkia — og området rundt Island.\nMiddelhavet har stor aktivitet fordi Den afrikanske plata presser nordover mot Den eurasiske. Island ligger på Den midtatlantiske ryggen, altså på en spredningsakse."
  },
  {
   "id": "1ea7ea3c23",
   "art": "sporsmal",
   "q": "Hva er en forkastning?",
-  "f": ""
+  "f": "En forkastning er bruddsonen som oppstår når selve bruddet forplanter seg utover fra jordskjelvets sentrum.\nI de største jordskjelvene kan forkastningen være flere hundre kilometer lang. Noen ganger når den helt opp til jordoverflaten og blir synlig som sprekker og forskyvninger i berggrunnen."
  },
  {
   "id": "4b063b9223",
   "art": "sporsmal",
   "q": "Hva er et megaskjelv?",
-  "f": ""
+  "f": "Et megaskjelv er et jordskjelv der hele litosfæreplater flytter seg i forhold til hverandre.\nDet sterkeste som er registrert, var megaskjelvet i Chile i 1960 (størrelse 9,5), der Nazcaplata og Den søramerikanske plata forskjøv seg ca. 10 meter. Skjelvene i Indiahavet i 2004 og utenfor Japan i 2011 var også megaskjelv, begge med størrelse 9,1."
  },
  {
   "id": "3dd70236a8",
   "art": "sporsmal",
   "q": "Hva menes med jordskjelvets sentrum og episenter?",
-  "f": ""
+  "f": "Jordskjelvets sentrum er punktet nede i jordskorpa der jordskjelvet starter, og der bruddet begynner. Derfra brer bølgene seg ut i alle retninger.\nEpisenteret er punktet på jordoverflaten rett over sentrum. «Epi» betyr «over» på gresk."
  },
  {
   "id": "71e296654f",
   "art": "sporsmal",
   "q": "Hva er seismologi?",
-  "f": ""
+  "f": "Seismologi er læren om jordskjelv. Ordet kommer av det greske seismos, som betyr «sjokk».\nSeismologer studerer jordskjelv ved hjelp av seismografer som registrerer rystelser — jordskjelvbølger — i jordskorpa."
  },
  {
   "id": "2203ce5ff2",
   "art": "sporsmal",
   "q": "Hva er forskjellene og likhetene mellom P-bølger, S-bølger og overflatebølger?",
-  "f": ""
+  "f": "Likheten er at alle tre er jordskjelvbølger som stammer fra det samme bruddet.\nP-bølger er langsbølger og går raskest, 6–7 km/s gjennom jordskorpa. De kommer først fram og gir de første utslagene på seismografen.\nS-bølger er tversbølger og går med litt mindre enn to tredeler av P-bølgenes fart. De kommer som nummer to.\nOverflatebølger dannes der P- og S-bølgene treffer jordoverflaten, og de følger jordskorpa. De er også tversbølger, går saktest — og gjør størst skade."
  },
  {
   "id": "afa1c638ad",
   "art": "sporsmal",
   "q": "Hvilke jordskjelvbølger gjør størst skade på jordoverflaten?",
-  "f": ""
+  "f": "Overflatebølgene. De dannes når P- og S-bølgene når jordoverflaten og noe av energien overføres til bølger som følger jordskorpa.\nDe beveger seg saktest av de tre typene, men det er de som rister bygninger og anlegg mest."
  },
  {
   "id": "7b6c96d655",
   "art": "sporsmal",
   "q": "Hvor på jordoverflaten skjer de fleste jordskjelvene?",
-  "f": ""
+  "f": "Langs plategrensene. Tegner du jordskjelvene inn på et kart (figur 3.8), trer plategrensene tydelig fram.\nDet gjelder både spredningsakser, kollisjonssoner og glidegrenser — men de kraftigste skjelvene skjer i kollisjonssonene."
  },
  {
   "id": "ab640b4604",
   "art": "sporsmal",
   "q": "Hvor sterkt er det sterkeste jordskjelvet som er registrert?",
-  "f": ""
+  "f": "Jordskjelvet i Chile i 1960, med størrelse 9,5.\nDet var et megaskjelv, utløst ved at Nazcaplata (havbunnsplate) og Den søramerikanske plata (kontinentplate) forskjøv seg ca. 10 meter i forhold til hverandre."
  },
  {
   "id": "21cf454399",
   "art": "sporsmal",
   "q": "Hva er årsaken til jordskjelv som rammer Norge?",
-  "f": ""
+  "f": "To ting.\nFor det første forplanter spenninger fra platespredningen på Den midtatlantiske ryggen seg inn i jordskorpa her, selv om vi ligger langt fra plategrensen.\nFor det andre hevet jordskorpa seg igjen etter at innlandsisen i kvartærperioden smeltet. Denne landhevingen kan utløse skjelv — særlig der det allerede var bygd opp spenninger."
  },
  {
   "id": "539e62158d",
   "art": "sporsmal",
   "q": "Hvor kraftige er norske jordskjelv?",
-  "f": ""
+  "f": "Stort sett svake. Norge har den høyeste jordskjelvaktiviteten i Europa nord for Alpene, men de fleste skjelvene er knapt merkbare, og det er ikke bekreftet dødsfall.\nDet største i historisk tid i Skandinavia var Lurøy-skjelvet i 1819, anslått til 5,9. I 1904 var det et skjelv på 5,5 ved Oslofjorden.\nNORSAR beregner skjelv på størrelse 6 omtrent hvert hundreår og størrelse 7 omtrent hvert tusenår. Rett etter siste istid gikk det trolig skjelv på 7–8 i Nord-Skandinavia."
  },
  {
   "id": "743da6cd23",
   "art": "sporsmal",
   "q": "Hvor dypt ligger de dypeste jordskjelvene?",
-  "f": ""
+  "f": "Ned til ca. 700 km under jordoverflaten."
  },
  {
   "id": "6231c000a8",
   "art": "sporsmal",
   "q": "Hvor skjer de dypeste jordskjelvene?",
-  "f": ""
+  "f": "I kollisjonssoner, der en havbunnsplate synker ned i mantelen. Skjelvene følger plata nedover, fra jordoverflaten og helt ned til ca. 700 km.\nEn mulig forklaring på de dypeste er trykkøkningen i mantelens overgangssone mellom 410 og 660 km: mineralene i havbunnsplata omdannes til nye mineraler med mindre volum og høyere tetthet, og «klapper sammen» på en måte som utløser skjelv."
  },
  {
   "id": "ac195ba3de",
   "art": "sporsmal",
   "q": "Hvordan beveger platene seg på hver side av San Andreas-forkastningen?",
-  "f": ""
+  "f": "De glir sidelengs forbi hverandre langs en glidegrense. Stillehavsplata i vest beveger seg mot nordvest i forhold til Den nordamerikanske plata i øst, i gjennomsnitt 3–4 cm i året.\nForkastningen er 1300 km lang. I skjelvet i 1906 forskjøv Stillehavsplata seg seks meter mot nordvest på sekunder, over en strekning på 400 km."
  },
  {
   "id": "908ab2f978",
   "art": "hvatrordu",
   "q": "Forklar hvorfor forskjellen i ankomsttiden for P-bølger og S-bølger forteller noe om avstanden til episenteret.",
-  "f": ""
+  "f": "P-bølgene går raskere enn S-bølgene, og begge starter samtidig i jordskjelvets sentrum.\nDerfor øker forspranget til P-bølgene jo lenger de har gått. Tenk på to løpere med ulik fart som starter samtidig: avstanden mellom dem vokser med distansen.\nMåler stasjonen en liten tidsforskjell, er episenteret nært; er tidsforskjellen stor, er det langt unna. Med målinger fra tre stasjoner kan man krysspeile seg fram til nøyaktig hvor episenteret ligger."
  },
  {
   "id": "b420743b10",
   "art": "hvatrordu",
   "q": "Hvorfor er det ikke dype jordskjelv langs spredningsakser?",
-  "f": ""
+  "f": "Fordi det ikke er noen plate som synker ned der. Ved en spredningsakse går platene fra hverandre, og bruddene skjer i den tynne, øvre delen av litosfæren.\nJordskjelvets sentrum ligger derfor vanligvis mindre enn 10 km under havbunnen. Dype skjelv krever en kald, stiv plate som føres langt ned i mantelen, og det skjer bare i kollisjonssoner."
  },
  {
   "id": "3afae2ad74",
   "art": "hvatrordu",
   "q": "Hvordan vil utslagene på et seismogram forandre seg med avstanden fra jordskjelvets episenter?",
-  "f": ""
+  "f": "Utslagene blir mindre jo lenger unna episenteret stasjonen ligger, fordi energien fordeler seg over et større område og dempes på veien.\nSamtidig blir tidsforskjellen mellom P-bølgene, S-bølgene og overflatebølgene større, siden de tre bølgetypene har ulik fart og forspranget vokser med avstanden.\nNær episenteret får du altså store utslag tett i tid; langt unna små utslag godt spredt utover."
  },
  {
   "id": "81cd9470f3",
   "art": "hvatrordu",
   "q": "Hvor mye mer energi utløste jordskjelvet i Indiahavet i 2004 (størrelse 9) sammenlignet med jordskjelv som er vanlige i våre områder (størrelse 4)?",
-  "f": ""
+  "f": "Fra 4 til 9 er fem trinn, og hvert trinn er ca. 32 ganger mer energi.\n32⁵ = 32 · 32 · 32 · 32 · 32 ≈ 33 millioner.\nSkjelvet i Indiahavet utløste altså i størrelsesorden 33 millioner ganger så mye energi som et vanlig norsk skjelv med størrelse 4."
  },
  {
   "id": "69d59f6602",
   "art": "hvatrordu",
   "q": "Er det norske samfunnet mer sårbart for jordskjelv i dag enn for 200 år siden? Begrunn svaret.",
-  "f": ""
+  "f": "Det er gode argumenter begge veier, så her teller begrunnelsen.\nMer sårbart: vi har langt mer infrastruktur som kan svikte — strøm, vann, ekom, veier, tuneller, broer, oljeinstallasjoner på sokkelen. Vi bor tettere, mange bygg står på løsmasser, og samfunnet er helt avhengig av at systemene virker.\nMindre sårbart: nye bygg satt opp etter 2005 skal tåle skjelv opp til størrelse 6,5, vi har beredskap, varsling og kunnskap som ikke fantes for 200 år siden.\nEt rimelig svar er at sannsynligheten for skade på enkeltbygg er redusert, men at konsekvensene av et stort skjelv ville blitt større fordi samfunnet henger tettere sammen."
  },
  {
   "id": "3389cb1871",
   "art": "sporsmal",
   "q": "Hvorfor mister så mange mennesker livet i jordskjelv?",
-  "f": ""
+  "f": "Fordi følgene av skjelvet dreper, ikke rystelsene i seg selv.\nDe fleste omkommer når bygninger raser sammen eller i branner som oppstår etterpå. I tillegg kommer skred i bratte skråninger, dambrudd med flom, og tsunamier når skjelvet skjer under havbunnen.\nDet rammer skjevt: i fattige land er byggestandard og infrastruktur ofte mindre robust, så jordskjelv «gjør forskjell på fattig og rik»."
  },
  {
   "id": "07e7d95274",
   "art": "sporsmal",
   "q": "Hvorfor har grunnforholdene betydning for hvor store skader et jordskjelv gjør?",
-  "f": ""
+  "f": "Fordi bevegelsene blir størst i løsmasser. Står bygningene på løsmasser, rister de mer enn om de står på fast fjell, og skadene blir derfor ofte større."
  },
  {
   "id": "13b5812d84",
   "art": "sporsmal",
   "q": "Hvorfor kan ofte mindre bygninger kollapse før større i et jordskjelv?",
-  "f": ""
+  "f": "Fordi det er resonans, ikke høyde alene, som avgjør.\nI Mexico by i 1985 hadde jordskjelvbølgene en frekvens som fikk de middels høye bygningene til å svinge i takt med bølgene. Svingningene ble forsterket, og nettopp de bygningene kollapset — mens både lave og høye bygg ble stående.\nHvor farlig et jordskjelv er for en bygning, avhenger altså av om bygningens egensvingning treffer bølgenes frekvens."
  },
  {
   "id": "d54b1012fb",
   "art": "sporsmal",
   "q": "Hva er forskjellen på langtidsvarsler og korttidsvarsler for jordskjelv?",
-  "f": ""
+  "f": "Et langtidsvarsel sier noe om sannsynligheten for jordskjelv i et område over lang tid. Det bygger på jordskjelvkart: observerte skjelv, kjente platebevegelser og spor etter forkastninger. Slike varsler brukes til å styre hvor man bygger — og hvor man ikke bør bygge kjernekraftverk, demninger og sykehus.\nEt korttidsvarsel sier at et skjelv er nær forestående, innen timer eller dager. Det er svært vanskelig; Haicheng i Kina i 1975 er det kjente unntaket."
  },
  {
   "id": "d2bcf0b2e7",
   "art": "hvatrordu",
   "q": "Hva menes med at jordskjelv «gjør forskjell på fattig og rik»?",
-  "f": ""
+  "f": "At de samme rystelsene får helt ulike følger avhengig av hvor de skjer.\nI fattige land er byggestandarden og infrastrukturen ofte mindre robust, og beredskapen dårligere. Da raser bygninger sammen, og dødstallene blir høye — som på Haiti i 2010, der over 250 000 mennesker mistet livet i et skjelv på «bare» 7,0.\nI rike land kan et sterkere skjelv gi store materielle kostnader, men langt færre døde, fordi bygningene er dimensjonert for det."
  },
  {
   "id": "cb0289eabe",
   "art": "hvatrordu",
   "q": "Kan du forklare hvorfor det ofte kommer etterskjelv?",
-  "f": ""
+  "f": "Fordi hovedskjelvet ikke løser ut alle spenningene på én gang. Når en del av forkastningen glir, endres belastningen på nabodelene, og der bygges det opp ny spenning som utløses i nye, mindre brudd.\nEtterskjelv kommer derfor i løpet av minutter, timer og døgn — i verste fall i måneder eller år. De er farlige fordi bygninger og infrastruktur allerede er skadet og dermed ekstra sårbare."
  },
  {
   "id": "c033c5c810",
@@ -255,115 +255,115 @@
   "id": "bfcf2d5fad",
   "art": "kapitteloppgave",
   "q": "momentstørrelse (moment magnitude) – Richter magnitude – jordskjelvets energi",
-  "f": ""
+  "f": "Jordskjelvets energi skal ut.\nMomentstørrelse og Richter magnitude er to skalaer, altså to måter å tallfeste et jordskjelv på. Energien er den fysiske størrelsen som skalaene forsøker å beskrive."
  },
  {
   "id": "a6f9994a39",
   "art": "kapitteloppgave",
   "q": "pandemi – episenter – jordskjelvets sentrum",
-  "f": ""
+  "f": "Pandemi skal ut.\nEpisenter og jordskjelvets sentrum er begge geofaglige begreper om hvor et jordskjelv starter. Pandemi hører til medisin og handler om sykdomsspredning — selv om ordet «episenter» ofte lånes inn i omtale av pandemier."
  },
  {
   "id": "c56046f45b",
   "art": "kapitteloppgave",
   "q": "megaskjelv – midthavsrygger – kollisjonssoner",
-  "f": ""
+  "f": "Midthavsrygger skal ut.\nMegaskjelv hører hjemme i kollisjonssoner, der store plater henger fast i hverandre og bygger opp enorme spenninger. Langs midthavsryggene går platene fra hverandre, spenningene blir aldri like store, og skjelvene er grunne og svake."
  },
  {
   "id": "28035409b3",
   "art": "kapitteloppgave",
   "q": "forkastning – bruddsone i jordskorpa – ikke synlig på jordoverflaten",
-  "f": ""
+  "f": "«Ikke synlig på jordoverflaten» skal ut.\nEn forkastning er nettopp en bruddsone i jordskorpa — de to første er to måter å si det samme på. Og forkastninger når ofte helt opp til jordoverflaten, der de blir synlige som sprekker og forskyvninger. San Andreas-forkastningen er et tydelig eksempel."
  },
  {
   "id": "73a8cf6d6f",
   "art": "kapitteloppgave",
   "q": "Hvert år registreres det flere tusen ødeleggende jordskjelv.",
-  "f": ""
+  "f": "Fleip.\nDet registreres over en million jordskjelv i verden hvert år, men bare «noen få hundre» av dem ødelegger bygninger og skader folk."
  },
  {
   "id": "bc6b41044e",
   "art": "kapitteloppgave",
   "q": "Jordskjelvene med sentrum nær jordoverflaten gjør størst skade.",
-  "f": ""
+  "f": "Fakta.\nGrunne skjelv har sentrum bare noen få kilometer nede i jordskorpa og merkes godt på overflaten. Derfor er det de som gjør størst skade."
  },
  {
   "id": "fe2bfabf34",
   "art": "kapitteloppgave",
   "q": "De dypeste jordskjelvene har sentrum under midthavsryggene.",
-  "f": ""
+  "f": "Fleip.\nDe dypeste skjelvene skjer i kollisjonssoner, der en havbunnsplate synker ned i mantelen — helt ned til ca. 700 km. Ved midthavsryggene ligger sentrum vanligvis mindre enn 10 km under havbunnen."
  },
  {
   "id": "0c41d32a92",
   "art": "kapitteloppgave",
   "q": "Litosfæreplater kan i et jordskjelv forskyve seg flere meter i forhold til hverandre i løpet av sekunder.",
-  "f": ""
+  "f": "Fakta.\nI Chile i 1960 forskjøv platene seg ca. 10 meter, og i San Francisco i 1906 gled Stillehavsplata seks meter mot nordvest — begge deler i løpet av sekunder."
  },
  {
   "id": "b606f4b7c4",
   "art": "kapitteloppgave",
   "q": "Flere sterke jordskjelv like etter siste istid var en følge av at innlandsisen smeltet.",
-  "f": ""
+  "f": "Fakta.\nInnlandsisen presset jordskorpa ned, og da isen smeltet, hevet skorpa seg igjen. Det kan ha utløst skjelv, særlig der det allerede var spenninger fra platespredningen i Atlanterhavet. Skjelv på 7–8 rystet trolig de nordligste delene av Skandinavia i steinalderen."
  },
  {
   "id": "8756443265",
   "art": "kapitteloppgave",
   "q": "Der det er løsmasser i grunnen, rister bygningene mer i et jordskjelv enn der det er fast fjell.",
-  "f": ""
+  "f": "Fakta.\nBevegelsene er størst i løsmasser, så bygninger på løsmasser rister mer og får ofte større skader enn bygninger på fast fjell."
  },
  {
   "id": "2e0bb15611",
   "art": "kapitteloppgave",
   "q": "Etterskjelv kan komme i løpet av de nærmeste minuttene etter et større jordskjelv.",
-  "f": ""
+  "f": "Fakta.\nEtterskjelv kommer ofte i løpet av de nærmeste minuttene, timene eller døgnene — og faren kan vare i måneder, i verste fall år."
  },
  {
   "id": "3b6c76190a",
   "art": "kapitteloppgave",
   "q": "I Kina ble et stort jordskjelv varslet hele fem timer før det skjedde.",
-  "f": ""
+  "f": "Fakta.\nI 1975 varslet kinesiske seismologer et skjelv ved byen Haicheng fem timer før det kom, etter svermer av små skjelv. Mange millioner flyktet, og bare noen få hundre mistet livet. Året etter kom skjelvet i Tangshan uten varsel, og over 240 000 omkom."
  },
  {
   "id": "bcb96cb362",
   "art": "kapitteloppgave",
   "q": "Les gjennom tekstboksen «Jordskjelv i by» (se side 32).",
-  "f": ""
+  "f": "Scenarioet beskriver et skjelv på 6,5 på Øygarden-forkastningen utenfor Bergen, midt på dagen en hverdag i januar. Det varer 45 sekunder, med 25 sekunder kraftige rystelser, og etterskjelv kan vare i måneder eller år.\nLegg merke til hva som gjør det alvorlig: 280 000 innbyggere, en blanding av historiske og moderne bygg, og mange skadesteder samtidig spredt over hele kommunen.\nFølgehendelsene er det som virkelig rammer samfunnet: skred og steinsprang, svikt i kraftforsyningen, ustabile ekomtjenester og problemer med drikkevannet — og nabokommuner i faresonen.\nSammenlign gjerne med de faktiske hendelsene som er listet opp: Hvaler 1904 (M5,4, skader men ingen kollaps), Svalbard 2008 (M6,1–6,2, til havs, ingen skader) og Christchurch 2011 (M6,3, ca. 130 milliarder kroner i kostnader). Det siste viser hva et skjelv av denne størrelsen koster når det treffer en by."
  },
  {
   "id": "67e6565107",
   "art": "kapitteloppgave",
   "q": "Gå inn på [www.jordskjelv.no](https://www.jordskjelv.no), her finner du nettstedet til NORSAR Norwegian Seismic Array), et av de største seismologiske nettverkene i verden. Forklar hva kartet viser, og finn ut hvordan du kan forandre både målestokk og hvilket kartområde som vises.",
-  "f": ""
+  "f": "Kartet på jordskjelv.no viser registrerte jordskjelv i Norge og nærområdene. Hvert skjelv er en markør plassert på episenteret, og størrelsen eller fargen på markøren viser styrken.\nDu endrer målestokk med zoomknappene eller ved å rulle med musehjulet, og du flytter kartutsnittet ved å dra i kartet. Mange kart har også en meny der du kan velge tidsrom og minste størrelse.\nSammenlign med figur 3.7: du vil se at de fleste skjelvene ligger utenfor kysten av Vestlandet og Nordland."
  },
  {
   "id": "11b7ceba30",
   "art": "kapitteloppgave",
   "q": "Klikk så på fanen «Finn jordskjelv». Søk med et stedsnavn i nærheten av der du bor, og bruk kartet til å finne det nærmeste skjelvet. Hvor er episenteret, hvilken styrke hadde skjelvet, og når skjedde det? Du finner svarene ved å bruke kartet og ved å plassere musepekeren på skjelvet. Var det noen i klassen som merket akkurat det skjelvet?",
-  "f": ""
+  "f": "Dette er en oppgave du løser på nettstedet, så svaret avhenger av hvor du bor.\nSlik gjør du det: velg fanen «Finn jordskjelv», søk med stedsnavnet ditt, og finn markøren nærmest deg. Hold musepekeren over den, så får du opp dato, klokkeslett, styrke og dybde, og kartet viser hvor episenteret ligger.\nDe fleste norske skjelv er under størrelse 3 og merkes ikke — så svaret på siste spørsmål er som regel nei."
  },
  {
   "id": "5f566daee0",
   "art": "kapitteloppgave",
   "q": "De aller siste hendelsene (jordskjelvene) i våre områder ruller forbi i en fane øverst på startsiden til NORSAR. Gi noen eksempler (tid, styrke og sted) på de siste jordskjelvene.",
-  "f": ""
+  "f": "Dette er en oppgave med ferske data, så svaret endrer seg fra dag til dag.\nNoter for hvert skjelv: tidspunkt (dato og klokkeslett), størrelse (magnitude) og sted, gjerne også dybde.\nTypisk for våre områder er små skjelv under størrelse 3, ofte utenfor kysten av Vestlandet eller Nordland, eller ved Jan Mayen og Svalbard."
  },
  {
   "id": "c78e955526",
   "art": "kapitteloppgave",
   "q": "Kjenner du til noen som har opplevd jordskjelv i nærheten – eller i andre land? Hvordan opplevde de det?",
-  "f": ""
+  "f": "Dette er en samtaleoppgave uten fasit.\nHvis noen i klassen har opplevd et skjelv, er det verdt å spørre om det konkrete: Hvor lenge varte det? Hva hørte de? Hva beveget seg? Kom det etterskjelv? Visste de hva de skulle gjøre?\nSammenlign med det kapitlet sier: de fleste skjelv er over på ett til to minutter, og det er ofte følgehendelsene — ikke rystelsene — folk husker best."
  },
  {
   "id": "646f74cc23",
   "art": "kapitteloppgave",
   "q": "Se på kartet i figur 3.7. Hvordan vil du karakterisere jordskjelvaktiviteten der du bor, sammenlignet med resten av landet?",
-  "f": ""
+  "f": "Svaret avhenger av hvor du bor, men bruk figur 3.7 slik:\nFlest skjelv er det utenfor kysten av Vestlandet og Nordland, og i havområdene nordover. Bor du der, ligger du i den mest aktive delen av landet.\nIndre Østlandet, Trøndelag og Finnmark har færre registrerte skjelv. Oslofjordområdet har noe aktivitet — der gikk skjelvet i 1904.\nHusk likevel at Norge samlet sett har den høyeste jordskjelvaktiviteten i Europa nord for Alpene, og at nesten alle skjelvene er for små til å merkes."
  },
  {
   "id": "c5e10cbc9f",
   "art": "kapitteloppgave",
   "q": "NORSAR mottar mange spørsmål om jordskjelv. Noen av de spørsmålene som stadig dukker opp, finner du under fanen «Ofte stilte spørsmål» her:",
-  "f": ""
+  "f": "Dette er en oppgave der du skal svare selv først, og så sjekke mot fasiten på NORSARs nettsted.\nTypiske spørsmål er: Kan det komme store jordskjelv i Norge? Hvorfor har vi jordskjelv når vi ligger langt fra plategrenser? Hva skal jeg gjøre hvis det skjelver? Kan jordskjelv utløse tsunami i norske fjorder?\nBruk stoffet i dette kapitlet — landheving etter istiden, spenninger fra Den midtatlantiske ryggen, NORSARs anslag om størrelse 6 hvert hundreår — når du formulerer dine egne svar."
  },
  {
   "id": "de0903d753",
@@ -375,13 +375,13 @@
   "id": "685455c1e4",
   "art": "kapitteloppgave",
   "q": "Forsøk å svare på spørsmål som fanger interessen din – før du ser i fasiten på nettstedet.",
-  "f": ""
+  "f": "Poenget med oppgaven er å svare før du ser fasiten, slik at du oppdager hva du faktisk kan.\nSkriv ned ditt eget svar i noen setninger, sjekk så mot nettstedet, og noter hva du eventuelt bommet på. Det er de bommene som viser hvor du bør lese om igjen."
  },
  {
   "id": "71af55712f",
   "art": "kapitteloppgave",
   "q": "Velg deg et jordskjelv du vil studere nærmere. En oversikt over de siste jordskjelvene finner du for eksempel på U.S.Geological Survey:",
-  "f": ""
+  "f": "Velg gjerne et skjelv som nylig har vært i nyhetene, eller et av de store i kapitlet: Chile 1960 (9,5), Indiahavet 2004 (9,1), Japan 2011 (9,1), Haiti 2010 (7,0) eller San Francisco 1906.\nPå USGS-kartet kan du filtrere på tid og størrelse, og klikke deg inn på hvert skjelv for dybde, magnitude, forkastningstype og skademeldinger."
  },
  {
   "id": "c36f654271",
@@ -399,12 +399,12 @@
   "id": "f99e64376e",
   "art": "kapitteloppgave",
   "q": "Beskriv jordskjelvet (dybde, størrelse) og følgene av det.",
-  "f": ""
+  "f": "Ta med disse punktene når du beskriver skjelvet:\n- Størrelse (momentmagnitude) og dybde til sentrum — husk at grunne skjelv gjør mest skade.\n- Hvor episenteret lå, og avstanden til nærmeste tettbygde strøk.\n- Hvor lenge rystelsene varte, og om det kom etterskjelv.\n- Følgene: antall omkomne og skadde, ødelagte bygninger, branner, skred, eventuell tsunami, og skader på strøm, vann og transport.\n- Hvorfor følgene ble som de ble: byggestandard, grunnforhold (løsmasser eller fast fjell), tidspunkt på døgnet og beredskap."
  },
  {
   "id": "03a9a14d36",
   "art": "kapitteloppgave",
   "q": "Hvorfor skjedde jordskjelvet akkurat der? Bruk platetektonikken for å forklare.",
-  "f": ""
+  "f": "Finn først ut hvilken plategrense skjelvet ligger ved, for eksempel ved å sammenligne med figur 3.8 og figur 2.3. Så knytter du det til én av de tre typene:\n- Kollisjonssone: en havbunnsplate dykker under en annen plate. Her kommer de kraftigste skjelvene, både grunne og dype, og det er her megaskjelv og tsunamier hører hjemme.\n- Spredningsakse: platene går fra hverandre. Grunne skjelv, sjelden sterke, som regel langt til havs.\n- Glidegrense: platene glir sidelengs forbi hverandre, som ved San Andreas. Grunne skjelv som kan bli kraftige og ramme tett befolkede områder.\nDybden er et godt hjelpemiddel: er skjelvet dypere enn noen titalls kilometer, ligger det nesten alltid i en kollisjonssone."
  }
 ]
