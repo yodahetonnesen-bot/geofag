@@ -638,12 +638,14 @@
           "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Hva er en «egg» når du er i fjellet? Gi noen eksempler fra kartet."
+          "t": "oppg",
+          "tekst": "Hva er en «egg» når du er i fjellet? Gi noen eksempler fra kartet.",
+          "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Hva er en «tind». Gi noen eksempler fra kartet, og forklar hvordan de er dannet."
+          "t": "oppg",
+          "tekst": "Hva er en «tind». Gi noen eksempler fra kartet, og forklar hvordan de er dannet.",
+          "f": ""
         },
         {
           "t": "oppg",

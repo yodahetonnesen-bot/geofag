@@ -58,7 +58,7 @@ IMPERATIV = re.compile(
 OPPDRAG = re.compile(
     r"(?:^|[.?!] )(Sammenlign |Undersøk |Finn ut |Let deg fram |Studer |Forklar "
     r"|Beskriv |Tegn |Regn ut |Marker |Diskuter |Vurder |Begrunn |Bruk figur "
-    r"|Bruk kartet |Bruk Google )"
+    r"|Bruk kartet |Bruk Google |Gi noen eksempler|Gi et eksempel )"
 )
 
 
