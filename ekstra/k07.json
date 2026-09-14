@@ -1,1 +1,17 @@
-{ "intro": ["252c162364"], "grupper": [] }
+{
+  "intro": ["252c162364"],
+  "grupper": [],
+  "tilleggsoppgaver": [
+    {
+      "art": "oppgave",
+      "overskrift": "Absolutt alder – karbon-14-metoden",
+      "side": 103,
+      "poster": [
+        {
+          "q": "På Hardangervidda er det gjort funn av gamle stubber av furu. I et av funnene er forholdet mellom de to karbonisotopene målt til 37,5 prosent av tilsvarende forhold i atmosfæren i dag. Hvor gammel er furustubben? Bruk figur 7.10 til å finne svaret.",
+          "f": "37,5 prosent ligger mellom én og to halveringstider: etter 5730 år er det 50 prosent igjen, etter 11 460 år 25 prosent.\nLeser du av grafen i figur 7.10 ved 37,5 prosent, får du omtrent 8100 år.\nFurustubben er altså rundt 8000 år gammel — fra en periode da skoggrensa lå høyere enn i dag."
+        }
+      ]
+    }
+  ]
+}

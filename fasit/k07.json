@@ -45,7 +45,7 @@
   "id": "b3fc6f1044",
   "art": "oppgave-i-tekst",
   "q": "Lag en enkel kartskisse som viser fordelingen av løsmasser i fylket.",
-  "f": ""
+  "f": "Dette er en karttegningsoppgave, så resultatet blir ditt eget. Slik gjør du det:\nÅpne geo.ngu.no/kart/minkommune, velg fylket ditt, og slå på kartlagene «løsmasser» og «marin grense og tidligere havdekte områder». Tegnforklaringen får du opp under «Mer kartfunksjonalitet» nederst til høyre når målestokken er stor nok.\nTegn så en enkel skisse med de store trekkene: hvor det er bart fjell eller tynt dekke, hvor morenen dominerer, hvor elve- og smeltevannsavsetningene følger dalbunnene, og hvor havavsetningene (leira) ligger.\nMarker den marine grensen som en linje — den skiller leirområdene under fra morenelandskapet over, og det er ofte det mest slående mønsteret i kartet."
  },
  {
   "id": "a87714c80b",
@@ -57,7 +57,7 @@
   "id": "630fb066f1",
   "art": "oppgave-i-tekst",
   "q": "Forklar hvordan det er mulig å bestemme alderen på en beinrest ved å måle forholdet mellom de to karbonisotopene karbon-14 og karbon-12.",
-  "f": ""
+  "f": "Alt levende tar opp både karbon-12 og den radioaktive karbon-14 fra atmosfæren gjennom næringskjeden, så forholdet mellom dem i en levende organisme er det samme som i lufta.\nNår organismen dør, stanser opptaket. Karbon-12 ligger stabilt, mens karbon-14 brytes ned med en halveringstid på 5730 år. Forholdet karbon-14/karbon-12 synker derfor jevnt etter dødsøyeblikket.\nMåler vi forholdet i beinresten og sammenligner med forholdet i atmosfæren, ser vi hvor mye karbon-14 som er igjen — og dermed hvor mange halveringstider som har gått. Alderen kan leses av grafen i figur 7.10.\nMetoden virker på materiale opptil ca. 50 000 år. Eldre prøver har for lite karbon-14 igjen til at det er målbart. Det forutsettes også at forholdet i atmosfæren har vært tilnærmet konstant."
  },
  {
   "id": "7e075c3ee6",
