@@ -101,6 +101,10 @@ def flett_ekstra(kap: dict) -> None:
                 b for b in d["blokker"]
                 if not (b.get("tekst") and nokkel(b["tekst"]) in fjern)
             ]
+        # En del kan ogsa ha fatt selve overskriften sin flyttet til oppgavene.
+        for d in kap["deler"]:
+            if d.get("tittel") and nokkel(d["tittel"]) in fjern:
+                d["tittel"] = None
         kap["deler"] = [d for d in kap["deler"] if d["blokker"]]
 
     # Oppgaver som star som vanlig brodtekst i kilden (de ender med punktum og
