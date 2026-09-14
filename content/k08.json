@@ -22,13 +22,11 @@
         {
           "t": "p",
           "tekst": "Etter som fjellkjeden ble slitt ned, hevet restene av den kaledonske fjellkjeden seg. Dermed kunne de ytre kreftene erodere dypt ned i den gamle fjellkjeden. Rester av den kambriske havbunnsplata, med kambrisk havbunnsskorpe og den øverste delen av mantelen, kom etter hvert fram i dagen. Mantelbergarter var med det blitt en del av landoverflaten på Leka."
-        }
-      ]
-    },
-    {
-      "tittel": "En brunlig fjellformasjon med små kratt og vekster med en blå himmel i bakgrunnen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En brunlig fjellformasjon med små kratt og vekster med en blå himmel i bakgrunnen"
+        },
         {
           "t": "figur",
           "nr": "8.1",
@@ -37,12 +35,12 @@
       ]
     },
     {
-      "tittel": "De geologiske periodene i jordas historie",
+      "tittel": "Geologisk tid – den geologiske tidsskalaen",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Geologisk tid – den geologiske tidsskalaen"
+          "tekst": "De geologiske periodene i jordas historie"
         },
         {
           "t": "figur",
@@ -85,12 +83,12 @@
       ]
     },
     {
-      "tittel": "Den norske berggrunnen – noen hovedtrekk",
+      "tittel": "Den norske berggrunnen",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Den norske berggrunnen"
+          "tekst": "Den norske berggrunnen – noen hovedtrekk"
         },
         {
           "t": "p",
@@ -165,13 +163,11 @@
         {
           "t": "p",
           "tekst": "Et peneplan dannes gjennom flere titalls eller hundretalls millioner år. Peneplanet som var dannet på Rodinia mot slutten av urtiden, kaller geologene det subkambriske peneplanet (sub = under), og det er underlaget for de kambriske avsetningene i oldtiden."
-        }
-      ]
-    },
-    {
-      "tittel": "Sky over fjelltopp på Hardangervidda",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Sky over fjelltopp på Hardangervidda"
+        },
         {
           "t": "figur",
           "nr": "8.3",
@@ -190,13 +186,11 @@
         {
           "t": "p",
           "tekst": "I dag er store deler av Baltika dekket av yngre bergarter. Likevel er det tre større områder her i landet der grunnfjellet ligger åpent i dagen (se figurene 6.24 og 8.4). Det nordligste grunnfjellsområdet finner vi i Finnmark, og i Sør-Norge ligger det sørnorske og det sørøstnorske grunnfjellsområdet. Grunnfjell dekker to tredeler av den norske landoverflaten."
-        }
-      ]
-    },
-    {
-      "tittel": "Grunnfjellsskjoldene på jordoverflaten",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Grunnfjellsskjoldene på jordoverflaten"
+        },
         {
           "t": "figur",
           "nr": "8.4",
@@ -300,13 +294,11 @@
         {
           "t": "p",
           "tekst": "I ordovicium og den første delen av silur ble det avsatt skjellbanker og korallrev i Iapetushavet. Dette ble grunnlaget for tykke lag av kalkstein. Korallrevene viste at klimaet var blitt varmere, «landet vårt» var på vei mot ekvator – fortsatt fra sør."
-        }
-      ]
-    },
-    {
-      "tittel": "Figur av midthavsrygg og fordelingen av land og hav fra periodene kambrium til silur",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Figur av midthavsrygg og fordelingen av land og hav fra periodene kambrium til silur"
+        },
         {
           "t": "figur",
           "nr": "8.7",
@@ -373,12 +365,12 @@
       ]
     },
     {
-      "tittel": "Kollisjon mellom to kontinentplater",
+      "tittel": "Tidslinje: Den kaledonske fjellkjedefoldningen midt i oldtiden",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Tidslinje: Den kaledonske fjellkjedefoldningen midt i oldtiden"
+          "tekst": "Kollisjon mellom to kontinentplater"
         },
         {
           "t": "figur",
@@ -503,13 +495,11 @@
         {
           "t": "p",
           "tekst": "På slutten av oldtiden, i periodene karbon og perm ble det vi kaller Oslofeltet, dannet. Mellom to nordgående sprekkesoner fra Langesund i sør til Brumunddal i nord sank jordoverflaten inn og dannet en forsenkning."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over geologien i Oslofeltet",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over geologien i Oslofeltet"
+        },
         {
           "t": "figur",
           "nr": "8.15",
@@ -551,13 +541,11 @@
           "t": "figur",
           "nr": "8.16",
           "tekst": "Basalt"
-        }
-      ]
-    },
-    {
-      "tittel": "Rudstrød stein spettet med lysere partier sammen med et nøkkelknipe som viser skalaen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Rudstrød stein spettet med lysere partier sammen med et nøkkelknipe som viser skalaen"
+        },
         {
           "t": "figur",
           "nr": "8.17",
@@ -566,13 +554,11 @@
         {
           "t": "p",
           "tekst": "Senere forandret sammensetningen av magmaet seg. Det ble dannet rombeformede feltspatkrystaller i magmaet (ved delvis krystallisasjon) som fulgte magmastrømmen opp mot jordoverflaten og der størknet til den magmatiske dagbergarten rombeporfyr (figur 8.17 og figur 8.18b) oppå basalten. Det er også vanlig med gangbergarter av rombeporfyr."
-        }
-      ]
-    },
-    {
-      "tittel": "Oslofeltets geologiske historie",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Oslofeltets geologiske historie"
+        },
         {
           "t": "figur",
           "nr": "8.18",
@@ -581,25 +567,29 @@
       ]
     },
     {
-      "tittel": "9: Dypbergarter",
+      "tittel": "1: Grunnfjell",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "1: Grunnfjell"
-        },
-        {
-          "t": "bilde",
           "tekst": "2–5: Foldede kambrosiluriske bergarter"
-        },
-        {
-          "t": "bilde",
-          "tekst": "6: Basalt over et tynt lag av konglomerat"
-        },
+        }
+      ]
+    },
+    {
+      "tittel": "6: Basalt over et tynt lag av konglomerat",
+      "side": null,
+      "blokker": [
         {
           "t": "bilde",
           "tekst": "7–8: Rombeporfyr"
-        },
+        }
+      ]
+    },
+    {
+      "tittel": "9: Dypbergarter",
+      "side": null,
+      "blokker": [
         {
           "t": "p",
           "tekst": "Ulike typer magma strømmet fra dypet og størknet til dypbergarter under jordoverflaten (figur 8.18 c). Mange av dypbergartene er sjeldne, og flere har fått navnet sitt etter det norske funnstedet. Nordmarkitt finner vi i Nordmarka ved Oslo og larvikitt i Larvikområdet. Oslofeltet er kjent blant geologer over hele verden for sitt store mangfold av bergarter."
@@ -636,13 +626,11 @@
         {
           "t": "p",
           "tekst": "Den kaledonske fjellkjedefoldningen påvirket de kambrosiluriske bergartene i Oslofeltet. I Mjøsområdet er disse bergartene noe omdannet, mens de i Osloområdet bare er foldet (figur 8.21)."
-        }
-      ]
-    },
-    {
-      "tittel": "Gule åkerlapper i et vakkert høstlandskap med et stort rundt skogkledd fjell",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Gule åkerlapper i et vakkert høstlandskap med et stort rundt skogkledd fjell"
+        },
         {
           "t": "figur",
           "nr": "8.20",
@@ -676,13 +664,11 @@
         {
           "t": "p",
           "tekst": "Denne delen av Norges geologiske historie vil bli nærmere omtalt i kapittel 10 i forbindelse med olje- og gassressursene og i kapittel 15 når det gjelder landformer som ble dannet i mellomtiden og nytiden."
-        }
-      ]
-    },
-    {
-      "tittel": "De geologiske periodene i jordas historie",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "De geologiske periodene i jordas historie"
+        },
         {
           "t": "figur",
           "nr": "8.22",
@@ -696,7 +682,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 107,
-      "del": "De geologiske periodene i jordas historie",
+      "del": "Geologisk tid – den geologiske tidsskalaen",
       "poster": [
         {
           "q": "Hva skiller geologisk tid fra «vanlig» tid?",
@@ -724,7 +710,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "De geologiske periodene i jordas historie",
+      "del": "Geologisk tid – den geologiske tidsskalaen",
       "poster": [
         {
           "q": "Hva skiller prekambrium fra oldtiden, mellomtiden og nytiden – bortsett fra at prekambrium er eldst?",
@@ -828,7 +814,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Figur av midthavsrygg og fordelingen av land og hav fra periodene kambrium til silur",
+      "del": "Kambrosilur",
       "poster": [
         {
           "q": "Hva er Iapetushavet?",
@@ -848,7 +834,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Figur av midthavsrygg og fordelingen av land og hav fra periodene kambrium til silur",
+      "del": "Kambrosilur",
       "poster": [
         {
           "q": "Hva kan de kambrosiluriske bergartene fortelle om klima og landformer på den tiden de ble avsatt?",
@@ -928,7 +914,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 125,
-      "del": "De geologiske periodene i jordas historie",
+      "del": "Fra perm til vår tid",
       "poster": [
         {
           "q": "Når ble Oslofeltet dannet?",
@@ -964,7 +950,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "De geologiske periodene i jordas historie",
+      "del": "Fra perm til vår tid",
       "poster": [
         {
           "q": "Hva er de viktigste geologiske særtrekkene ved geologien i Oslofeltet?",
@@ -996,7 +982,7 @@
       "art": "kapitteloppgave",
       "overskrift": "KAPITTELOPPGAVER",
       "side": null,
-      "del": "De geologiske periodene i jordas historie",
+      "del": "Fra perm til vår tid",
       "poster": [
         {
           "gruppe": "Én skal ut"
@@ -1057,8 +1043,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Geologisk tid går langsommere enn vanlig tid.",
@@ -1168,8 +1153,7 @@
           "f": ""
         },
         {
-          "q": "Hvilke bergarter er det?",
-          "f": ""
+          "gruppe": "Hvilke bergarter er det?"
         },
         {
           "q": "Skriv en enkel geologisk historie for nærområdet. Forklar hvordan bergartene er dannet, og hva som har skjedd med dem senere.",

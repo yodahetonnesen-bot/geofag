@@ -1,0 +1,1010 @@
+[
+ {
+  "id": "56da2f33e9",
+  "art": "tenk",
+  "q": "Hva påvirker tilgangen på ferskvann?",
+  "f": ""
+ },
+ {
+  "id": "8961918d82",
+  "art": "tenk",
+  "q": "Hvilke regler gjelder for vannforvaltningen?",
+  "f": ""
+ },
+ {
+  "id": "66009ef182",
+  "art": "tenk",
+  "q": "Hvordan påvirker demninger nedstrømslandene?",
+  "f": ""
+ },
+ {
+  "id": "7ad6116e2d",
+  "art": "tenk",
+  "q": "Hva skjer med monsunregnet?",
+  "f": ""
+ },
+ {
+  "id": "3fbd10c70a",
+  "art": "tenk",
+  "q": "for å få, om det gikk an?",
+  "f": ""
+ },
+ {
+  "id": "fcb0497077",
+  "art": "tenk",
+  "q": "Kan De fatte dette, mann?",
+  "f": ""
+ },
+ {
+  "id": "55c450040c",
+  "art": "tenk",
+  "q": "Hvordan brukes vannet?",
+  "f": ""
+ },
+ {
+  "id": "acf4203d33",
+  "art": "tenk",
+  "q": "Er det trygt å drikke vann i naturen?",
+  "f": ""
+ },
+ {
+  "id": "91b6a42206",
+  "art": "sporsmal",
+  "q": "Hvor stor andel av verdens vannressurser er ferskvann?",
+  "f": ""
+ },
+ {
+  "id": "15183a2231",
+  "art": "sporsmal",
+  "q": "Hva er en akvifer?",
+  "f": ""
+ },
+ {
+  "id": "eaabacda7a",
+  "art": "sporsmal",
+  "q": "Enkelte akviferer inneholder fossilt grunnvann. Hva menes med det?",
+  "f": ""
+ },
+ {
+  "id": "123915a443",
+  "art": "sporsmal",
+  "q": "Gjør rede for årsaker til variasjonen i nedbørsmengde mellom ekvator, høytrykkssonen ved 30 grader og polarfronten ved 60 grader.",
+  "f": ""
+ },
+ {
+  "id": "842a0fcadf",
+  "art": "hvatrordu",
+  "q": "Hva kan være årsaken til at monsunen varierer fra år til år?",
+  "f": ""
+ },
+ {
+  "id": "d4115ce649",
+  "art": "hvatrordu",
+  "q": "Hva kan være årsaken til at nedbøren ved ekvator er jevnt høy gjennom hele året?",
+  "f": ""
+ },
+ {
+  "id": "bca65eca53",
+  "art": "hvatrordu",
+  "q": "Hva kan være årsaken til at det kommer mest nedbør ved polarfronten om høsten og vinteren?",
+  "f": ""
+ },
+ {
+  "id": "e722d9dbdd",
+  "art": "hvatrordu",
+  "q": "Hver og en av oss er avhengig av ferskvann i hverdagen, men også storsamfunnet trenger store mengder ferskvann. Vi kan skille mellom bruk og forbruk av vann. De fleste bruksområdene nedenfor bruker vannet. Det vil si at vannet ikke forsvinner i prosessen. I enkelte industriprosesser forsvinner derimot vannet. Det skjer dersom vannet inngår i produktene som lages, som i produksjon av bomull eller mat. Da er det forbruk av vann.",
+  "f": ""
+ },
+ {
+  "id": "92898ecfc5",
+  "art": "sporsmal",
+  "q": "Hvilken sektor legger beslag på de største vannressursene i verden?",
+  "f": ""
+ },
+ {
+  "id": "e229c077e8",
+  "art": "sporsmal",
+  "q": "Hvor mye vann er nødvendig for å produsere en kilo korn og en kilo storfekjøtt?",
+  "f": ""
+ },
+ {
+  "id": "5ab22896d4",
+  "art": "sporsmal",
+  "q": "Studer figur 13.8. Pek på områder der jordbruket står for en høy andel av vannbruken, og områder der andelen er lav.",
+  "f": ""
+ },
+ {
+  "id": "402aed5b58",
+  "art": "sporsmal",
+  "q": "Pek på noen mulige årsaker til at det er så store variasjoner mellom landbrukets andel av vannbruket i ulike land.",
+  "f": ""
+ },
+ {
+  "id": "76b8789b5b",
+  "art": "sporsmal",
+  "q": "Hvor finner vi områdene der landbruket har størst areal med kunstig vanning?",
+  "f": ""
+ },
+ {
+  "id": "d5e9e432b7",
+  "art": "sporsmal",
+  "q": "Studer figur 13.6, og pek på jordbruksprodukter der produksjonen krever mye og lite vann.",
+  "f": ""
+ },
+ {
+  "id": "97c287cd1a",
+  "art": "sporsmal",
+  "q": "Hvor stor andel av verdens vannbruk går til industrien?",
+  "f": ""
+ },
+ {
+  "id": "bb973a775f",
+  "art": "sporsmal",
+  "q": "Hvor finner vi land der en høy andel av vannbruket går til industri?",
+  "f": ""
+ },
+ {
+  "id": "f9457c6104",
+  "art": "sporsmal",
+  "q": "Gjør rede for vannbruken ved produksjon av noen industriproduserte varer.",
+  "f": ""
+ },
+ {
+  "id": "68bd8b6b61",
+  "art": "sporsmal",
+  "q": "Hvor stor andel av verdens vannbruk går til husholdningene?",
+  "f": ""
+ },
+ {
+  "id": "e4626f180a",
+  "art": "sporsmal",
+  "q": "Hvor mye vann bør en voksen person drikke daglig?",
+  "f": ""
+ },
+ {
+  "id": "1f080d13af",
+  "art": "sporsmal",
+  "q": "Pek på mulige årsaker til at andelen husholdningsvann varierer sterkt mellom ulike land.",
+  "f": ""
+ },
+ {
+  "id": "2e26922b22",
+  "art": "sporsmal",
+  "q": "Hvilke land er verdens største vannkraftprodusenter? Hva er grunnen til det?",
+  "f": ""
+ },
+ {
+  "id": "9eea9ad56d",
+  "art": "sporsmal",
+  "q": "Forklar hvorfor ferskvannsnaturen regnes som både artsrik og sårbar.",
+  "f": ""
+ },
+ {
+  "id": "80f6c182d8",
+  "art": "hvatrordu",
+  "q": "Hvordan tror du man har beregnet vannmengden som har gått med til å produsere et par jeans?",
+  "f": ""
+ },
+ {
+  "id": "50f404c01d",
+  "art": "hvatrordu",
+  "q": "Hva tror du er årsaken til at det går med mye mer vann til å produsere ett tonn storfekjøtt enn ett tonn korn?",
+  "f": ""
+ },
+ {
+  "id": "13f09df811",
+  "art": "hvatrordu",
+  "q": "Hvordan tror du man har beregnet vannbruken ved produksjon av ett tonn storfekjøtt?",
+  "f": ""
+ },
+ {
+  "id": "7fef85981f",
+  "art": "hvatrordu",
+  "q": "I figur 13.7 ser du at det er mange land der det mangler data. Hva kan være årsaken til at data mangler? Tror du at noen av disse landene har store områder med kunstig vanning?",
+  "f": ""
+ },
+ {
+  "id": "6a36530e11",
+  "art": "oppgave",
+  "q": "Finn ut hvor mye ferskvann som kreves for å produsere ulike klesplagg. Gå gjennom klesskapet ditt, og beregn hvor mange liter vann som har gått med for å produsere det du finner der. Diskuter om kunnskap om vannbruket i klesindustrien bør få konsekvenser for vårt klesforbruk.",
+  "f": ""
+ },
+ {
+  "id": "229c5a5ac7",
+  "art": "sporsmal",
+  "q": "Hvor stor andel av verdens befolkning mangler tilgang på trygt drikkevann og adgang til fasiliteter for håndvask?",
+  "f": ""
+ },
+ {
+  "id": "657a9089bf",
+  "art": "sporsmal",
+  "q": "Hvor mange liter vann trenger et menneske daglig, ifølge Verdens helseorganisasjon?",
+  "f": ""
+ },
+ {
+  "id": "69868b8fe3",
+  "art": "sporsmal",
+  "q": "Hvor mange liter bruker nordmenn i gjennomsnitt daglig?",
+  "f": ""
+ },
+ {
+  "id": "5f09bf094c",
+  "art": "sporsmal",
+  "q": "Hvor stor andel av verdens befolkning er antatt å bo i områder med vannknapphet i 2025?",
+  "f": ""
+ },
+ {
+  "id": "fc1c764210",
+  "art": "hvatrordu",
+  "q": "Hva kan være grunnen til at vannbruken stiger raskere enn befolkningsveksten?",
+  "f": ""
+ },
+ {
+  "id": "84a3c7efd3",
+  "art": "hvatrordu",
+  "q": "Hvorfor er byvekst en utfordring for vannforsyningen?",
+  "f": ""
+ },
+ {
+  "id": "aec1834ad3",
+  "art": "oppgave",
+  "q": "Studer figuren nedenfor.",
+  "f": ""
+ },
+ {
+  "id": "b6264d249e",
+  "art": "oppgave",
+  "q": "Hvordan har vanntilgangen utviklet seg i de ulike verdensdelene fra 1950 og fram til i dag, og hvordan vil vanntilgangen utvikle seg videre fram til 2100?",
+  "f": ""
+ },
+ {
+  "id": "504115e6ce",
+  "art": "oppgave",
+  "q": "Hva kan være forklaringen på den utviklingen vi ser i figuren?",
+  "f": ""
+ },
+ {
+  "id": "69a4f57780",
+  "art": "sporsmal",
+  "q": "Gi et eksempel på et land der man har interne konflikter knyttet til vannforvaltningen, og forklar hva som er årsaken til disse konfliktene.",
+  "f": ""
+ },
+ {
+  "id": "7b2ba8fd6c",
+  "art": "sporsmal",
+  "q": "Hva menes med et oppstrømsland? Gi et eksempel.",
+  "f": ""
+ },
+ {
+  "id": "8446c36d45",
+  "art": "sporsmal",
+  "q": "På hvilke måter gir den geografiske beliggenheten oppstrømslandene kontroll over vannet?",
+  "f": ""
+ },
+ {
+  "id": "0462a05641",
+  "art": "sporsmal",
+  "q": "Hva menes med et nedstrømsland? Gi et eksempel.",
+  "f": ""
+ },
+ {
+  "id": "cf0dd1245c",
+  "art": "sporsmal",
+  "q": "På hvilken måte blir nedstrømsland sårbare når det gjelder tilgangen til vann?",
+  "f": ""
+ },
+ {
+  "id": "5247bf6805",
+  "art": "sporsmal",
+  "q": "Hvilke juridiske prinsipper kan komme i konflikt med hverandre når det oppstår mellomstatlig uenighet om vannforvaltningen?",
+  "f": ""
+ },
+ {
+  "id": "22845da464",
+  "art": "sporsmal",
+  "q": "Hva er årsakene til at demninger på grensekryssende elver kan skape bekymringer i nabolandene?",
+  "f": ""
+ },
+ {
+  "id": "34af9e14da",
+  "art": "sporsmal",
+  "q": "På hvilke måter kan demninger på en elv også ha positive konsekvenser for nedstrømslandene?",
+  "f": ""
+ },
+ {
+  "id": "10c067216b",
+  "art": "hvatrordu",
+  "q": "Er det alltid oppstrømslandene som har mest makt når det gjelder vannforvaltning i et grensekryssende vassdrag?",
+  "f": ""
+ },
+ {
+  "id": "f4fb1fd8f0",
+  "art": "hvatrordu",
+  "q": "Tror du potensialet for internasjonale vannkonflikter vil avta, eller øke i fremtiden? Begrunn svaret.",
+  "f": ""
+ },
+ {
+  "id": "d1409834e2",
+  "art": "oppgave",
+  "q": "Ta utgangpunkt i grensekryssende elver i Afrika, Midtøsten eller Asia, og gjør rede for hvordan forvaltningen av felles ferskvannsressurser kan gi opphav til konflikter.",
+  "f": ""
+ },
+ {
+  "id": "777634b441",
+  "art": "oppgave",
+  "q": "Velg en aktuell vannkonflikt, og pek på mulige løsninger på konflikten.",
+  "f": ""
+ },
+ {
+  "id": "8f970e65e0",
+  "art": "oppgave",
+  "q": "Hvordan skaffe nok vann for framtiden?",
+  "f": ""
+ },
+ {
+  "id": "108b583949",
+  "art": "oppgave",
+  "q": "Vi har sett at vannbehovet vil øke i framtiden, samtidig som vanntilgangen vil bli dårligere og mer usikker mange steder. Den situasjonen krever bedre utnyttelse av det vannet som eksisterer, og helst også tilgang til nye ferskvannskilder.",
+  "f": ""
+ },
+ {
+  "id": "cdef28f803",
+  "art": "sporsmal",
+  "q": "Hva er fordelene ved å produsere ferskvann ved hjelp av avsalting av havvann?",
+  "f": ""
+ },
+ {
+  "id": "f69cf6f0a2",
+  "art": "sporsmal",
+  "q": "Hvordan har prisutviklingen vært på avsaltingsteknologien, sammenliknet med vannprisene?",
+  "f": ""
+ },
+ {
+  "id": "7e124e1736",
+  "art": "sporsmal",
+  "q": "Nevn noen utfordringer for fattige land som vil ta i bruk avsaltingsteknologi.",
+  "f": ""
+ },
+ {
+  "id": "da9f7ac4e2",
+  "art": "sporsmal",
+  "q": "Nevn noen land der avsalting spiller en viktig rolle som ferskvannskilde.",
+  "f": ""
+ },
+ {
+  "id": "a24360f162",
+  "art": "sporsmal",
+  "q": "Nevn eksempler på land som resirkulerer en høy andel av det brukte vannet.",
+  "f": ""
+ },
+ {
+  "id": "ff9bf4f5e3",
+  "art": "sporsmal",
+  "q": "Hvordan er prisen på resirkulert vann, sammenlignet med avsaltet havvann?",
+  "f": ""
+ },
+ {
+  "id": "66bdc0d92e",
+  "art": "sporsmal",
+  "q": "Hvorfor er det spesielt store gevinster å hente på bruk av vannbesparende teknologier i landbruket?",
+  "f": ""
+ },
+ {
+  "id": "cc9d20baa1",
+  "art": "sporsmal",
+  "q": "Nevn eksempler på hvordan moderne teknologi kan redusere vannbruken i landbruket.",
+  "f": ""
+ },
+ {
+  "id": "5ff500fc53",
+  "art": "sporsmal",
+  "q": "Hvorfor kan det være en fordel for bonden å ikke tilføre plantene mer enn akkurat så mye vann de trenger?",
+  "f": ""
+ },
+ {
+  "id": "451abfc82a",
+  "art": "hvatrordu",
+  "q": "Vi har sett at resirkulering av vann har blitt viktig mange steder. Tror du at dette kommer til å bli viktig i Norge i framtiden? Begrunn svaret.",
+  "f": ""
+ },
+ {
+  "id": "0738889916",
+  "art": "oppgave",
+  "q": "Vi har lest at fosfor kan gjenvinnes fra avløpsvann. Hvorfor er fosfor en viktig ressurs for matproduksjonen?",
+  "f": ""
+ },
+ {
+  "id": "36368eef91",
+  "art": "oppgave",
+  "q": "Hvordan er tilgangen på fosfor ventet å utvikle seg fremover?",
+  "f": ""
+ },
+ {
+  "id": "ea00ec6122",
+  "art": "oppgave",
+  "q": "Store deler av verdens kjente fosfor-forekomster er lokalisert i to områder; i Kina og i Vest-Sahara. På hvilken måte kan dette sees på som en utfordring?",
+  "f": ""
+ },
+ {
+  "id": "2d19e38211",
+  "art": "oppgave",
+  "q": "Finn ut om det er negative miljøkonsekvenser knyttet til avsalting av havvann.",
+  "f": ""
+ },
+ {
+  "id": "02003e6bfb",
+  "art": "sporsmal",
+  "q": "Hvorfor kan et varmere klima gi mer nedbør?",
+  "f": ""
+ },
+ {
+  "id": "5adcbf66d3",
+  "art": "sporsmal",
+  "q": "I hvilke områder tror FNs klimapanel at nedbøren vil kunne øke i fremtiden?",
+  "f": ""
+ },
+ {
+  "id": "0e62e94784",
+  "art": "sporsmal",
+  "q": "Hvorfor kan økt nedbørsmengde true vannkvaliteten?",
+  "f": ""
+ },
+ {
+  "id": "6d8165793b",
+  "art": "sporsmal",
+  "q": "Hvordan kan et varmere klima bidra til mindre nedbør enkelte steder?",
+  "f": ""
+ },
+ {
+  "id": "bc17fd4bfe",
+  "art": "sporsmal",
+  "q": "I hvilke områder tror FNs klimapanel at nedbørsmengden kanskje vil kunne avta i fremtiden? Nevn eksempler.",
+  "f": ""
+ },
+ {
+  "id": "d58f97f0d9",
+  "art": "sporsmal",
+  "q": "På hvilke måter kan bresmelting påvirke ferskvannstilgangen?",
+  "f": ""
+ },
+ {
+  "id": "d33660740f",
+  "art": "sporsmal",
+  "q": "Hvilke folkerike områder kan få redusert ferskvannstilgangen på grunn av bresmelting?",
+  "f": ""
+ },
+ {
+  "id": "a92375b340",
+  "art": "sporsmal",
+  "q": "Hvordan kan stigende havnivå true tilgangen på ferskvann?",
+  "f": ""
+ },
+ {
+  "id": "4c7ebf178f",
+  "art": "sporsmal",
+  "q": "Hva er et monsunklima, og hvor finner vi denne typen klima?",
+  "f": ""
+ },
+ {
+  "id": "cd34da2b7f",
+  "art": "sporsmal",
+  "q": "Hvordan tror forskerne at monsunnedbøren vil utvikle seg i et varmere klima?",
+  "f": ""
+ },
+ {
+  "id": "a223a4f6a9",
+  "art": "sporsmal",
+  "q": "Hvorfor er det vanskelig å forutse hvordan global oppvarming vil påvirke monsunen?",
+  "f": ""
+ },
+ {
+  "id": "dfd6a85a43",
+  "art": "hvatrordu",
+  "q": "Vil et varmere klima forbedre eller forverre den globale tilgangen på rent vann? Begrunn svaret.",
+  "f": ""
+ },
+ {
+  "id": "84e75caddf",
+  "art": "oppgave",
+  "q": "Du har lest om hvilke områder som kan forvente mer nedbør i fremtiden. Det kan være nyttig å se på figur 13.4 på side 228. Er det områder her som har vannmangel i dag?",
+  "f": ""
+ },
+ {
+  "id": "ef6b2ddd4d",
+  "art": "oppgave",
+  "q": "I faktaruten om monsunregnet øverst på siden står det om sammenhengen mellom el Niño og la Niña og monsunen. Hva er el Niño og la Niña, hvordan påvirker de nedbøren i Stillehavsområdet og hvordan kan disse fenomenene påvirke monsunen i land som Pakistan, India og Bangladesh?",
+  "f": ""
+ },
+ {
+  "id": "2413b69c55",
+  "art": "sporsmal",
+  "q": "Hva er årsavrenningen fra norske vassdrag? Hvor mange liter blir dette per nordmann? Husk at 1 dm3 tilsvarer 1 liter.",
+  "f": ""
+ },
+ {
+  "id": "c2746ab3e6",
+  "art": "sporsmal",
+  "q": "Gjør rede for hovedårsakene til at Norge er rikt på ferskvann.",
+  "f": ""
+ },
+ {
+  "id": "e0fe5e49f0",
+  "art": "sporsmal",
+  "q": "Hvilken sektor er den største mottakeren av vann fra norske vannverk?",
+  "f": ""
+ },
+ {
+  "id": "5d65effeaa",
+  "art": "sporsmal",
+  "q": "Hva er den viktigste kilden til drikkevann i Norge: grunnvann eller overflatevann?",
+  "f": ""
+ },
+ {
+  "id": "d35a2362d1",
+  "art": "sporsmal",
+  "q": "Hvor stor er den daglige vannbruken til en innbygger i Norge?",
+  "f": ""
+ },
+ {
+  "id": "78cddddd8e",
+  "art": "sporsmal",
+  "q": "Ta utgangspunkt i noen dagligdagse gjøremål i en husholdning, og gjør rede for hvor mye vann som blir brukt der.",
+  "f": ""
+ },
+ {
+  "id": "39bd9122c3",
+  "art": "sporsmal",
+  "q": "Hva kan være grunnen til at industri og landbruk forbruker mer vann enn det som framgår av vannverksstatistikken?",
+  "f": ""
+ },
+ {
+  "id": "bd3a60ab49",
+  "art": "sporsmal",
+  "q": "Hva betyr det at ferskvann er en resipient?",
+  "f": ""
+ },
+ {
+  "id": "b895e49788",
+  "art": "sporsmal",
+  "q": "Nevn noen viktige kilder til utslipp i norske resipienter.",
+  "f": ""
+ },
+ {
+  "id": "d643fd0a21",
+  "art": "hvatrordu",
+  "q": "Norske husholdninger mottar vann av drikkevannskvalitet til alle husholdningsformål. Hva kan være grunnen til at ikke vannverkene leverer vann av ulike kvaliteter til ulike bruksområder?",
+  "f": ""
+ },
+ {
+  "id": "bf9a7fac5e",
+  "art": "sporsmal",
+  "q": "Nevn noen hovedgrunner til at Norge har gode forutsetninger for å produsere vannkraft.",
+  "f": ""
+ },
+ {
+  "id": "0fd044f2ef",
+  "art": "sporsmal",
+  "q": "Hvor stor andel av vår elektrisitetsproduksjon kommer fra vannkraft?",
+  "f": ""
+ },
+ {
+  "id": "0cd577c411",
+  "art": "sporsmal",
+  "q": "Gjør rede for noen av de dilemmaene vannkraftprodusenter møter når de skal forvalte vannet i vannmagasinet.",
+  "f": ""
+ },
+ {
+  "id": "b0d50104ea",
+  "art": "sporsmal",
+  "q": "Hvem eier mesteparten av kraftselskapene og strømnettet i Norge?",
+  "f": ""
+ },
+ {
+  "id": "60e94854a4",
+  "art": "sporsmal",
+  "q": "Hva betyr det at kraftmarkedet er markedsstyrt?",
+  "f": ""
+ },
+ {
+  "id": "04498caa89",
+  "art": "sporsmal",
+  "q": "Hvorfor kan vannkraft egne seg spesielt godt i kombinasjon med vindkraft?",
+  "f": ""
+ },
+ {
+  "id": "be8e34f4b7",
+  "art": "sporsmal",
+  "q": "Gjør rede for noen miljøutfordringer knyttet til vannkraftproduksjon.",
+  "f": ""
+ },
+ {
+  "id": "67f07e84d0",
+  "art": "sporsmal",
+  "q": "Når på året vil du si at potensialet for strømproduksjon fra vannkraft er høyest?",
+  "f": ""
+ },
+ {
+  "id": "6b79ef323d",
+  "art": "sporsmal",
+  "q": "Hvorfor kan en kombinasjon av vann- og vindkraft skape ekstra utfordringer for plante- og dyrelivet i regulerte vassdrag?",
+  "f": ""
+ },
+ {
+  "id": "75a622dd32",
+  "art": "sporsmal",
+  "q": "Gjør rede for noen av de viktigste naturkvalitetene i norsk vann-natur.",
+  "f": ""
+ },
+ {
+  "id": "1b3992df81",
+  "art": "sporsmal",
+  "q": "På hvilke måter kan vann-naturen være en friluftsressurs?",
+  "f": ""
+ },
+ {
+  "id": "fba247b473",
+  "art": "hvatrordu",
+  "q": "Norge er knyttet til et europeisk strømnett og selger utslippsfri vannkraft til utlandet. Tror du dette gjøres først og fremst av økonomiske, klimamessige eller forsyningsmessige årsaker?",
+  "f": ""
+ },
+ {
+  "id": "32edad701e",
+  "art": "hvatrordu",
+  "q": "Hva tror du er de viktigste årsakene til at strømprisene i Norge varierer mye, både innenfor et år, og mellom ulike år?",
+  "f": ""
+ },
+ {
+  "id": "56b6e04469",
+  "art": "hvatrordu",
+  "q": "Har Norge på årsbasis alltid netto overskudd på strømhandelen med utlandet?",
+  "f": ""
+ },
+ {
+  "id": "c2ed7d01a3",
+  "art": "hvatrordu",
+  "q": "Hvordan tror du flere strømkabler til utlandet vil påvirke strømprisene i Norge?",
+  "f": ""
+ },
+ {
+  "id": "a8a441674e",
+  "art": "oppgave",
+  "q": "Hvilke faktorer påvirker strømprisen i Norge? Let etter faktorer både innenfor og utenfor landets grenser.",
+  "f": ""
+ },
+ {
+  "id": "60c9263a99",
+  "art": "oppgave",
+  "q": "Diskuter om det er riktig å åpne for utbygging av tidligere vernede vassdrag for å øke vannkraftproduksjonen i Norge.",
+  "f": ""
+ },
+ {
+  "id": "bc61eaa0f7",
+  "art": "oppgave",
+  "q": "Drøft om det er riktig at strømprisen er markedsstyrt.",
+  "f": ""
+ },
+ {
+  "id": "03a5c53bdf",
+  "art": "oppgave",
+  "q": "Gå inn på Statnetts side ([www.statnett.no](https://www.statnett.no)), velg den delen av landet der du bor. Gjør rede for kraftflyt mellom din landsdel og andre deler av Norge og utlandet.",
+  "f": ""
+ },
+ {
+  "id": "0964d0ea6e",
+  "art": "oppgave",
+  "q": "Hvilke faktorer tror du er med og bestemmer hvor mye som eksporteres og importeres fra ulike områder?",
+  "f": ""
+ },
+ {
+  "id": "834ff158e2",
+  "art": "oppgave",
+  "q": "Gå inn på Statnetts side ([www.statnett.no](https://www.statnett.no)), gå på menyen og velg Tall og data fra kraftsystemet. Se på figuren, og gå inn på data for import og eksport.",
+  "f": ""
+ },
+ {
+  "id": "756b4087ce",
+  "art": "oppgave",
+  "q": "Velg datoen i dag. Har Norge netto eksport eller import av kraft?",
+  "f": ""
+ },
+ {
+  "id": "feed154e1e",
+  "art": "oppgave",
+  "q": "Undersøkt hvilke land Norge utveksler kraft med. Hvilke land importerer vi eventuelt strøm fra? Hvis det ikke importeres strøm den aktuelle dagen, kan du lete deg fram til et tidspunkt der det er import av strøm. Hvilke teknologier dominerer kraftproduksjonen i disse landene?",
+  "f": ""
+ },
+ {
+  "id": "d01c74655f",
+  "art": "oppgave",
+  "q": "Hvor stor er importen, eller eksporten? Ta utgangspunkt i at en enebolig i Norge bruker 16 000 kWh strøm i året. Hvor mange eneboligers behov dekker importen/eksporten?",
+  "f": ""
+ },
+ {
+  "id": "773258e2dd",
+  "art": "oppgave",
+  "q": "Gå inn på NVEs nettside ([www.nve.no](https://www.nve.no)), gå inn på menyen og velg Energi, velg deretter Analyser og statistikk. Gå inn på Magasinstatistikk.",
+  "f": ""
+ },
+ {
+  "id": "7239de798a",
+  "art": "oppgave",
+  "q": "Studer formen på årskurven som beskriver magasinenes fyllingsgrad. Gjør rede for mulige årsaker til variasjoner gjennom året.",
+  "f": ""
+ },
+ {
+  "id": "b7659ce028",
+  "art": "oppgave",
+  "q": "Let gjennom data fra flere år, og finn fram til år med avvik fra medianverdiene. Vinteren 2009/2010, sommeren 2018, høsten 2021 og året 2022 kan være aktuelle perioder å undersøke for deler av landet. Hva kan være årsakene til avvikene fra medianen? Du finner data om temperatur, nedbør og snøsmelting på nettstedet [www.senorge.no](https://www.senorge.no).",
+  "f": ""
+ },
+ {
+  "id": "79eba840eb",
+  "art": "sporsmal",
+  "q": "Hvordan kan geologien i et område påvirke drikkevannskvaliteten?",
+  "f": ""
+ },
+ {
+  "id": "282d0e008a",
+  "art": "sporsmal",
+  "q": "Hvordan kan sur nedbør påvirke kvaliteten på drikkevannet?",
+  "f": ""
+ },
+ {
+  "id": "1ecf63ea58",
+  "art": "sporsmal",
+  "q": "Hva menes med at forholdene i de ulike sfærene berggrunn, vann og atmosfære griper inn i hverandre og påvirker kvaliteten på drikkevannet? Gi et eksempel.",
+  "f": ""
+ },
+ {
+  "id": "3fc04c7ed1",
+  "art": "sporsmal",
+  "q": "Hva menes med eutrofiering?",
+  "f": ""
+ },
+ {
+  "id": "9f8aab0c41",
+  "art": "sporsmal",
+  "q": "Hva menes med miljøgifter?",
+  "f": ""
+ },
+ {
+  "id": "13f8e36942",
+  "art": "sporsmal",
+  "q": "Hvor stor prosent av det kommunale drikkevannet holder tilfredsstillende kvalitet?",
+  "f": ""
+ },
+ {
+  "id": "76ad86660c",
+  "art": "sporsmal",
+  "q": "Hvilke faktorer kan true drikkevannskvaliteten før vannet kommer fram til vannverket?",
+  "f": ""
+ },
+ {
+  "id": "e97b877e86",
+  "art": "sporsmal",
+  "q": "Hva er gjennomsnittsalderen til de kommunale vannledningsnettet, og hvorfor representerer dette en utfordring?",
+  "f": ""
+ },
+ {
+  "id": "9a038e76d6",
+  "art": "sporsmal",
+  "q": "Hvor stor andel av vannet fra kommunale vannverk forsvinner på grunn av lekkasjer?",
+  "f": ""
+ },
+ {
+  "id": "c028851f8d",
+  "art": "sporsmal",
+  "q": "Hva menes med fysisk rensing og desinfeksjon av drikkevann?",
+  "f": ""
+ },
+ {
+  "id": "34874c0841",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på klorering, UV-bestråling og ozonering når det gjelder rensing av drikkevann?",
+  "f": ""
+ },
+ {
+  "id": "87fa896797",
+  "art": "sporsmal",
+  "q": "Mesteparten av det norske drikkevannet stammer fra overflatevann. På hvilken måte representer dette en sårbarhet i forhold til drikkevannskvaliteten?",
+  "f": ""
+ },
+ {
+  "id": "b61414a3f0",
+  "art": "sporsmal",
+  "q": "De kommunale vannverkene produserte 690 millioner kubikkmeter drikkevann i 2020. Omtrent hvor mange liter vann var det som forsvant gjennom lekkasjer? Husk at 1 dm3 er det samme som en liter.",
+  "f": ""
+ },
+ {
+  "id": "395c24427c",
+  "art": "sporsmal",
+  "q": "Hvilke forholdsregler bør vi ta før vi drikker vann fra kilder i naturen?",
+  "f": ""
+ },
+ {
+  "id": "65573325df",
+  "art": "sporsmal",
+  "q": "Hvilke situasjoner kan skape tørke i Norge?",
+  "f": ""
+ },
+ {
+  "id": "1b1d95f755",
+  "art": "sporsmal",
+  "q": "Hvilke forhold kan skape flom i Norge?",
+  "f": ""
+ },
+ {
+  "id": "814fbcb401",
+  "art": "sporsmal",
+  "q": "Nevn noen av de skadene som kan oppstå som et resultat av flom.",
+  "f": ""
+ },
+ {
+  "id": "dcf3d4c67f",
+  "art": "sporsmal",
+  "q": "Gjør rede for noen grunner til at det er utfordrende for plan- og bygningsetaten i kommunene å sørge for flomsikring langs norske vassdrag.",
+  "f": ""
+ },
+ {
+  "id": "9ced2664d8",
+  "art": "hvatrordu",
+  "q": "Hvorfor kan vi si at tørke er en tilstand som utvikler seg gradvis, mens flom ofte oppstår mer akutt?",
+  "f": ""
+ },
+ {
+  "id": "116c4c4dcb",
+  "art": "hvatrordu",
+  "q": "Hva tror du at statistisk sett gir best garanti for trygt drikkevann, egen brønn, et lite og lokalt vannverk, eller et stort vannverk med mange brukere? Begrunn svaret ditt.",
+  "f": ""
+ },
+ {
+  "id": "153f1986fb",
+  "art": "hvatrordu",
+  "q": "Hvorfor er det normalt at fordamping, nedbørsmengde og snøsmelting varierer mer på steder som ligger ved polarfronten, slik Norge gjør, enn de fleste andre steder på jorden?",
+  "f": ""
+ },
+ {
+  "id": "ab97b040b7",
+  "art": "oppgave",
+  "q": "Gå inn på vann-nett.no/portal/ og søk opp et vann, en innsjø, eller en elv i nærheten av der du bor. Lag et sammendrag av miljøtilstanden og hvilke menneskelige aktiviteter som er med og påvirker vannkvaliteten.",
+  "f": ""
+ },
+ {
+  "id": "31a6c71cc6",
+  "art": "oppgave",
+  "q": "Gå inn på https://www.kartiskolen.no, velg geofarer, og undersøk om det er markert flomsoner i nærheten av ditt hjemsted. Undersøk i så fall om det er stor forskjell på 50-årsflom, 100-årsflom og 200-årsflom.",
+  "f": ""
+ },
+ {
+  "id": "b91bab27ae",
+  "art": "oppgave",
+  "q": "Gå inn på https://www.senorge.no. Velg temakart, deretter vann, og finn den aktuelle statusen for grunnvannet på ditt hjemsted.",
+  "f": ""
+ },
+ {
+  "id": "67acaefc84",
+  "art": "oppgave",
+  "q": "Gå inn på https://www.senorge.no.",
+  "f": ""
+ },
+ {
+  "id": "489796935c",
+  "art": "oppgave",
+  "q": "Gå inn på temakart, og velg deretter vann og gå så inn på grunnvannstilstand, deretter regn og snøsmelting. Velg dato 20.11.2010 og bla den fremover dag for dag frem til 1. februar 2011. Hvordan er utviklingen i grunnvannstilstanden og avrenningen? Er det noen sammenheng mellom disse variablene?",
+  "f": ""
+ },
+ {
+  "id": "f69055ff28",
+  "art": "oppgave",
+  "q": "Velg deretter «Temperatur», og bruk samme tidsrom som i oppgave a. Beskriv temperaturforholdene. Hvordan kan dette knyttes til det du fant i oppgave a?",
+  "f": ""
+ },
+ {
+  "id": "3e971d8c1c",
+  "art": "oppgave",
+  "q": "I 2004 ble mange mennesker i Bergensområdet syke av parasitten Giardia. Hvordan ble drikkevannet forurenset? Klarer du å finne ut om det er enighet om hva som var kilden til forurensningen?",
+  "f": ""
+ },
+ {
+  "id": "9fc1496cbe",
+  "art": "oppgave",
+  "q": "I juni 2019 var det et større sykdomsutbrudd med mage- og tarmproblemer i Askøy kommune ved Bergen. Sykdomsutbruddet krevde ett menneskeliv. Sykdomsutbruddet ble knyttet til drikkevannet. Finn ut hva som var kilden til forurensningen, og hvordan denne forurensningen kunne trenge inn i drikkevannet.",
+  "f": ""
+ },
+ {
+  "id": "32f782a10a",
+  "art": "oppgave",
+  "q": "Hva er drikkevannsforskriften, og hvilke konsekvenser fikk denne for Askøy kommune etter sykdomsutbruddet i 2019?",
+  "f": ""
+ },
+ {
+  "id": "ef7a0780f8",
+  "art": "oppgave",
+  "q": "Besøk en dagligvareforretning og se hvor mange typer flaskevann du finner. Hvor er det norske vannet produsert, finner du importert vann? Undersøk literprisen for flaskevannet, og sammenlign med prisen på vannet i springen.",
+  "f": ""
+ },
+ {
+  "id": "786867e904",
+  "art": "oppgave",
+  "q": "Hvor stort er ditt forbruk av flaskevann, og i hvilke sammenhenger drikker du det? Vurder helsemessige, klimamessige og miljømessige fordeler og ulemper knyttet til bruk av flaskevann i Norge.",
+  "f": ""
+ },
+ {
+  "id": "c58019c063",
+  "art": "oppgave",
+  "q": "Hva skjer med vanntilgangen i framtiden?",
+  "f": ""
+ },
+ {
+  "id": "2b4dc01458",
+  "art": "oppgave",
+  "q": "FNs klimapanel regner med at hele Norge vil oppleve økning i nedbøren i et framtidig, varmere klima. Rapporten Klima i Norge 2100 konkluderte med en økning på åtte prosent ved slutten av århundret ved et middels utslippsscenario (forklaring i marg).",
+  "f": ""
+ },
+ {
+  "id": "c08d4b4ffe",
+  "art": "oppgave",
+  "q": "Med middels utslippsscenario menes det at utslippene av klimagasser endrer seg lite frem til 2050, men faller etter dette.",
+  "f": ""
+ },
+ {
+  "id": "69f1d42f91",
+  "art": "oppgave",
+  "q": "Mer nedbør er gode nyheter for kraftprodusentene, selv om redusert snødekke og smeltende breer kan redusere vassdragenes vannføring om våren og sommeren. Prognosene tyder på mer ekstremnedbør, altså mye nedbør på kort tid, gjerne i form av kraftige regnbyger. Det skaper utfordringer. Nedbøren vil da kunne vaske ut store mengder partikler i tillegg til at overflatevannet kan bli forurenset med bakterier, virus og parasitter.",
+  "f": ""
+ },
+ {
+  "id": "9306e799ca",
+  "art": "oppgave",
+  "q": "Flere hendelser med ekstremnedbør vil også skape utfordringer for avløpsnettet, som må være dimensjonert for å ta unna store vannmengder over korte tidsrom. Det kan føre til flere jordskred og utgravinger langs elver og bekker. Det vil trolig bli flere flommer på grunn av nedbør, mens flomhyppigheten i vassdrag med vårflommer knyttet til snøsmelting kan gå ned. I praksis kan dette bety at kyststrøkene i de vestlige delene av landet kan oppleve hyppigere flom, mens vårflommene i de store vassdragene på Østlandet kan bli færre.",
+  "f": ""
+ },
+ {
+  "id": "c9287a22b0",
+  "art": "oppgave",
+  "q": "Klimaforskernes «langtidsvarsler» melder om et mer uforutsigbart klima. For et land som ligger ved polarfronten, kan det bety en veksling mellom lange perioder med mye nedbør og ikke like hyppige, men muligens mer langvarige perioder med tørke og varme om sommeren. Uansett må myndighetene regne med store investeringer til avløpsnett og flomsikring. Forsikringsselskapene kan regne med å få inn flere vannrelaterte skademeldinger, og det kan bli nødvendig med et nytt og tettere samarbeid mellom forsikringsbransje, offentlige fagmyndigheter som NVE, de kommunale plan- og bygningsetatene og private grunneiere.",
+  "f": ""
+ },
+ {
+  "id": "de23447d98",
+  "art": "sporsmal",
+  "q": "Hvordan regner klimaforskerne med at nedbørsmengden vil utvikle seg i Norge fremover mot 2100?",
+  "f": ""
+ },
+ {
+  "id": "23e4943159",
+  "art": "sporsmal",
+  "q": "Hvorfor er det særlig utfordrende å håndtere mye nedbør over kort tid?",
+  "f": ""
+ },
+ {
+  "id": "e0bdfeeaa4",
+  "art": "sporsmal",
+  "q": "Hvorfor kan et varmere og våtere klima øke flomfaren noen steder, mens den reduseres andre steder?",
+  "f": ""
+ },
+ {
+  "id": "2021c4848a",
+  "art": "sporsmal",
+  "q": "Hva menes med at klimaet blir mer uforutsigbart, og hvordan kan dette påvirke tilgangen på vann i Norge i framtiden?",
+  "f": ""
+ },
+ {
+  "id": "79cadf5280",
+  "art": "hvatrordu",
+  "q": "Tror du at et varmere klima vil øke eller redusere tilgangen på rent drikkevann i Norge i framtiden? Begrunn svaret.",
+  "f": ""
+ },
+ {
+  "id": "245a3162f7",
+  "art": "oppgave",
+  "q": "Hvordan vil et varmere klima påvirke Norges muligheter for å produsere strøm fra vannkraft?",
+  "f": ""
+ },
+ {
+  "id": "2e36f0e6dd",
+  "art": "oppgave",
+  "q": "Undersøk om nedbørsmengden er ventet å øke like mye i hele landet frem mot 2100.",
+  "f": ""
+ }
+]

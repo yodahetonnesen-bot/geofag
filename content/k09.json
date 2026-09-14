@@ -32,12 +32,12 @@
       ]
     },
     {
-      "tittel": "En hånd holder frem en blanding av knust metall og plast som har kommet ut av en kvern",
+      "tittel": "Mineralressurser",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Mineralressurser"
+          "tekst": "En hånd holder frem en blanding av knust metall og plast som har kommet ut av en kvern"
         },
         {
           "t": "figur",
@@ -114,24 +114,20 @@
         {
           "t": "p",
           "tekst": "Norsk blokkstein har til vanlig god kvalitet. Den viktigste grunnen er at Norge har vært dekket av is i istidene. Innlandsisen eroderte berggrunnen og høvlet bort det øverste laget med sprekker og forvitret fjell. Det gjør at stein av god kvalitet ofte ligger lett tilgjengelig."
-        }
-      ]
-    },
-    {
-      "tittel": "En grå stein med lilla sjattering og svarte spetter",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En grå stein med lilla sjattering og svarte spetter"
+        },
         {
           "t": "figur",
           "nr": "9.3",
           "tekst": "Ubehandlet larvikitt er en grovkornet dypbergart."
-        }
-      ]
-    },
-    {
-      "tittel": "Et steinbrudd med store firkantede blokker skåret ut av det lysegrå fjellpartiet",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Et steinbrudd med store firkantede blokker skåret ut av det lysegrå fjellpartiet"
+        },
         {
           "t": "figur",
           "nr": "9.4",
@@ -326,13 +322,11 @@
           "t": "figur",
           "nr": "9.9",
           "tekst": "Olivinsteinforekomsten på Åheim er stor. Reservene sikrer drift i mange hundre år med dagens produksjon. Bildet øverst viser et av dagbruddene (Gusdalen)."
-        }
-      ]
-    },
-    {
-      "tittel": "En irrgrønn knudrete rund stein",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En irrgrønn knudrete rund stein"
+        },
         {
           "t": "figur",
           "nr": "9.10",
@@ -372,13 +366,11 @@
         {
           "t": "p",
           "tekst": "I dag er det bare to gruveselskaper i Norge som har en jevn produksjon av metallisk malm: Titania i Rogaland og Rana Gruber i Nordland. Det meste av produksjonen går til eksport."
-        }
-      ]
-    },
-    {
-      "tittel": "Et brudd-område der fjellet er formet som trapper og terrasser i et juv",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Et brudd-område der fjellet er formet som trapper og terrasser i et juv"
+        },
         {
           "t": "figur",
           "nr": "9.12",
@@ -451,13 +443,11 @@
         {
           "t": "p",
           "tekst": "Utvinning av mineraler og metaller medfører store overskuddsmasser som må deponeres (deponere = lagre, deponi = lagringssted). Massene består hovedsakelig av knust stein og eventuelle tilsettingsstoffer som har vært benyttet i produksjonsprosessen. Deponering skjer på land (figur 9.13), i innsjøer eller fjorder, men også ved tilbakefylling. Tilbakefylling betyr at overskuddsmassene blir ført tilbake til gruvegangene og deponert der."
-        }
-      ]
-    },
-    {
-      "tittel": "Rustrøde løssteiner i en haug på skogbunnen med lav og furutrær",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Rustrøde løssteiner i en haug på skogbunnen med lav og furutrær"
+        },
         {
           "t": "figur",
           "nr": "9.13",
@@ -474,13 +464,11 @@
         {
           "t": "p",
           "tekst": "Ikke alle er enige i det. Bunnfaunaen i deponiområdet vil bli påvirket i perioden deponeringen foregår. Sjødeponier fører også til en risiko for spredning av fint materiale, noe som kan påvirke livet i havet i et større område rundt deponiområdet."
-        }
-      ]
-    },
-    {
-      "tittel": "Vakkert grønt fjordlandskap med grønne sletter, skogkledde åser",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Vakkert grønt fjordlandskap med grønne sletter, skogkledde åser"
+        },
         {
           "t": "figur",
           "nr": "9.14",
@@ -501,12 +489,12 @@
       ]
     },
     {
-      "tittel": "Særlig aktuelle mineraler og bergarter i det grønne skiftet",
+      "tittel": "Mineraler og bergarter for det grønne skiftet",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Mineraler og bergarter for det grønne skiftet"
+          "tekst": "Særlig aktuelle mineraler og bergarter i det grønne skiftet"
         },
         {
           "t": "figur",
@@ -560,12 +548,12 @@
       ]
     },
     {
-      "tittel": "En person holder frem en plate av metall i ulike gråsjatteringer",
+      "tittel": "Sjeldne jordartsmetaller",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Sjeldne jordartsmetaller"
+          "tekst": "En person holder frem en plate av metall i ulike gråsjatteringer"
         },
         {
           "t": "figur",
@@ -583,12 +571,12 @@
       ]
     },
     {
-      "tittel": "En grønn krystall",
+      "tittel": "Fosfat",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Fosfat"
+          "tekst": "En grønn krystall"
         },
         {
           "t": "figur",
@@ -606,12 +594,12 @@
       ]
     },
     {
-      "tittel": "En mørkegrå ruglete stein",
-      "side": null,
+      "tittel": "Grafitt",
+      "side": 147,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Grafitt"
+          "tekst": "En mørkegrå ruglete stein"
         },
         {
           "t": "figur",
@@ -629,12 +617,12 @@
       ]
     },
     {
-      "tittel": "En ferskenfarget krystallaktig stein med to litiumbatterier vedsidenav",
+      "tittel": "Litium",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Litium"
+          "tekst": "En ferskenfarget krystallaktig stein med to litiumbatterier vedsidenav"
         },
         {
           "t": "figur",
@@ -652,12 +640,12 @@
       ]
     },
     {
-      "tittel": "En rund grønn mineralsk stein med grønne gjennomsiktige krystaller inni",
+      "tittel": "Olivin",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Olivin"
+          "tekst": "En rund grønn mineralsk stein med grønne gjennomsiktige krystaller inni"
         },
         {
           "t": "figur",
@@ -681,13 +669,11 @@
         {
           "t": "p",
           "tekst": "Titan i form av TiO2 – titandioksid – var en del av en tidligere fase av grønn utvikling som fant sted i det forrige århundre. Fram til da hadde bly vært det vanligste tilsettingsstoffet for å få hvitfarge på maling. Gammel blybasert hvit maling kan inneholde flere titalls prosent med bly og ligger tilbake som en betydelig forurensningskilde i jorda, spesielt i byene."
-        }
-      ]
-    },
-    {
-      "tittel": "En gråmelert og rustrød stein",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En gråmelert og rustrød stein"
+        },
         {
           "t": "figur",
           "nr": "9.22",
@@ -704,12 +690,12 @@
       ]
     },
     {
-      "tittel": "En lilla krystall ved siden av et solcellepanel",
+      "tittel": "Kvarts og andre solcelleråstoffer",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Kvarts og andre solcelleråstoffer"
+          "tekst": "En lilla krystall ved siden av et solcellepanel"
         },
         {
           "t": "figur",
@@ -840,7 +826,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "En irrgrønn knudrete rund stein",
+      "del": "Olivin",
       "poster": [
         {
           "q": "Hva er et industrimineral?",
@@ -868,7 +854,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Et brudd-område der fjellet er formet som trapper og terrasser i et juv",
+      "del": "Metalliske malmer",
       "poster": [
         {
           "q": "Hva er forskjellen på malm og metallisk malm?",
@@ -892,7 +878,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Vakkert grønt fjordlandskap med grønne sletter, skogkledde åser",
+      "del": "Avfallsdeponier",
       "poster": [
         {
           "q": "På hvilke måter kan bergindustrien påvirke naturmiljøet?",
@@ -916,7 +902,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Vakkert grønt fjordlandskap med grønne sletter, skogkledde åser",
+      "del": "Avfallsdeponier",
       "poster": [
         {
           "q": "Hvordan kan land- og sjødeponier påvirke naturmiljøet?",
@@ -936,7 +922,7 @@
       "art": "kapitteloppgave",
       "overskrift": "KAPITTELOPPGAVER",
       "side": null,
-      "del": "En lilla krystall ved siden av et solcellepanel",
+      "del": "Kvarts og andre solcelleråstoffer",
       "poster": [
         {
           "gruppe": "Én skal ut"
@@ -978,8 +964,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Sand, grus og pukk omtales som naturstein.",

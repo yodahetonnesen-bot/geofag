@@ -25,13 +25,11 @@
         {
           "t": "p",
           "tekst": "Vulkanutbrudd kan være ødeleggende for landområder nær vulkanen, samtidig som vulkanske gasser kan påvirke klimaet på hele kloden."
-        }
-      ]
-    },
-    {
-      "tittel": "En vulkansk røyksky med gnister",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En vulkansk røyksky med gnister"
+        },
         {
           "t": "figur",
           "nr": "4.1",
@@ -40,12 +38,12 @@
       ]
     },
     {
-      "tittel": "Lava i ferd med å forsteine seg brer seg utover et akedekket landområde",
+      "tittel": "Magma, lava og vulkantyper",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Magma, lava og vulkantyper"
+          "tekst": "Lava i ferd med å forsteine seg brer seg utover et akedekket landområde"
         },
         {
           "t": "figur",
@@ -82,13 +80,11 @@
         {
           "t": "p",
           "tekst": "Lettflytende lavastrømmer er det samme som mafiske lavastrømmer. Mafisk magma består av mørke mineraler og har et lavere innhold av silisium. Det gjør at de mafiske lavastrømmene er lettflytende."
-        }
-      ]
-    },
-    {
-      "tittel": "En vei strekker seg langs grønne jorder mot et snekledd fjell",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En vei strekker seg langs grønne jorder mot et snekledd fjell"
+        },
         {
           "t": "figur",
           "nr": "4.3",
@@ -97,17 +93,19 @@
       ]
     },
     {
-      "tittel": "Skjoldvulkaner",
+      "tittel": "Tverrsnitt av en skjoldvulkan",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Tverrsnitt av en skjoldvulkan"
-        },
-        {
-          "t": "bilde",
           "tekst": "Tegning av en skjoldvulkan"
-        },
+        }
+      ]
+    },
+    {
+      "tittel": "Skjoldvulkaner",
+      "side": null,
+      "blokker": [
         {
           "t": "p",
           "tekst": "Som navnet antyder, har skjoldvulkanene en form som minner om et skjold. Sidene er slake, og vulkanene kan dekke store arealer. Skjoldvulkaner er bygd opp av lava som har størknet fra et lettflytende magma."
@@ -134,13 +132,11 @@
         {
           "t": "p",
           "tekst": "Stratovulkaner er bygd opp av vekslende lag med størknet lava, vulkansk stein og aske (stratum = lag). I tillegg har ofte lava størknet i vulkanganger, som «armerer» vulkanen på innsiden. Lavaen som har dannet stratovulkaner, er tyktflytende. Stratovulkanene har derfor en tydeligere kjegleform og mye brattere sider enn skjoldvulkanene (figur 4.4)."
-        }
-      ]
-    },
-    {
-      "tittel": "En snekledd vulkan",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En snekledd vulkan"
+        },
         {
           "t": "figur",
           "nr": "4.4",
@@ -149,12 +145,12 @@
       ]
     },
     {
-      "tittel": "Tegning av en stratovulkan",
+      "tittel": "Tverrsnitt av en stratovulkan",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Tverrsnitt av en stratovulkan"
+          "tekst": "Tegning av en stratovulkan"
         },
         {
           "t": "p",
@@ -168,17 +164,19 @@
       ]
     },
     {
-      "tittel": "Verdenskart der Mount St. Helens er merket av",
+      "tittel": "Skisse over hvordan vulkanen Mount St. Helens i USA eksploderte i 1980",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Skisse over hvordan vulkanen Mount St. Helens i USA eksploderte i 1980"
-        },
-        {
-          "t": "bilde",
           "tekst": "Tegning av utbruddet"
-        },
+        }
+      ]
+    },
+    {
+      "tittel": "Verdenskart der Mount St. Helens er merket av",
+      "side": null,
+      "blokker": [
         {
           "t": "p",
           "tekst": "Utbrudd fra stratovulkaner er til vanlig mer eksplosive enn utbrudd fra skjoldvulkaner. Tyktflytende magma samler seg i et magmakammer like under vulkanen. Jo mer magma som kommer til, desto høyere blir trykket i magmakammeret. Når det oppstår en eller flere sprekker opp til jordoverflaten, «punkterer» magmakammeret. Når trykket i magmakammeret plutselig faller, synker kokepunktet for magmaet, og det begynner å koke."
@@ -186,13 +184,11 @@
         {
           "t": "p",
           "tekst": "Bobler med vanndamp og magmaskum presses opp gjennom sprekkene mot overflaten. Sprekkene blir større, og trykket synker raskt i hele magmakammeret. Kokingen sprer seg eksplosivt, og store mengder magma presses opp gjennom sprekkene mot jordoverflaten. Et stort og eksplosivt utbrudd kan føre til at hele toppen av vulkanen sprenges bort (figur 4.5)."
-        }
-      ]
-    },
-    {
-      "tittel": "Skisse over utbredelsen av vulkaner på jordoverflaten",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Skisse over utbredelsen av vulkaner på jordoverflaten"
+        },
         {
           "t": "figur",
           "nr": "4.6",
@@ -296,13 +292,11 @@
           "t": "figur",
           "nr": "4.8",
           "tekst": "En hotspot etterlater seg vulkanøyer på havbunnsplata som glir over den."
-        }
-      ]
-    },
-    {
-      "tittel": "En søylestrøm under Hawaii forklarer dannelsen av Hawaii-øyrekken",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En søylestrøm under Hawaii forklarer dannelsen av Hawaii-øyrekken"
+        },
         {
           "t": "figur",
           "nr": "4.9",
@@ -389,13 +383,11 @@
           "t": "tenk",
           "tekst": "På kartskissen i figur 4.8 ser du at det er en tydelig retningsforandring på øyrekkene over flere hotspoter i Stillehavet. Hva har skjedd?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Et hus begravd i støvmasser etter et vulkanutbrudd",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Et hus begravd i støvmasser etter et vulkanutbrudd"
+        },
         {
           "t": "figur",
           "nr": "4.10",
@@ -448,13 +440,11 @@
         {
           "t": "p",
           "tekst": "Bildet i figur 4.11 viser et vulkanutbrudd ved Eyjafjallajökull på Island i 2010. Askeskyer fra utbruddet drev inn over Europa og lammet store deler av flytrafikken. Passasjerene ble sittende «askefast» i flere dager. Det er ikke ufarlig å fly gjennom askeskyer. Det kan du lese mer om, under bildet."
-        }
-      ]
-    },
-    {
-      "tittel": "En eksplosiv røyksky brer seg over skylaget",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En eksplosiv røyksky brer seg over skylaget"
+        },
         {
           "t": "figur",
           "nr": "4.11",
@@ -697,8 +687,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Det er flest synlige vulkaner der litosfæreplater kolliderer.",
@@ -749,8 +738,7 @@
           "f": ""
         },
         {
-          "q": "Hvor og når startet vulkanutbruddet?",
-          "f": ""
+          "gruppe": "Hvor og når startet vulkanutbruddet?"
         },
         {
           "q": "Beskriv vulkanutbruddet (vulkantype, forløp) og følgene av det.",

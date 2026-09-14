@@ -28,12 +28,12 @@
       ]
     },
     {
-      "tittel": "Overgang fra kontinentalskorpe til havbunnsskorpe, sedimentære bergarter og løsmasser",
-      "side": null,
+      "tittel": "Den norske sokkelen",
+      "side": 152,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Den norske sokkelen"
+          "tekst": "Overgang fra kontinentalskorpe til havbunnsskorpe, sedimentære bergarter og løsmasser"
         },
         {
           "t": "figur",
@@ -55,13 +55,11 @@
         {
           "t": "p",
           "tekst": "Hele havområdet mellom Norge, Storbritannia og det europeiske kontinentet regnes som ett sokkelområde. Det har havdyp mindre enn 100 meter, men noen grunne havområder, som Doggerbank, er ikke dypere enn 40 meter."
-        }
-      ]
-    },
-    {
-      "tittel": "Norges tre sokkelområder til havs, aktuelle for utvinning av olje og gass",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Norges tre sokkelområder til havs, aktuelle for utvinning av olje og gass"
+        },
         {
           "t": "figur",
           "nr": "10.3",
@@ -116,12 +114,12 @@
       ]
     },
     {
-      "tittel": "Majestetiske skarpe fjell med sne og skylag rundt rager mot himmelen i rødt sollys",
+      "tittel": "Silur og devon – gamle fjell gir opphav til reservoarer",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Silur og devon – gamle fjell gir opphav til reservoarer"
+          "tekst": "Majestetiske skarpe fjell med sne og skylag rundt rager mot himmelen i rødt sollys"
         },
         {
           "t": "figur",
@@ -201,13 +199,11 @@
         {
           "t": "p",
           "tekst": "Etter hvert roet riftingen seg, og vulkanismen stoppet opp. Det førte til at jordskorpa ble avkjølt og dermed tyngre. Den sank inn til et tørt basseng under havnivå der det ble avsatt store mengder ørkensand. Det ga opphav til bergarter med gode reservoaregenskaper (reservoar = oppsamlingssted), og det er i disse man fant de store gassforekomstene i Nederland."
-        }
-      ]
-    },
-    {
-      "tittel": "Ørkendyner mot en sort kantete fjellformasjon",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Ørkendyner mot en sort kantete fjellformasjon"
+        },
         {
           "t": "figur",
           "nr": "10.7",
@@ -238,13 +234,11 @@
         {
           "t": "p",
           "tekst": "«Norge» med sine havområder beveget seg i perioden jura enda lenger mot nord, der klimaet var preget av vestavinder med vått, stadig varmere temperert klima – omtrent som i Storbritannia i dag. Det globale havnivået steg, og havet trengte inn også fra nord. Området ble et lavtliggende øyrike med grunne havstrekninger og flate landområder med elvesletter, sumper og deltaer (figur 10.8). Her hersket dinosaurene, og de første fuglene svevde over sumplandet. Det er elveavsetninger fra tidlig jura som er opphav til reservoarene på Statfjord- og Snorrefeltet."
-        }
-      ]
-    },
-    {
-      "tittel": "Illustrasjon av skog med en diger grå elv og øglefugler som flyr på himmelen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Illustrasjon av skog med en diger grå elv og øglefugler som flyr på himmelen"
+        },
         {
           "t": "figur",
           "nr": "10.8",
@@ -265,13 +259,11 @@
         {
           "t": "p",
           "tekst": "Da temperaturen og CO2-nivået steg i sen jura, ble det en voldsom oppblomstring av alger og plankton i havet. Disse organismene ble ikke brutt ned ettersom det var liten sirkulasjon i havet. Dermed bygde det seg opp mektige lag med leire som hadde høyt innhold av organisk materiale. Denne leirskiferen ble siden den viktigste kilden til petroleum på norsk sokkel, og den har fått navnet Draupneformasjonen. Så mye som 99 prosent av all oljen og det meste av gassen man finner på sokkelen, har sitt opphav herfra."
-        }
-      ]
-    },
-    {
-      "tittel": "Detaljert Nordsjø-kart med diverse graben",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Detaljert Nordsjø-kart med diverse graben"
+        },
         {
           "t": "figur",
           "nr": "10.9",
@@ -298,13 +290,11 @@
         {
           "t": "p",
           "tekst": "Kildebergartene fra jura ble da presset ned på et stort dyp. De ble dermed utsatt for et trykk og en temperatur som var tilstrekkelig høye til at det organiske materialet ble omdannet til petroleum. Olje og gass strømmet så opp fra kildebergarten gjennom sprekker og forkastninger og endte opp i reservoarer der vi finner petroleumen i dag."
-        }
-      ]
-    },
-    {
-      "tittel": "Seismisk tolkning fra sokkelen i Norskehavet",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Seismisk tolkning fra sokkelen i Norskehavet"
+        },
         {
           "t": "figur",
           "nr": "10.10",
@@ -327,13 +317,11 @@
         {
           "t": "p",
           "tekst": "Etter hvert som de tykke sedimentpakkene i kritt presset saltet ned mot store dyp, førte det høye trykket og temperaturen til at saltet begynte å oppføre seg plastisk. I og med at saltet var lettere enn bergartene rundt, fikk det en oppdrift. Oppdriften førte til at bergartslagene over ble foldet og fanget petroleum i bergartene rundt saltpluggen."
-        }
-      ]
-    },
-    {
-      "tittel": "Sorthvittfotografi av en oljeplattform under bygginge",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Sorthvittfotografi av en oljeplattform under bygginge"
+        },
         {
           "t": "figur",
           "nr": "10.11",
@@ -360,24 +348,20 @@
         {
           "t": "p",
           "tekst": "I kvartær har store deler av Skandinavia og Storbritannia vært dekket av is gjennom mer enn 40 istider. Isen har formet landet vårt mer effektivt enn noen andre erosjonsformer. Når isen smeltet bort etter hver istid, ble enorme mengder løsmasser fraktet ut på sokkelen av store breelver. Disse løsmassene bidro til å begrave kildebergartene så dypt at det organiske innholdet ble omdannet til petroleumen vi finner i flere av feltene på sokkelen."
-        }
-      ]
-    },
-    {
-      "tittel": "En seismisk tolkning fra sokkelen i Barentshavet",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En seismisk tolkning fra sokkelen i Barentshavet"
+        },
         {
           "t": "figur",
           "nr": "10.12",
           "tekst": "En seismisk tolkning fra sokkelen i Barentshavet"
-        }
-      ]
-    },
-    {
-      "tittel": "En industriell øy i et stormfullt hav",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En industriell øy i et stormfullt hav"
+        },
         {
           "t": "figur",
           "nr": "10.13",
@@ -414,12 +398,12 @@
       ]
     },
     {
-      "tittel": "Doggerbank – dyphav – fiskeområde",
+      "tittel": "Norskerenna – Vikinggraben – Sentralgraben",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Norskerenna – Vikinggraben – Sentralgraben"
+          "tekst": "Doggerbank – dyphav – fiskeområde"
         },
         {
           "t": "p",
@@ -502,7 +486,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Majestetiske skarpe fjell med sne og skylag rundt rager mot himmelen i rødt sollys",
+      "del": "Silur og devon – gamle fjell gir opphav til reservoarer",
       "poster": [
         {
           "q": "Hva menes med begrepet kontinentalsokkel?",
@@ -538,7 +522,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Majestetiske skarpe fjell med sne og skylag rundt rager mot himmelen i rødt sollys",
+      "del": "Silur og devon – gamle fjell gir opphav til reservoarer",
       "poster": [
         {
           "q": "På hvilke måter er begrepene kontinentalsokkel, kontinentalskråning og kontinentalhylle forskjellige fra hverandre?",

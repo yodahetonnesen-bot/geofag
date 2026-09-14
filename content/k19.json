@@ -19,13 +19,11 @@
         {
           "t": "p",
           "tekst": "Den globale oppvarmingen har ført til mer ekstremvær og at havnivået i verdenshavene øker. Hvordan vil det påvirke kystlandskapet – kanskje kan det på sikt true bosettingen langs deler av kysten? Prognosene fra Kartverket viser at havoverflaten vil stige med ca. 70 cm fram mot 2090. Det kan bety at på deler av kysten blir landhevningen på sikt for liten til å hindre at havet vil oversvømme lavtliggende kystområder."
-        }
-      ]
-    },
-    {
-      "tittel": "Et voldsomt hav i kveldslys med stormskyer og en ensom mann som står langs klippene",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Et voldsomt hav i kveldslys med stormskyer og en ensom mann som står langs klippene"
+        },
         {
           "t": "figur",
           "nr": "19.1",
@@ -34,12 +32,12 @@
       ]
     },
     {
-      "tittel": "Flyfoto av skjærgård med en sandete smal øy ut langs havet",
+      "tittel": "Kystlandskapet",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Kystlandskapet"
+          "tekst": "Flyfoto av skjærgård med en sandete smal øy ut langs havet"
         },
         {
           "t": "figur",
@@ -103,12 +101,12 @@
       ]
     },
     {
-      "tittel": "Svaberg",
+      "tittel": "P-former",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "P-former"
+          "tekst": "Svaberg"
         },
         {
           "t": "figur",
@@ -134,12 +132,12 @@
       ]
     },
     {
-      "tittel": "Helgelandskysten i Nordland med veiforbindlese mellom øyer i vakker solnedgang",
+      "tittel": "Strandflaten",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Strandflaten"
+          "tekst": "Helgelandskysten i Nordland med veiforbindlese mellom øyer i vakker solnedgang"
         },
         {
           "t": "figur",
@@ -200,13 +198,11 @@
         {
           "t": "p",
           "tekst": "Helt fra hevningen av landet gjennom nytiden har havbølger gravd seg inn i landmassen. I Finnmark når det gamle viddelandskapet, som ligger ca. 300 moh., helt ut til kysten, og ender i en bratt skråning ned mot havet (figur 19.6). De stupbratte skråningene ned mot havet kalles næringer og er typiske for næringskysten. Også på Nordvestlandet finner vi kortere strekninger med næringskyst."
-        }
-      ]
-    },
-    {
-      "tittel": "En flat og høy bergformasjon ut i blått hav",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En flat og høy bergformasjon ut i blått hav"
+        },
         {
           "t": "figur",
           "nr": "19.6",
@@ -215,12 +211,12 @@
       ]
     },
     {
-      "tittel": "Løsmassekysten",
+      "tittel": "Kart over Nord-Norge som viser plassering av Hasvik, nord for Tromsø",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Kart over Nord-Norge som viser plassering av Hasvik, nord for Tromsø"
+          "tekst": "Løsmassekysten"
         },
         {
           "t": "p",
@@ -234,24 +230,20 @@
         {
           "t": "p",
           "tekst": "Havbølgene har flere steder på norskekysten erodert moreneavsetningene i strandsonen og dannet sandstrender (figur 19.7) og rullesteinstrender (figur 19.8). Sanden er ført bort med havstrømmer og avsatt i bukter og viker på kystlinjen. Her er det dannet små og store sandstrender. Steinmaterialet i morenen er blitt liggende igjen og danner i dag rullesteinstrender."
-        }
-      ]
-    },
-    {
-      "tittel": "Turgåer langs en strand med brunlig sand",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Turgåer langs en strand med brunlig sand"
+        },
         {
           "t": "figur",
           "nr": "19.7",
           "tekst": "Løsmassekyst (sand) fra Selestranden på Jæren"
-        }
-      ]
-    },
-    {
-      "tittel": "Rullesteinstrand i skjærgården",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Rullesteinstrand i skjærgården"
+        },
         {
           "t": "figur",
           "nr": "19.8",
@@ -307,24 +299,20 @@
           "t": "tenk",
           "tekst": "Er det bare landhevning som kan føre til strandsonen kommer lavere i forhold til landmassen?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Hav og slak strandsone der landet har fått en bølgeformasjon oppover fra vannkanten",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Hav og slak strandsone der landet har fått en bølgeformasjon oppover fra vannkanten"
+        },
         {
           "t": "figur",
           "nr": "19.9",
           "tekst": "Strandvollene ved Kvalneset i Finnmark viser tydelig at landet har hevet seg etter siste istid. Nye voller ble dannet lavere og lavere på landmassen etter hvert som landet hevet seg."
-        }
-      ]
-    },
-    {
-      "tittel": "En lyegrå klippe lands en steinete strand ved havet",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En lyegrå klippe lands en steinete strand ved havet"
+        },
         {
           "t": "figur",
           "nr": "19.10",
@@ -357,13 +345,11 @@
           "t": "tenk",
           "tekst": "Hva var årsakene til at havnivået steg, og at landmassen samtidig hevet seg?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "En ravine i et jordbrukslandskap",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En ravine i et jordbrukslandskap"
+        },
         {
           "t": "figur",
           "nr": "19.12",
@@ -372,12 +358,12 @@
       ]
     },
     {
-      "tittel": "Kart over Sør-Norge som viser plassering av Kvål, sør for Trondheim",
+      "tittel": "Leirlandskapet",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Leirlandskapet"
+          "tekst": "Kart over Sør-Norge som viser plassering av Kvål, sør for Trondheim"
         },
         {
           "t": "p",
@@ -436,13 +422,11 @@
           "t": "tenk",
           "tekst": "Hvilke jordarter kan du vente å finne henholdsvis over og under marin grense?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "En elv som strekker seg gjennom et jordbrukslandskap",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En elv som strekker seg gjennom et jordbrukslandskap"
+        },
         {
           "t": "figur",
           "nr": "19.13",
@@ -480,24 +464,20 @@
           "t": "tenk",
           "tekst": "Hvor er det flest bekker og elver: på Gardermoen eller sørvest for riksvei 35? Hvorfor er det slik, tror du?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Flyfoto av et grønt flatt landskap med et tørt område i bakgrunnen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Flyfoto av et grønt flatt landskap med et tørt område i bakgrunnen"
+        },
         {
           "t": "figur",
           "nr": "19.14",
           "tekst": "Gardermoen, bildet er tatt mot nordøst."
-        }
-      ]
-    },
-    {
-      "tittel": "Kartutsnitt, Gardermoen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kartutsnitt, Gardermoen"
+        },
         {
           "t": "figur",
           "nr": "19.15",
@@ -521,24 +501,20 @@
         {
           "t": "p",
           "tekst": "Det har forandret seg de siste tiårene (figur 19.16). I perioden 1993–2018 økte det globale havnivået med 3,6 mm per år, eller 36 cm per hundre år. De siste tiårene har havnivået økt stadig raskere som følge av global oppvarming. Det meste skyldes smeltevann fra isbreer og termisk utvidelse av havvannet fordi havet er blitt varmere. Den globale havnivåstigningen har på noen kyststrekninger tatt igjen landhevningen. Det har vært gjort målinger av havnivået i forhold til land siden slutten av 1880-tallet og fram til i dag. De viser at endringene i det relative havnivået i perioden 1960–2010 har variert langs kysten. Blant annet finner vi et fall i relativt havnivå på 12 cm i Oslo, mens det er en stigning på 5 cm i Stavanger."
-        }
-      ]
-    },
-    {
-      "tittel": "Graf. Endringer i globalt havnivå",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Graf. Endringer i globalt havnivå"
+        },
         {
           "t": "figur",
           "nr": "19.16",
           "tekst": "Endring av globalt havnivå basert på vannstandsmålinger i perioden 1880–1992 (svart kurve) og fra satellitt siden slutten av 1992 (rød kurve). Blå skravering viser antatt usikkerhet i globalt havnivå fra før 1880. Usikkerheten i satellittmålt havnivå etter 1992 er bare noen millimeter. (Vannstandsdata fra Church og White (2011) og satellittdata fra AVISO)"
-        }
-      ]
-    },
-    {
-      "tittel": "Kart som viser årlig landhevning i Skandinavia i dag",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart som viser årlig landhevning i Skandinavia i dag"
+        },
         {
           "t": "figur",
           "nr": "19.17",
@@ -578,7 +554,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 342,
-      "del": "Rullesteinstrand i skjærgården",
+      "del": "Kart over Nord-Norge som viser plassering av Hasvik, nord for Tromsø",
       "poster": [
         {
           "q": "Beskriv hvordan skjærgårdskysten ser ut. Hvor på norskekysten finner vi denne kysttypen?",
@@ -602,7 +578,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Rullesteinstrand i skjærgården",
+      "del": "Kart over Nord-Norge som viser plassering av Hasvik, nord for Tromsø",
       "poster": [
         {
           "q": "Hvilke landformer på land har vært utgangspunktet for fjordkysten? Enn for næringskysten?",
@@ -626,7 +602,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 350,
-      "del": "Kart som viser årlig landhevning i Skandinavia i dag",
+      "del": "Havnivå og landhevning i framtiden",
       "poster": [
         {
           "q": "Hva er årsaken til dagens landhevning i Skandinavia?",
@@ -650,7 +626,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Kart som viser årlig landhevning i Skandinavia i dag",
+      "del": "Havnivå og landhevning i framtiden",
       "poster": [
         {
           "q": "Forklar hva som skjer med landoverflaten når en innlandsis bygger seg opp – og når den smelter igjen.",
@@ -690,7 +666,7 @@
       "art": "kapitteloppgave",
       "overskrift": "KAPITTELOPPGAVER",
       "side": null,
-      "del": "Kart som viser årlig landhevning i Skandinavia i dag",
+      "del": "Havnivå og landhevning i framtiden",
       "poster": [
         {
           "gruppe": "Én skal ut"
@@ -724,8 +700,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Skjærgårdskysten dannes der et viddelandskap dukker i havet.",

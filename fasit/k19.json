@@ -1,0 +1,350 @@
+[
+ {
+  "id": "b95e6fd9c7",
+  "art": "tenk",
+  "q": "Hva består øya Jomfruland av?",
+  "f": ""
+ },
+ {
+  "id": "7cb51aa4f0",
+  "art": "tenk",
+  "q": "Hvilken forskjell er det på Jomfruland og resten av skjærgården til venstre på bildet? Hva består de andre øyene av, og hvordan er de dannet?",
+  "f": ""
+ },
+ {
+  "id": "1d4b055c43",
+  "art": "tenk",
+  "q": "Hvilken forskjell er det på strandsonen på Jomfruland og de andre øyene? Kan du se noe på bildet?",
+  "f": ""
+ },
+ {
+  "id": "33c44f845e",
+  "art": "tenk",
+  "q": "Hvorfor har ikke isbreene gravd dype daler og fjorder på Sørlandskysten?",
+  "f": ""
+ },
+ {
+  "id": "e0e9f5e56e",
+  "art": "tenk",
+  "q": "Hvorfor tror du strandflaten omtales som «paddemarka» eller «støvelhavet»?",
+  "f": ""
+ },
+ {
+  "id": "50bfe63e84",
+  "art": "tenk",
+  "q": "Hva kan være årsaken til grønnfargen på vannet innerst i fjordene?",
+  "f": ""
+ },
+ {
+  "id": "b662d61343",
+  "art": "tenk",
+  "q": "Hva skiller løsmassekysten fra andre kysttyper?",
+  "f": ""
+ },
+ {
+  "id": "429fbfee1b",
+  "art": "tenk",
+  "q": "Hvorfor hever landet seg?",
+  "f": ""
+ },
+ {
+  "id": "d87954385b",
+  "art": "tenk",
+  "q": "Hva er det som gjør det mulig å bruke variasjoner i tyngdefeltet for å studere bevegelser i astenosfæren?",
+  "f": ""
+ },
+ {
+  "id": "5676bc3bce",
+  "art": "tenk",
+  "q": "Er det bare landhevning som kan føre til strandsonen kommer lavere i forhold til landmassen?",
+  "f": ""
+ },
+ {
+  "id": "fb3103d44a",
+  "art": "tenk",
+  "q": "Hva var årsakene til at havnivået steg, og at landmassen samtidig hevet seg?",
+  "f": ""
+ },
+ {
+  "id": "dee76f950c",
+  "art": "tenk",
+  "q": "Hvordan tror du landskapet så ut like etter at innlandsisen var smeltet bort fra området?",
+  "f": ""
+ },
+ {
+  "id": "22cddc591f",
+  "art": "tenk",
+  "q": "Hvilke jordarter kan du vente å finne henholdsvis over og under marin grense?",
+  "f": ""
+ },
+ {
+  "id": "d20b04b302",
+  "art": "tenk",
+  "q": "Hva betyr det at området ligger under marin grense?",
+  "f": ""
+ },
+ {
+  "id": "21bafe279a",
+  "art": "tenk",
+  "q": "Hvordan er landformene og landskapet forskjellig nordøst og sørvest for riksvei 35 (se på kartet)? Hva kaller vi et slikt landskap som vi finner sørvest for riksveien?",
+  "f": ""
+ },
+ {
+  "id": "0fa15995d3",
+  "art": "tenk",
+  "q": "Hvor er det flest bekker og elver: på Gardermoen eller sørvest for riksvei 35? Hvorfor er det slik, tror du?",
+  "f": ""
+ },
+ {
+  "id": "4316d73d73",
+  "art": "tenk",
+  "q": "Hva betyr det at det er «et fall i relativt havnivå på 12 cm i Oslo, mens det er en stigning på 5 cm i Stavanger»?",
+  "f": ""
+ },
+ {
+  "id": "4c85fbc841",
+  "art": "tenk",
+  "q": "Hvilken sammenheng er det mellom økningen i det globale havnivået, landhevningen i Skandinavia og strandlinjens høyde i forhold til landmassen?",
+  "f": ""
+ },
+ {
+  "id": "ff472acbd6",
+  "art": "sporsmal",
+  "q": "Beskriv hvordan skjærgårdskysten ser ut. Hvor på norskekysten finner vi denne kysttypen?",
+  "f": ""
+ },
+ {
+  "id": "cb01996c3c",
+  "art": "sporsmal",
+  "q": "Hva er strandflaten, og hvor på kysten finnes denne kysttypen?",
+  "f": ""
+ },
+ {
+  "id": "9637c6062a",
+  "art": "sporsmal",
+  "q": "Hvordan er fjordkysten og næringskysten dannet?",
+  "f": ""
+ },
+ {
+  "id": "5e81f8060c",
+  "art": "sporsmal",
+  "q": "Hva skiller løsmassekysten fra andre norske kysttyper?",
+  "f": ""
+ },
+ {
+  "id": "6abf13b596",
+  "art": "hvatrordu",
+  "q": "Hvilke landformer på land har vært utgangspunktet for fjordkysten? Enn for næringskysten?",
+  "f": ""
+ },
+ {
+  "id": "c73714944e",
+  "art": "hvatrordu",
+  "q": "Hvordan er skjærgårdskysten dannet?",
+  "f": ""
+ },
+ {
+  "id": "902277044d",
+  "art": "hvatrordu",
+  "q": "Hva er forskjellen på en skjærgårdskyst og strandflaten?",
+  "f": ""
+ },
+ {
+  "id": "2497981292",
+  "art": "hvatrordu",
+  "q": "Hvordan er strandflaten dannet?",
+  "f": ""
+ },
+ {
+  "id": "373e05ea39",
+  "art": "sporsmal",
+  "q": "Hva er årsaken til dagens landhevning i Skandinavia?",
+  "f": ""
+ },
+ {
+  "id": "61021422bb",
+  "art": "sporsmal",
+  "q": "Hva er marin grense?",
+  "f": ""
+ },
+ {
+  "id": "05cef229c1",
+  "art": "sporsmal",
+  "q": "Hva er et ravinelandskap?",
+  "f": ""
+ },
+ {
+  "id": "830e98e7c5",
+  "art": "sporsmal",
+  "q": "Hvordan forandrer havnivået langs norskekysten seg i dag?",
+  "f": ""
+ },
+ {
+  "id": "8500c01394",
+  "art": "hvatrordu",
+  "q": "Forklar hva som skjer med landoverflaten når en innlandsis bygger seg opp – og når den smelter igjen.",
+  "f": ""
+ },
+ {
+  "id": "135daf3ad2",
+  "art": "hvatrordu",
+  "q": "Hva kan grunnen være til at høyden på marin grense ikke viser den totale landhevningen i Norge?",
+  "f": ""
+ },
+ {
+  "id": "239208fa23",
+  "art": "hvatrordu",
+  "q": "Bor du ved kysten? (Mini-feltoppgave)",
+  "f": ""
+ },
+ {
+  "id": "e6bf60e5f1",
+  "art": "hvatrordu",
+  "q": "Kartverket har laget et interaktivt kart som viser havnivået langs norskekysten fram mot 2090. Klikk på denne lenken [www.kartverket.no](https://www.kartverket.no) og søk på «Havnivå i kart». Kartet viser kystområder som kan bli berørt av havnnivåstigning og ekstreme vannstandsnivåer i framtiden.",
+  "f": ""
+ },
+ {
+  "id": "3625743b4c",
+  "art": "hvatrordu",
+  "q": "Informasjonen på kartet forteller at «landhevningen som pågår etter siste istid, er tatt med i beregningene». Hva betyr det? Hva er det Kartverket egentlig beregner? Er det økningen i havnivået, eller er det hevningen av strandlinjen (økningen av havnivået i forhold til landmassen) de beregner?",
+  "f": ""
+ },
+ {
+  "id": "8a1bf1c889",
+  "art": "hvatrordu",
+  "q": "Zoom ut, flytt deg rundt på norskekysten og venstreklikk på kartet underveis. Da får du opp den havnivåstigningen i forhold til landmassen som er forventet fram til 2090 akkurat der. Hvorfor er den ikke lik overalt? Finner du et mønster som gir deg forklaringen?",
+  "f": ""
+ },
+ {
+  "id": "e22caee211",
+  "art": "hvatrordu",
+  "q": "Klikk på [www.kartverket.no](https://www.kartverket.no), og søk på «Havnivå i kart». Velg et sted på kysten. Gjør deg kjent med hvordan du kan zoome ut og inn på kartet som vises på skjermen. Hvilken vei må du zoome for å få fram detaljer i kartet?",
+  "f": ""
+ },
+ {
+  "id": "ac3ccd611d",
+  "art": "hvatrordu",
+  "q": "Velg deg en del av kysten du kjenner. Bruk og beskriv hvordan kystlandskapet vil se ut i 2090. Kanskje har du en favorittstrand der? Hvordan vil det gå med den i årene som kommer? Skriv ut et kart som viser endringene i kystlandskapet.",
+  "f": ""
+ },
+ {
+  "id": "9a670b4c3d",
+  "art": "kapitteloppgave",
+  "q": "skjærgårdskyst – strandflate – restfjell",
+  "f": ""
+ },
+ {
+  "id": "807d169de9",
+  "art": "kapitteloppgave",
+  "q": "fjordkyst – næringskyst – viddelandskap",
+  "f": ""
+ },
+ {
+  "id": "6cd741351e",
+  "art": "kapitteloppgave",
+  "q": "fjordkyst – U-daler – alpint landskap",
+  "f": ""
+ },
+ {
+  "id": "670d0decb9",
+  "art": "kapitteloppgave",
+  "q": "næringskyst – vidde – V-daler",
+  "f": ""
+ },
+ {
+  "id": "72947a0dff",
+  "art": "kapitteloppgave",
+  "q": "strandvoll – endemorene – strandlinje",
+  "f": ""
+ },
+ {
+  "id": "7876e58ab1",
+  "art": "kapitteloppgave",
+  "q": "landhevning– platetektoniske krefter – isostasi",
+  "f": ""
+ },
+ {
+  "id": "71ed51ddf6",
+  "art": "kapitteloppgave",
+  "q": "global oppvarming – landhevning – økt havnivå",
+  "f": ""
+ },
+ {
+  "id": "f639b87d56",
+  "art": "kapitteloppgave",
+  "q": "Skjærgårdskysten dannes der et viddelandskap dukker i havet.",
+  "f": ""
+ },
+ {
+  "id": "0227514250",
+  "art": "kapitteloppgave",
+  "q": "«Fjordene» på skjærgårdskysten er ikke ekte fjorder.",
+  "f": ""
+ },
+ {
+  "id": "40916733c2",
+  "art": "kapitteloppgave",
+  "q": "Strandflaten består av lave, flate øyer med grunt hav mellom.",
+  "f": ""
+ },
+ {
+  "id": "bef933c006",
+  "art": "kapitteloppgave",
+  "q": "En ekte fjord er en «druknet» U-dal.",
+  "f": ""
+ },
+ {
+  "id": "cc9a69d470",
+  "art": "kapitteloppgave",
+  "q": "Næringskysten dannes der et viddelandskap stuper i havet.",
+  "f": ""
+ },
+ {
+  "id": "71be1e2500",
+  "art": "kapitteloppgave",
+  "q": "Løsmassekysten består av sand- og rullesteinstrender.",
+  "f": ""
+ },
+ {
+  "id": "4d87e2cdf1",
+  "art": "kapitteloppgave",
+  "q": "Strandvoller høyt over dagens havnivå er et bevis på at landet har hevet seg.",
+  "f": ""
+ },
+ {
+  "id": "51999904a2",
+  "art": "kapitteloppgave",
+  "q": "Tyngden av innlandsisen påvirker astenosfæren.",
+  "f": ""
+ },
+ {
+  "id": "77ba8e0b60",
+  "art": "kapitteloppgave",
+  "q": "Leiravsetningene langs kysten ble avsatt av smeltevann fra innlandsisen.",
+  "f": ""
+ },
+ {
+  "id": "3e25b035a9",
+  "art": "kapitteloppgave",
+  "q": "De største områdene med marin leire finner vi på Vestlandet.",
+  "f": ""
+ },
+ {
+  "id": "9539e81010",
+  "art": "kapitteloppgave",
+  "q": "Global oppvarming kan føre til at verdenshavene stiger.",
+  "f": ""
+ },
+ {
+  "id": "a8409410d6",
+  "art": "kapitteloppgave",
+  "q": "Landhevningen i framtiden kan beregnes – den er forutsigbar.",
+  "f": ""
+ },
+ {
+  "id": "a823c66750",
+  "art": "kapitteloppgave",
+  "q": "Global oppvarming lar seg ikke beregne i framtiden – den er ikke forutsigbar.",
+  "f": ""
+ }
+]

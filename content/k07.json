@@ -81,13 +81,11 @@
           "t": "figur",
           "nr": "7.2",
           "tekst": "Utbredelsen av ulike jordarter i Norge"
-        }
-      ]
-    },
-    {
-      "tittel": "De ulike kornstørrelsene",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "De ulike kornstørrelsene"
+        },
         {
           "t": "figur",
           "nr": "7.3",
@@ -210,13 +208,11 @@
         {
           "t": "p",
           "tekst": "Under siste istid ble landoverflaten presset ned under tyngden av innlandsisen. Da isen smeltet, tok det tid før landoverflaten igjen hevet seg. Etter hvert som brefronten smeltet tilbake, fulgte havet etter innover land. Store landområder, som for eksempel rundt Oslofjorden (figur 7.7) og Trondheimsfjorden, ble liggende under vann, og det ble avsatt tykke lag av leire på havbunnen. Den øvre grensen for havnivået i forhold til landmassen kaller vi den marine grensen."
-        }
-      ]
-    },
-    {
-      "tittel": "Spade blir trykket ned i leirjord av en fot. Grått vann legger seg over jorda",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Spade blir trykket ned i leirjord av en fot. Grått vann legger seg over jorda"
+        },
         {
           "t": "figur",
           "nr": "7.7",
@@ -248,13 +244,11 @@
         {
           "t": "p",
           "tekst": "Myrjord består av organisk materiale som er dannet ved nedbrytning av planterester (humus)."
-        }
-      ]
-    },
-    {
-      "tittel": "Lite vann omkranset av myr. I ferd med å gro igjen med siv og Vannliljer",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Lite vann omkranset av myr. I ferd med å gro igjen med siv og Vannliljer"
+        },
         {
           "t": "figur",
           "nr": "7.8",
@@ -328,13 +322,11 @@
           "t": "tenk",
           "tekst": "Hvor lang tid, sånn omtrent, tar det før tallet på karbon-14-isotoper i figur 7.10 er redusert til 12,5 prosent av det opprinnelige?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Graf",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Graf"
+        },
         {
           "t": "figur",
           "nr": "7.10",
@@ -343,12 +335,12 @@
       ]
     },
     {
-      "tittel": "Under fanen «Landskap» i venstre marg finner du",
+      "tittel": "Klikk på https://geo.ngu.no/kart/minkommune/",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Klikk på https://geo.ngu.no/kart/minkommune/"
+          "tekst": "Under fanen «Landskap» i venstre marg finner du"
         },
         {
           "t": "p",
@@ -403,7 +395,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 102,
-      "del": "Graf",
+      "del": "Aldersbestemmelse av organisk materiale",
       "poster": [
         {
           "q": "Hva menes med begrepene løsmasser, jord, jordart og jordsmonn?",
@@ -431,7 +423,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Graf",
+      "del": "Aldersbestemmelse av organisk materiale",
       "poster": [
         {
           "q": "Smeltevannsavsetninger består av sand og grus. Hva er det som har smeltet?",
@@ -455,7 +447,7 @@
       "art": "oppgave",
       "overskrift": "OPPGAVER",
       "side": null,
-      "del": "Graf",
+      "del": "Aldersbestemmelse av organisk materiale",
       "poster": [
         {
           "q": "Løsmasser i ditt nærområde (mini-feltarbeid)",
@@ -490,8 +482,7 @@
           "gruppe": "Bunnmorene – morene – smeltevannsavsetninger"
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Jord, løsmasser og jordsmonn er det samme.",

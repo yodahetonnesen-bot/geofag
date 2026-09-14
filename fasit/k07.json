@@ -1,0 +1,182 @@
+[
+ {
+  "id": "5466904053",
+  "art": "tenk",
+  "q": "Hvilke jordarter finner du i nærområdet ditt?",
+  "f": ""
+ },
+ {
+  "id": "4f0328c45c",
+  "art": "tenk",
+  "q": "Er det noe på bildet i figur 7.5 som forteller hva slags avsetninger dette er?",
+  "f": ""
+ },
+ {
+  "id": "21c65f0f36",
+  "art": "tenk",
+  "q": "Hva tror du kan være fordelene ved å bruke grunnvann i stedet for overflatevann (elver og innsjøer) som drikkevannskilde?",
+  "f": ""
+ },
+ {
+  "id": "e6791d0b41",
+  "art": "tenk",
+  "q": "Hva er finsand?",
+  "f": ""
+ },
+ {
+  "id": "08b9305126",
+  "art": "tenk",
+  "q": "Leire, silt eller sand?",
+  "f": ""
+ },
+ {
+  "id": "46931df60c",
+  "art": "tenk",
+  "q": "Hva er vannmettet jord?",
+  "f": ""
+ },
+ {
+  "id": "62121bf35e",
+  "art": "tenk",
+  "q": "Hvor lang tid, sånn omtrent, tar det før tallet på karbon-14-isotoper i figur 7.10 er redusert til 12,5 prosent av det opprinnelige?",
+  "f": ""
+ },
+ {
+  "id": "a87714c80b",
+  "art": "tenk",
+  "q": "Kanskje er det mulig å hente inn løsmasseprøver i forbindelse med en ekskursjon eller et feltarbeid?",
+  "f": ""
+ },
+ {
+  "id": "7e075c3ee6",
+  "art": "tenk",
+  "q": "Hva forteller et slikt funn om klimaet den gangen furua vokste på Hardangervidda?",
+  "f": ""
+ },
+ {
+  "id": "ef5a282a81",
+  "art": "tenk",
+  "q": "I Gudbrandsdalen er det gjort 18 funn av tann- og beinrester fra mammut. I en av beinrestene er forholdet mellom de to karbonisotopene målt til 1/256 av tilsvarende forhold i atmosfæren. Hvor gammel er beinresten?",
+  "f": ""
+ },
+ {
+  "id": "b8f8162c48",
+  "art": "sporsmal",
+  "q": "Hva menes med begrepene løsmasser, jord, jordart og jordsmonn?",
+  "f": ""
+ },
+ {
+  "id": "52a12a4544",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på organisk jord og mineraljord?",
+  "f": ""
+ },
+ {
+  "id": "85253f9112",
+  "art": "sporsmal",
+  "q": "Hva er torv?",
+  "f": ""
+ },
+ {
+  "id": "a9ee82b31e",
+  "art": "sporsmal",
+  "q": "Hvilke jordarter er vanligst i Norge? Hvordan er de dannet?",
+  "f": ""
+ },
+ {
+  "id": "7fa01a923b",
+  "art": "sporsmal",
+  "q": "Hvilke kjennetegn bruker vi for å skille jordartene fra hverandre?",
+  "f": ""
+ },
+ {
+  "id": "2917202f79",
+  "art": "hvatrordu",
+  "q": "Smeltevannsavsetninger består av sand og grus. Hva er det som har smeltet?",
+  "f": ""
+ },
+ {
+  "id": "293b6b9f13",
+  "art": "hvatrordu",
+  "q": "Hvilket samlebegrep bruker vi for løsmassene i elvevifter, elvesletter og deltaer?",
+  "f": ""
+ },
+ {
+  "id": "7e4c8f5d66",
+  "art": "hvatrordu",
+  "q": "Hvordan er elveavsetninger og smeltevannsavsetninger forskjellige?",
+  "f": ""
+ },
+ {
+  "id": "56573350ab",
+  "art": "hvatrordu",
+  "q": "Myrene er karbonlagre. Oppdyrking, hyttebygging og veibygging på myrer kan påvirke klimaet – på hvilken måte?",
+  "f": ""
+ },
+ {
+  "id": "4286e70ca6",
+  "art": "oppgave",
+  "q": "Løsmasser i ditt nærområde (mini-feltarbeid)",
+  "f": ""
+ },
+ {
+  "id": "252c162364",
+  "art": "kapitteloppgave",
+  "q": "Her er noen faguttrykk, samlet i grupper på tre, fra dette kapitlet. Finn et faguttrykk fra hver gruppe som ikke passer inn – du skal finne ett som skal ut. Begrunn valget!",
+  "f": ""
+ },
+ {
+  "id": "cd5a209dad",
+  "art": "kapitteloppgave",
+  "q": "Det kan være flere mulige løsninger – med ulike begrunnelser! Prøv å lage noen «én skal ut»-oppgaver selv. Test dem på noen rundt deg.",
+  "f": ""
+ },
+ {
+  "id": "0d0adbe26e",
+  "art": "kapitteloppgave",
+  "q": "Jord, løsmasser og jordsmonn er det samme.",
+  "f": ""
+ },
+ {
+  "id": "1e2914423b",
+  "art": "kapitteloppgave",
+  "q": "Myrjord er en organisk jordart.",
+  "f": ""
+ },
+ {
+  "id": "630ae0226d",
+  "art": "kapitteloppgave",
+  "q": "Myrjord og torv er det samme.",
+  "f": ""
+ },
+ {
+  "id": "5e11b1cb8d",
+  "art": "kapitteloppgave",
+  "q": "Det finnes ikke morene langs kysten.",
+  "f": ""
+ },
+ {
+  "id": "3c8a026bd6",
+  "art": "kapitteloppgave",
+  "q": "Morenejord er sortert materiale.",
+  "f": ""
+ },
+ {
+  "id": "f984d4fe43",
+  "art": "kapitteloppgave",
+  "q": "Smeltevannsavsetninger inneholder kantete steiner.",
+  "f": ""
+ },
+ {
+  "id": "80bd84f915",
+  "art": "kapitteloppgave",
+  "q": "Havavsetninger består av dårlig sortert leire.",
+  "f": ""
+ },
+ {
+  "id": "e9787922cc",
+  "art": "kapitteloppgave",
+  "q": "Næringsrikt grunnvann kan gi artsrike myrer.",
+  "f": ""
+ }
+]

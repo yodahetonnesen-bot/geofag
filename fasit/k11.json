@@ -1,0 +1,656 @@
+[
+ {
+  "id": "9dedcf3351",
+  "art": "tenk",
+  "q": "Hvordan dannes petroleum?",
+  "f": ""
+ },
+ {
+  "id": "ad91872ca3",
+  "art": "tenk",
+  "q": "Kan utvinning av petroleum være bærekraftig?",
+  "f": ""
+ },
+ {
+  "id": "6256f04f9c",
+  "art": "tenk",
+  "q": "Skal Norge fortsette å lete etter olje og gass?",
+  "f": ""
+ },
+ {
+  "id": "e3e8055aa0",
+  "art": "sporsmal",
+  "q": "Hva slags materiale er olje og gass (petroleum) dannet av?",
+  "f": ""
+ },
+ {
+  "id": "c4f9bf800d",
+  "art": "sporsmal",
+  "q": "Hva er hydrokarboner?",
+  "f": ""
+ },
+ {
+  "id": "a4d804a475",
+  "art": "sporsmal",
+  "q": "Hva er et sedimentasjonsbasseng og hvordan dannes det?",
+  "f": ""
+ },
+ {
+  "id": "249e9bccfa",
+  "art": "sporsmal",
+  "q": "Forklar hva geologene mener med kildebergart, migrasjon og reservoar.",
+  "f": ""
+ },
+ {
+  "id": "4b0735a2d4",
+  "art": "sporsmal",
+  "q": "Hva kaller vi prosessen der kildemateriale blir omdannet til olje og gass?",
+  "f": ""
+ },
+ {
+  "id": "9586519366",
+  "art": "sporsmal",
+  "q": "Hva er olje- og gassvinduene i modningsprosessen?",
+  "f": ""
+ },
+ {
+  "id": "f5b1725170",
+  "art": "sporsmal",
+  "q": "Hva avgjør når en leirskifer, rik på organisk materiale, blir moden?",
+  "f": ""
+ },
+ {
+  "id": "bce7fea44e",
+  "art": "sporsmal",
+  "q": "Hvilke forutsetninger må være oppfylt for at det skal dannes et petroleumsreservoar?",
+  "f": ""
+ },
+ {
+  "id": "fd0cf9a976",
+  "art": "sporsmal",
+  "q": "Hva er Draupneformasjonen?",
+  "f": ""
+ },
+ {
+  "id": "795de45eb2",
+  "art": "hvatrordu",
+  "q": "Hvorfor ligger de modne leirskifrene fra senjura et stykke ut fra norskekysten?",
+  "f": ""
+ },
+ {
+  "id": "f230c67e82",
+  "art": "hvatrordu",
+  "q": "Hva har den geotermiske gradienten å bety for modningsprosessen?",
+  "f": ""
+ },
+ {
+  "id": "832a08aed0",
+  "art": "sporsmal",
+  "q": "Hva er en olje- og gassfelle, og hvorfor er det slike feller oljeselskapene leter etter?",
+  "f": ""
+ },
+ {
+  "id": "b14115ed1c",
+  "art": "sporsmal",
+  "q": "Hvor blir det av oljen og gassen som ikke fanges opp av feller?",
+  "f": ""
+ },
+ {
+  "id": "e2a17613c2",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på forkastningsfeller, foldefeller og feller knyttet til saltdomer?",
+  "f": ""
+ },
+ {
+  "id": "f73fc1d5df",
+  "art": "sporsmal",
+  "q": "Hva er en reservoarbergart?",
+  "f": ""
+ },
+ {
+  "id": "96af97dd27",
+  "art": "sporsmal",
+  "q": "Hvilken bergart er vanligst som takbergart?",
+  "f": ""
+ },
+ {
+  "id": "169958488f",
+  "art": "sporsmal",
+  "q": "Hvilke metoder brukes for å lete etter olje og gass på sokkelen?",
+  "f": ""
+ },
+ {
+  "id": "7faf50e4b9",
+  "art": "sporsmal",
+  "q": "Hvilke undersøkelser må gjøres til slutt for å bekrefte et petroleumsfunn?",
+  "f": ""
+ },
+ {
+  "id": "7fdf91b75b",
+  "art": "hvatrordu",
+  "q": "Hvilken betydning har porøsitet og permeabilitet for en reservoarbergart?",
+  "f": ""
+ },
+ {
+  "id": "9aa8232442",
+  "art": "hvatrordu",
+  "q": "Kvartskorn er vanlig i sandsteiner som er avsatt nær kysten – hvor er det blitt av de andre mineralene?",
+  "f": ""
+ },
+ {
+  "id": "345a0df1d7",
+  "art": "hvatrordu",
+  "q": "Hva gjør kalkstein til en annerledes reservoarbergart?",
+  "f": ""
+ },
+ {
+  "id": "5a100903a0",
+  "art": "hvatrordu",
+  "q": "Geofysiske målinger brukes i leting etter olje og gass – hvordan gjennomføres de?",
+  "f": ""
+ },
+ {
+  "id": "f4340b6082",
+  "art": "hvatrordu",
+  "q": "Hva er havbunnslogging?",
+  "f": ""
+ },
+ {
+  "id": "79fb5e0ea7",
+  "art": "hvatrordu",
+  "q": "Hvorfor bores det avgrensningsbrønner?",
+  "f": ""
+ },
+ {
+  "id": "ee2bfbc4c8",
+  "art": "hvatrordu",
+  "q": "Hva menes med å «logge borehullet» i en letebrønn?",
+  "f": ""
+ },
+ {
+  "id": "e8c39fc10b",
+  "art": "hvatrordu",
+  "q": "Hva betyr det at et olje- eller gassfelt i begynnelsen «produserer seg selv»?",
+  "f": ""
+ },
+ {
+  "id": "4e7760009c",
+  "art": "hvatrordu",
+  "q": "Hva skjer ved en «utblåsning»?",
+  "f": ""
+ },
+ {
+  "id": "0ebb577bc6",
+  "art": "hvatrordu",
+  "q": "Hvordan kan man øke utvinningsgraden (øke feltets levetid) på et felt?",
+  "f": ""
+ },
+ {
+  "id": "dc88e2fb5c",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på en letebrønn og en avgrensningsbrønn?",
+  "f": ""
+ },
+ {
+  "id": "a1b7c63cd5",
+  "art": "sporsmal",
+  "q": "Hva er en produksjonsbrønn?",
+  "f": ""
+ },
+ {
+  "id": "ae2c462db8",
+  "art": "sporsmal",
+  "q": "Hvordan er det naturlige trykket, gassdrivet og vanndrivet med på drive petroleum opp gjennom en produksjonsbrønn?",
+  "f": ""
+ },
+ {
+  "id": "a18b002a81",
+  "art": "sporsmal",
+  "q": "Hvordan kan det lages et kunstig gass- og vanndriv?",
+  "f": ""
+ },
+ {
+  "id": "356f033289",
+  "art": "sporsmal",
+  "q": "Når begynte olje- og gassvirksomheten på norsk sokkel?",
+  "f": ""
+ },
+ {
+  "id": "612955f88e",
+  "art": "sporsmal",
+  "q": "Hvilke reservoarbergarter er vanligst på sokkelen?",
+  "f": ""
+ },
+ {
+  "id": "70136f062d",
+  "art": "sporsmal",
+  "q": "Hva heter det største gassfeltet på den norske kontinentalsokkelen?",
+  "f": ""
+ },
+ {
+  "id": "cee0ab0972",
+  "art": "sporsmal",
+  "q": "Hvor store er norske olje- og gassprodusenter i verdensmålestokk?",
+  "f": ""
+ },
+ {
+  "id": "bd043d1076",
+  "art": "hvatrordu",
+  "q": "I hvilke bergarter finnes de fleste petroleumsreservene på sokkelen?",
+  "f": ""
+ },
+ {
+  "id": "b2d3b382ee",
+  "art": "hvatrordu",
+  "q": "Hva tror du vil bli avgjørende for hvor lenge petroleumsvirksomheten på norsk sokkel vil vare?",
+  "f": ""
+ },
+ {
+  "id": "2f6cabf04a",
+  "art": "sporsmal",
+  "q": "Hvor stor del av Norges totale eksportinntekter kommer fra petroleumssektoren?",
+  "f": ""
+ },
+ {
+  "id": "c3256e81f1",
+  "art": "sporsmal",
+  "q": "Hvor mye petroleumsressurser regner man med at det ligger igjen på sokkelen – sammenlignet med det som er produsert til nå?",
+  "f": ""
+ },
+ {
+  "id": "f9f25f390e",
+  "art": "sporsmal",
+  "q": "Hvordan bruker staten de store inntektene fra olje- og gasseksporten?",
+  "f": ""
+ },
+ {
+  "id": "076061c48a",
+  "art": "sporsmal",
+  "q": "Hva er det som gjør petroleumsressurser til petroleumsreserver?",
+  "f": ""
+ },
+ {
+  "id": "81dcaf340e",
+  "art": "sporsmal",
+  "q": "Hva er utsiktene for produksjonen av olje og gass i de nærmeste ti-årene?",
+  "f": ""
+ },
+ {
+  "id": "177cc4afc5",
+  "art": "sporsmal",
+  "q": "Hva er «1,5 °C-målet»?",
+  "f": ""
+ },
+ {
+  "id": "8b32741d7b",
+  "art": "sporsmal",
+  "q": "Hvor stor del av verdens energiforbruk dekkes i dag av fossile energikilder?",
+  "f": ""
+ },
+ {
+  "id": "e7358b73f1",
+  "art": "sporsmal",
+  "q": "Hva menes med begrepet «karbonavtrykk»?",
+  "f": ""
+ },
+ {
+  "id": "2c27e0298d",
+  "art": "sporsmal",
+  "q": "Hva er fordelene og ulempene ved å elektrifisere sokkelen?",
+  "f": ""
+ },
+ {
+  "id": "2ffb1ad802",
+  "art": "sporsmal",
+  "q": "Hva ligger i begrepene karbonfangst og karbonlagring?",
+  "f": ""
+ },
+ {
+  "id": "c29dc3eede",
+  "art": "sporsmal",
+  "q": "Hydrogen er en fornybar energikilde. Hva er forskjellen på grått, blått og grønt hydrogen?",
+  "f": ""
+ },
+ {
+  "id": "3a7a502e8e",
+  "art": "kapitteloppgave",
+  "q": "migrasjon – kildebergart – reservoar",
+  "f": ""
+ },
+ {
+  "id": "c7d700faa4",
+  "art": "kapitteloppgave",
+  "q": "modning – felle – takbergart",
+  "f": ""
+ },
+ {
+  "id": "5f744a80f6",
+  "art": "kapitteloppgave",
+  "q": "graben – innsynkning – horst",
+  "f": ""
+ },
+ {
+  "id": "63f7acafc7",
+  "art": "kapitteloppgave",
+  "q": "leirskifer – granitt – kildebergart",
+  "f": ""
+ },
+ {
+  "id": "8916e2b525",
+  "art": "kapitteloppgave",
+  "q": "oljevindu – gassvindu – glassvindu",
+  "f": ""
+ },
+ {
+  "id": "db6a6ff011",
+  "art": "kapitteloppgave",
+  "q": "geotermisk gradient – temperaturmåling 35 °C/km",
+  "f": ""
+ },
+ {
+  "id": "f68651b2f1",
+  "art": "kapitteloppgave",
+  "q": "petroleum – vann – hydrokarboner",
+  "f": ""
+ },
+ {
+  "id": "25d1c00f60",
+  "art": "kapitteloppgave",
+  "q": "steinsalt – leirskifer – breis",
+  "f": ""
+ },
+ {
+  "id": "65007b2fb8",
+  "art": "kapitteloppgave",
+  "q": "forkastning – folding – oppsprekking",
+  "f": ""
+ },
+ {
+  "id": "de2058cc2a",
+  "art": "kapitteloppgave",
+  "q": "sandstein – reservoar – leirskifer",
+  "f": ""
+ },
+ {
+  "id": "988d17fb9d",
+  "art": "kapitteloppgave",
+  "q": "takbergart – sandstein – leirskifer",
+  "f": ""
+ },
+ {
+  "id": "16ae392dd7",
+  "art": "kapitteloppgave",
+  "q": "sandstein – kildebergart – leirskifer",
+  "f": ""
+ },
+ {
+  "id": "189e4e9388",
+  "art": "kapitteloppgave",
+  "q": "seismikk – dynamikk – gravimetri",
+  "f": ""
+ },
+ {
+  "id": "4ed6f9ea26",
+  "art": "kapitteloppgave",
+  "q": "logging av en letebrønn – havbunnslogging – seismikk",
+  "f": ""
+ },
+ {
+  "id": "76737d7f33",
+  "art": "kapitteloppgave",
+  "q": "gassdriv – vanndriv – kunstig gassdriv",
+  "f": ""
+ },
+ {
+  "id": "49a470dddb",
+  "art": "kapitteloppgave",
+  "q": "forekomster – ressurser – reserver",
+  "f": ""
+ },
+ {
+  "id": "dd9473b6ba",
+  "art": "kapitteloppgave",
+  "q": "petroleum –fornybar ressurs – olje",
+  "f": ""
+ },
+ {
+  "id": "adbc83ea11",
+  "art": "kapitteloppgave",
+  "q": "karbonavtrykk – bærekraft – tyngden av kull",
+  "f": ""
+ },
+ {
+  "id": "8d871cf1dd",
+  "art": "kapitteloppgave",
+  "q": "elektrifisering av plattformene – klimagasser – gasskraft",
+  "f": ""
+ },
+ {
+  "id": "b65731146b",
+  "art": "kapitteloppgave",
+  "q": "grått hydrogen – ikke utslipp av klimagasser – grønt hydrogen",
+  "f": ""
+ },
+ {
+  "id": "681105d289",
+  "art": "kapitteloppgave",
+  "q": "Petroleum pumpes alltid opp fra kildebergarten.",
+  "f": ""
+ },
+ {
+  "id": "43d6ca0875",
+  "art": "kapitteloppgave",
+  "q": "En takbergart hindrer olje og gass i å forsvinne ut av et reservoar.",
+  "f": ""
+ },
+ {
+  "id": "79ff151bab",
+  "art": "kapitteloppgave",
+  "q": "Olje og gass migrerer alltid oppover i jordskorpa.",
+  "f": ""
+ },
+ {
+  "id": "38e0e84c88",
+  "art": "kapitteloppgave",
+  "q": "Dersom petroleum ikke blir fanget i en felle, vil den forsvinne ut i atmosfæren.",
+  "f": ""
+ },
+ {
+  "id": "5161706cee",
+  "art": "kapitteloppgave",
+  "q": "Et sedimentasjonsbasseng er en innsynkning i jordskorpa.",
+  "f": ""
+ },
+ {
+  "id": "e346f66eb2",
+  "art": "kapitteloppgave",
+  "q": "Draupneformasjonen består av sandstein og er den viktigste kildebergarten i Nordsjøen.",
+  "f": ""
+ },
+ {
+  "id": "5b7ee0de70",
+  "art": "kapitteloppgave",
+  "q": "Temperatur er avgjørende for om det dannes gass eller olje i en kildebergart.",
+  "f": ""
+ },
+ {
+  "id": "fe0e293aa1",
+  "art": "kapitteloppgave",
+  "q": "Den geotermiske gradienten i havbunnen under Nordsjøen er 10 °C/kilometer.",
+  "f": ""
+ },
+ {
+  "id": "006b4e2c8e",
+  "art": "kapitteloppgave",
+  "q": "En olje- eller gassfelle er alltid i nærheten av kildebergarten.",
+  "f": ""
+ },
+ {
+  "id": "39e3fb954b",
+  "art": "kapitteloppgave",
+  "q": "En kildebergart er alltid eldre enn reservoarbergarten.",
+  "f": ""
+ },
+ {
+  "id": "b24838f35b",
+  "art": "kapitteloppgave",
+  "q": "Steinsalt må ha blitt plastisk for å kunne danne saltdomefeller.",
+  "f": ""
+ },
+ {
+  "id": "80260907c3",
+  "art": "kapitteloppgave",
+  "q": "Lav permeabilitet gjør at oljen strømmer langsomt gjennom en bergart.",
+  "f": ""
+ },
+ {
+  "id": "9d8a525c0a",
+  "art": "kapitteloppgave",
+  "q": "En leirskifer kan være både takbergart og kildebergart samtidig.",
+  "f": ""
+ },
+ {
+  "id": "170d944665",
+  "art": "kapitteloppgave",
+  "q": "Sedimentasjonsbasseng inneholder alltid petroleum.",
+  "f": ""
+ },
+ {
+  "id": "338e07bd8c",
+  "art": "kapitteloppgave",
+  "q": "Seismikk brukes til å finne olje- og gassfeller.",
+  "f": ""
+ },
+ {
+  "id": "c238d3ec9d",
+  "art": "kapitteloppgave",
+  "q": "Avgrensningsbrønner bores før letebrønner.",
+  "f": ""
+ },
+ {
+  "id": "3e9b4a12ca",
+  "art": "kapitteloppgave",
+  "q": "Logging av et borehull skjer i selve borehullet.",
+  "f": ""
+ },
+ {
+  "id": "7c98619d28",
+  "art": "kapitteloppgave",
+  "q": "Det oppstår et naturlig gassdriv og vanndriv når det pumpes opp olje eller gass fra et reservoar.",
+  "f": ""
+ },
+ {
+  "id": "793db280e6",
+  "art": "kapitteloppgave",
+  "q": "Ekofiskfeltet produserer olje fra en forkastningsfelle.",
+  "f": ""
+ },
+ {
+  "id": "174ed3b7c6",
+  "art": "kapitteloppgave",
+  "q": "Etter 2010 har gassproduksjonen vært større enn oljeproduksjonen på norsk sokkel.",
+  "f": ""
+ },
+ {
+  "id": "cbb396c8e0",
+  "art": "kapitteloppgave",
+  "q": "Snøhvitfeltet i Barentshavet produserer gass uten at det synes på havoverflaten.",
+  "f": ""
+ },
+ {
+  "id": "94848f3c8d",
+  "art": "kapitteloppgave",
+  "q": "Norge er den største gassprodusenten i verden.",
+  "f": ""
+ },
+ {
+  "id": "b84c67bdad",
+  "art": "kapitteloppgave",
+  "q": "Det er like mye uoppdaget petroleum igjen på sokkelen som det er produsert til nå.",
+  "f": ""
+ },
+ {
+  "id": "598156ed34",
+  "art": "kapitteloppgave",
+  "q": "Elektrifisering på sokkelen betyr at det ikke lenger skal produseres varmekraft på plattformene.",
+  "f": ""
+ },
+ {
+  "id": "1cece38561",
+  "art": "kapitteloppgave",
+  "q": "Karbonfangst og karbonlagring kan minske utslippet av klimagasser.",
+  "f": ""
+ },
+ {
+  "id": "fe1e69a960",
+  "art": "kapitteloppgave",
+  "q": "Blått hydrogen produseres ved hjelp av vannkraft.",
+  "f": ""
+ },
+ {
+  "id": "25132c3403",
+  "art": "kapitteloppgave",
+  "q": "Se på det geologiske snittet fra sokkelen i Nordsjøen i figur 11.15 på side 177 i dette kapitlet. Se også på kartet i figur 10.9 i kapittel 10.",
+  "f": ""
+ },
+ {
+  "id": "6902fd5e4d",
+  "art": "kapitteloppgave",
+  "q": "Snittet er en tolkning av seismiske undersøkelser på sokkelen. Hvordan kommer det fram på figuren? Se på den vertikale aksen. Dybden ned til de ulike lagene er ikke oppgitt i meter, men i «toveis tid» i sekunder. Hva betyr det?",
+  "f": ""
+ },
+ {
+  "id": "45d86fbfd1",
+  "art": "kapitteloppgave",
+  "q": "Finn ut hvor på kartet det geologiske snittet i figur 11.15. ligger, og begrunn svaret. Hvordan og når er Vikinggraben dannet?",
+  "f": ""
+ },
+ {
+  "id": "ef5a6e57d7",
+  "art": "kapitteloppgave",
+  "q": "Øverst i det geologiske snittet ligger bergarter fra det geologene kaller kenozoikum – bergartene er markert med brungule farger. Bergarter fra krittperioden er markert med grønnlige farger. Hvilke geologiske perioder inneholder da kenozoikum?",
+  "f": ""
+ },
+ {
+  "id": "d72a4cc0eb",
+  "art": "kapitteloppgave",
+  "q": "Forklar hva rifting er. Hvordan er forkastningene på figuren tegnet inn på det geologiske snittet? Når tok riftingen slutt? Hvordan kan du se det på figuren?",
+  "f": ""
+ },
+ {
+  "id": "1c29453b74",
+  "art": "kapitteloppgave",
+  "q": "Hvilke petroleumsfelt på tegningen produserer gass, og hvilke produserer olje?",
+  "f": ""
+ },
+ {
+  "id": "e9b188ec41",
+  "art": "kapitteloppgave",
+  "q": "Hvilken type oljefelle er den vanligste på denne delen av sokkelen. Hvilken sammenheng er det mellom skråstillingen av forkastningsblokkene og beliggenheten av reservoarene? Bruk tegningen til å forklare hvordan reservoarene er dannet.",
+  "f": ""
+ },
+ {
+  "id": "1559701746",
+  "art": "kapitteloppgave",
+  "q": "I hvilken geologisk periode er kildebergartene dannet, og hva slags bergarter er det?",
+  "f": ""
+ },
+ {
+  "id": "ca04c5ffc5",
+  "art": "kapitteloppgave",
+  "q": "Reservoarene ligger i en annen type bergart. Hva slags bergarter er det, og i hvilken geologisk periode ble de dannet?",
+  "f": ""
+ },
+ {
+  "id": "cc5185bb9c",
+  "art": "kapitteloppgave",
+  "q": "Hva slags bergarter er det som er takbergarter? Hvilken geologisk periode tilhører de?",
+  "f": ""
+ },
+ {
+  "id": "5cdafc034c",
+  "art": "kapitteloppgave",
+  "q": "Hva tror du er grunnen til at juraperioden er delt opp i sen jura (blåfiolett), midt-jura og tidlig jura (lys gul)?",
+  "f": ""
+ }
+]

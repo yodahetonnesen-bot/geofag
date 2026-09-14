@@ -1,0 +1,446 @@
+[
+ {
+  "id": "e7b0fb15ac",
+  "art": "tenk",
+  "q": "Hvordan kan permafrosten som tiner, påvirke klimaendringene?",
+  "f": ""
+ },
+ {
+  "id": "e411ce1961",
+  "art": "tenk",
+  "q": "Hva kan ha utløst skredet du ser på bildet i figur 21.1?",
+  "f": ""
+ },
+ {
+  "id": "138f870c54",
+  "art": "tenk",
+  "q": "Hvorfor skjer kvikkleireskred alltid under den marine grensen?",
+  "f": ""
+ },
+ {
+  "id": "10a60e1def",
+  "art": "tenk",
+  "q": "Hva utløser et kvikkleireskred?",
+  "f": ""
+ },
+ {
+  "id": "4294da4941",
+  "art": "tenk",
+  "q": "Hvordan sikre seg mot kvikkleireskred?",
+  "f": ""
+ },
+ {
+  "id": "0c3ee0790d",
+  "art": "tenk",
+  "q": "Hva betyr det å steinsette elveløpet?",
+  "f": ""
+ },
+ {
+  "id": "4edfae06cc",
+  "art": "tenk",
+  "q": "Er det noen risiko knyttet til skredfarlige områder der det ikke ferdes mennesker?",
+  "f": ""
+ },
+ {
+  "id": "699d919339",
+  "art": "tenk",
+  "q": "Hvor store skredmasser følger med de største skredene på havbunnen sammenlignet med de største fjellskredene?",
+  "f": ""
+ },
+ {
+  "id": "d6d54375dc",
+  "art": "tenk",
+  "q": "Hva har fjellskred og skred på havbunnen felles?",
+  "f": ""
+ },
+ {
+  "id": "4c086d982a",
+  "art": "sporsmal",
+  "q": "Hva er løsmasseskred?",
+  "f": ""
+ },
+ {
+  "id": "acc4c2ad6f",
+  "art": "sporsmal",
+  "q": "Hva er den marine grensen?",
+  "f": ""
+ },
+ {
+  "id": "05cef229c1",
+  "art": "sporsmal",
+  "q": "Hva er et ravinelandskap?",
+  "f": ""
+ },
+ {
+  "id": "dee1d59e52",
+  "art": "sporsmal",
+  "q": "Hva er marin leire?",
+  "f": ""
+ },
+ {
+  "id": "8fa9174ddd",
+  "art": "sporsmal",
+  "q": "Hvordan er marin leire kommet på land?",
+  "f": ""
+ },
+ {
+  "id": "3c548bacad",
+  "art": "sporsmal",
+  "q": "Hva er tørrskorpe?",
+  "f": ""
+ },
+ {
+  "id": "2be4b85343",
+  "art": "sporsmal",
+  "q": "Hva er kvikkleire?",
+  "f": ""
+ },
+ {
+  "id": "1fb9cf0ae0",
+  "art": "sporsmal",
+  "q": "Hvordan kan et kvikkleireskred bli utløst?",
+  "f": ""
+ },
+ {
+  "id": "cf736170f0",
+  "art": "sporsmal",
+  "q": "Hvordan kan vi beskytte oss mot kvikkleireskred?",
+  "f": ""
+ },
+ {
+  "id": "8fa6026452",
+  "art": "sporsmal",
+  "q": "Hva blir det tatt hensyn til ved beregning av det vi kaller skredrisiko?",
+  "f": ""
+ },
+ {
+  "id": "9cb2bf8c12",
+  "art": "sporsmal",
+  "q": "Hvordan er størrelsen og utløpsdistansen for skredene på havbunnen sammenlignet med skredene på land?",
+  "f": ""
+ },
+ {
+  "id": "eb17e0991d",
+  "art": "sporsmal",
+  "q": "Hva er Storeggaraset?",
+  "f": ""
+ },
+ {
+  "id": "a991c90b5f",
+  "art": "sporsmal",
+  "q": "Hva er et morenedelta?",
+  "f": ""
+ },
+ {
+  "id": "a75b9cd85e",
+  "art": "sporsmal",
+  "q": "Hva er slamstrømmer?",
+  "f": ""
+ },
+ {
+  "id": "99593fae73",
+  "art": "hvatrordu",
+  "q": "Hvorfor er ikke all marin leire blitt til kvikkleire?",
+  "f": ""
+ },
+ {
+  "id": "0ea092d674",
+  "art": "hvatrordu",
+  "q": "Hvilke to forutsetninger vil sammen gi størst leiravsetninger: flat kyst, bratt kyst, lav marin grense, høy marin grense?",
+  "f": ""
+ },
+ {
+  "id": "d8c8867232",
+  "art": "hvatrordu",
+  "q": "Hva er det som gjør morenejord ustabil? Hva gjør leire ustabil?",
+  "f": ""
+ },
+ {
+  "id": "729e24aa7c",
+  "art": "hvatrordu",
+  "q": "Kan kvikkleire som har rast ut, bli kvikk igjen?",
+  "f": ""
+ },
+ {
+  "id": "7f0458a254",
+  "art": "hvatrordu",
+  "q": "Hva utløste Storeggaraset?",
+  "f": ""
+ },
+ {
+  "id": "46e654e084",
+  "art": "hvatrordu",
+  "q": "Hvilke forskjeller er det på en tsunami og en flodbølge?",
+  "f": ""
+ },
+ {
+  "id": "a5eef7c24b",
+  "art": "kapitteloppgave",
+  "q": "kvikkleireskred–jordskred–fjellskred",
+  "f": ""
+ },
+ {
+  "id": "f658afd57b",
+  "art": "kapitteloppgave",
+  "q": "kvikkleire–marin leire–torrskorpe",
+  "f": ""
+ },
+ {
+  "id": "02de2e4816",
+  "art": "kapitteloppgave",
+  "q": "jordskred–ravinelandskap–kvikkleireskred",
+  "f": ""
+ },
+ {
+  "id": "22df2b5c95",
+  "art": "kapitteloppgave",
+  "q": "elveerosjon–grøftegraving–forbygninger",
+  "f": ""
+ },
+ {
+  "id": "36a7bbb368",
+  "art": "kapitteloppgave",
+  "q": "Jordskred er det samme som løsmasseskred.",
+  "f": ""
+ },
+ {
+  "id": "4e6cd2585e",
+  "art": "kapitteloppgave",
+  "q": "Kvikkleireskred er ikke et jordskred.",
+  "f": ""
+ },
+ {
+  "id": "9e66ab7e02",
+  "art": "kapitteloppgave",
+  "q": "Statistikken viser at det har gått 10–12 store kvikkleireskred de siste 100 årene.",
+  "f": ""
+ },
+ {
+  "id": "436f09a7a5",
+  "art": "kapitteloppgave",
+  "q": "Kvikkleireskred kan gå både over og under marin grense.",
+  "f": ""
+ },
+ {
+  "id": "fddb24c54b",
+  "art": "kapitteloppgave",
+  "q": "All leire kan bli til kvikkleire.",
+  "f": ""
+ },
+ {
+  "id": "1d40d65251",
+  "art": "kapitteloppgave",
+  "q": "Leirmassene som har rast ut i et kvikkleireskred, kan igjen bli til kvikkleire.",
+  "f": ""
+ },
+ {
+  "id": "581bd62203",
+  "art": "kapitteloppgave",
+  "q": "Ravinelandskapet er et flatt landskap.",
+  "f": ""
+ },
+ {
+  "id": "89706e8278",
+  "art": "kapitteloppgave",
+  "q": "Mennesker kan utløse snøskred, men ikke kvikkleireskred.",
+  "f": ""
+ },
+ {
+  "id": "a25c462e5b",
+  "art": "kapitteloppgave",
+  "q": "At leira er kvikk, betyr at den kan bli tyntflytende.",
+  "f": ""
+ },
+ {
+  "id": "2376e456ab",
+  "art": "kapitteloppgave",
+  "q": "Kvikkleireskred er umulig å varsle.",
+  "f": ""
+ },
+ {
+  "id": "f7de7cb5a0",
+  "art": "kapitteloppgave",
+  "q": "Det har gått mange store jordskred på havbunnen langs kontinentalskråningen.",
+  "f": ""
+ },
+ {
+  "id": "dbe69fc77d",
+  "art": "kapitteloppgave",
+  "q": "Skredene på kontinentalsokkelen er mindre enn skredene på land.",
+  "f": ""
+ },
+ {
+  "id": "8ba31e2d6a",
+  "art": "kapitteloppgave",
+  "q": "Skredene langs kontinentalskråningen er ofte kvikkleireskred.",
+  "f": ""
+ },
+ {
+  "id": "92b754a707",
+  "art": "kapitteloppgave",
+  "q": "Handler det om fjellskred, flomskred eller kvikkleireskred?Avgjør om påstandene nedenfor gjelder for en eller flere av de tre skredtypene fjellskred, flomskred eller kvikkleireskred.",
+  "f": ""
+ },
+ {
+  "id": "1817d701fc",
+  "art": "kapitteloppgave",
+  "q": "Skredet forekommer bare i områder under den marine grensen.",
+  "f": ""
+ },
+ {
+  "id": "da63c16e90",
+  "art": "kapitteloppgave",
+  "q": "Skredet kan forekomme hele året.",
+  "f": ""
+ },
+ {
+  "id": "6407311e01",
+  "art": "kapitteloppgave",
+  "q": "Noen ganger kan det oppstå store flodbølger.",
+  "f": ""
+ },
+ {
+  "id": "3e44654e12",
+  "art": "kapitteloppgave",
+  "q": "Skredet kan ikke utløses direkte av mennesker.",
+  "f": ""
+ },
+ {
+  "id": "c737afb973",
+  "art": "kapitteloppgave",
+  "q": "Isbreenes erosjon i istidene har hatt betydning.",
+  "f": ""
+ },
+ {
+  "id": "b5b79dbb8e",
+  "art": "kapitteloppgave",
+  "q": "Jordskjelv kan utløse skredet.",
+  "f": ""
+ },
+ {
+  "id": "64182c3906",
+  "art": "kapitteloppgave",
+  "q": "Kraftig regnvær kan føre til at det oppstår skred.",
+  "f": ""
+ },
+ {
+  "id": "a6940d8b6d",
+  "art": "kapitteloppgave",
+  "q": "Skredet lar seg ikke varsle.",
+  "f": ""
+ },
+ {
+  "id": "7ef76b2a8d",
+  "art": "kapitteloppgave",
+  "q": "Det er løsmasser som raser ut.",
+  "f": ""
+ },
+ {
+  "id": "7833a3a299",
+  "art": "kapitteloppgave",
+  "q": "Skredet går bare i lavlandet.",
+  "f": ""
+ },
+ {
+  "id": "8fd0d655f8",
+  "art": "kapitteloppgave",
+  "q": "Skredet kan komme igjen på samme sted.",
+  "f": ""
+ },
+ {
+  "id": "3829ed500f",
+  "art": "kapitteloppgave",
+  "q": "Skredet kan utløses på kunstig måte.",
+  "f": ""
+ },
+ {
+  "id": "292e53d2c4",
+  "art": "kapitteloppgave",
+  "q": "Det er mulig å kartlegge risikoen for skred.",
+  "f": ""
+ },
+ {
+  "id": "546bc11e3e",
+  "art": "kapitteloppgave",
+  "q": "Faren for flomskred øker med nedbørsmengden. Skredekspertene regner med at dersom det kommer mer enn 8 prosent av årsnedbøren i løpet av et døgn, øker skredfaren betydelig.",
+  "f": ""
+ },
+ {
+  "id": "3d4a9206d3",
+  "art": "kapitteloppgave",
+  "q": "I Bergen er årsnedbøren ca. 2000 mm. Hvor mye må det da regne på ett døgn før skredfaren øker faretruende?",
+  "f": ""
+ },
+ {
+  "id": "12ec59c329",
+  "art": "kapitteloppgave",
+  "q": "Hvor mye må det regne i det området du bor, før faregrensen nås?",
+  "f": ""
+ },
+ {
+  "id": "0fec5d8241",
+  "art": "kapitteloppgave",
+  "q": "Et nedbørsfelt er «vant til» en viss mengde regn, og jordoverflaten har på en måte tilpasset seg forholdene. Hvorfor tror du faregrensen for nedbør og skred oppgis som en prosent av årsnedbøren – i stedet for en bestemt nedbørsmengde (målt i mm) i løpet av et døgn?",
+  "f": ""
+ },
+ {
+  "id": "deebdeaf57",
+  "art": "kapitteloppgave",
+  "q": "Gå til [www.varsom.no](https://www.varsom.no). Er det sendt varsel om flomskred i ditt nærområde (din kommune)?",
+  "f": ""
+ },
+ {
+  "id": "6d15691f83",
+  "art": "kapitteloppgave",
+  "q": "Gå inn på [www.nve.no](https://www.nve.no), klikk på «Flaum og skred»/«Kartlegging»/ «Kvikkleireskred»/ «Kvikkleiresoner», så får du opp kart for faresoner i fylker og kommuner.",
+  "f": ""
+ },
+ {
+  "id": "5de45c2e08",
+  "art": "kapitteloppgave",
+  "q": "Hva er forskjellen på faresonekart og aktsomhetskart?",
+  "f": ""
+ },
+ {
+  "id": "d3235b6d42",
+  "art": "kapitteloppgave",
+  "q": "Hva kan du finne ut om faren for kvikkleireskred i ditt nærområde?",
+  "f": ""
+ },
+ {
+  "id": "9bb2a2cf64",
+  "art": "kapitteloppgave",
+  "q": "Let deg fram til Rissa-området på Fosenhalvøya i Trøndelag, og finn ut om det er mer rasfarlig leire i området der Rissa-skredet gikk 1978.",
+  "f": ""
+ },
+ {
+  "id": "87c90c2f68",
+  "art": "kapitteloppgave",
+  "q": "Lag en presentasjon av Storeggaraset, som gikk på kontinentalsokkelen for 8100 år siden. Finn informasjon på Internett eller andre steder.",
+  "f": ""
+ },
+ {
+  "id": "97232f870e",
+  "art": "kapitteloppgave",
+  "q": "Kanskje finner du en animasjon av skredet på nettet? Søk med «Storeggaraset, animasjon».",
+  "f": ""
+ },
+ {
+  "id": "cc35daef08",
+  "art": "kapitteloppgave",
+  "q": "Hva slags skred var Storeggaraset?",
+  "f": ""
+ },
+ {
+  "id": "d3873d5095",
+  "art": "kapitteloppgave",
+  "q": "Hvilke følger fikk det?",
+  "f": ""
+ },
+ {
+  "id": "e5c9d94e66",
+  "art": "kapitteloppgave",
+  "q": "Hva ville blitt følgene om det samme hadde skjedd i dag?",
+  "f": ""
+ }
+]

@@ -25,13 +25,11 @@
         {
           "t": "p",
           "tekst": "Jo større skredfaren er, og jo større det mulige skadeomfanget er, desto større er skredrisikoen. Når vi snakker om skredrisiko, tar vi hensyn både til skredfare og skadeomfang."
-        }
-      ]
-    },
-    {
-      "tittel": "Fjell med et stort sammenrast parti",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Fjell med et stort sammenrast parti"
+        },
         {
           "t": "figur",
           "nr": "20.1",
@@ -98,24 +96,20 @@
           "t": "figur",
           "nr": "20.2",
           "tekst": "Steinsprang gjør mange veier usikre, som her langs en sidevei fra E39 til Førde ved Breimsvatnet på Vestlandet."
-        }
-      ]
-    },
-    {
-      "tittel": "Et stort ras har gått langs en motorvei med store skarpe kapesteiener",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Et stort ras har gått langs en motorvei med store skarpe kapesteiener"
+        },
         {
           "t": "figur",
           "nr": "20.3",
           "tekst": "Steinskred på E18 ved Larvik i desember 2019, store steiner blokkerte E18."
-        }
-      ]
-    },
-    {
-      "tittel": "Et stort ras har gått fra høyfjellet og fordelt seg nedover platået nedenfor",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Et stort ras har gått fra høyfjellet og fordelt seg nedover platået nedenfor"
+        },
         {
           "t": "figur",
           "nr": "20.4",
@@ -151,13 +145,11 @@
         {
           "t": "p",
           "tekst": "Regnvann og smeltevann som trenger ned gjennom sprekker i fjellet til glideplanet, kan føre til at vanntrykket øker. Det skjer ofte under snøsmelting og i perioder med mye regn. Det økte vanntrykket fører til at friksjonen langs svakhetssonene minker, og hele fjellsider kan gli ut. Geologene tror dette er den viktigste årsaken til at fjellskred løsner, men store fjellpartier kan også løsne uten at de er påvirket av økt vanntrykk."
-        }
-      ]
-    },
-    {
-      "tittel": "Figur som viser overvåking av ustabile fjellsider i Norge",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Figur som viser overvåking av ustabile fjellsider i Norge"
+        },
         {
           "t": "figur",
           "nr": "20.5",
@@ -236,12 +228,12 @@
       ]
     },
     {
-      "tittel": "Åkneset – et forventet skred",
+      "tittel": "Kilde: NVE",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Kilde: NVE"
+          "tekst": "Åkneset – et forventet skred"
         },
         {
           "t": "p",
@@ -255,13 +247,11 @@
         {
           "t": "p",
           "tekst": "Det største fjellskredet vi kjenner her i landet, gikk i Tjellefjellet i Langfjorden i Møre og Romsdal i 1756. Rundt 10 millioner m3 stein raste ut. Undersøkelser har vist at et skred fra Åkneset kan bli betydelig større. Geologene har antydet et skred på over 50 millioner m3 stein. Det tydeligste tegnet på at det er fare på ferde, er den såkalte Åknesrevna. Det er en om lag 600 meter lang fjellsprekk, mer eller mindre sammenhengende, som utvider seg med 2–6 cm per år (figur 20.9). Det er ingen tvil om at fjellsiden er i bevegelse."
-        }
-      ]
-    },
-    {
-      "tittel": "Et bratt fjell langs fjordvann. Et område er markert med stiplet strek",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Et bratt fjell langs fjordvann. Et område er markert med stiplet strek"
+        },
         {
           "t": "figur",
           "nr": "20.7",
@@ -318,12 +308,12 @@
       ]
     },
     {
-      "tittel": "Kart over Sør-Norge som viser plassering av Mannen, Tafjord, Åkneset og Geiranger",
+      "tittel": "Kilde: forskning.no",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Kilde: forskning.no"
+          "tekst": "Kart over Sør-Norge som viser plassering av Mannen, Tafjord, Åkneset og Geiranger"
         },
         {
           "t": "p",
@@ -350,13 +340,11 @@
         {
           "t": "p",
           "tekst": "Det må imidlertid avansert måleutstyr til for å sikre trygg overvåking, man må ha måleutstyr som registrerer selv de minste bevegelser. Med bakkeradar er det mulig å observere om det skjer endringer i fjelloverflaten. Radaren skanner fjellet med jevne mellomrom, og forandringer vises på en dataskjerm. Med en laser kan man sveipe over en fjellside med laserreflektorer. Det gjør det mulig å måle avstanden til forskjellige punkter i fjellsiden. Dersom avstandene forandrer seg, betyr det at fjellsiden er i bevegelse."
-        }
-      ]
-    },
-    {
-      "tittel": "Et bratt fjellparti med en cruicebåt i bakgrunnen viser den enorme høydeforskjellen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Et bratt fjellparti med en cruicebåt i bakgrunnen viser den enorme høydeforskjellen"
+        },
         {
           "t": "figur",
           "nr": "20.9",
@@ -542,8 +530,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Skredrisiko og skredfare betyr det samme.",

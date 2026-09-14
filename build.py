@@ -8,6 +8,7 @@ assets/ og kopieres ikke — sidene lenker rett til det.
 """
 from __future__ import annotations
 
+import hashlib
 import html
 import json
 import pathlib
@@ -15,6 +16,8 @@ import re
 
 ROOT = pathlib.Path(__file__).resolve().parent
 CONTENT = ROOT / "content"
+FASIT = ROOT / "fasit"
+EKSTRA = ROOT / "ekstra"
 UT_KAP = ROOT / "kapittel"
 
 NETTSTED = "Geofag 1"
@@ -49,10 +52,61 @@ def slugg(t: str) -> str:
     return t or "del"
 
 
+def nokkel(tekst: str) -> str:
+    return hashlib.sha1((tekst or "").strip().encode("utf-8")).hexdigest()[:10]
+
+
+def flett_fasit(kap: dict) -> None:
+    """Henter de handskrevne svarene fra fasit/kNN.json inn i kapitteldata."""
+    sti = FASIT / f"k{kap['nr']:02d}.json"
+    if not sti.exists():
+        return
+    svar = {r["id"]: r["f"] for r in json.loads(sti.read_text(encoding="utf-8")) if r.get("f")}
+    for d in kap["deler"]:
+        for b in d["blokker"]:
+            if b["t"] == "tenk":
+                b["f"] = svar.get(nokkel(b["tekst"]), "")
+    for blokk in kap["oppgaveblokker"]:
+        for post in blokk["poster"]:
+            if "q" in post:
+                post["f"] = svar.get(nokkel(post["q"]), "")
+
+
 def les_kapitler() -> list[dict]:
     kap = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(CONTENT.glob("k*.json"))]
     kap.sort(key=lambda k: k["nr"])
+    for k in kap:
+        flett_fasit(k)
+        flett_ekstra(k)
     return kap
+
+
+def flett_ekstra(kap: dict) -> None:
+    """Flashcards, quiz og ingress ligger i ekstra/kNN.json nar de er skrevet."""
+    sti = EKSTRA / f"k{kap['nr']:02d}.json"
+    if not sti.exists():
+        return
+    data = json.loads(sti.read_text(encoding="utf-8"))
+    for felt in ("ingress", "flashcards", "quiz"):
+        if data.get(felt):
+            kap[felt] = data[felt]
+
+    # Noen linjer i KAPITTELOPPGAVER er innledninger eller gruppetitler, ikke
+    # oppgaver. De listes opp her og merkes om for visningen.
+    intro = set(data.get("intro") or [])
+    grupper = set(data.get("grupper") or [])
+    if not intro and not grupper:
+        return
+    for blokk in kap["oppgaveblokker"]:
+        nye = []
+        for post in blokk["poster"]:
+            if "q" in post and nokkel(post["q"]) in intro:
+                nye.append({"intro": post["q"]})
+            elif "q" in post and nokkel(post["q"]) in grupper:
+                nye.append({"gruppe": post["q"]})
+            else:
+                nye.append(post)
+        blokk["poster"] = nye
 
 
 def tell_oppgaver(kap: dict) -> int:
@@ -180,6 +234,12 @@ def render_blokk(b: dict, teller: list[int]) -> str:
         )
     if t == "bilde":
         return f'<p class="bildetekst">Bilde: {e(b["tekst"])}</p>'
+    if t == "tabell":
+        celler = "".join(f"<li>{e(c)}</li>" for c in b["celler"])
+        return (
+            '<div class="tabellflat"><span class="tabellflat__tit">Tabell fra boka</span>'
+            f"<ol>{celler}</ol></div>"
+        )
     if t == "tenk":
         teller[0] += 1
         fasit = b.get("f")
@@ -283,6 +343,9 @@ def panel_oppgaver(kap: dict) -> str:
         for post in blokk["poster"]:
             if "gruppe" in post:
                 ut.append(f'<h3 class="opggruppe">{e(post["gruppe"])}</h3>')
+                continue
+            if "intro" in post:
+                ut.append(f'<p class="opgintro">{e(post["intro"])}</p>')
                 continue
             nr += 1
             fasit = post.get("f", "")

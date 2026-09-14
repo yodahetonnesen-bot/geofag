@@ -72,13 +72,11 @@
         {
           "t": "p",
           "tekst": "Et slikt innsynkningsområde kalles graben, fra det tyske ordet for grav, og den er ofte omgitt av høyereliggende områder kalt horst, som betyr høyde. Horstene og grabenene er adskilt av forkastninger. En serie av slike horster og grabener kalles et riftsystem. Dagens østafrikanske riftsystem er et eksempel."
-        }
-      ]
-    },
-    {
-      "tittel": "Skisse over dannelse av forkastninger, med horst og graben",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Skisse over dannelse av forkastninger, med horst og graben"
+        },
         {
           "t": "figur",
           "nr": "11.2",
@@ -101,24 +99,20 @@
         {
           "t": "p",
           "tekst": "Da organismene døde, sank de ned til havbunnen der det var lite oksygen på grunn av begrenset utskifting av vannet. Det var derfor ingen bakterier eller andre organismer som brøt ned det organiske materialet, som derfor samlet seg i tykke lag sammen med leire. Etter hvert ble sedimentene begravd og herdet til en organisk rik leirskifer. På norsk sokkel har den lagrekken som skiferen er en del av, fått navnet Draupneformasjonen. Det er det organiske materialet i denne leirskiferen som er kilden til det aller meste av petroleumen på norsk sokkel, og vi kaller den derfor en kildebergart."
-        }
-      ]
-    },
-    {
-      "tittel": "En gruppe mennesker på befaring med hjelmer studerer en sort klippe av sandete stein",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En gruppe mennesker på befaring med hjelmer studerer en sort klippe av sandete stein"
+        },
         {
           "t": "figur",
           "nr": "11.3",
           "tekst": "I Billefjorden på Svalbard ligger bergarter fra øvre karbon, med sterk odør av olje. Her ser vi studenter som beskriver og sniffer på bergartene. Kildebergarter til dette gamle oljefeltet er sannsynligvis finkornete, organisk rike kalksteins- eller skiferlag internt i denne formasjonen."
-        }
-      ]
-    },
-    {
-      "tittel": "Stener som det ryker og brenner av",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Stener som det ryker og brenner av"
+        },
         {
           "t": "figur",
           "nr": "11.4",
@@ -131,12 +125,12 @@
       ]
     },
     {
-      "tittel": "Modning av petroleum ved forskjellige dybder",
+      "tittel": "Kildebergarten modnes",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Kildebergarten modnes"
+          "tekst": "Modning av petroleum ved forskjellige dybder"
         },
         {
           "t": "figur",
@@ -150,13 +144,11 @@
         {
           "t": "p",
           "tekst": "Slike temperaturer utsettes skiferen for når den er begravd under kilometertykke sedimentlag. Hvor fort temperaturen stiger nedover i undergrunnen, er avhengig av varmeoverføringen fra jordas indre og defineres av den geotermiske gradienten som i Nordsjøen er 35 °C per kilometer. Kildebergarten der må derfor begraves godt over 2 km før den er moden nok til at det dannes olje. Det kan gå flere titalls millioner år fra kildematerialet dannes, til det er begravd dypt nok til at det omdannes til olje og gass."
-        }
-      ]
-    },
-    {
-      "tittel": "Migrasjon og dannelse av petroleum",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Migrasjon og dannelse av petroleum"
+        },
         {
           "t": "figur",
           "nr": "11.6",
@@ -193,13 +185,11 @@
         {
           "t": "p",
           "tekst": "Det er det som skjer i såkalte oljefeller. En felle består ofte av en porøs reservoarbergart og en overliggende tett bergart som hindrer oljen i å strømme videre oppover. Det er slike feller geofysikerne leter etter når de studerer sine seismiske data på jakt etter nye oljeforekomster."
-        }
-      ]
-    },
-    {
-      "tittel": "Olje- og gassfelle i en foldet bergart",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Olje- og gassfelle i en foldet bergart"
+        },
         {
           "t": "figur",
           "nr": "11.7",
@@ -208,12 +198,12 @@
       ]
     },
     {
-      "tittel": "Illustrasjoner av oljeplattform med boring ned i lag i havbunnen",
-      "side": null,
+      "tittel": "Strukturelle oljefeller",
+      "side": 170,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Strukturelle oljefeller"
+          "tekst": "Illustrasjoner av oljeplattform med boring ned i lag i havbunnen"
         },
         {
           "t": "figur",
@@ -255,12 +245,12 @@
       ]
     },
     {
-      "tittel": "Tverrsnitt av en saltdome. Salt trenger opp gjennom sedimentære lagrekker",
+      "tittel": "Saltdome",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Saltdome"
+          "tekst": "Tverrsnitt av en saltdome. Salt trenger opp gjennom sedimentære lagrekker"
         },
         {
           "t": "figur",
@@ -282,12 +272,12 @@
       ]
     },
     {
-      "tittel": "Skisse som viser gass, takbergart, reservoarbergart og kildebergart",
+      "tittel": "Stratigrafiske oljefeller",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Stratigrafiske oljefeller"
+          "tekst": "Skisse som viser gass, takbergart, reservoarbergart og kildebergart"
         },
         {
           "t": "figur",
@@ -301,12 +291,12 @@
       ]
     },
     {
-      "tittel": "Mikroskop fokusert til 0.5 mm viser hvite partikler tett i tett mot en turkis bakgrunn",
+      "tittel": "Sandstein som reservoar",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Sandstein som reservoar"
+          "tekst": "Mikroskop fokusert til 0.5 mm viser hvite partikler tett i tett mot en turkis bakgrunn"
         },
         {
           "t": "figur",
@@ -413,13 +403,11 @@
         {
           "t": "p",
           "tekst": "Ved bruk av gravimetri måles variasjoner i jordas gravitasjon, der tette og tunge magmatiske og metamorfe bergarter kan skilles fra mer porøse og lettere sedimentære bergarter som inneholder vann og petroleum. Målingene vil også kunne si noe om utstrekningen av sedimentasjonsbassengene."
-        }
-      ]
-    },
-    {
-      "tittel": "Regnbyger skyller over oljeplattform",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Regnbyger skyller over oljeplattform"
+        },
         {
           "t": "figur",
           "nr": "11.13",
@@ -543,24 +531,20 @@
         {
           "t": "p",
           "tekst": "På 1980-tallet begynte utforskning på dypere vann i Norskehavet. Der fant man vårt neststørste gassfelt, Ormen Lange, og siden feltene Aasta Hansteen, Åsgard og Kristin. Da begynte også letingen i Barentshavet der gassfeltet Snøhvit ble oppdaget (se figur 10.12 på side 160). Fram til 2010 ble det produsert mer olje enn gass på norsk sokkel, men siden da har gassproduksjonen vært større."
-        }
-      ]
-    },
-    {
-      "tittel": "Snitt i geologiske formasjoner fra Shetland til Hordaland",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Snitt i geologiske formasjoner fra Shetland til Hordaland"
+        },
         {
           "t": "figur",
           "nr": "11.15",
           "tekst": "En seismisk tolkning fra nordlige Nordsjøen"
-        }
-      ]
-    },
-    {
-      "tittel": "Graf. Akkumulert produksjon oljeekvivalenter 1966–2020, påført store olje- og gassfelt",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Graf. Akkumulert produksjon oljeekvivalenter 1966–2020, påført store olje- og gassfelt"
+        },
         {
           "t": "figur",
           "nr": "11.16",
@@ -588,13 +572,11 @@
           "t": "figur",
           "nr": "11.17",
           "tekst": "Johan Sverdrup feltet ble satt i produksjon i 2019. Feltet representerer det hittil siste store oljefunnet på norsk sokkel."
-        }
-      ]
-    },
-    {
-      "tittel": "Søylediagram. Produksjon av petroleum 1971-2021",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Søylediagram. Produksjon av petroleum 1971-2021"
+        },
         {
           "t": "figur",
           "nr": "11.18",
@@ -752,13 +734,11 @@
         {
           "t": "p",
           "tekst": "Produksjon av vindkraft er svært arealkrevende, og på land bygges det ofte ut i urørt natur på bekostning av biologisk mangfold. På det åpne havet er ressursgrunnlaget større og arealutfordringene mindre. Det kan utnyttes på våre offshore installasjoner til å skaffe fornybar elektrisitet, slik det planlegges på Gullfaks- og Snorrefeltene der utslippene av CO2 vil reduseres med 200 000 tonn per år."
-        }
-      ]
-    },
-    {
-      "tittel": "Animasjon over karbonlagring, der co2 fanges transporteres og lagres på havbunnen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Animasjon over karbonlagring, der co2 fanges transporteres og lagres på havbunnen"
+        },
         {
           "t": "figur",
           "nr": "11.22",
@@ -969,7 +949,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Søylediagram. Produksjon av petroleum 1971-2021",
+      "del": "Petroleumsinntektene",
       "poster": [
         {
           "q": "Hva er forskjellen på en letebrønn og en avgrensningsbrønn?",
@@ -1009,7 +989,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Søylediagram. Produksjon av petroleum 1971-2021",
+      "del": "Petroleumsinntektene",
       "poster": [
         {
           "q": "I hvilke bergarter finnes de fleste petroleumsreservene på sokkelen?",
@@ -1163,8 +1143,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Petroleum pumpes alltid opp fra kildebergarten.",

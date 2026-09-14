@@ -18,13 +18,11 @@
         {
           "t": "p",
           "tekst": "Etter at innlandsisen smeltet bort, hevet landet seg igjen fordi tyngden av isen nå var borte. Toppen av endemorenen dukket opp fra havet og bølgene slo inn mot den nye strandkanten. I dag ser vi tydelige strandlinjer som viser hvordan landet har hevet seg."
-        }
-      ]
-    },
-    {
-      "tittel": "Et kystlandskap med hvit grunn mot blått hav",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Et kystlandskap med hvit grunn mot blått hav"
+        },
         {
           "t": "figur",
           "nr": "17.1",
@@ -33,24 +31,22 @@
       ]
     },
     {
-      "tittel": "En mann står i et fjellandskap og studerer en grusete haug",
+      "tittel": "Avsetninger fra en innlandsis i bevegelse",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Avsetninger fra en innlandsis i bevegelse"
+          "tekst": "En mann står i et fjellandskap og studerer en grusete haug"
         },
         {
           "t": "figur",
           "nr": "17.2",
           "tekst": "Endemorene"
-        }
-      ]
-    },
-    {
-      "tittel": "En jordvegg av ulike sandlag med en skog på toppen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En jordvegg av ulike sandlag med en skog på toppen"
+        },
         {
           "t": "figur",
           "nr": "17.3",
@@ -152,13 +148,11 @@
           "t": "figur",
           "nr": "17.6",
           "tekst": "Drumlin på Dovrefjell"
-        }
-      ]
-    },
-    {
-      "tittel": "Kart som viser morenerygger og israndavsetninger rundt Oslofjorden",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart som viser morenerygger og israndavsetninger rundt Oslofjorden"
+        },
         {
           "t": "figur",
           "nr": "17.7",
@@ -231,24 +225,20 @@
         {
           "t": "p",
           "tekst": "En esker er avsatt av smeltevann. Det gjør at materialet er sortert – i motsetning til i drumlinene, som består av usortert morene."
-        }
-      ]
-    },
-    {
-      "tittel": "En elv og en vei går paralellt i et treløst landskap",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En elv og en vei går paralellt i et treløst landskap"
+        },
         {
           "t": "figur",
           "nr": "17.8",
           "tekst": "Veien følger en esker i Einunndalen i Folldal."
-        }
-      ]
-    },
-    {
-      "tittel": "Et mosegrodd landskap foran et høyt fjell",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Et mosegrodd landskap foran et høyt fjell"
+        },
         {
           "t": "figur",
           "nr": "17.9",
@@ -285,12 +275,12 @@
       ]
     },
     {
-      "tittel": "Skisse over dannelsen av bredemte sjøer",
+      "tittel": "Kart over Sør-Norge som viser plassering av Østerdalen og Koppang",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Kart over Sør-Norge som viser plassering av Østerdalen og Koppang"
+          "tekst": "Skisse over dannelsen av bredemte sjøer"
         },
         {
           "t": "figur",
@@ -305,24 +295,20 @@
         {
           "t": "p",
           "tekst": "Isrestene i dalene, de som demte opp sjøene, ble stadig mindre, og til slutt klarte de ikke lenger å stå imot trykket fra vannmassene. Demningen brast. Isen fløt opp, og vannmassene raste nedover dalen. I Østerdalen tok vannet veien over fjellkjølen til Tylldalen. Det kan ha skjedd i mange av istidene, for i dag er det dannet et enormt gjel, Jutulhogget, gjennom fjellkjølen (figurene 17.12 og 17.13)."
-        }
-      ]
-    },
-    {
-      "tittel": "En diger kløft i et skogsområde",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En diger kløft i et skogsområde"
+        },
         {
           "t": "figur",
           "nr": "17.13",
           "tekst": "Jutulhogget, fotografert fra Østerdalen. Tylldalen i Rendalen kommune ses i bakgrunnen. Kan du kjenne deg igjen på tegningen i 17.12?"
-        }
-      ]
-    },
-    {
-      "tittel": "Kart som viser raet og løsmasser ved ytre Oslofjord",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart som viser raet og løsmasser ved ytre Oslofjord"
+        },
         {
           "t": "figur",
           "nr": "17.14",
@@ -391,7 +377,7 @@
       "art": "oppgave",
       "overskrift": "OPPGAVE",
       "side": null,
-      "del": "Et mosegrodd landskap foran et høyt fjell",
+      "del": "Esker",
       "poster": [
         {
           "q": "Se på bildet i figur 17.9. I dalbunnen er det avsatt løsmasser (grus).",
@@ -435,7 +421,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 318,
-      "del": "Kart som viser raet og løsmasser ved ytre Oslofjord",
+      "del": "Kart over Sør-Norge som viser plassering av Østerdalen og Koppang",
       "poster": [
         {
           "q": "Hvilke morenetyper kjenner du?",
@@ -483,7 +469,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Kart som viser raet og løsmasser ved ytre Oslofjord",
+      "del": "Kart over Sør-Norge som viser plassering av Østerdalen og Koppang",
       "poster": [
         {
           "q": "Hvorfor er morenejorda usortert?",
@@ -550,8 +536,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Glasiale avsetninger finnes både på land og under vann.",

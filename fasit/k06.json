@@ -1,0 +1,758 @@
+[
+ {
+  "id": "b0d6ad5715",
+  "art": "tenk",
+  "q": "Hvilke snarveier i det geologiske kretsløpet finner du i figur 6.2?",
+  "f": ""
+ },
+ {
+  "id": "f92112f982",
+  "art": "tenk",
+  "q": "Hva tror du er forskjellen på steinaktig og metallisk utseende?",
+  "f": ""
+ },
+ {
+  "id": "b898444a46",
+  "art": "tenk",
+  "q": "Hvilket metall finnes i svovelkis, magnetitt og hematitt?",
+  "f": ""
+ },
+ {
+  "id": "bc45b281f7",
+  "art": "tenk",
+  "q": "Er det form eller kjemisk innhold som skiller en krystall av et mineral fra et mineralkorn?",
+  "f": ""
+ },
+ {
+  "id": "9e50a94abf",
+  "art": "tenk",
+  "q": "Hvilket bilde viser en magmatisk bergart?",
+  "f": ""
+ },
+ {
+  "id": "d525320da1",
+  "art": "tenk",
+  "q": "Hvor kommer magmaet på figuren fra?",
+  "f": ""
+ },
+ {
+  "id": "2b03096fb1",
+  "art": "tenk",
+  "q": "To bilder har med sedimentære bergarter å gjøre. Hvilke to er det?",
+  "f": ""
+ },
+ {
+  "id": "f4cdb347fa",
+  "art": "tenk",
+  "q": "Hvordan kan du se på bildene at bergarten nederst til høyre er en metamorf bergart, at bergarten øverst til høyre er en sedimentær bergart, og at bildet nederst til venstre viser en magmatisk bergart?",
+  "f": ""
+ },
+ {
+  "id": "1285e7d460",
+  "art": "tenk",
+  "q": "Ikke alle bergarter fullfører et helt kretsløp. Hva skjer langs de blå pilene på figur 6.2?",
+  "f": ""
+ },
+ {
+  "id": "ced1487c2a",
+  "art": "tenk",
+  "q": "Steinsmelte som kommer opp på havbunnen – er det lava?",
+  "f": ""
+ },
+ {
+  "id": "a66a3d6be2",
+  "art": "tenk",
+  "q": "Kommer magma fra lava eller lava fra magma?",
+  "f": ""
+ },
+ {
+  "id": "09417792e3",
+  "art": "tenk",
+  "q": "Smelter en bergart helt dersom temperaturen over lang tid holder seg på smeltetemperaturen?",
+  "f": ""
+ },
+ {
+  "id": "34e6ffb81c",
+  "art": "tenk",
+  "q": "Hva menes med «graden av oppsmelting»?",
+  "f": ""
+ },
+ {
+  "id": "773596c64d",
+  "art": "tenk",
+  "q": "Hva er drivkraften for søylestrømmene (se side 23)?",
+  "f": ""
+ },
+ {
+  "id": "240310ae96",
+  "art": "tenk",
+  "q": "Hva er sedimenter?",
+  "f": ""
+ },
+ {
+  "id": "f34d6ea292",
+  "art": "tenk",
+  "q": "Hva avgjør om elva transporterer sand langs bunnen eller svevende i vannet?",
+  "f": ""
+ },
+ {
+  "id": "ee96bc757a",
+  "art": "tenk",
+  "q": "Hvorfor er sedimentære bergarter ofte lagdelte?",
+  "f": ""
+ },
+ {
+  "id": "917f9d595a",
+  "art": "tenk",
+  "q": "Hvorfor vitner leirskifre om små høydeforskjeller på land?",
+  "f": ""
+ },
+ {
+  "id": "f18fac375b",
+  "art": "tenk",
+  "q": "Hvordan dannes et fossil?",
+  "f": ""
+ },
+ {
+  "id": "ebaa23157f",
+  "art": "tenk",
+  "q": "Hvor dannes sedimentære bergarter?",
+  "f": ""
+ },
+ {
+  "id": "e253bbed3e",
+  "art": "tenk",
+  "q": "Hvilken type gneis ser du på bildet i figur 6.19c?",
+  "f": ""
+ },
+ {
+  "id": "85a9f9d961",
+  "art": "tenk",
+  "q": "Hvorfor tror du ledefossiler er mer interessante enn vanlige fossiler?",
+  "f": ""
+ },
+ {
+  "id": "e690da3200",
+  "art": "tenk",
+  "q": "Hva er forskjellen på relativ og absolutt alder for en bergart?",
+  "f": ""
+ },
+ {
+  "id": "1756d90403",
+  "art": "tenk",
+  "q": "Hvor gammel er en bergart med en fordeling av mor-isotoper og datter-isotoper som vist i tegning C dersom halveringstiden er 1300 millioner år?",
+  "f": ""
+ },
+ {
+  "id": "a0f7eadf42",
+  "art": "tenk",
+  "q": "Hvordan kan du lese halveringstiden for den radioaktive mor-isotopen ut av figur 6.23?",
+  "f": ""
+ },
+ {
+  "id": "e92aadbc04",
+  "art": "tenk",
+  "q": "Hvor mange prosent er det igjen av den opprinnelige mengden radioaktive isotoper i hver av de seks boksene på figur 6.23?",
+  "f": ""
+ },
+ {
+  "id": "85c331fa7b",
+  "art": "tenk",
+  "q": "Hva menes med «lag på lag, prikkete og stripete» bergarter? Hva er hensikten med å bruke slike begreper?",
+  "f": ""
+ },
+ {
+  "id": "c81aafc656",
+  "art": "tenk",
+  "q": "Hvilken av de tre sedimentære bergartene (1, 2 eller 3) er eldst?",
+  "f": ""
+ },
+ {
+  "id": "68c4a656e6",
+  "art": "tenk",
+  "q": "Hvilken bergart er yngst, sandsteinen eller den vulkanske gangbergarten?",
+  "f": ""
+ },
+ {
+  "id": "2173ec9123",
+  "art": "tenk",
+  "q": "Er det de magmatiske eller de sedimentære bergartene som er eldst?",
+  "f": ""
+ },
+ {
+  "id": "44622ee2e2",
+  "art": "tenk",
+  "q": "En annen magmatisk bergart ligger mellom to lag av sedimentære bergarter. Det øverste laget er en sandstein, det underste er en kalkstein. Den magmatiske bergarten inneholder biter av både sandstein og kalkstein. Hvilken bergart er yngst?",
+  "f": ""
+ },
+ {
+  "id": "37a5fec0c2",
+  "art": "tenk",
+  "q": "En magmatisk bergart ligger mellom to lag av sedimentære bergarter. Det øverste laget er en sandstein, det underste er en kalkstein. Sandsteinen inneholder biter av den magmatiske bergarten. Hvilken bergart er yngst i dette tilfellet?",
+  "f": ""
+ },
+ {
+  "id": "b6dcf19c5c",
+  "art": "sporsmal",
+  "q": "Hva er det geologiske kretsløpet?",
+  "f": ""
+ },
+ {
+  "id": "f59c17ba3e",
+  "art": "sporsmal",
+  "q": "Hvorfor er havbunnen så ung i forhold til kontinentene?",
+  "f": ""
+ },
+ {
+  "id": "0660bf81f3",
+  "art": "sporsmal",
+  "q": "Hva er et bergartsdannende mineral?",
+  "f": ""
+ },
+ {
+  "id": "a0da5e4176",
+  "art": "sporsmal",
+  "q": "Nevn to viktige mineralgrupper og forskjellene mellom dem.",
+  "f": ""
+ },
+ {
+  "id": "738937f25c",
+  "art": "sporsmal",
+  "q": "Hva er et ertsmineral?",
+  "f": ""
+ },
+ {
+  "id": "ab40724f81",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på en krystall og et mineralkorn?",
+  "f": ""
+ },
+ {
+  "id": "552767758c",
+  "art": "sporsmal",
+  "q": "Hva er en pegmatittgang?",
+  "f": ""
+ },
+ {
+  "id": "ddcd964171",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på et mineral og en bergart?",
+  "f": ""
+ },
+ {
+  "id": "6e1f0b4c99",
+  "art": "hvatrordu",
+  "q": "Hva er det flest av, mineraler eller bergarter?",
+  "f": ""
+ },
+ {
+  "id": "d762bf36de",
+  "art": "hvatrordu",
+  "q": "Hvordan kan et geologisk mangfold være grunnlaget for et biologisk mangfold?",
+  "f": ""
+ },
+ {
+  "id": "bfd351d1d1",
+  "art": "sporsmal",
+  "q": "Hvilke to andre betegnelser brukes på magmatiske bergarter?",
+  "f": ""
+ },
+ {
+  "id": "4b80af4c9c",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på magma og lava?",
+  "f": ""
+ },
+ {
+  "id": "4d74a904ff",
+  "art": "sporsmal",
+  "q": "Hva påvirker smeltetemperaturen for en bergart?",
+  "f": ""
+ },
+ {
+  "id": "c09f483856",
+  "art": "sporsmal",
+  "q": "Hva menes med delvis oppsmelting av en bergart?",
+  "f": ""
+ },
+ {
+  "id": "a1a99e632f",
+  "art": "sporsmal",
+  "q": "Hva er forskjellene på felsiske og mafiske bergarter?",
+  "f": ""
+ },
+ {
+  "id": "3d0fa952ca",
+  "art": "sporsmal",
+  "q": "Hva er delvis krystallisasjon?",
+  "f": ""
+ },
+ {
+  "id": "19c4f59beb",
+  "art": "sporsmal",
+  "q": "Hvor blir det dannet mafisk magma, og hvor blir det dannet felsisk magma?",
+  "f": ""
+ },
+ {
+  "id": "53dc45eedf",
+  "art": "sporsmal",
+  "q": "Hvor er basalt dannet, og hvor dannes gabbro?",
+  "f": ""
+ },
+ {
+  "id": "f871eaf6c5",
+  "art": "sporsmal",
+  "q": "Hva er et magmakammer?",
+  "f": ""
+ },
+ {
+  "id": "a065627cd3",
+  "art": "sporsmal",
+  "q": "Hva er en hotspot?",
+  "f": ""
+ },
+ {
+  "id": "5886970a0a",
+  "art": "hvatrordu",
+  "q": "Hvorfor er det ikke noe som heter smeltepunkt for en bergart?",
+  "f": ""
+ },
+ {
+  "id": "5eb5a7e272",
+  "art": "hvatrordu",
+  "q": "Hva betyr det at en bergart smelter over et lengre temperaturintervall?",
+  "f": ""
+ },
+ {
+  "id": "76f7eba89b",
+  "art": "hvatrordu",
+  "q": "Hvordan kan mineralinnholdet i en bergart påvirke smeltetemperaturen?",
+  "f": ""
+ },
+ {
+  "id": "fdc22f600d",
+  "art": "hvatrordu",
+  "q": "Hvilken sammenheng er det mellom steinsmelte, magma og lava?",
+  "f": ""
+ },
+ {
+  "id": "87fdbce1ad",
+  "art": "hvatrordu",
+  "q": "Hva gjør at mantelbergartene i søylestrømmen smelter i en hotspot, mens mantelbergartene på sidene ikke gjør det?",
+  "f": ""
+ },
+ {
+  "id": "1d70553372",
+  "art": "sporsmal",
+  "q": "Hva er et sediment?",
+  "f": ""
+ },
+ {
+  "id": "e1439ec006",
+  "art": "sporsmal",
+  "q": "Hva er klastiske sedimenter?",
+  "f": ""
+ },
+ {
+  "id": "be7670b129",
+  "art": "sporsmal",
+  "q": "Hvilke to typer forvitring regner vi med?",
+  "f": ""
+ },
+ {
+  "id": "a60705549b",
+  "art": "sporsmal",
+  "q": "Hvilke ulike typer løsmasser regner vi med? Hva skiller dem fra hverandre?",
+  "f": ""
+ },
+ {
+  "id": "58b42ddf4b",
+  "art": "sporsmal",
+  "q": "Hva er diagenese?",
+  "f": ""
+ },
+ {
+  "id": "be2c5ee180",
+  "art": "sporsmal",
+  "q": "Hvordan kan sedimentære bergarter fortelle oss om klima, landformer og livsformer tidligere i jordhistorien?",
+  "f": ""
+ },
+ {
+  "id": "707aac64c8",
+  "art": "sporsmal",
+  "q": "Hvor dannes det sedimentære bergarter?",
+  "f": ""
+ },
+ {
+  "id": "ede9fca4ba",
+  "art": "hvatrordu",
+  "q": "Hvordan kan en lagrekke av sedimentære bergarter veksle mellom sandsteiner og leirskifre – og kanskje konglomerater – på ett og samme sted?",
+  "f": ""
+ },
+ {
+  "id": "41a6ce8e69",
+  "art": "sporsmal",
+  "q": "Hva er metamorfose?",
+  "f": ""
+ },
+ {
+  "id": "3064d90378",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på kontakt- og regionalmetamorfose?",
+  "f": ""
+ },
+ {
+  "id": "14bf8e4e37",
+  "art": "sporsmal",
+  "q": "Hvilke tre metamorfe bergarter kan leirskifer omdannes til?",
+  "f": ""
+ },
+ {
+  "id": "be1cc0408c",
+  "art": "sporsmal",
+  "q": "Hva er gneis?",
+  "f": ""
+ },
+ {
+  "id": "d5a9c95079",
+  "art": "sporsmal",
+  "q": "Hvilke metoder kan vi bruke til å bestemme den relative alderen?",
+  "f": ""
+ },
+ {
+  "id": "0c6abad719",
+  "art": "sporsmal",
+  "q": "Hvordan kan vi bestemme den absolutte alderen på bergarter?",
+  "f": ""
+ },
+ {
+  "id": "cb1ac4f6da",
+  "art": "hvatrordu",
+  "q": "Kan en sedimentær bergart som smelter, bli en metamorf bergart? Forklar.",
+  "f": ""
+ },
+ {
+  "id": "5d006a5fbd",
+  "art": "hvatrordu",
+  "q": "Hvordan ligger dypbergarter og de tilhørende kontaktmetamorfe bergartene i forhold til hverandre?",
+  "f": ""
+ },
+ {
+  "id": "f1034187e5",
+  "art": "hvatrordu",
+  "q": "Gneiser kan se så forskjellige ut. Hva kan grunnene være til det?",
+  "f": ""
+ },
+ {
+  "id": "03c08a828c",
+  "art": "hvatrordu",
+  "q": "Hvorfor kalles fossiler av organismer med «kort» levetid og stor utbredelse på jordoverflaten for ledefossiler?",
+  "f": ""
+ },
+ {
+  "id": "85bc2fbdd0",
+  "art": "hvatrordu",
+  "q": "Da Norges grunnlov ble vedtatt på Eidsvold i 1814, het det «enige og tro til Dovre faller». Hva synes du om dette tidsperspektivet?",
+  "f": ""
+ },
+ {
+  "id": "ce3970632e",
+  "art": "hvatrordu",
+  "q": "Zirkon er et hardt mineral som er motstandsdyktig mot erosjon. Mineralkorn av zirkon finnes derfor ofte i sandstein. Gir en datering av zirkonmineralet også alderen til sandsteinen? Grunngi svaret.",
+  "f": ""
+ },
+ {
+  "id": "bd84bb8ccf",
+  "art": "hvatrordu",
+  "q": "Forskerne har beregnet at solsystemet ble dannet (Big Bang) for nøyaktig 4567 millioner år siden – det er et lett tall å huske! Hvorfor? Jorda ble dannet litt over 100 millioner år senere.",
+  "f": ""
+ },
+ {
+  "id": "252c162364",
+  "art": "kapitteloppgave",
+  "q": "Her er noen faguttrykk, samlet i grupper på tre, fra dette kapitlet. Finn et faguttrykk fra hver gruppe som ikke passer inn – du skal finne ett som skal ut. Begrunn valget!",
+  "f": ""
+ },
+ {
+  "id": "cd5a209dad",
+  "art": "kapitteloppgave",
+  "q": "Det kan være flere mulige løsninger – med ulike begrunnelser! Prøv å lage noen «én skal ut»-oppgaver selv. Test dem på noen rundt deg.",
+  "f": ""
+ },
+ {
+  "id": "acb44724ee",
+  "art": "kapitteloppgave",
+  "q": "mineralkorn – krystall – pegmatittgang",
+  "f": ""
+ },
+ {
+  "id": "823682d416",
+  "art": "kapitteloppgave",
+  "q": "hotspot – midthavsrygg – dyphavsgrop",
+  "f": ""
+ },
+ {
+  "id": "bb1637a38c",
+  "art": "kapitteloppgave",
+  "q": "størkning – delvis krystallisasjon – herding",
+  "f": ""
+ },
+ {
+  "id": "d9d241f139",
+  "art": "kapitteloppgave",
+  "q": "diagenese – metamorfose – sediment",
+  "f": ""
+ },
+ {
+  "id": "1c6dc7d816",
+  "art": "kapitteloppgave",
+  "q": "sedimenter – løsmasser – lava",
+  "f": ""
+ },
+ {
+  "id": "718f5e97dc",
+  "art": "kapitteloppgave",
+  "q": "marmor – kontaktmetamorfose – fyllitt",
+  "f": ""
+ },
+ {
+  "id": "3c30a2b4f2",
+  "art": "kapitteloppgave",
+  "q": "uran – karbon-14-metoden – geologisk klokke",
+  "f": ""
+ },
+ {
+  "id": "f4082f51dc",
+  "art": "kapitteloppgave",
+  "q": "Krystaller kan ha kuleform.",
+  "f": ""
+ },
+ {
+  "id": "24d8be1163",
+  "art": "kapitteloppgave",
+  "q": "Fargen på et mineral er alltid lik strekfargen for mineralet.",
+  "f": ""
+ },
+ {
+  "id": "968ba072cc",
+  "art": "kapitteloppgave",
+  "q": "Magma er et annet ord for lava.",
+  "f": ""
+ },
+ {
+  "id": "3590495d97",
+  "art": "kapitteloppgave",
+  "q": "Alle bergarter gjennomfører hele det geologiske kretsløpet.",
+  "f": ""
+ },
+ {
+  "id": "e4e23fc9d7",
+  "art": "kapitteloppgave",
+  "q": "Mafisk magma holder høyere temperatur enn felsisk magma.",
+  "f": ""
+ },
+ {
+  "id": "59b30e26b5",
+  "art": "kapitteloppgave",
+  "q": "Magmaet som dannes i en hotspot, er et mafisk magma.",
+  "f": ""
+ },
+ {
+  "id": "88eb5a05cd",
+  "art": "kapitteloppgave",
+  "q": "Delvis krystallisasjon kan skje i forbindelse med både smelting og størkning.",
+  "f": ""
+ },
+ {
+  "id": "1d1fb97f2a",
+  "art": "kapitteloppgave",
+  "q": "Sedimenter er det samme som løsmasser.",
+  "f": ""
+ },
+ {
+  "id": "839561278f",
+  "art": "kapitteloppgave",
+  "q": "Kjemisk og mekanisk forvitring kan ikke foregå samtidig.",
+  "f": ""
+ },
+ {
+  "id": "d687027b21",
+  "art": "kapitteloppgave",
+  "q": "Metamorfe bergarter blir til ved diagenese.",
+  "f": ""
+ },
+ {
+  "id": "2982fd5dfb",
+  "art": "kapitteloppgave",
+  "q": "Den relative alderen på bergarter oppgis i millioner år.",
+  "f": ""
+ },
+ {
+  "id": "bce393db25",
+  "art": "kapitteloppgave",
+  "q": "Fossiler brukes til å bestemme den absolutte alderen for en bergart.",
+  "f": ""
+ },
+ {
+  "id": "1eb96af212",
+  "art": "kapitteloppgave",
+  "q": "Handler det om magmatiske, sedimentære eller metamorfe bergarter?",
+  "f": ""
+ },
+ {
+  "id": "c69c6aba14",
+  "art": "kapitteloppgave",
+  "q": "Bergarten er dannet ved størkning av magma.",
+  "f": ""
+ },
+ {
+  "id": "bbbe2ee29d",
+  "art": "kapitteloppgave",
+  "q": "Bergartene er dannet fra bergarter i de to andre hovedgruppene.",
+  "f": ""
+ },
+ {
+  "id": "8daacb5f97",
+  "art": "kapitteloppgave",
+  "q": "Bergarten er dannet fra løsmasser.",
+  "f": ""
+ },
+ {
+  "id": "aea6a7d9aa",
+  "art": "kapitteloppgave",
+  "q": "Bergarten er dannet i løpet av dager.",
+  "f": ""
+ },
+ {
+  "id": "1c54663b1e",
+  "art": "kapitteloppgave",
+  "q": "Bergarten er dannet nede i jordskorpa.",
+  "f": ""
+ },
+ {
+  "id": "0af684206b",
+  "art": "kapitteloppgave",
+  "q": "Bergarten dannes langs aktive plategrenser.",
+  "f": ""
+ },
+ {
+  "id": "23670a5557",
+  "art": "kapitteloppgave",
+  "q": "Bergarten dannes på havbunnen.",
+  "f": ""
+ },
+ {
+  "id": "094b0ff38e",
+  "art": "kapitteloppgave",
+  "q": "Bergarten inneholder fossiler.",
+  "f": ""
+ },
+ {
+  "id": "8b8898a6d3",
+  "art": "kapitteloppgave",
+  "q": "Bergartene i nærmiljøet (mini-feltarbeid)",
+  "f": ""
+ },
+ {
+  "id": "4a7d033282",
+  "art": "kapitteloppgave",
+  "q": "Hvilke bergarter er brukt som prydstein og/eller bygningsstein i dine nære omgivelser?",
+  "f": ""
+ },
+ {
+  "id": "e03b6e9cb0",
+  "art": "kapitteloppgave",
+  "q": "Hvor kommer bergartene fra?",
+  "f": ""
+ },
+ {
+  "id": "31edbc3c01",
+  "art": "kapitteloppgave",
+  "q": "Hvilken bergartsgruppe tilhører de ulike bergartene?",
+  "f": ""
+ },
+ {
+  "id": "a61d669245",
+  "art": "kapitteloppgave",
+  "q": "Kan du finne ut hvorfor de er brukt – hvilke egenskaper er viktige?",
+  "f": ""
+ },
+ {
+  "id": "cf053b6feb",
+  "art": "kapitteloppgave",
+  "q": "Gjør en liten ekskursjon til et steinsliperi dersom et slikt finnes i nærheten. Hvilke bergarter inngår i produksjonen? Hva produseres?",
+  "f": ""
+ },
+ {
+  "id": "531e74d5f7",
+  "art": "kapitteloppgave",
+  "q": "Alle fylkene i Norge har valgt ut en stein som er særlig karakteristisk for området eller har særlig økonomisk, vitenskapelig, estetisk eller kulturhistorisk verdi der. Søk på «fylkesstein» på Naturhistorisk museum sine nettsider ([www.nhm.uio.no](https://www.nhm.uio.no)).",
+  "f": ""
+ },
+ {
+  "id": "4c274ac996",
+  "art": "kapitteloppgave",
+  "q": "Du kan også søke med «fylkesstein» på nettet.",
+  "f": ""
+ },
+ {
+  "id": "8bbd290d67",
+  "art": "kapitteloppgave",
+  "q": "Klikk deg inn på fylkene og lag en liste over hvilke bergarter som er fylkessteiner.",
+  "f": ""
+ },
+ {
+  "id": "47939fb38f",
+  "art": "kapitteloppgave",
+  "q": "Hvordan fordeler fylkessteinene seg på de tre hovedgruppene av bergarter?",
+  "f": ""
+ },
+ {
+  "id": "9efd9bc116",
+  "art": "kapitteloppgave",
+  "q": "Studer fylkessteinen fra ditt hjemfylke litt mer inngående, og forbered deg på å presentere hva nettstedet forteller om denne steinen.",
+  "f": ""
+ },
+ {
+  "id": "8253b7ec7d",
+  "art": "kapitteloppgave",
+  "q": "Du har fått utdelt seks–åtte ulike bergarter. Bruk bøker og Internett for å bestemme hvilke bergarter det er.",
+  "f": ""
+ },
+ {
+  "id": "a7856ab6c0",
+  "art": "kapitteloppgave",
+  "q": "Nettsteder:",
+  "f": ""
+ },
+ {
+  "id": "a095974a71",
+  "art": "kapitteloppgave",
+  "q": "Søk med «Steinsamling på nettet»",
+  "f": ""
+ },
+ {
+  "id": "3d8b3784c6",
+  "art": "kapitteloppgave",
+  "q": "«Welcome to webgeology» (Kåre Kullerud/Norsk)",
+  "f": ""
+ },
+ {
+  "id": "df4e6de638",
+  "art": "kapitteloppgave",
+  "q": "Se på bildene av ulike bergarter i læreboka og bruk det geologiske norgeskartet i figur 6.24. Prøv å plassere hver av bergartene på riktig sted på kartet. Hva slags bergarter skal det være der ifølge kartet? Stemmer det med bildet?",
+  "f": ""
+ },
+ {
+  "id": "558e5065f2",
+  "art": "kapitteloppgave",
+  "q": "Geologisk kart over Norge.",
+  "f": ""
+ },
+ {
+  "id": "ea38dbc3d8",
+  "art": "kapitteloppgave",
+  "q": "6.24 Geologisk kart over Norge. Kaledonske bergarter er dannet i forbindelse med den kaledonske fjellkjedefoldningen. Skyvedekker er store flak av bergarter som ble forskjøvet i kollisjonen mellom platene Baltika og Laurentia. (Kilde: NGU)",
+  "f": ""
+ }
+]

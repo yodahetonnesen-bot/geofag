@@ -16,13 +16,11 @@
         {
           "t": "p",
           "tekst": "Geofag handler om alle delene av denne fantastiske planeten. Faget inndeler jordkloden i de ulike jordsystemene som vi kaller forskjellige sfærer. Hele jorda sett som ett samlet system består av atmosfæren, geosfæren, hydrosfæren, kryosfæren og biosfæren."
-        }
-      ]
-    },
-    {
-      "tittel": "Jordkloden svever i det mørke verdensrommet",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Jordkloden svever i det mørke verdensrommet"
+        },
         {
           "t": "figur",
           "nr": "1.1",
@@ -31,12 +29,12 @@
       ]
     },
     {
-      "tittel": "Vulkanutttbrudd med gnistrende røde flammer",
-      "side": null,
+      "tittel": "Geosfæren",
+      "side": 10,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Geosfæren"
+          "tekst": "Vulkanutttbrudd med gnistrende røde flammer"
         },
         {
           "t": "figur",
@@ -66,12 +64,12 @@
       ]
     },
     {
-      "tittel": "Majestetiske havbølger",
-      "side": null,
+      "tittel": "Hydrosfæren",
+      "side": 11,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Hydrosfæren"
+          "tekst": "Majestetiske havbølger"
         },
         {
           "t": "figur",
@@ -93,12 +91,12 @@
       ]
     },
     {
-      "tittel": "Isfjell langs vannet",
+      "tittel": "Kryosfæren",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Kryosfæren"
+          "tekst": "Isfjell langs vannet"
         },
         {
           "t": "figur",
@@ -139,12 +137,12 @@
       ]
     },
     {
-      "tittel": "En tåkete grønn skog",
+      "tittel": "Biosfæren",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Biosfæren"
+          "tekst": "En tåkete grønn skog"
         },
         {
           "t": "figur",
@@ -180,13 +178,11 @@
         {
           "t": "p",
           "tekst": "Selv om vi i dag har gode hjelpemidler, er forskerne ofte nødt til å dra ut i felt for å gjøre fysiske undersøkelser. Det kan være i nære omgivelser eller under mer fjerne himmelstrøk – hele verden er derfor et laboratorium for geofag. Undersøkelser ute i felt er en viktig arbeidsmåte. Vi kaller det feltarbeid. I geofag er kort sagt hele verden «laboratoriet»."
-        }
-      ]
-    },
-    {
-      "tittel": "Bildekollasj av bildene i kapitlet",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Bildekollasj av bildene i kapitlet"
+        },
         {
           "t": "figur",
           "nr": "1.7",

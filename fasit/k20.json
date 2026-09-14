@@ -1,0 +1,248 @@
+[
+ {
+  "id": "6172ac5fa9",
+  "art": "tenk",
+  "q": "Hvilke skredtyper er vanligst i ditt hjemfylke?",
+  "f": ""
+ },
+ {
+  "id": "8a7bb29a39",
+  "art": "tenk",
+  "q": "Hvordan oppstår fjellskred?",
+  "f": ""
+ },
+ {
+  "id": "49d0f6ce4e",
+  "art": "tenk",
+  "q": "Hvordan dannes svakhetssoner i berggrunnen?",
+  "f": ""
+ },
+ {
+  "id": "3a6a84774a",
+  "art": "tenk",
+  "q": "Hva er et glideplan?",
+  "f": ""
+ },
+ {
+  "id": "ecc44e11f0",
+  "art": "tenk",
+  "q": "Hvordan vil du forklare at enkelte deler av landet er mer utsatt for fjellskred enn andre?",
+  "f": ""
+ },
+ {
+  "id": "0d079c3aa6",
+  "art": "tenk",
+  "q": "Bruk «Me-Åkerneset» (se figur 20.8) og søk i Google Earth for å finne den ustabile fjellsiden du ser i figur 20.7. Hvor på bildet ligger småbruket Me-Åkerneset?",
+  "f": ""
+ },
+ {
+  "id": "4c824ee951",
+  "art": "tenk",
+  "q": "Vil et skred fra Åkneset føre til en flodbølge eller en tsunami?",
+  "f": ""
+ },
+ {
+  "id": "172e735562",
+  "art": "tenk",
+  "q": "Hvordan utføres seismiske målinger?",
+  "f": ""
+ },
+ {
+  "id": "9b1f3a971f",
+  "art": "tenk",
+  "q": "Kan et fjellskred varsles?",
+  "f": ""
+ },
+ {
+  "id": "69027ac11e",
+  "art": "sporsmal",
+  "q": "Hvilke typer skred forekommer i Norge?",
+  "f": ""
+ },
+ {
+  "id": "24d11d95a5",
+  "art": "sporsmal",
+  "q": "Hvilken type skred tar flest menneskeliv?",
+  "f": ""
+ },
+ {
+  "id": "93094801e4",
+  "art": "sporsmal",
+  "q": "Hvordan kan klimaendringer innvirke på skredfaren?",
+  "f": ""
+ },
+ {
+  "id": "a61253542b",
+  "art": "sporsmal",
+  "q": "Hva er forskjellene mellom steinsprang, steinskred og fjellskred?",
+  "f": ""
+ },
+ {
+  "id": "9666c1b9a1",
+  "art": "sporsmal",
+  "q": "Hva kan utløse et fjellskred?",
+  "f": ""
+ },
+ {
+  "id": "0ce256a8f8",
+  "art": "sporsmal",
+  "q": "Hvem har ansvaret for skredovervåkingen i Norge?",
+  "f": ""
+ },
+ {
+  "id": "8564bfa295",
+  "art": "sporsmal",
+  "q": "Hvordan kan farlige fjellsider overvåkes?",
+  "f": ""
+ },
+ {
+  "id": "90a580538f",
+  "art": "sporsmal",
+  "q": "Hvordan kan fjellet selv varsle at et skred «er på vei»?",
+  "f": ""
+ },
+ {
+  "id": "c1a2bf8024",
+  "art": "sporsmal",
+  "q": "Hvordan kan folk varsles dersom fjellsiden begynner å bevege seg?",
+  "f": ""
+ },
+ {
+  "id": "bfc70d29d2",
+  "art": "hvatrordu",
+  "q": "Kan du gi noen grunner til at en flodbølge som følger etter et fjellskred, kanskje ikke skal kalles en tsunami?",
+  "f": ""
+ },
+ {
+  "id": "cc775c6cdb",
+  "art": "kapitteloppgave",
+  "q": "steinsprang – steinskred – steinras",
+  "f": ""
+ },
+ {
+  "id": "c88081aa1f",
+  "art": "kapitteloppgave",
+  "q": "fjellskred – steinskred – steinsprang",
+  "f": ""
+ },
+ {
+  "id": "44aebfeea7",
+  "art": "kapitteloppgave",
+  "q": "vanntrykk i fjellsprekker – jordskjelv – fjellskred",
+  "f": ""
+ },
+ {
+  "id": "4d4fdad481",
+  "art": "kapitteloppgave",
+  "q": "glideplan – fjellskred – frostforvitring",
+  "f": ""
+ },
+ {
+  "id": "5b4a3928f0",
+  "art": "kapitteloppgave",
+  "q": "radar – laser – strekkstag",
+  "f": ""
+ },
+ {
+  "id": "16757a77e1",
+  "art": "kapitteloppgave",
+  "q": "høyt farenivå – 10 cm/døgn – lavt farenivå",
+  "f": ""
+ },
+ {
+  "id": "dc364932c9",
+  "art": "kapitteloppgave",
+  "q": "tsunami – fjellskred – skred på havbunnen",
+  "f": ""
+ },
+ {
+  "id": "b26b991172",
+  "art": "kapitteloppgave",
+  "q": "Skredrisiko og skredfare betyr det samme.",
+  "f": ""
+ },
+ {
+  "id": "b3598339d2",
+  "art": "kapitteloppgave",
+  "q": "Mye regn over en lang periode kan øke faren for fjellskred.",
+  "f": ""
+ },
+ {
+  "id": "009531dd6e",
+  "art": "kapitteloppgave",
+  "q": "Jordskjelv kan ikke utløse fjellskred.",
+  "f": ""
+ },
+ {
+  "id": "ddcf2a5db1",
+  "art": "kapitteloppgave",
+  "q": "Det er laget en spillefilm, «Skredet», som handler om et fjellskred fra Åkneset i Stranda kommune.",
+  "f": ""
+ },
+ {
+  "id": "d070e2cd34",
+  "art": "kapitteloppgave",
+  "q": "Fjellpartiet Veslemannen i Romsdalen har rast ut, men det har ikke Mannen.",
+  "f": ""
+ },
+ {
+  "id": "f02534d079",
+  "art": "kapitteloppgave",
+  "q": "Veslemannen beveget seg med en fart på 100 cm/døgn like før skredet gikk.",
+  "f": ""
+ },
+ {
+  "id": "350ba01a8f",
+  "art": "kapitteloppgave",
+  "q": "Naturen kan selv varsle at et fjellskred er på vei.",
+  "f": ""
+ },
+ {
+  "id": "56216aaf35",
+  "art": "kapitteloppgave",
+  "q": "Med radar, på bakken eller fra satellitt, er det mulig å måle avstanden til et bestemt punkt på jordoverflaten med jevne mellomrom og beregne farten et fjellparti beveger seg med.",
+  "f": ""
+ },
+ {
+  "id": "9d01cf7e21",
+  "art": "kapitteloppgave",
+  "q": "Alle ustabile fjellpartier som overvåkes i Norge, beveger seg sakte nedover med opptil flere centimeter i året.",
+  "f": ""
+ },
+ {
+  "id": "0cfa04dcb8",
+  "art": "kapitteloppgave",
+  "q": "Bevegelsen i ustabile fjellsider øker gjennom uker eller måneder før et fjellskred løsner.",
+  "f": ""
+ },
+ {
+  "id": "bf33401b1a",
+  "art": "kapitteloppgave",
+  "q": "Finn Åkneset og Mannen på kartet i figur 20.7. Søk opp de to skredutsatte fjellsidene på Google Earth. Snu litt rundt på bildet, zoom inn og skråstill for å få god «utsikt» til fjellsidene. Finn igjen bildemotivet i figur 20.7. I hvilken himmelretning er bildet tatt? Studer landformene og forklar hva som er den grunnleggende årsaken til de ustabile fjellsidene.",
+  "f": ""
+ },
+ {
+  "id": "86e50d2004",
+  "art": "kapitteloppgave",
+  "q": "Gå inn på nettstedet [www.nve.no](https://www.nve.no). Klikk på «Flaum og skred»/ «Fjellskredovervaking», eller bruk søkeordet «Fjellskredovervaking» på en søkemotor. Se etter de siste dags- og ukerapportene fra de fjellsidene som har døgnkontinuerlig overvåking. Hvilket farenivå har fjellsidene akkurat nå? Hva innebærer det?",
+  "f": ""
+ },
+ {
+  "id": "5f235e0929",
+  "art": "kapitteloppgave",
+  "q": "Databasen for ustabile fjellpartier ved Norges geologiske undersøkelse (NGU) inneholder informasjon om alle ustabile fjellpartier som per i dag er kjent i Norge. Ustabile fjellpartier er fjellområder som viser tegn til bevegelse etter siste istid, og der det derfor kan være fare for fjellskred i framtiden. Du finner databasen her: [www.ngu.no](https://www.ngu.no). Klikk på «Kartinnsyn»/«Ustabile fjellparti», eller gå direkte til http://geo.ngu.no/kart/ustabilefjellparti/. Du kan også søke med «Nasjonal database for ustabile fjellparti». Er det noen ustabile fjellpartier i nærheten av der du bor, eller i andre områder du ferdes?",
+  "f": ""
+ },
+ {
+  "id": "e18e97b1a9",
+  "art": "kapitteloppgave",
+  "q": "kart. Åknes, Hegguraksla og Mannen er tre av sju fjellsider i Norge som overvåkes hele døgnet.",
+  "f": ""
+ },
+ {
+  "id": "d07a0068f6",
+  "art": "kapitteloppgave",
+  "q": "20.12 Åkneset, Hegguraksla og Mannen er tre av sju fjellsider i Norge som overvåkes hele døgnet.",
+  "f": ""
+ }
+]

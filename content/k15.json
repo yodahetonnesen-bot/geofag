@@ -14,13 +14,11 @@
         {
           "t": "p",
           "tekst": "De gamle landformene er dannet før kvartær (altså for mer enn 2,6 millioner år siden). Store (og mindre) flate landområder, både høyfjellsvidder og skogsvidder, er typiske trekk i det gamle landskapet. De ble dannet i et varmt og fuktig klima på slutten av mellomtiden og gjennom store deler av nytiden for ca. 100 millioner år siden. Kjemisk dypforvitring var den gang en effektiv prosess på grunn av det varme, fuktige klimaet. Sin nåværende høydeplassering fikk de gamle landformene i forbindelse med hevninger av landoverflaten i jordas nytid."
-        }
-      ]
-    },
-    {
-      "tittel": "En liten bebyggelse på en slette med fjell i horisonten",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En liten bebyggelse på en slette med fjell i horisonten"
+        },
         {
           "t": "figur",
           "nr": "15.1",
@@ -29,12 +27,12 @@
       ]
     },
     {
-      "tittel": "Utsikt ned mot bebyggelse i bunnen av en smal dal med et spisst fjell i bakgrunnen",
+      "tittel": "Gamle og unge landformer",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Gamle og unge landformer"
+          "tekst": "Utsikt ned mot bebyggelse i bunnen av en smal dal med et spisst fjell i bakgrunnen"
         },
         {
           "t": "figur",
@@ -134,12 +132,12 @@
       ]
     },
     {
-      "tittel": "Illustrasjoner av terrengsnitt",
+      "tittel": "Hevning av landblokken i nytiden",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Hevning av landblokken i nytiden"
+          "tekst": "Illustrasjoner av terrengsnitt"
         },
         {
           "t": "figur",
@@ -191,13 +189,11 @@
           "t": "figur",
           "nr": "15.6",
           "tekst": "Deler av den paleiske landoverflaten ble liggende i ulike høydenivåer etter hevningene i paleogen og neogen. Flatene i grønt er dannet før mellomtiden. Flater fra nytiden (I–IV) er atskilt av markerte skråninger. Restfjell som rager opp over flatene, er markert. G: Gudbrandsdalen, Ga: Gaustatoppen, Ha: Hardangervidda, Hs: Hallingskarvet, Ht: Hårteigen, I: Illstigfjellet, J: Jotunheimen, R: Rondane, Re: Rendalssølen, S: Sognefjorden, Sn: Snøhetta, V: Valdres"
-        }
-      ]
-    },
-    {
-      "tittel": "Vakre høstfarger i lyng og kratt langs fjellpatiet ved Rondane",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Vakre høstfarger i lyng og kratt langs fjellpatiet ved Rondane"
+        },
         {
           "t": "figur",
           "nr": "15.7",
@@ -225,13 +221,11 @@
         {
           "t": "p",
           "tekst": "Hardangervidda er Europas største høyfjellsvidde (figur 15.8). Den ligger 1000–1400 moh. med grunne innsjøer og små høydeforskjeller. Hardangervidda er en del av den paleiske overflaten, opprinnelig et sletteland nær havnivået for noen titalls millioner år siden. Oppå grunnfjellet lå det bergarter fra oldtiden, både kambrosiluriske bergarter og skyvedekker fra den kaledonske fjellkjeden. I jordas mellomtid og den første delen av nytiden nådde forvitringen av landoverflaten helt ned til grunnfjellet, og det subkambriske peneplanet kom gradvis fram i dagen."
-        }
-      ]
-    },
-    {
-      "tittel": "Slettelandskap med gress og småstein med fjellkjede i horisonten",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Slettelandskap med gress og småstein med fjellkjede i horisonten"
+        },
         {
           "t": "figur",
           "nr": "15.8",
@@ -261,12 +255,12 @@
       ]
     },
     {
-      "tittel": "Skisse over agnordaler",
-      "side": null,
+      "tittel": "Agnordaler",
+      "side": 283,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Agnordaler"
+          "tekst": "Skisse over agnordaler"
         },
         {
           "t": "figur",
@@ -347,13 +341,11 @@
         {
           "t": "p",
           "tekst": "Studer agnordalene og forsøk å tegne inn det opprinnelige vannskillet."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over agnordaler",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over agnordaler"
+        },
         {
           "t": "figur",
           "nr": "15.11",
@@ -423,7 +415,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Skisse over agnordaler",
+      "del": "Agnordaler",
       "poster": [
         {
           "q": "Hva er et viddelandskap? Hvordan ser det ut?",
@@ -443,7 +435,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Skisse over agnordaler",
+      "del": "Agnordaler",
       "poster": [
         {
           "q": "Ved inngangen til nytiden var landoverflaten slitt ned til et lavtliggende slettelandskap. Hva slags bergarter besto berggrunnen av?",
@@ -495,7 +487,7 @@
       "art": "kapitteloppgave",
       "overskrift": "KAPITTELOPPGAVER",
       "side": null,
-      "del": "Kart over agnordaler",
+      "del": "Agnordaler",
       "poster": [
         {
           "gruppe": "Én skal ut"
@@ -529,8 +521,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Berggrunnen i den landblokken som ble hevet i nytiden, besto av kaledonske bergarter.",

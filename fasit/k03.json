@@ -1,0 +1,410 @@
+[
+ {
+  "id": "85303150c0",
+  "art": "tenk",
+  "q": "Hvordan oppstår jordskjelv?",
+  "f": ""
+ },
+ {
+  "id": "11899d6aae",
+  "art": "tenk",
+  "q": "Press hendene hardt mot hverandre og prøv å skyve dem fra hverandre. Du klarer det nok. Hva har det med jordskjelv å gjøre?",
+  "f": ""
+ },
+ {
+  "id": "4b4408f6ec",
+  "art": "tenk",
+  "q": "Hva er forskjellen på langsbølger og tversbølger?",
+  "f": ""
+ },
+ {
+  "id": "5244ab00b3",
+  "art": "tenk",
+  "q": "Kan du gi andre eksempler på langsbølger og tversbølger?",
+  "f": ""
+ },
+ {
+  "id": "51d4050f5c",
+  "art": "tenk",
+  "q": "Hva er forskjellen på en seismograf, en seismolog og et seismogram?",
+  "f": ""
+ },
+ {
+  "id": "712e76fac2",
+  "art": "tenk",
+  "q": "Hvor mye energi blir utløst i et jordskjelv med størrelse 8 sammenlignet med et skjelv med størrelse 5?",
+  "f": ""
+ },
+ {
+  "id": "4722355549",
+  "art": "tenk",
+  "q": "Hvor mange jordskjelv er det som er større enn 5 hvert år?",
+  "f": ""
+ },
+ {
+  "id": "2803068e34",
+  "art": "tenk",
+  "q": "Hvordan kan et jordskjelv sette i gang en tsunami?",
+  "f": ""
+ },
+ {
+  "id": "38151c9ed7",
+  "art": "tenk",
+  "q": "Kan vi oppleve megaskjelv i Norge?",
+  "f": ""
+ },
+ {
+  "id": "01f7530c94",
+  "art": "tenk",
+  "q": "Hvorfor er det alltid havbunnsplata som dukker under kontinentplata i en kollisjon – og ikke omvendt?",
+  "f": ""
+ },
+ {
+  "id": "f955556fab",
+  "art": "tenk",
+  "q": "Hvordan beveger platene i figur 3.11 seg i forhold til hverandre (se figur 3.10)?",
+  "f": ""
+ },
+ {
+  "id": "9cd950c291",
+  "art": "tenk",
+  "q": "Søk med «San Andreas» på Google Earth. Zoom, skråstill og snurr rundt etter behov. Skjer det noe der elveløpene krysser forkastningen? Hva er grunnen?",
+  "f": ""
+ },
+ {
+  "id": "2315c2cb86",
+  "art": "tenk",
+  "q": "Studer utbredelsen av grunne, middels dype og dype jordskjelv for eksempel i Sør-Amerika og i Japan (se figur 3.8). Hvordan vil du forklare det du ser?",
+  "f": ""
+ },
+ {
+  "id": "6eb51e4c9f",
+  "art": "tenk",
+  "q": "Hvilke skader gjør jordskjelv?",
+  "f": ""
+ },
+ {
+  "id": "dd4f26b0c0",
+  "art": "tenk",
+  "q": "Er det mulig å varsle jordskjelv?",
+  "f": ""
+ },
+ {
+  "id": "0baaeb4460",
+  "art": "tenk",
+  "q": "Hvilke to områder på kartet i figur 3.13 har stor seismisk aktivitet? Hva er grunnen til det?",
+  "f": ""
+ },
+ {
+  "id": "1ea7ea3c23",
+  "art": "sporsmal",
+  "q": "Hva er en forkastning?",
+  "f": ""
+ },
+ {
+  "id": "4b063b9223",
+  "art": "sporsmal",
+  "q": "Hva er et megaskjelv?",
+  "f": ""
+ },
+ {
+  "id": "3dd70236a8",
+  "art": "sporsmal",
+  "q": "Hva menes med jordskjelvets sentrum og episenter?",
+  "f": ""
+ },
+ {
+  "id": "71e296654f",
+  "art": "sporsmal",
+  "q": "Hva er seismologi?",
+  "f": ""
+ },
+ {
+  "id": "2203ce5ff2",
+  "art": "sporsmal",
+  "q": "Hva er forskjellene og likhetene mellom P-bølger, S-bølger og overflatebølger?",
+  "f": ""
+ },
+ {
+  "id": "afa1c638ad",
+  "art": "sporsmal",
+  "q": "Hvilke jordskjelvbølger gjør størst skade på jordoverflaten?",
+  "f": ""
+ },
+ {
+  "id": "7b6c96d655",
+  "art": "sporsmal",
+  "q": "Hvor på jordoverflaten skjer de fleste jordskjelvene?",
+  "f": ""
+ },
+ {
+  "id": "ab640b4604",
+  "art": "sporsmal",
+  "q": "Hvor sterkt er det sterkeste jordskjelvet som er registrert?",
+  "f": ""
+ },
+ {
+  "id": "21cf454399",
+  "art": "sporsmal",
+  "q": "Hva er årsaken til jordskjelv som rammer Norge?",
+  "f": ""
+ },
+ {
+  "id": "539e62158d",
+  "art": "sporsmal",
+  "q": "Hvor kraftige er norske jordskjelv?",
+  "f": ""
+ },
+ {
+  "id": "743da6cd23",
+  "art": "sporsmal",
+  "q": "Hvor dypt ligger de dypeste jordskjelvene?",
+  "f": ""
+ },
+ {
+  "id": "6231c000a8",
+  "art": "sporsmal",
+  "q": "Hvor skjer de dypeste jordskjelvene?",
+  "f": ""
+ },
+ {
+  "id": "ac195ba3de",
+  "art": "sporsmal",
+  "q": "Hvordan beveger platene seg på hver side av San Andreas-forkastningen?",
+  "f": ""
+ },
+ {
+  "id": "908ab2f978",
+  "art": "hvatrordu",
+  "q": "Forklar hvorfor forskjellen i ankomsttiden for P-bølger og S-bølger forteller noe om avstanden til episenteret.",
+  "f": ""
+ },
+ {
+  "id": "b420743b10",
+  "art": "hvatrordu",
+  "q": "Hvorfor er det ikke dype jordskjelv langs spredningsakser?",
+  "f": ""
+ },
+ {
+  "id": "3afae2ad74",
+  "art": "hvatrordu",
+  "q": "Hvordan vil utslagene på et seismogram forandre seg med avstanden fra jordskjelvets episenter?",
+  "f": ""
+ },
+ {
+  "id": "81cd9470f3",
+  "art": "hvatrordu",
+  "q": "Hvor mye mer energi utløste jordskjelvet i Indiahavet i 2004 (størrelse 9) sammenlignet med jordskjelv som er vanlige i våre områder (størrelse 4)?",
+  "f": ""
+ },
+ {
+  "id": "69d59f6602",
+  "art": "hvatrordu",
+  "q": "Er det norske samfunnet mer sårbart for jordskjelv i dag enn for 200 år siden? Begrunn svaret.",
+  "f": ""
+ },
+ {
+  "id": "3389cb1871",
+  "art": "sporsmal",
+  "q": "Hvorfor mister så mange mennesker livet i jordskjelv?",
+  "f": ""
+ },
+ {
+  "id": "07e7d95274",
+  "art": "sporsmal",
+  "q": "Hvorfor har grunnforholdene betydning for hvor store skader et jordskjelv gjør?",
+  "f": ""
+ },
+ {
+  "id": "13b5812d84",
+  "art": "sporsmal",
+  "q": "Hvorfor kan ofte mindre bygninger kollapse før større i et jordskjelv?",
+  "f": ""
+ },
+ {
+  "id": "d54b1012fb",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på langtidsvarsler og korttidsvarsler for jordskjelv?",
+  "f": ""
+ },
+ {
+  "id": "d2bcf0b2e7",
+  "art": "hvatrordu",
+  "q": "Hva menes med at jordskjelv «gjør forskjell på fattig og rik»?",
+  "f": ""
+ },
+ {
+  "id": "cb0289eabe",
+  "art": "hvatrordu",
+  "q": "Kan du forklare hvorfor det ofte kommer etterskjelv?",
+  "f": ""
+ },
+ {
+  "id": "c033c5c810",
+  "art": "kapitteloppgave",
+  "q": "Her er noen faguttrykk, samlet i grupper på tre, som du har møtt når du har lest dette kapitlet.",
+  "f": ""
+ },
+ {
+  "id": "9571d11c6a",
+  "art": "kapitteloppgave",
+  "q": "Finn et faguttrykk fra hver gruppe som ikke passer inn – du skal finne ett som skal ut. Og det er viktig å begrunne valget. Noen ganger kan det være flere mulige løsninger – med ulike begrunnelser!",
+  "f": ""
+ },
+ {
+  "id": "bfcf2d5fad",
+  "art": "kapitteloppgave",
+  "q": "momentstørrelse (moment magnitude) – Richter magnitude – jordskjelvets energi",
+  "f": ""
+ },
+ {
+  "id": "a6f9994a39",
+  "art": "kapitteloppgave",
+  "q": "pandemi – episenter – jordskjelvets sentrum",
+  "f": ""
+ },
+ {
+  "id": "c56046f45b",
+  "art": "kapitteloppgave",
+  "q": "megaskjelv – midthavsrygger – kollisjonssoner",
+  "f": ""
+ },
+ {
+  "id": "28035409b3",
+  "art": "kapitteloppgave",
+  "q": "forkastning – bruddsone i jordskorpa – ikke synlig på jordoverflaten",
+  "f": ""
+ },
+ {
+  "id": "73a8cf6d6f",
+  "art": "kapitteloppgave",
+  "q": "Hvert år registreres det flere tusen ødeleggende jordskjelv.",
+  "f": ""
+ },
+ {
+  "id": "bc6b41044e",
+  "art": "kapitteloppgave",
+  "q": "Jordskjelvene med sentrum nær jordoverflaten gjør størst skade.",
+  "f": ""
+ },
+ {
+  "id": "fe2bfabf34",
+  "art": "kapitteloppgave",
+  "q": "De dypeste jordskjelvene har sentrum under midthavsryggene.",
+  "f": ""
+ },
+ {
+  "id": "0c41d32a92",
+  "art": "kapitteloppgave",
+  "q": "Litosfæreplater kan i et jordskjelv forskyve seg flere meter i forhold til hverandre i løpet av sekunder.",
+  "f": ""
+ },
+ {
+  "id": "b606f4b7c4",
+  "art": "kapitteloppgave",
+  "q": "Flere sterke jordskjelv like etter siste istid var en følge av at innlandsisen smeltet.",
+  "f": ""
+ },
+ {
+  "id": "8756443265",
+  "art": "kapitteloppgave",
+  "q": "Der det er løsmasser i grunnen, rister bygningene mer i et jordskjelv enn der det er fast fjell.",
+  "f": ""
+ },
+ {
+  "id": "2e0bb15611",
+  "art": "kapitteloppgave",
+  "q": "Etterskjelv kan komme i løpet av de nærmeste minuttene etter et større jordskjelv.",
+  "f": ""
+ },
+ {
+  "id": "3b6c76190a",
+  "art": "kapitteloppgave",
+  "q": "I Kina ble et stort jordskjelv varslet hele fem timer før det skjedde.",
+  "f": ""
+ },
+ {
+  "id": "bcb96cb362",
+  "art": "kapitteloppgave",
+  "q": "Les gjennom tekstboksen «Jordskjelv i by» (se side 32).",
+  "f": ""
+ },
+ {
+  "id": "67e6565107",
+  "art": "kapitteloppgave",
+  "q": "Gå inn på [www.jordskjelv.no](https://www.jordskjelv.no), her finner du nettstedet til NORSAR Norwegian Seismic Array), et av de største seismologiske nettverkene i verden. Forklar hva kartet viser, og finn ut hvordan du kan forandre både målestokk og hvilket kartområde som vises.",
+  "f": ""
+ },
+ {
+  "id": "11b7ceba30",
+  "art": "kapitteloppgave",
+  "q": "Klikk så på fanen «Finn jordskjelv». Søk med et stedsnavn i nærheten av der du bor, og bruk kartet til å finne det nærmeste skjelvet. Hvor er episenteret, hvilken styrke hadde skjelvet, og når skjedde det? Du finner svarene ved å bruke kartet og ved å plassere musepekeren på skjelvet. Var det noen i klassen som merket akkurat det skjelvet?",
+  "f": ""
+ },
+ {
+  "id": "5f566daee0",
+  "art": "kapitteloppgave",
+  "q": "De aller siste hendelsene (jordskjelvene) i våre områder ruller forbi i en fane øverst på startsiden til NORSAR. Gi noen eksempler (tid, styrke og sted) på de siste jordskjelvene.",
+  "f": ""
+ },
+ {
+  "id": "c78e955526",
+  "art": "kapitteloppgave",
+  "q": "Kjenner du til noen som har opplevd jordskjelv i nærheten – eller i andre land? Hvordan opplevde de det?",
+  "f": ""
+ },
+ {
+  "id": "646f74cc23",
+  "art": "kapitteloppgave",
+  "q": "Se på kartet i figur 3.7. Hvordan vil du karakterisere jordskjelvaktiviteten der du bor, sammenlignet med resten av landet?",
+  "f": ""
+ },
+ {
+  "id": "c5e10cbc9f",
+  "art": "kapitteloppgave",
+  "q": "NORSAR mottar mange spørsmål om jordskjelv. Noen av de spørsmålene som stadig dukker opp, finner du under fanen «Ofte stilte spørsmål» her:",
+  "f": ""
+ },
+ {
+  "id": "de0903d753",
+  "art": "kapitteloppgave",
+  "q": "[www.jordskjelv.no/om-jordskjelv/](https://www.jordskjelv.no/om-jordskjelv/)",
+  "f": ""
+ },
+ {
+  "id": "685455c1e4",
+  "art": "kapitteloppgave",
+  "q": "Forsøk å svare på spørsmål som fanger interessen din – før du ser i fasiten på nettstedet.",
+  "f": ""
+ },
+ {
+  "id": "71af55712f",
+  "art": "kapitteloppgave",
+  "q": "Velg deg et jordskjelv du vil studere nærmere. En oversikt over de siste jordskjelvene finner du for eksempel på U.S.Geological Survey:",
+  "f": ""
+ },
+ {
+  "id": "c36f654271",
+  "art": "kapitteloppgave",
+  "q": "[www.earthquake.usgs.gov/earthquakes/map](https://www.earthquake.usgs.gov/earthquakes/map)",
+  "f": ""
+ },
+ {
+  "id": "42b01489ce",
+  "art": "kapitteloppgave",
+  "q": "Eller du kan bare søke med «USGS» på en søkemotor.",
+  "f": ""
+ },
+ {
+  "id": "f99e64376e",
+  "art": "kapitteloppgave",
+  "q": "Beskriv jordskjelvet (dybde, størrelse) og følgene av det.",
+  "f": ""
+ },
+ {
+  "id": "03a9a14d36",
+  "art": "kapitteloppgave",
+  "q": "Hvorfor skjedde jordskjelvet akkurat der? Bruk platetektonikken for å forklare.",
+  "f": ""
+ }
+]

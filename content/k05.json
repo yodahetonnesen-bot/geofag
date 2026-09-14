@@ -74,12 +74,12 @@
       ]
     },
     {
-      "tittel": "En tsunamibølge fra havet treffer et svømmebasseng",
+      "tittel": "Tsunamien i Indiahavet i 2004",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Tsunamien i Indiahavet i 2004"
+          "tekst": "En tsunamibølge fra havet treffer et svømmebasseng"
         },
         {
           "t": "figur",
@@ -269,8 +269,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "En tsunami er dannet som andre store havbølger.",

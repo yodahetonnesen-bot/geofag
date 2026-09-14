@@ -1,0 +1,356 @@
+[
+ {
+  "id": "a146027d45",
+  "art": "tenk",
+  "q": "Er all stein naturstein?",
+  "f": ""
+ },
+ {
+  "id": "2fcf157ccd",
+  "art": "tenk",
+  "q": "Er blokkstein en bestemt bergart?",
+  "f": ""
+ },
+ {
+  "id": "b688ecbc1c",
+  "art": "tenk",
+  "q": "Hva menes med «fossilsamfunnet»?",
+  "f": ""
+ },
+ {
+  "id": "3f26769e0f",
+  "art": "sporsmal",
+  "q": "Hvilke fem typer mineralressurser skiller vi mellom?",
+  "f": ""
+ },
+ {
+  "id": "c00ac04941",
+  "art": "sporsmal",
+  "q": "Er mineralressursene fornybare, betinget fornybare eller ikke-fornybare?",
+  "f": ""
+ },
+ {
+  "id": "c95ad5a9a0",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på reserver og ressurser?",
+  "f": ""
+ },
+ {
+  "id": "4b2910576d",
+  "art": "sporsmal",
+  "q": "Hvilken gruppe av mineralressurser har størst økonomisk betydning i dag?",
+  "f": ""
+ },
+ {
+  "id": "3bd77b25dd",
+  "art": "sporsmal",
+  "q": "Kan du gi noen eksempler på bergindustrier?",
+  "f": ""
+ },
+ {
+  "id": "a065c86f77",
+  "art": "hvatrordu",
+  "q": "Hva er det som gjør at bergindustrien er råvareorientert?",
+  "f": ""
+ },
+ {
+  "id": "e17497fda6",
+  "art": "hvatrordu",
+  "q": "Mye av bergindustrien ligger langs kysten. Hvorfor det, tror du?",
+  "f": ""
+ },
+ {
+  "id": "7d500ff71c",
+  "art": "hvatrordu",
+  "q": "Hvorfor er tilgangen på spesielle mineraler og metaller viktig i det grønne skiftet?",
+  "f": ""
+ },
+ {
+  "id": "4993397965",
+  "art": "hvatrordu",
+  "q": "Hva er forskjellen på «dagens steinalder» og steinalderen for 4000–5000 år siden?",
+  "f": ""
+ },
+ {
+  "id": "ca8d1a42fd",
+  "art": "hvatrordu",
+  "q": "Hva er forskjellen mellom ressurser, reserver og forekomster av et mineral?",
+  "f": ""
+ },
+ {
+  "id": "d95c3eead2",
+  "art": "sporsmal",
+  "q": "Hva er naturstein?",
+  "f": ""
+ },
+ {
+  "id": "93f5c8ff4e",
+  "art": "sporsmal",
+  "q": "Er blokkstein og skifer bestemte bergarter?",
+  "f": ""
+ },
+ {
+  "id": "bf174a4539",
+  "art": "sporsmal",
+  "q": "Hva er blokkstein, og hva er skifer?",
+  "f": ""
+ },
+ {
+  "id": "5a90644815",
+  "art": "sporsmal",
+  "q": "Hva er byggeråstoffer en samlebetegnelse for?",
+  "f": ""
+ },
+ {
+  "id": "9ec964cc31",
+  "art": "sporsmal",
+  "q": "Hvilke prosesser danner sand og grus?",
+  "f": ""
+ },
+ {
+  "id": "e4b8a71dff",
+  "art": "sporsmal",
+  "q": "Hvordan er pukk produsert?",
+  "f": ""
+ },
+ {
+  "id": "1821c88282",
+  "art": "hvatrordu",
+  "q": "Er byggeråstoffer fornybare ressurser? Begrunn svaret.",
+  "f": ""
+ },
+ {
+  "id": "481e6687e3",
+  "art": "sporsmal",
+  "q": "Hva er et industrimineral?",
+  "f": ""
+ },
+ {
+  "id": "c0df00ae26",
+  "art": "sporsmal",
+  "q": "Hva er «det grønne gullet», og hva brukes det til?",
+  "f": ""
+ },
+ {
+  "id": "39f19135e5",
+  "art": "sporsmal",
+  "q": "Norge er i verdenstoppen når det gjelder produksjon av to industrimineraler. Hvilke?",
+  "f": ""
+ },
+ {
+  "id": "2b8d4218dd",
+  "art": "sporsmal",
+  "q": "Hva brukes kalkstein til?",
+  "f": ""
+ },
+ {
+  "id": "d22c2eecb1",
+  "art": "sporsmal",
+  "q": "Kvarts kan bli et enda viktigere mineral i framtiden. Hvorfor det?",
+  "f": ""
+ },
+ {
+  "id": "b7525e0d72",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på malm og metallisk malm?",
+  "f": ""
+ },
+ {
+  "id": "d366a03173",
+  "art": "sporsmal",
+  "q": "Hvor mange gruver er det som driver på metallisk malm i Norge i dag?",
+  "f": ""
+ },
+ {
+  "id": "4c902a4a34",
+  "art": "sporsmal",
+  "q": "Hva er det som gjør at malmproduksjonen kan få en ny blomstringstid?",
+  "f": ""
+ },
+ {
+  "id": "2e18a0020f",
+  "art": "sporsmal",
+  "q": "Hva er forskjellene på reserver, ressurser og forekomster?",
+  "f": ""
+ },
+ {
+  "id": "692829434c",
+  "art": "sporsmal",
+  "q": "På hvilke måter kan bergindustrien påvirke naturmiljøet?",
+  "f": ""
+ },
+ {
+  "id": "66575a7252",
+  "art": "sporsmal",
+  "q": "Hva er et dagbrudd?",
+  "f": ""
+ },
+ {
+  "id": "420146a12e",
+  "art": "sporsmal",
+  "q": "Hva menes med «urban gruvedrift»?",
+  "f": ""
+ },
+ {
+  "id": "5b7be9af99",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på et landdeponi og et sjødeponi?",
+  "f": ""
+ },
+ {
+  "id": "5da8b4a1e4",
+  "art": "hvatrordu",
+  "q": "Hvordan kan land- og sjødeponier påvirke naturmiljøet?",
+  "f": ""
+ },
+ {
+  "id": "20be831f2c",
+  "art": "hvatrordu",
+  "q": "Hva menes med «en bærekraftig forvaltning av mineralressursene»?",
+  "f": ""
+ },
+ {
+  "id": "5047982e72",
+  "art": "hvatrordu",
+  "q": "Hva er det som gjør norske fjorder godt egnet til sjødeponier?",
+  "f": ""
+ },
+ {
+  "id": "9210d2f8f0",
+  "art": "kapitteloppgave",
+  "q": "sand – grus – pukk",
+  "f": ""
+ },
+ {
+  "id": "9b9845cf8e",
+  "art": "kapitteloppgave",
+  "q": "naturstein – granitt – grus",
+  "f": ""
+ },
+ {
+  "id": "a081677c64",
+  "art": "kapitteloppgave",
+  "q": "reserver – ressurser – forekomster",
+  "f": ""
+ },
+ {
+  "id": "aecbe72041",
+  "art": "kapitteloppgave",
+  "q": "grunnvann – pukk – sand",
+  "f": ""
+ },
+ {
+  "id": "1c39c670a0",
+  "art": "kapitteloppgave",
+  "q": "olivinstein – jernmalm – kalkstein",
+  "f": ""
+ },
+ {
+  "id": "19fda9efbd",
+  "art": "kapitteloppgave",
+  "q": "malmreserver – metallisk malm – malmforekomst",
+  "f": ""
+ },
+ {
+  "id": "5be4e7b4ff",
+  "art": "kapitteloppgave",
+  "q": "metalliske malmer – industrimineraler – magma",
+  "f": ""
+ },
+ {
+  "id": "bb535f85dd",
+  "art": "kapitteloppgave",
+  "q": "steinbrudd – gruvedrift – sandtak",
+  "f": ""
+ },
+ {
+  "id": "3ef8f58c78",
+  "art": "kapitteloppgave",
+  "q": "landdeponi – sjødeponi – tilbakefylling",
+  "f": ""
+ },
+ {
+  "id": "fa41d5b655",
+  "art": "kapitteloppgave",
+  "q": "Sand, grus og pukk omtales som naturstein.",
+  "f": ""
+ },
+ {
+  "id": "ff4686f5c4",
+  "art": "kapitteloppgave",
+  "q": "Industrimineraler og metalliske malmer er ikke det samme.",
+  "f": ""
+ },
+ {
+  "id": "57f1d405ea",
+  "art": "kapitteloppgave",
+  "q": "Industrimineraler blir produsert i industrien.",
+  "f": ""
+ },
+ {
+  "id": "d576aa0f4b",
+  "art": "kapitteloppgave",
+  "q": "Mineralressursene er større enn mineralreservene.",
+  "f": ""
+ },
+ {
+  "id": "7849af9fa0",
+  "art": "kapitteloppgave",
+  "q": "Sand, grus og pukk har i dag stor økonomisk betydning i bergverksindustrien.",
+  "f": ""
+ },
+ {
+  "id": "1617f729cc",
+  "art": "kapitteloppgave",
+  "q": "Det grønne skiftet vil føre til større etterspørsel etter mineraler.",
+  "f": ""
+ },
+ {
+  "id": "8745509aa0",
+  "art": "kapitteloppgave",
+  "q": "Blokkstein er navn på en bergart.",
+  "f": ""
+ },
+ {
+  "id": "58c9f0f1ad",
+  "art": "kapitteloppgave",
+  "q": "Skifer er en magmatisk dypbergart.",
+  "f": ""
+ },
+ {
+  "id": "dee145ef4c",
+  "art": "kapitteloppgave",
+  "q": "Pukk er stein som finnes i naturen.",
+  "f": ""
+ },
+ {
+  "id": "6ce3791916",
+  "art": "kapitteloppgave",
+  "q": "Sand og grus er naturlig knust stein.",
+  "f": ""
+ },
+ {
+  "id": "3f4849b1e3",
+  "art": "kapitteloppgave",
+  "q": "Industrimineraler blir brukt som råstoffer i industriprosesser.",
+  "f": ""
+ },
+ {
+  "id": "f25778ac49",
+  "art": "kapitteloppgave",
+  "q": "Urban gruvedrift drives som dagbrudd.",
+  "f": ""
+ },
+ {
+  "id": "c31f3b1ea5",
+  "art": "kapitteloppgave",
+  "q": "Tilbakefylling er en måte å deponere overskuddsmasser på.",
+  "f": ""
+ },
+ {
+  "id": "39a95b8820",
+  "art": "kapitteloppgave",
+  "q": "Gruvedeponier ligger alltid på land.",
+  "f": ""
+ }
+]

@@ -130,316 +130,114 @@
       ]
     },
     {
-      "tittel": "SiO2",
+      "tittel": null,
       "side": null,
       "blokker": [
         {
-          "t": "bilde",
-          "tekst": "Mineral"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Krystall-form"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Hardhet"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Farge/ Strekfarge"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Glans"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Spalte-retninger"
-        },
-        {
-          "t": "bilde",
-          "tekst": "SILIKAT-MINE-RALER"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Lyse, felsiske mine-raler"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Kvarts"
-        },
-        {
-          "t": "p",
-          "tekst": "2,6 (tetthet)"
+          "t": "tabell",
+          "celler": [
+            "Mineral",
+            "Krystall-form",
+            "Hardhet",
+            "Farge/ Strekfarge",
+            "Glans",
+            "Spalte-retninger",
+            "SILIKAT-MINE-RALER",
+            "Lyse, felsiske mine-raler",
+            "Kvarts",
+            "SiO2",
+            "2,6 (tetthet)",
+            "7",
+            "Fargeløs, hvit, grå, andre / Hvit",
+            "Glass",
+            "Ingen",
+            "Feltspat (2,5–2,8)",
+            "alkalifeltspat:",
+            "KAlSi3O8",
+            "plagioklas:",
+            "NaAlSi3O8",
+            "CaAl2Si2O8",
+            "6–6,5",
+            "Fargeløs, hvit, grå, gul, rød, andre / Hvit",
+            "Glass",
+            "To spalte-retninger som nesten står vinkelrett på hverandre",
+            "Muskovitt",
+            "KAl2(AlSi3O10)",
+            "(OH)2",
+            "2,8–2,9",
+            "2–3",
+            "Fargeløs / Hvit",
+            "Glass",
+            "Perlemor",
+            "Metall",
+            "Spalter i tynne flak",
+            "Mørke, malfiske mine-raler",
+            "Pyroksen",
+            "Ca(MgFeAlTi)",
+            "(SiAl)2O6",
+            "(augitt)",
+            "2,9–3,8",
+            "5–7",
+            "Svart, svartgrønn/ Grågrønn",
+            "Glass"
+          ]
         }
       ]
     },
     {
-      "tittel": "Ingen",
+      "tittel": "To spalte-retninger som nesten står vinkelrett på hverandre",
       "side": null,
       "blokker": [
-        {
-          "t": "bilde",
-          "tekst": "7"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Fargeløs, hvit, grå, andre / Hvit"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Glass"
-        },
-        {
-          "t": "p",
-          "tekst": "Feltspat (2,5–2,8)"
-        },
-        {
-          "t": "p",
-          "tekst": "alkalifeltspat:"
-        }
-      ]
-    },
-    {
-      "tittel": "KAlSi3O8",
-      "side": null,
-      "blokker": [
-        {
-          "t": "p",
-          "tekst": "plagioklas:"
-        }
-      ]
-    },
-    {
-      "tittel": "Muskovitt",
-      "side": null,
-      "blokker": [
-        {
-          "t": "bilde",
-          "tekst": "NaAlSi3O8"
-        },
-        {
-          "t": "bilde",
-          "tekst": "CaAl2Si2O8"
-        },
-        {
-          "t": "bilde",
-          "tekst": "6–6,5"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Fargeløs, hvit, grå, gul, rød, andre / Hvit"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Glass"
-        },
-        {
-          "t": "bilde",
-          "tekst": "To spalte-retninger som nesten står vinkelrett på hverandre"
-        },
-        {
-          "t": "p",
-          "tekst": "KAl2(AlSi3O10)"
-        },
-        {
-          "t": "p",
-          "tekst": "(OH)2"
-        }
-      ]
-    },
-    {
-      "tittel": "Pyroksen",
-      "side": null,
-      "blokker": [
-        {
-          "t": "bilde",
-          "tekst": "2,8–2,9"
-        },
-        {
-          "t": "bilde",
-          "tekst": "2–3"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Fargeløs / Hvit"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Glass"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Perlemor"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Metall"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Spalter i tynne flak"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Mørke, malfiske mine-raler"
-        },
-        {
-          "t": "p",
-          "tekst": "Ca(MgFeAlTi)"
-        },
-        {
-          "t": "p",
-          "tekst": "(SiAl)2O6"
-        },
-        {
-          "t": "p",
-          "tekst": "(augitt)"
-        }
-      ]
-    },
-    {
-      "tittel": "Al2Si6O22(OH)2",
-      "side": null,
-      "blokker": [
-        {
-          "t": "bilde",
-          "tekst": "2,9–3,8"
-        },
-        {
-          "t": "bilde",
-          "tekst": "5–7"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Svart, svartgrønn/ Grågrønn"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Glass"
-        },
-        {
-          "t": "bilde",
-          "tekst": "To spalte-retninger som nesten står vinkelrett på hverandre"
-        },
         {
           "t": "bilde",
           "tekst": "Amfibol"
-        },
-        {
-          "t": "bilde",
-          "tekst": "NaAlCa2(MgFe)4"
-        },
-        {
-          "t": "p",
-          "tekst": "(hornblende)"
         }
       ]
     },
     {
-      "tittel": "Olivin",
+      "tittel": null,
       "side": null,
       "blokker": [
         {
-          "t": "bilde",
-          "tekst": "2,9–3,8"
-        },
-        {
-          "t": "bilde",
-          "tekst": "5–6"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Svart, svartgrønn / Grågrønn, gråbrun"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Glass"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Perlemor"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Spalte-retninger danner 120º og 60º med hverandre"
-        },
-        {
-          "t": "p",
-          "tekst": "(MgFe)2SiO4"
+          "t": "tabell",
+          "celler": [
+            "NaAlCa2(MgFe)4",
+            "Al2Si6O22(OH)2",
+            "(hornblende)",
+            "2,9–3,8",
+            "5–6",
+            "Svart, svartgrønn / Grågrønn, gråbrun",
+            "Glass",
+            "Perlemor",
+            "Spalte-retninger danner 120º og 60º med hverandre",
+            "Olivin",
+            "(MgFe)2SiO4",
+            "3,2–4,3",
+            "6,5–7",
+            "Grønnlig / Hvit",
+            "Glass",
+            "Fett",
+            "Ingen",
+            "Biotitt",
+            "K(MgFeMn)3",
+            "(OHF)2 AlSi3",
+            "O10",
+            "2,8–3,2",
+            "2,5–3",
+            "Mørkebrun, mørkegrønn, svart / Hvit",
+            "Glass",
+            "Perlemor"
+          ]
         }
       ]
     },
     {
-      "tittel": "K(MgFeMn)3",
+      "tittel": "Metall",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "3,2–4,3"
-        },
-        {
-          "t": "bilde",
-          "tekst": "6,5–7"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Grønnlig / Hvit"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Glass"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Fett"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Ingen"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Biotitt"
-        },
-        {
-          "t": "p",
-          "tekst": "(OHF)2 AlSi3"
-        }
-      ]
-    },
-    {
-      "tittel": "Spalter i tynne flak",
-      "side": null,
-      "blokker": [
-        {
-          "t": "bilde",
-          "tekst": "O10"
-        },
-        {
-          "t": "bilde",
-          "tekst": "2,8–3,2"
-        },
-        {
-          "t": "bilde",
-          "tekst": "2,5–3"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Mørkebrun, mørkegrønn, svart / Hvit"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Glass"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Perlemor"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Metall"
+          "tekst": "Spalter i tynne flak"
         },
         {
           "t": "p",
@@ -452,150 +250,71 @@
       ]
     },
     {
-      "tittel": "Svart / Svart",
+      "tittel": null,
       "side": null,
       "blokker": [
         {
-          "t": "bilde",
-          "tekst": "Mineral"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Krystall-form"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Hardhet"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Farge/ Strekfarge"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Glans"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Spalte-retninger"
-        },
-        {
-          "t": "bilde",
-          "tekst": "ERTS-MINE-RALER"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Sulfider"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Svovelkis"
-        },
-        {
-          "t": "bilde",
-          "tekst": "FeS2"
-        },
-        {
-          "t": "bilde",
-          "tekst": "5,0–5,2"
-        },
-        {
-          "t": "bilde",
-          "tekst": "6–6,5"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Messinggul / Svart"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Metall"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Ingen"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Kobberkis"
-        },
-        {
-          "t": "bilde",
-          "tekst": "CuFeS2"
-        },
-        {
-          "t": "bilde",
-          "tekst": "4,1–4,3"
-        },
-        {
-          "t": "bilde",
-          "tekst": "3,5–4"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Gullig gul / Grønn-svart"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Metall"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Ingen"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Oksider"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Magnetitt"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Fe3O4"
-        },
-        {
-          "t": "bilde",
-          "tekst": "5,2"
-        },
-        {
-          "t": "bilde",
-          "tekst": "5,5"
-        },
-        {
-          "t": "p",
-          "tekst": "Metall (matt)"
-        }
-      ]
-    },
-    {
-      "tittel": "Rødbrun, stålgrå / Rødbrun",
-      "side": null,
-      "blokker": [
-        {
-          "t": "bilde",
-          "tekst": "Ingen"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Hematitt"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Fe2O3"
-        },
-        {
-          "t": "bilde",
-          "tekst": "5,2–5,3"
-        },
-        {
-          "t": "bilde",
-          "tekst": "6–6,5"
-        },
-        {
-          "t": "p",
-          "tekst": "Metall (matt)"
+          "t": "tabell",
+          "celler": [
+            "Mineral",
+            "Krystall-form",
+            "Hardhet",
+            "Farge/ Strekfarge",
+            "Glans",
+            "Spalte-retninger",
+            "ERTS-MINE-RALER",
+            "Sulfider",
+            "Svovelkis",
+            "FeS2",
+            "5,0–5,2",
+            "6–6,5",
+            "Messinggul / Svart",
+            "Metall",
+            "Ingen",
+            "Kobberkis",
+            "CuFeS2",
+            "4,1–4,3",
+            "3,5–4",
+            "Gullig gul / Grønn-svart",
+            "Metall",
+            "Ingen",
+            "Oksider",
+            "Magnetitt",
+            "Fe3O4",
+            "5,2",
+            "5,5",
+            "Svart / Svart",
+            "Metall (matt)",
+            "Ingen",
+            "Hematitt",
+            "Fe2O3",
+            "5,2–5,3",
+            "6–6,5",
+            "Rødbrun, stålgrå / Rødbrun",
+            "Metall (matt)",
+            "Ingen",
+            "ANDRE MINE-RALER",
+            "Apatitt",
+            "Ca5(PO4)3F",
+            "3,2",
+            "5",
+            "Gul, rød, andre / Fargeløs, hvit",
+            "Fett",
+            "Ingen",
+            "Kalkspat",
+            "CaCO3",
+            "2,6–2,8",
+            "3",
+            "Fargeløs, hvit / Hvit, grå",
+            "Glass",
+            "Tre tydelige spalte-retninger",
+            "Steinsalt",
+            "NaCl",
+            "2,2",
+            "2",
+            "Fargeløs / Hvit",
+            "Glass"
+          ]
         }
       ]
     },
@@ -604,103 +323,13 @@
       "side": null,
       "blokker": [
         {
-          "t": "bilde",
-          "tekst": "Ingen"
-        },
-        {
-          "t": "bilde",
-          "tekst": "ANDRE MINE-RALER"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Apatitt"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Ca5(PO4)3F"
-        },
-        {
-          "t": "bilde",
-          "tekst": "3,2"
-        },
-        {
-          "t": "bilde",
-          "tekst": "5"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Gul, rød, andre / Fargeløs, hvit"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Fett"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Ingen"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Kalkspat"
-        },
-        {
-          "t": "bilde",
-          "tekst": "CaCO3"
-        },
-        {
-          "t": "bilde",
-          "tekst": "2,6–2,8"
-        },
-        {
-          "t": "bilde",
-          "tekst": "3"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Fargeløs, hvit / Hvit, grå"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Glass"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Tre tydelige spalte-retninger"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Steinsalt"
-        },
-        {
-          "t": "bilde",
-          "tekst": "NaCl"
-        },
-        {
-          "t": "bilde",
-          "tekst": "2,2"
-        },
-        {
-          "t": "bilde",
-          "tekst": "2"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Fargeløs / Hvit"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Glass"
-        },
-        {
           "t": "p",
           "tekst": "6.3b Ertsmineraler og andre mineraler. Ertsmineraler inneholder et metall med større tetthet enn 5."
-        }
-      ]
-    },
-    {
-      "tittel": "Tverrsnitt av en hul stein med lilla krystaller inni og blålige vakre bølgende lag",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Tverrsnitt av en hul stein med lilla krystaller inni og blålige vakre bølgende lag"
+        },
         {
           "t": "figur",
           "nr": "6.4",
@@ -724,13 +353,11 @@
         {
           "t": "p",
           "tekst": "I pegmatitter finner vi særlig store mineralkorn. Det er grovkornede magmatiske bergarter som har størknet når magma trenger opp gjennom sprekker og ganger i jordskorpa. Granittiske pegmatitter er vanligst (figur 6.5). De inneholder mye av mineralene som er vanlige i granitt, som kvarts, feltspat og glimmer. Slike pegmatittganger er vanlige i grunnfjellet på Sørlandet, spesielt i Setesdal. Noen steder er det utviklet store, flotte krystaller i pegmatittgangene."
-        }
-      ]
-    },
-    {
-      "tittel": "En hånd peker på en krakkelert steinvegg med hvite, grå og beige partier",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En hånd peker på en krakkelert steinvegg med hvite, grå og beige partier"
+        },
         {
           "t": "figur",
           "nr": "6.5",
@@ -854,13 +481,11 @@
         {
           "t": "p",
           "tekst": "Tenk deg at du har et begerglass der det ligger småstein inne i stivnet stearinvoks. Dersom du varmer opp blandingen til voksen smelter, vil steinene synke til bunns. Det meste av smelta legger seg som topplag. Det har skjedd en delvis oppsmelting. Noe lignende skjer når bergarter smelter. Noen mineraler smelter før andre, og steinsmelta søker seg oppover mot jordoverflaten. Mineraler som ikke smelter, blir liggende igjen."
-        }
-      ]
-    },
-    {
-      "tittel": "Figur som viser delvis oppsmelting av en bergart",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Figur som viser delvis oppsmelting av en bergart"
+        },
         {
           "t": "figur",
           "nr": "6.6",
@@ -869,13 +494,11 @@
         {
           "t": "p",
           "tekst": "Smeltetemperaturen for en bergart er den temperaturen da bergarten begynner å smelte. Ved hvilken temperatur det skjer, avhenger av hvilke mineraler bergarten inneholder. Mineralinnholdet er derfor avgjørende for bergartens smeltetemperatur. Mafiske bergarter med mørke mineraler har høyere smeltetemperatur enn felsiske bergarter med lyse mineraler (figur 6.7). Smeltetemperaturen påvirkes også av trykket bergarten er utsatt for, og av innholdet av flyktige stoffer som gass og vann. Smeltetemperaturen øker når trykket øker, og synker når innholdet av flyktige stoffer i bergarten øker."
-        }
-      ]
-    },
-    {
-      "tittel": "Trykk, vanninnhold og mineralsammensetningen i en bergart påvirker smeltetemperaturen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Trykk, vanninnhold og mineralsammensetningen i en bergart påvirker smeltetemperaturen"
+        },
         {
           "t": "figur",
           "nr": "6.7",
@@ -1016,13 +639,11 @@
           "t": "figur",
           "nr": "6.11",
           "tekst": "Vulkanutbrudd ved Krafla på Island i 1977. Lavaen strømmer ut fra en 8 km lang revne. På bildet ser vi bare 1 km av revnen. Lavatykkelsen er 0,5–1 meter i fronten, men øker til ca. 3 meter nærmere revnen."
-        }
-      ]
-    },
-    {
-      "tittel": "Magma dannes også der en havbunnsplate dukker under et kontinent",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Magma dannes også der en havbunnsplate dukker under et kontinent"
+        },
         {
           "t": "figur",
           "nr": "6.12",
@@ -1090,17 +711,19 @@
       ]
     },
     {
-      "tittel": "Sedimentære bergarter",
-      "side": 79,
+      "tittel": "5 millimeter per år",
+      "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "5 millimeter per år"
-        },
-        {
-          "t": "bilde",
           "tekst": "50 meter per år"
-        },
+        }
+      ]
+    },
+    {
+      "tittel": "Sedimentære bergarter",
+      "side": 79,
+      "blokker": [
         {
           "t": "p",
           "tekst": "Sedimentære bergarter, eller avsetningsbergarter, er vanligst øverst i jordskorpa. Det er fordi mange av dem er dannet av løsmasser som leire, sand og grus, som er avsatt på jordoverflaten, oftest på havbunnen."
@@ -1131,13 +754,11 @@
         {
           "t": "p",
           "tekst": "Når berggrunnen smuldrer opp, kaller vi det forvitring. Forvitringen løsner små og store deler av berggrunnen og er en av de ytre kreftene. De andre ytre kreftene (som elver, isbreer og vind) sliter også ned berggrunnen, men fører i tillegg løsmaterialet bort og avsetter det andre steder. Hele denne prosessen kaller vi erosjon (erosjon = tære bort). Blant de ytre kreftene skiller vi altså mellom forvitring og erosjonsprosesser. Men alle bidrar til å slite ned berggrunnen."
-        }
-      ]
-    },
-    {
-      "tittel": "Toppen av et fjellparti bestående av løse skifrede mosegrodde grå steinplater",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Toppen av et fjellparti bestående av løse skifrede mosegrodde grå steinplater"
+        },
         {
           "t": "figur",
           "nr": "6.13",
@@ -1190,66 +811,39 @@
       ]
     },
     {
-      "tittel": "Leire",
+      "tittel": null,
       "side": null,
       "blokker": [
         {
-          "t": "bilde",
-          "tekst": "Sediment"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Kornstørrelse"
-        },
-        {
-          "t": "p",
-          "tekst": "< 0,002 mm"
+          "t": "tabell",
+          "celler": [
+            "Sediment",
+            "Kornstørrelse",
+            "Leire",
+            "< 0,002 mm",
+            "Silt",
+            "0,002–0,06 mm",
+            "Sand",
+            "0,06–2 mm",
+            "Grus",
+            "0,2–6 cm",
+            "Stein",
+            "6–25 cm"
+          ]
         }
       ]
     },
     {
-      "tittel": "Dannelse av sedimentære bergarter",
+      "tittel": "Blokk",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Silt"
-        },
-        {
-          "t": "bilde",
-          "tekst": "0,002–0,06 mm"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Sand"
-        },
-        {
-          "t": "bilde",
-          "tekst": "0,06–2 mm"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Grus"
-        },
-        {
-          "t": "bilde",
-          "tekst": "0,2–6 cm"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Stein"
-        },
-        {
-          "t": "bilde",
-          "tekst": "6–25 cm"
-        },
-        {
-          "t": "bilde",
-          "tekst": "Blokk"
-        },
-        {
-          "t": "bilde",
           "tekst": "25 cm"
+        },
+        {
+          "t": "bilde",
+          "tekst": "Dannelse av sedimentære bergarter"
         },
         {
           "t": "figur",
@@ -1408,13 +1002,11 @@
         {
           "t": "p",
           "tekst": "Når et varmt magma trenger opp i jordskorpa og størkner til en dypbergart, blir det avgitt store mengder varme til omgivelsene. Varmen fører til at enkelte mineraler i bergartene rundt magmaet omkrystalliserer, og det dannes metamorfe bergarter. Bergartene kan bli omdannet flere kilometer ut til sidene. Vi kaller det kontaktmetamorfose (metamorfose = formendring), og bergartene omtales som kontaktmetamorfe bergarter.5"
-        }
-      ]
-    },
-    {
-      "tittel": "Dannelse av metamorfe bergarter",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Dannelse av metamorfe bergarter"
+        },
         {
           "t": "figur",
           "nr": "6.17",
@@ -1429,13 +1021,11 @@
         {
           "t": "p",
           "tekst": "De fleste metamorfe bergartene er dannet i forbindelse med kollisjoner mellom kontinentplater. Prosessen kalles regionalmetamorfose og kan berøre store områder (figurene 6.17 og 6.18). Bergartene i den nederste plata blir presset et stykke ned i mantelen. Det meste av omdanningen skjer 10–30 km under jordoverflaten med høyt trykk fra jordskorpa over og høye temperaturer."
-        }
-      ]
-    },
-    {
-      "tittel": "Regionalmetamorfose",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Regionalmetamorfose"
+        },
         {
           "t": "figur",
           "nr": "6.18",
@@ -1553,13 +1143,11 @@
           "t": "tenk",
           "tekst": "Hvor gammel er en bergart med en fordeling av mor-isotoper og datter-isotoper som vist i tegning C dersom halveringstiden er 1300 millioner år?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Mor- og datter-isotoper etter én (B) og to (C) halveringstider",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Mor- og datter-isotoper etter én (B) og to (C) halveringstider"
+        },
         {
           "t": "figur",
           "nr": "6.22",
@@ -1572,13 +1160,11 @@
         {
           "t": "p",
           "tekst": "Uranisotopen 238U har en halveringstid på 4,5 milliarder år. Ved å måle forholdet mellom 238U og 206Pb i et zirkonkorn i en bergart er det mulig å beregne alderen på zirkonet i og med at vi kjenner halveringstiden for uranisotopen."
-        }
-      ]
-    },
-    {
-      "tittel": "Prisnippskisse for nedbrytning av en radioaktiv mor-isotop",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Prisnippskisse for nedbrytning av en radioaktiv mor-isotop"
+        },
         {
           "t": "figur",
           "nr": "6.23",
@@ -1664,7 +1250,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "En hånd peker på en krakkelert steinvegg med hvite, grå og beige partier",
+      "del": "Krystaller og pegmatitter",
       "poster": [
         {
           "q": "Hva er det geologiske kretsløpet?",
@@ -1704,7 +1290,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "En hånd peker på en krakkelert steinvegg med hvite, grå og beige partier",
+      "del": "Krystaller og pegmatitter",
       "poster": [
         {
           "q": "Hva er det flest av, mineraler eller bergarter?",
@@ -1958,8 +1544,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Krystaller kan ha kuleform.",
@@ -2093,8 +1678,7 @@
           "f": ""
         },
         {
-          "q": "Hvilken bergart er dette?",
-          "f": ""
+          "gruppe": "Hvilken bergart er dette?"
         },
         {
           "q": "Du har fått utdelt seks–åtte ulike bergarter. Bruk bøker og Internett for å bestemme hvilke bergarter det er.",

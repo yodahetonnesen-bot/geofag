@@ -119,24 +119,20 @@
         {
           "t": "p",
           "tekst": "Den fineste delen av løsmassene, leire og sand, holder seg svevende i elvevannet – vi kaller det slam. I Norge er det breelver og elver i leirområder som er mest slamførende (figur 18.5). Slammet setter ofte farge på vannet. Flomstore elver fra leirområder og breer er ofte grått. Ved lavere vannføringer har breelvene ofte en blågrønn farge. Fargen skyldes at brevannet alltid inneholder små leirpartikler, og i dem brytes og reflekteres lyset."
-        }
-      ]
-    },
-    {
-      "tittel": "Smeltevann fra breer renner nedover i steinete grunn mellom høye spisse fjell",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Smeltevann fra breer renner nedover i steinete grunn mellom høye spisse fjell"
+        },
         {
           "t": "figur",
           "nr": "18.4",
           "tekst": "Bunntransport i elva Visa i Jotunheimen"
-        }
-      ]
-    },
-    {
-      "tittel": "Flyfoto en en elv med en langsgående vei i en V-formet dal",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Flyfoto en en elv med en langsgående vei i en V-formet dal"
+        },
         {
           "t": "figur",
           "nr": "18.5",
@@ -206,12 +202,12 @@
       ]
     },
     {
-      "tittel": "Flyfoto av slyngete sideelver bukter seg ut gjennom et krøllete jordbrukslandskap",
+      "tittel": "Kart over Sør-Norge som viser plassering av Leira og Numedalslågen",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Kart over Sør-Norge som viser plassering av Leira og Numedalslågen"
+          "tekst": "Flyfoto av slyngete sideelver bukter seg ut gjennom et krøllete jordbrukslandskap"
         },
         {
           "t": "figur",
@@ -290,13 +286,11 @@
           "t": "tenk",
           "tekst": "Hvorfor dannes ikke en canyon i løsmasser?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "En elv renner nedover en trang dal med bratte rette fjellkanter",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En elv renner nedover en trang dal med bratte rette fjellkanter"
+        },
         {
           "t": "figur",
           "nr": "18.11",
@@ -311,13 +305,11 @@
         {
           "t": "p",
           "tekst": "Ujevnheter i elveløpet gjør at det kan oppstå stasjonære strømvirvler i elva. Stein og grus som følger med vannet kan grave seg ned i berggrunnen og danne jettegryter (figur 18.12). De er fra noen centimeter til flere titalls meter i diameter. De største jettegrytene er dannet av smeltevannet fra de store innlandsisene."
-        }
-      ]
-    },
-    {
-      "tittel": "Steinformasjoner med jettegryter i en iskald klar blåhvit foss",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Steinformasjoner med jettegryter i en iskald klar blåhvit foss"
+        },
         {
           "t": "figur",
           "nr": "18.12",
@@ -336,23 +328,21 @@
       ]
     },
     {
-      "tittel": "Kart over Sør-Norge som viser plassering av Kvam og Ringebu",
+      "tittel": "Elvevifter",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Elvevifter"
+          "tekst": "Kart over Sør-Norge som viser plassering av Kvam og Ringebu"
         },
         {
           "t": "p",
           "tekst": "Når for eksempel bratte sideelver kommer ned til den flate dalbunnen i hoveddalen, blir stein og grus liggende igjen i elveløpet når vannhastigheten avtar. Det fører til at elveløpet deler seg. Nye løp blir dannet igjen og igjen. Etter hvert som avsetningene blir bygd opp, skifter elva løp fram og tilbake og danner en grusvifte – en elvevifte (figur 18.13)."
-        }
-      ]
-    },
-    {
-      "tittel": "Flyfoto av en turkis elv langs bebygd område med mange jordlapper",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Flyfoto av en turkis elv langs bebygd område med mange jordlapper"
+        },
         {
           "t": "figur",
           "nr": "18.13",
@@ -398,13 +388,11 @@
         {
           "t": "p",
           "tekst": "Prøv å gi en sammenhengende framstilling (kronologisk) av hvordan landformene på kartutsnittet er blitt til. Stikkord er vidde, istider, elve- og iseroderte daler, elveavsetninger."
-        }
-      ]
-    },
-    {
-      "tittel": "Kartutsnitt fra kartbladet Ringebu",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kartutsnitt fra kartbladet Ringebu"
+        },
         {
           "t": "figur",
           "nr": "18.14",
@@ -431,13 +419,11 @@
         {
           "t": "p",
           "tekst": "Bunnlastsperra er den største i Norge. Den vil sikre 160 boliger, jernbanen, veier og annen infrastruktur. Nå vil flomvannet renne trygt gjennom Kvam sentrum og ut i Gudbrandsdalslågen, forteller vassdrags- og energidirektør i NVE, Per Sanderud."
-        }
-      ]
-    },
-    {
-      "tittel": "I en dal er en elv bygget inn i betongkummer",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "I en dal er en elv bygget inn i betongkummer"
+        },
         {
           "t": "figur",
           "nr": "18.15",
@@ -446,12 +432,12 @@
       ]
     },
     {
-      "tittel": "Elvesletter",
+      "tittel": "Bekk lagt i kummer med store steiner på hver side",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Bekk lagt i kummer med store steiner på hver side"
+          "tekst": "Elvesletter"
         },
         {
           "t": "p",
@@ -495,35 +481,29 @@
         {
           "t": "p",
           "tekst": "Like etter den siste istiden avsatte elver deltaer i havet, som den gangen sto høyere enn i dag. Landhevingen etter den siste istiden har imidlertid gjort at havnivået har kommet lavere, og elvene har dermed erodert tidligere elvesletter og deltaflater og dannet elveterrasser (figur 18.19)."
-        }
-      ]
-    },
-    {
-      "tittel": "Flyfoto av Blått hav med sandbunn langs perforert kystlandskap",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Flyfoto av Blått hav med sandbunn langs perforert kystlandskap"
+        },
         {
           "t": "figur",
           "nr": "18.17",
           "tekst": "Glommas delta i Øyeren er Nord-Europas største innlandsdelta."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Glommas delta",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Glommas delta"
+        },
         {
           "t": "figur",
           "nr": "18.18",
           "tekst": "Glommas delta. Sidene i rutenettet er 1 km i terrenget, ekvidistansen er 20 meter."
-        }
-      ]
-    },
-    {
-      "tittel": "Flyfoto av eveleie",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Flyfoto av eveleie"
+        },
         {
           "t": "figur",
           "nr": "18.19",
@@ -537,7 +517,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Flyfoto en en elv med en langsgående vei i en V-formet dal",
+      "del": "Slamtransport",
       "poster": [
         {
           "q": "Hvordan eroderer rennende vann i fast fjell?",
@@ -557,7 +537,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Flyfoto en en elv med en langsgående vei i en V-formet dal",
+      "del": "Slamtransport",
       "poster": [
         {
           "q": "Hva viser Hjulströms kurve?",
@@ -569,7 +549,7 @@
       "art": "oppgave",
       "overskrift": "OPPGAVE",
       "side": null,
-      "del": "Flyfoto av slyngete sideelver bukter seg ut gjennom et krøllete jordbrukslandskap",
+      "del": "Kart over Sør-Norge som viser plassering av Leira og Numedalslågen",
       "poster": [
         {
           "q": "Flyfotoet i figur 18.8 viser en sideelv til Barduelva i Troms.",
@@ -601,7 +581,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Steinformasjoner med jettegryter i en iskald klar blåhvit foss",
+      "del": "Jettegryter",
       "poster": [
         {
           "q": "Forklar hva du legger i begrepet «elveløpsmønster».",
@@ -625,7 +605,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Steinformasjoner med jettegryter i en iskald klar blåhvit foss",
+      "del": "Jettegryter",
       "poster": [
         {
           "q": "Forklar hvordan en kroksjø blir dannet.",
@@ -649,7 +629,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Flyfoto av eveleie",
+      "del": "Elveterrasser",
       "poster": [
         {
           "q": "Hva er grunnen til at elver noen steder legger igjen (avsetter) løsmasser?",
@@ -677,7 +657,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Flyfoto av eveleie",
+      "del": "Elveterrasser",
       "poster": [
         {
           "q": "Hvorfor har elver på elvevifter ofte et forgrenet løpsmønster?",
@@ -705,7 +685,7 @@
       "art": "kapitteloppgave",
       "overskrift": "KAPITTELOPPGAVER",
       "side": 334,
-      "del": "Flyfoto av eveleie",
+      "del": "Elveterrasser",
       "poster": [
         {
           "gruppe": "Én skal ut"
@@ -750,8 +730,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Elveerosjon berører større deler av jordoverflaten enn breerosjon.",

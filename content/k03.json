@@ -21,13 +21,11 @@
         {
           "t": "p",
           "tekst": "Noen ganger gir naturen selv signaler om at noe er på gang, men det er vanskelig å varsle jordskjelv. De kan komme uten forvarsler, og samfunnet må være forberedt. Det krever kunnskap, kartlegging, forundersøkelser og fysiske tiltak. En effektiv overvåkning er viktig for en rask varsling og evakuering, og ikke minst er det avgjørende at folk flest vet hva de skal gjøre i en slik krisesituasjon."
-        }
-      ]
-    },
-    {
-      "tittel": "Sammenraste bygninger rammet av jordskjelv",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Sammenraste bygninger rammet av jordskjelv"
+        },
         {
           "t": "figur",
           "nr": "3.1",
@@ -37,13 +35,11 @@
           "t": "tenk",
           "tekst": "Hvordan oppstår jordskjelv?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Figur illustrerer plassering av et jordskjelvs episenter",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Figur illustrerer plassering av et jordskjelvs episenter"
+        },
         {
           "t": "figur",
           "nr": "3.2",
@@ -111,12 +107,12 @@
       ]
     },
     {
-      "tittel": "Jordskjelvbølgenes S- og P-bølger, samt overflatebølger",
-      "side": null,
+      "tittel": "Størrelsen på et jordskjelv",
+      "side": 29,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Størrelsen på et jordskjelv"
+          "tekst": "Jordskjelvbølgenes S- og P-bølger, samt overflatebølger"
         },
         {
           "t": "figur",
@@ -134,13 +130,11 @@
         {
           "t": "p",
           "tekst": "Richterskalaen viste seg imidlertid å ha svakheter. I dag oppgis størrelsen på et jordskjelv som momentstørrelse (moment magnitude). Momentstørrelsen viser til jordskjelvets seismiske moment, et mål for energien som blir utløst. Med moderne instrumenter, et omfattende nettverk av seismografer og tilgang på store datamengder er det mulig å beregne et jordskjelvs seismiske moment og dermed energien som er frigjort."
-        }
-      ]
-    },
-    {
-      "tittel": "Figur som illustrerer jordskjelvbølgens hastighet",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Figur som illustrerer jordskjelvbølgens hastighet"
+        },
         {
           "t": "figur",
           "nr": "3.4",
@@ -155,24 +149,20 @@
           "t": "tenk",
           "tekst": "Hvor mye energi blir utløst i et jordskjelv med størrelse 8 sammenlignet med et skjelv med størrelse 5?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Seismogram som viser ankomsten av ulike typer jordskjelvbølger",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Seismogram som viser ankomsten av ulike typer jordskjelvbølger"
+        },
         {
           "t": "figur",
           "nr": "3.5",
           "tekst": "Seismogrammet viser ankomsten av ulike typer jordskjelvbølger i forhold til hverandre."
-        }
-      ]
-    },
-    {
-      "tittel": "Historiske jordskjelvs energimengde vist etter momentstørrelse",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Historiske jordskjelvs energimengde vist etter momentstørrelse"
+        },
         {
           "t": "figur",
           "nr": "3.6",
@@ -222,13 +212,11 @@
         {
           "t": "p",
           "tekst": "I løpet av kvartærperioden var Skandinavia flere ganger dekket av store innlandsiser som presset jordskorpa ned. Da innlandsisen smeltet, hevet jordskorpa seg igjen. Det kan ha vært med på å utløse jordskjelv – ikke minst der det allerede var bygd opp spenninger i jordskorpa som følge av platespredningen i Atlanterhavet. Store jordskjelv med en størrelse på 7–8 har sannsynligvis rystet de nordligste delene av Skandinavia gjennom steinalderen i tiden like etter siste istid."
-        }
-      ]
-    },
-    {
-      "tittel": "Jordskjelvaktivitet i Norden",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Jordskjelvaktivitet i Norden"
+        },
         {
           "t": "figur",
           "nr": "3.7",
@@ -269,17 +257,19 @@
       ]
     },
     {
-      "tittel": "Lignende hendelser",
+      "tittel": "Tidspunkt",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Tidspunkt"
-        },
-        {
-          "t": "bilde",
           "tekst": "Omfang"
-        },
+        }
+      ]
+    },
+    {
+      "tittel": "Lignende hendelser",
+      "side": null,
+      "blokker": [
         {
           "t": "p",
           "tekst": "Jordskjelvet inntreffer midt på dagen en hverdag i januar."
@@ -319,13 +309,11 @@
         {
           "t": "p",
           "tekst": "Spredningsaksene på jordoverflaten er stort sett midthavsrygger. Langs midthavsryggene beveger platene seg fra hverandre, og det bygger seg aldri opp like store spenninger som der plater kolliderer. Derfor blir heller ikke jordskjelvene særlig sterke. Selv om det handler om grunne skjelv, siden jordskjelvets sentrum vanligvis ligger mindre enn 10 km under havbunnen, gjør de liten skade. En annen grunn til det er at midthavsrygger ligger langt til havs og langt unna mennesker. Unntaket er Island, som ligger på den midtatlantiske ryggen."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart som viser utbredelsen av jordskjelv i verden",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart som viser utbredelsen av jordskjelv i verden"
+        },
         {
           "t": "figur",
           "nr": "3.8",
@@ -357,13 +345,11 @@
         {
           "t": "p",
           "tekst": "I noen kollisjonssoner er friksjonen så stor at platene blir «hengende fast» i hverandre, slik at det ikke er noen bevegelse langs plategrensen på flere tiår. Da bygges det opp spenninger i jordskorpa. Til slutt blir spenningen så stor at jordskorpa gir etter. I løpet av sekunder eller minutter blir spenningen utløst. Da kan platene forskyve seg i forhold til hverandre, for eksempel ved at den overliggende plata gjør et «byks» inn over den dykkende havbunnsplata."
-        }
-      ]
-    },
-    {
-      "tittel": "Skisse av at havbunnsplate dukker ned i mantelen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Skisse av at havbunnsplate dukker ned i mantelen"
+        },
         {
           "t": "figur",
           "nr": "3.9",
@@ -376,12 +362,12 @@
       ]
     },
     {
-      "tittel": "Skisse over bevegelsene i San Andreas-forkastningen",
+      "tittel": "Jordskjelv langs glidegrenser",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Jordskjelv langs glidegrenser"
+          "tekst": "Skisse over bevegelsene i San Andreas-forkastningen"
         },
         {
           "t": "figur",
@@ -391,13 +377,11 @@
         {
           "t": "p",
           "tekst": "Noen steder beveger litosfæreplatene seg sidelengs i forhold til hverandre langs en forkastning. Vi kaller det en glidegrense. Det mest kjente eksemplet er San Andreas-forkastningen i California (figurene 3.10 og 3.11). Den er 1300 km lang og utgjør grensen mellom Stillehavsplata i vest og Den nordamerikanske plata i øst. Flere steder langs forkastningen bygger det seg opp spenninger mellom de to platene."
-        }
-      ]
-    },
-    {
-      "tittel": "En lang sprekk i et tørt fjellandskap",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En lang sprekk i et tørt fjellandskap"
+        },
         {
           "t": "figur",
           "nr": "3.11",
@@ -448,13 +432,11 @@
           "t": "tenk",
           "tekst": "Hvilke skader gjør jordskjelv?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "En gutt løper i et jordskjelvsområde der bygningene raser rundt ham",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En gutt løper i et jordskjelvsområde der bygningene raser rundt ham"
+        },
         {
           "t": "figur",
           "nr": "3.12",
@@ -501,12 +483,12 @@
       ]
     },
     {
-      "tittel": "Verdenskart der Mexico by er merket av",
+      "tittel": "Jordskjelv og resonans",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Jordskjelv og resonans"
+          "tekst": "Verdenskart der Mexico by er merket av"
         },
         {
           "t": "p",
@@ -532,13 +514,11 @@
         {
           "t": "p",
           "tekst": "Det er vanskelig å varsle jordskjelv. Seismologene kan ikke si om et forventet skjelv kommer i morgen eller om 25 år. Geologene kan heller ikke si om et forventet steinskred kommer om en uke eller om et år, og meteorologene kan ikke være skråsikre på at det vil begynne å regne i morgen kl. 15.00. Det er vanskelig å regne på naturen."
-        }
-      ]
-    },
-    {
-      "tittel": "Seismisk aktivitet i ulike deler av Europa",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Seismisk aktivitet i ulike deler av Europa"
+        },
         {
           "t": "figur",
           "nr": "3.13",
@@ -601,7 +581,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 35,
-      "del": "En lang sprekk i et tørt fjellandskap",
+      "del": "Jordskjelv langs glidegrenser",
       "poster": [
         {
           "q": "Hva er en forkastning?",
@@ -661,7 +641,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "En lang sprekk i et tørt fjellandskap",
+      "del": "Jordskjelv langs glidegrenser",
       "poster": [
         {
           "q": "Forklar hvorfor forskjellen i ankomsttiden for P-bølger og S-bølger forteller noe om avstanden til episenteret.",
@@ -762,8 +742,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Hvert år registreres det flere tusen ødeleggende jordskjelv.",
@@ -798,8 +777,7 @@
           "f": ""
         },
         {
-          "q": "Kan det komme jordskjelv der du bor?",
-          "f": ""
+          "gruppe": "Kan det komme jordskjelv der du bor?"
         },
         {
           "q": "Les gjennom tekstboksen «Jordskjelv i by» (se side 32).",
@@ -856,8 +834,7 @@
           "f": ""
         },
         {
-          "q": "Hvor og når ble jordskjelvet utløst?",
-          "f": ""
+          "gruppe": "Hvor og når ble jordskjelvet utløst?"
         },
         {
           "q": "Beskriv jordskjelvet (dybde, størrelse) og følgene av det.",

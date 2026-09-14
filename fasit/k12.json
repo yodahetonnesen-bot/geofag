@@ -1,0 +1,848 @@
+[
+ {
+  "id": "afb2f34087",
+  "art": "tenk",
+  "q": "Hvilke vannmagasiner kan du se på figur 12.3?",
+  "f": ""
+ },
+ {
+  "id": "17bdc5ce48",
+  "art": "tenk",
+  "q": "Hva er forskjellen på fordampning og transpirasjon?",
+  "f": ""
+ },
+ {
+  "id": "ed60917c7f",
+  "art": "tenk",
+  "q": "Hvilken sammenheng er det mellom nedbørsmengden over land, evapotranspirasjonen fra landoverflaten og avrenningen til havet (se figur 12.3)?",
+  "f": ""
+ },
+ {
+  "id": "abc56fd0ac",
+  "art": "tenk",
+  "q": "Kan elver eller bekker krysse vannskillet?",
+  "f": ""
+ },
+ {
+  "id": "4e4fd69d36",
+  "art": "tenk",
+  "q": "Hvorfor ligger ikke de største nedbørsfeltene på Vestlandet – der er jo nedbøren størst?",
+  "f": ""
+ },
+ {
+  "id": "ff4e2ad9cd",
+  "art": "tenk",
+  "q": "Hvilken praktisk nytte tror du kjennskap til den midlere spesifikke avrenningen i et nedbørsfelt har?",
+  "f": ""
+ },
+ {
+  "id": "40872fb3eb",
+  "art": "tenk",
+  "q": "Er årsflommen en flom, slik hydrologene bruker flombegrepet, hvert eneste år?",
+  "f": ""
+ },
+ {
+  "id": "6200bf3485",
+  "art": "tenk",
+  "q": "Hva legger du i begrepet flomtopp?",
+  "f": ""
+ },
+ {
+  "id": "8f587e5878",
+  "art": "tenk",
+  "q": "Hvordan påvirker fjellene langs kysten frontnedbøren?",
+  "f": ""
+ },
+ {
+  "id": "16c56e20ba",
+  "art": "tenk",
+  "q": "Hvilken type nedbør er vanligst på Østlandet og i Finnmark om sommeren?",
+  "f": ""
+ },
+ {
+  "id": "962e1a94e6",
+  "art": "tenk",
+  "q": "Hvorfor kommer de største nedbørsmengdene langs kysten om høsten?",
+  "f": ""
+ },
+ {
+  "id": "d3fb6f7caa",
+  "art": "tenk",
+  "q": "Hvor lenge er det mellom storflommene?",
+  "f": ""
+ },
+ {
+  "id": "7b22a7e2d4",
+  "art": "tenk",
+  "q": "Hva kan være grunnene til høy spesifikk avrenning i små nedbørsfelt og i byområder?",
+  "f": ""
+ },
+ {
+  "id": "eac2a0a2af",
+  "art": "tenk",
+  "q": "Forklar forskjellene på de to hydrogrammene. Hvorfor er det bare Leira som har tydelige flomtopper?",
+  "f": ""
+ },
+ {
+  "id": "86b0823359",
+  "art": "tenk",
+  "q": "Hva er årsakene til flomtoppene i Leira?",
+  "f": ""
+ },
+ {
+  "id": "e952d5b5b6",
+  "art": "tenk",
+  "q": "Hvilke forskjeller er det på avrenningsmønstrene?",
+  "f": ""
+ },
+ {
+  "id": "4250427f62",
+  "art": "tenk",
+  "q": "Hva er en forbygning?",
+  "f": ""
+ },
+ {
+  "id": "ef93dffe3f",
+  "art": "tenk",
+  "q": "Hva er forskjellen på grove og fine jordarter?",
+  "f": ""
+ },
+ {
+  "id": "39e7688537",
+  "art": "tenk",
+  "q": "Hva tror du menes med vannsyk jord?",
+  "f": ""
+ },
+ {
+  "id": "2412c88286",
+  "art": "tenk",
+  "q": "Hvor kommer smeltevannsavsetningene fra?",
+  "f": ""
+ },
+ {
+  "id": "7c3d3f662b",
+  "art": "tenk",
+  "q": "Når ble smeltevannsavsetningene på Romerike avsatt?",
+  "f": ""
+ },
+ {
+  "id": "df5b896e9d",
+  "art": "tenk",
+  "q": "Hva betyr det at vannet infiltrerer en jordart?",
+  "f": ""
+ },
+ {
+  "id": "719bbec57a",
+  "art": "tenk",
+  "q": "Hva menes med infiltrasjonshastighet?",
+  "f": ""
+ },
+ {
+  "id": "8c33b35842",
+  "art": "tenk",
+  "q": "Hvilken forskjell er det på infiltrasjonshastigheten i tørr og i fuktig jord?",
+  "f": ""
+ },
+ {
+  "id": "8d7fd58c70",
+  "art": "tenk",
+  "q": "Hvilken jordart har størst infiltrasjonshastighet?",
+  "f": ""
+ },
+ {
+  "id": "7a5bcf86fd",
+  "art": "tenk",
+  "q": "Hvor høy er den på det meste?",
+  "f": ""
+ },
+ {
+  "id": "858dc52424",
+  "art": "tenk",
+  "q": "Hva skjer med infiltrasjonshastigheten etter at det har regnet en stund?",
+  "f": ""
+ },
+ {
+  "id": "9e1719852d",
+  "art": "tenk",
+  "q": "Tallet på elver og bekker (dreneringstettheten) varierer mye på kartutsnittet i figur 12.19. Hvilken sammenheng er det mellom forskjellene i dreneringstetthet på kartet og det figur 12.17 forteller oss?",
+  "f": ""
+ },
+ {
+  "id": "5870781c6b",
+  "art": "tenk",
+  "q": "Hvilken jordart inneholder mest vann, og hvilken inneholder minst? Hvorfor er det slik?",
+  "f": ""
+ },
+ {
+  "id": "5460ee32cc",
+  "art": "tenk",
+  "q": "Hvor stor prosent (omtrentlig) av vannet er bundet i hver av jordartene på figuren?",
+  "f": ""
+ },
+ {
+  "id": "6a1f139215",
+  "art": "tenk",
+  "q": "Hvilken av jordartene tåler tørke dårligst?",
+  "f": ""
+ },
+ {
+  "id": "40234aa454",
+  "art": "tenk",
+  "q": "Hvor finner du grunnvannsborehull i ditt nærområde?",
+  "f": ""
+ },
+ {
+  "id": "fbd0c191ea",
+  "art": "tenk",
+  "q": "Hvor dypt er det ned til fast fjell?",
+  "f": ""
+ },
+ {
+  "id": "f3acf71b55",
+  "art": "tenk",
+  "q": "Kan du finne ut hva slags bergarter og/eller løsmasser borehullene er laget i? Er det noe sammenheng mellom grunnvannsmengde og løsmassetype?",
+  "f": ""
+ },
+ {
+  "id": "84f8f6a4e2",
+  "art": "tenk",
+  "q": "Oppsøk ett eller flere borehull. Kanskje kan dere få en orientering av noen som kjenner til GRANADA?",
+  "f": ""
+ },
+ {
+  "id": "e2007c8f10",
+  "art": "tenk",
+  "q": "Hvor er effekten av solstrålingen størst om sommeren – øverst eller nederst på breen? Begrunn svaret?",
+  "f": ""
+ },
+ {
+  "id": "4b938a7826",
+  "art": "tenk",
+  "q": "Hvorfor har vinden betydning for issmeltingen?",
+  "f": ""
+ },
+ {
+  "id": "6ebf97db8e",
+  "art": "tenk",
+  "q": "Når på året tror du det er mulig å observere likevektslinjen på breoverflaten?",
+  "f": ""
+ },
+ {
+  "id": "4755f2626e",
+  "art": "tenk",
+  "q": "Hvilke klimatiske forskjeller gjør at likevektslinjen ligger høyere inne i landet enn ved kysten?",
+  "f": ""
+ },
+ {
+  "id": "865425bda6",
+  "art": "tenk",
+  "q": "Hvordan måles massebalansen?",
+  "f": ""
+ },
+ {
+  "id": "1fed42b79e",
+  "art": "tenk",
+  "q": "Hvorfor er det misvisende å si at breen «trekker seg tilbake»?",
+  "f": ""
+ },
+ {
+  "id": "029b958e79",
+  "art": "tenk",
+  "q": "Hver bre har sin søyle som består av tre deler med ulike farger på figur 12.28. To av delene er alltid like lange. Hvilke farger har de, og hvorfor er det slik?",
+  "f": ""
+ },
+ {
+  "id": "1dad40941d",
+  "art": "tenk",
+  "q": "Hva betyr det at grafene i figur 12.29 stiger – og synker?",
+  "f": ""
+ },
+ {
+  "id": "29fc27afca",
+  "art": "tenk",
+  "q": "Hvordan kommer det fram i figur 12.29 at de fleste breene ikke har vokst etter år 2000?",
+  "f": ""
+ },
+ {
+  "id": "fb84d9c3fa",
+  "art": "tenk",
+  "q": "Hva forteller de to figurene 12.28 og 12.29 om Nigardsbreen?",
+  "f": ""
+ },
+ {
+  "id": "ff36466a71",
+  "art": "tenk",
+  "q": "Søk med «Rembesdalskåka» på Google Earth. Zoom, skråstill og snurr rundt! Hva ser du?",
+  "f": ""
+ },
+ {
+  "id": "afbb0d3bb8",
+  "art": "tenk",
+  "q": "Var massebalansen for de undersøkte breene positiv eller negativ i 2020? Vokste de, eller smeltet de tilbake?",
+  "f": ""
+ },
+ {
+  "id": "952866ffd7",
+  "art": "tenk",
+  "q": "Hvorfor er kjølige somre og nedbørsrike vintre gunstig for at en bre vokser?",
+  "f": ""
+ },
+ {
+  "id": "7e0785d1c9",
+  "art": "tenk",
+  "q": "Søk med «Briksdalsbreen» på Google Earth. Zoom, skråstill og snurr rundt til du får samme vinkel inn mot breen som på bildene i figur 12.34. Hva har skjedd siden det første bildet ble tatt?",
+  "f": ""
+ },
+ {
+  "id": "2682129d3b",
+  "art": "tenk",
+  "q": "Værprognosene i våre områder forteller om mer nedbør og høyere temperatur i årene som kommer. Mer vinternedbør som snø kan kompensere for høyere temperatur. Det betyr kanskje at det er de kystnære breene som vil klare seg best?",
+  "f": ""
+ },
+ {
+  "id": "fed22d1a4b",
+  "art": "tenk",
+  "q": "Hvordan kan du se på formen på brefronten om breen ligger rolig, om den smelter tilbake, eller om den rykker fram?",
+  "f": ""
+ },
+ {
+  "id": "df3c56961f",
+  "art": "tenk",
+  "q": "Hvordan har brefronten på de fire breene flyttet på seg i perioden 1978–2018? Hva tror du er grunnen til forflytningene?",
+  "f": ""
+ },
+ {
+  "id": "1955345ca6",
+  "art": "tenk",
+  "q": "Hvilke av breene som er undersøkt, rykket fram i perioden 1994–1998? Forklar hvordan du fant fram til svaret. Hvilke gikk tilbake? Har det noen sammenheng med hvor breene ligger?",
+  "f": ""
+ },
+ {
+  "id": "6fb22814b8",
+  "art": "sporsmal",
+  "q": "Hva er hydrologi?",
+  "f": ""
+ },
+ {
+  "id": "fc6e315db2",
+  "art": "sporsmal",
+  "q": "Hvilke vannmagasiner inngår i vannets kretsløp?",
+  "f": ""
+ },
+ {
+  "id": "64c699628c",
+  "art": "sporsmal",
+  "q": "Hva menes med vannets oppholdstid i et vannmagasin?",
+  "f": ""
+ },
+ {
+  "id": "e385a74d84",
+  "art": "sporsmal",
+  "q": "Hva er forskjellen på transpirasjon og evapotranspirasjon?",
+  "f": ""
+ },
+ {
+  "id": "4a51e79b2f",
+  "art": "sporsmal",
+  "q": "Hva er nedbørsfeltet for et vassdrag?",
+  "f": ""
+ },
+ {
+  "id": "6a77a88cf9",
+  "art": "sporsmal",
+  "q": "Hva menes med vannbalansen i et nedbørsfelt?",
+  "f": ""
+ },
+ {
+  "id": "36c8c8a2f4",
+  "art": "sporsmal",
+  "q": "Hvorfor finner vi de største nedbørsfeltene på Østlandet og i Finnmark?",
+  "f": ""
+ },
+ {
+  "id": "57b25d09d9",
+  "art": "sporsmal",
+  "q": "Hva menes med begrepene vannføring og avrenning i en elv?",
+  "f": ""
+ },
+ {
+  "id": "5d1b5d8296",
+  "art": "sporsmal",
+  "q": "Hva er et hydrogram?",
+  "f": ""
+ },
+ {
+  "id": "c9e3f368b9",
+  "art": "sporsmal",
+  "q": "Forklar hvordan man beregner middelvannføring og midlere spesifikk avrenning per år.",
+  "f": ""
+ },
+ {
+  "id": "12cd7309d9",
+  "art": "hvatrordu",
+  "q": "Hva er størst av fordampning (fra havene), transpirasjon og evapotranspirasjon?",
+  "f": ""
+ },
+ {
+  "id": "e0dc980a75",
+  "art": "hvatrordu",
+  "q": "Hva er forskjellen på spesifikk avrenning og midlere spesifikk avrenning?",
+  "f": ""
+ },
+ {
+  "id": "f372a64848",
+  "art": "sporsmal",
+  "q": "Hva mener hydrologene med at en elv er i flom?",
+  "f": ""
+ },
+ {
+  "id": "63f19d662a",
+  "art": "sporsmal",
+  "q": "Hva menes med flomtopp?",
+  "f": ""
+ },
+ {
+  "id": "97e2a4eb35",
+  "art": "sporsmal",
+  "q": "Hvilken betydning har avrenningsforholdene for hvor raskt flomtoppen kommer, og hvor stor den blir?",
+  "f": ""
+ },
+ {
+  "id": "908a7a68fb",
+  "art": "sporsmal",
+  "q": "Hva menes med at hvert vassdrag har sitt avrenningsmønster?",
+  "f": ""
+ },
+ {
+  "id": "d618dad232",
+  "art": "sporsmal",
+  "q": "Hvilke flomtyper skiller vi mellom?",
+  "f": ""
+ },
+ {
+  "id": "37469804b5",
+  "art": "sporsmal",
+  "q": "Hva er spesielt med avrenningen i et brevassdrag?",
+  "f": ""
+ },
+ {
+  "id": "f335426c32",
+  "art": "sporsmal",
+  "q": "Hvilke forhold avgjør hvor stor betydning snøsmeltingen får på vårflommen?",
+  "f": ""
+ },
+ {
+  "id": "48f63ddba5",
+  "art": "sporsmal",
+  "q": "Hva menes med en hundreårsflom?",
+  "f": ""
+ },
+ {
+  "id": "56ea941384",
+  "art": "sporsmal",
+  "q": "Hva var Storofsen?",
+  "f": ""
+ },
+ {
+  "id": "145a824f86",
+  "art": "sporsmal",
+  "q": "Hvordan kan vår areal- og ressursbruk påvirke størrelsen på flommene?",
+  "f": ""
+ },
+ {
+  "id": "909a76e1e6",
+  "art": "sporsmal",
+  "q": "Hva er de vanligste skadene etter en flom?",
+  "f": ""
+ },
+ {
+  "id": "19468d62fa",
+  "art": "sporsmal",
+  "q": "Hvordan kan vi beskytte oss mot flom?",
+  "f": ""
+ },
+ {
+  "id": "ac010b2329",
+  "art": "hvatrordu",
+  "q": "Hva tror du det er lettest å forholde seg til – flom eller tørke?",
+  "f": ""
+ },
+ {
+  "id": "e9428f2916",
+  "art": "hvatrordu",
+  "q": "Hva er sannsynligheten for at to hundreårsflommer skal komme to påfølgende år?",
+  "f": ""
+ },
+ {
+  "id": "b8b69276a2",
+  "art": "sporsmal",
+  "q": "Hvilke forhold har betydning for hvor lett vann infiltrerer jorda?",
+  "f": ""
+ },
+ {
+  "id": "99c29df2de",
+  "art": "sporsmal",
+  "q": "Hva er markvann?",
+  "f": ""
+ },
+ {
+  "id": "fbf85272aa",
+  "art": "sporsmal",
+  "q": "Hvilke deler kan markvannssonen inndeles i?",
+  "f": ""
+ },
+ {
+  "id": "2226ad30a2",
+  "art": "sporsmal",
+  "q": "Hva menes med feltkapasitet og visnegrense?",
+  "f": ""
+ },
+ {
+  "id": "58fe1db320",
+  "art": "sporsmal",
+  "q": "Hvilken forskjell er det på leirjord og sandjord når det gjelder feltkapasitet og visnegrense?",
+  "f": ""
+ },
+ {
+  "id": "5a9b3ebdf6",
+  "art": "sporsmal",
+  "q": "Hvilke løsmasser inneholder mest grunnvann?",
+  "f": ""
+ },
+ {
+  "id": "f32df1cfa2",
+  "art": "sporsmal",
+  "q": "Hva er grunnvannsspeilet?",
+  "f": ""
+ },
+ {
+  "id": "acbd0475f5",
+  "art": "sporsmal",
+  "q": "Hvor mye vann kan grunnvannsbrønner gi?",
+  "f": ""
+ },
+ {
+  "id": "7c73625472",
+  "art": "sporsmal",
+  "q": "Er det løsmasser eller bergarter som har størst permeabilitet?",
+  "f": ""
+ },
+ {
+  "id": "08b30a9292",
+  "art": "sporsmal",
+  "q": "Hva er betingelsen for at bergarter skal inneholde mye grunnvann?",
+  "f": ""
+ },
+ {
+  "id": "523787c850",
+  "art": "sporsmal",
+  "q": "Hvordan varierer høyden på grunnvannsspeilet i løpet av et år?",
+  "f": ""
+ },
+ {
+  "id": "e642722656",
+  "art": "hvatrordu",
+  "q": "Hva slags løsmasser egner seg til uttak av grunnvann? Begrunn svaret.",
+  "f": ""
+ },
+ {
+  "id": "d17d56207d",
+  "art": "hvatrordu",
+  "q": "Hva kan skje om vi pumper opp mye grunnvann?",
+  "f": ""
+ },
+ {
+  "id": "f02454abc8",
+  "art": "sporsmal",
+  "q": "Hvor mye ville verdenshavene stige dersom innlandsisene på Grønland og i Antarktis smeltet?",
+  "f": ""
+ },
+ {
+  "id": "8070c6c632",
+  "art": "sporsmal",
+  "q": "Hva menes med begrepene vinterbalanse, sommerbalanse, årlig balanse og massebalanse?",
+  "f": ""
+ },
+ {
+  "id": "5d7e23bc0a",
+  "art": "sporsmal",
+  "q": "Hvor på breen ligger likevektslinjen?",
+  "f": ""
+ },
+ {
+  "id": "b1a199192a",
+  "art": "sporsmal",
+  "q": "Hvilken hensikt har massebalansemålinger?",
+  "f": ""
+ },
+ {
+  "id": "a25e0d1234",
+  "art": "sporsmal",
+  "q": "Hvilke smelteprosesser er viktigst på breene?",
+  "f": ""
+ },
+ {
+  "id": "6f8ad74101",
+  "art": "sporsmal",
+  "q": "Hvordan er det mulig å beregne massebalansen på en bre?",
+  "f": ""
+ },
+ {
+  "id": "1235652994",
+  "art": "sporsmal",
+  "q": "Hvilken betydning har breene for avrenningen i vassdragene?",
+  "f": ""
+ },
+ {
+  "id": "d37c9dea9f",
+  "art": "hvatrordu",
+  "q": "Hvorfor ligger likevektslinjen høyere på kontinentale breer enn på kystnære breer?",
+  "f": ""
+ },
+ {
+  "id": "dfd0e59a92",
+  "art": "hvatrordu",
+  "q": "Anta at brefronten et år smelter tilbake. Forteller det noe om breens massebalanse det året?",
+  "f": ""
+ },
+ {
+  "id": "f67568ee64",
+  "art": "sporsmal",
+  "q": "Hva menes med at breen er en klimaindikator?",
+  "f": ""
+ },
+ {
+  "id": "3d8671238f",
+  "art": "sporsmal",
+  "q": "Hvordan kan du se på brefronten om en bre rykker fram eller smelter tilbake?",
+  "f": ""
+ },
+ {
+  "id": "565332a347",
+  "art": "sporsmal",
+  "q": "Hva skjer med de fleste fjellbreene i verden på begynnelsen av 2000-tallet?",
+  "f": ""
+ },
+ {
+  "id": "36f1b5d1fb",
+  "art": "hvatrordu",
+  "q": "Vil et kaldt klima uten videre føre til at det dannes breer?",
+  "f": ""
+ },
+ {
+  "id": "8b2afecfcd",
+  "art": "hvatrordu",
+  "q": "Hva kan være grunnen til at massebalansen er forskjellig på kystnære og kontinentale breer?",
+  "f": ""
+ },
+ {
+  "id": "0e1e1baf86",
+  "art": "hvatrordu",
+  "q": "Hvordan vil du forklare at en mild vinter kan være mer gunstig for breens vekst enn en kald vinter?",
+  "f": ""
+ },
+ {
+  "id": "156a4bfc62",
+  "art": "hvatrordu",
+  "q": "Hvorfor tror du at tiden det tar før endringer i massebalansen blir synlig på brefronten (responstiden), er avhengig av breens størrelse?",
+  "f": ""
+ },
+ {
+  "id": "df283a6b42",
+  "art": "oppgave",
+  "q": "Hva forteller bildet?",
+  "f": ""
+ },
+ {
+  "id": "998cc4f573",
+  "art": "oppgave",
+  "q": "Når på året må bildet være tatt for at det skal være likevektslinjen du ser på bildet i figur 12.26?",
+  "f": ""
+ },
+ {
+  "id": "cfcf274426",
+  "art": "oppgave",
+  "q": "Studer brefronten på hvert av bildene i figur 12.34. Hvordan har brefronten forandret seg i perioden? Hva er årsaken til det?",
+  "f": ""
+ },
+ {
+  "id": "ac8df48bf1",
+  "art": "kapitteloppgave",
+  "q": "Her er noen faguttrykk samlet i grupper på tre, som du har lest om i dette kapitlet:",
+  "f": ""
+ },
+ {
+  "id": "5c2fcae063",
+  "art": "kapitteloppgave",
+  "q": "fordampning – isbreer – grunnvann",
+  "f": ""
+ },
+ {
+  "id": "edd4694c60",
+  "art": "kapitteloppgave",
+  "q": "nedbørsfelt – vassdrag – flom",
+  "f": ""
+ },
+ {
+  "id": "b8daa38503",
+  "art": "kapitteloppgave",
+  "q": "vannføring – årlig avrenning – spesifikk avrenning",
+  "f": ""
+ },
+ {
+  "id": "4d5f9caf1d",
+  "art": "kapitteloppgave",
+  "q": "limnigraf – hydrogram – flom",
+  "f": ""
+ },
+ {
+  "id": "993db2030f",
+  "art": "kapitteloppgave",
+  "q": "flomtype – avrenningsmønster – jøkulhlaup",
+  "f": ""
+ },
+ {
+  "id": "cbb8b1cd0c",
+  "art": "kapitteloppgave",
+  "q": "vårflom – regnflom – snøsmelting",
+  "f": ""
+ },
+ {
+  "id": "4aff71a0af",
+  "art": "kapitteloppgave",
+  "q": "diker – flomskader – forbygninger",
+  "f": ""
+ },
+ {
+  "id": "7818b8f55a",
+  "art": "kapitteloppgave",
+  "q": "markvannssonen – rotsonen – grunnvannsspeil",
+  "f": ""
+ },
+ {
+  "id": "7c8bdd306f",
+  "art": "kapitteloppgave",
+  "q": "feltkapasitet – visnegrense – plantedød",
+  "f": ""
+ },
+ {
+  "id": "d79ffb7b45",
+  "art": "kapitteloppgave",
+  "q": "løsmasser – bergarter – stor permeabilitet",
+  "f": ""
+ },
+ {
+  "id": "3d99e2d2b9",
+  "art": "kapitteloppgave",
+  "q": "vinterbalanse – årlig balanse – massebalanse",
+  "f": ""
+ },
+ {
+  "id": "7b6b045424",
+  "art": "kapitteloppgave",
+  "q": "pålagring – vinterbalanse – sommerbalanse",
+  "f": ""
+ },
+ {
+  "id": "472bafb990",
+  "art": "kapitteloppgave",
+  "q": "tilbakesmelting – positiv sommerbalanse – negativ massebalanse",
+  "f": ""
+ },
+ {
+  "id": "a3ba336e11",
+  "art": "kapitteloppgave",
+  "q": "likevektslinje – bredemt sjø – jøkulhlaup",
+  "f": ""
+ },
+ {
+  "id": "94426e32fa",
+  "art": "kapitteloppgave",
+  "q": "Verdens isbreer er det største av vannmagasinene i vannets kretsløp.",
+  "f": ""
+ },
+ {
+  "id": "da12c73917",
+  "art": "kapitteloppgave",
+  "q": "Markvann ligger oppå bakken.",
+  "f": ""
+ },
+ {
+  "id": "36348276c0",
+  "art": "kapitteloppgave",
+  "q": "På et hydrogram kan vi lese av vannføringen i en elv på et gitt tidspunkt.",
+  "f": ""
+ },
+ {
+  "id": "1437016cce",
+  "art": "kapitteloppgave",
+  "q": "Regnvannet renner raskt ut i elvene der det er bart fjell i dagen, mens det blir holdt igjen i områder der grunnen består av leire.",
+  "f": ""
+ },
+ {
+  "id": "629eaaf168",
+  "art": "kapitteloppgave",
+  "q": "Breelvene har størst vannføring om vinteren, da det faller mest snø på breen.",
+  "f": ""
+ },
+ {
+  "id": "bd68725fdf",
+  "art": "kapitteloppgave",
+  "q": "Det er mulig å varsle flom.",
+  "f": ""
+ },
+ {
+  "id": "9895e1ece4",
+  "art": "kapitteloppgave",
+  "q": "Hundreårsflommer kan ikke komme to år på rad.",
+  "f": ""
+ },
+ {
+  "id": "e7a5f05734",
+  "art": "kapitteloppgave",
+  "q": "Tørke forekommer bare i tørre klimasoner.",
+  "f": ""
+ },
+ {
+  "id": "1ddbd28348",
+  "art": "kapitteloppgave",
+  "q": "Det er ikke mulig å varsle en tørkeperiode.",
+  "f": ""
+ },
+ {
+  "id": "7d60a1b789",
+  "art": "kapitteloppgave",
+  "q": "Grunnvannet siger gjennom markvannssonen.",
+  "f": ""
+ },
+ {
+  "id": "5bc63405ad",
+  "art": "kapitteloppgave",
+  "q": "Grunnvannsspeilet synker i tørkeperioder.",
+  "f": ""
+ },
+ {
+  "id": "97583eb22c",
+  "art": "kapitteloppgave",
+  "q": "Dersom havisen i Arktis smelter, vil havnivået i verdenshavene stige.",
+  "f": ""
+ },
+ {
+  "id": "60bbc8687a",
+  "art": "kapitteloppgave",
+  "q": "Breens massebalanse er det samme som «breens materialhusholdning».",
+  "f": ""
+ },
+ {
+  "id": "9c5b1749d2",
+  "art": "kapitteloppgave",
+  "q": "Pålagring har ikke noe med sommerbalansen å gjøre.",
+  "f": ""
+ },
+ {
+  "id": "51b869228c",
+  "art": "kapitteloppgave",
+  "q": "Brefronten kan smelte tilbake selv om massebalansen er positiv.",
+  "f": ""
+ }
+]

@@ -29,13 +29,11 @@
           "t": "tenk",
           "tekst": "Hva påvirker tilgangen på ferskvann?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "En regntung sky med lyn brer seg over et flatt landskap",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En regntung sky med lyn brer seg over et flatt landskap"
+        },
         {
           "t": "figur",
           "nr": "13.2",
@@ -62,13 +60,11 @@
         {
           "t": "p",
           "tekst": "Verdens ferskvannsressurser er ulikt fordelt fra naturens side. Mens enkelte områder har så stor tilgang på vann at man er mest bekymret for flom, lever millioner av mennesker på steder med så lite nedbør at tørke er en konstant utfordring."
-        }
-      ]
-    },
-    {
-      "tittel": "En elefant i en regntung jungel",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En elefant i en regntung jungel"
+        },
         {
           "t": "figur",
           "nr": "13.3",
@@ -89,13 +85,11 @@
         {
           "t": "p",
           "tekst": "Omkring 60 grader nord og sør finner vi polarfronten der varm luft fra sør møter kald polarluft. Her vil den polare jetstrømmen dannes og såkalte vandrende lavtrykk med frontnedbør kommer inn mot kystene. Frontnedbør dannes når varm og fuktig luft møter kald luft. Den varme og fuktige lufta blir presset opp. Vanndampen kondenserer og danner skyer og nedbør. Ordet front viser til skillet mellom luftmasser med forskjellige egenskaper. Frontnedbør forekommer hele året ved polarfronten, men de største nedbørsmengdene kommer vanligvis om høsten og vinteren. Der det er høye fjell ut mot kysten og pålandsvind, blir den fuktige lufta presset opp, og vi får en orografisk forsterkning av nedbøren. Orografisk betyr at luft stiger på grunn av fjell. Områder som ligger nedenfor snødekte områder eller isbreer, vil også kunne få et betydelig tilskudd av ferskvann under smelteperiodene."
-        }
-      ]
-    },
-    {
-      "tittel": "Kartillustrasjon av verden. Årsnedbør globalt",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kartillustrasjon av verden. Årsnedbør globalt"
+        },
         {
           "t": "figur",
           "nr": "13.4",
@@ -119,12 +113,12 @@
       ]
     },
     {
-      "tittel": "Søylediagram. Vannforbruk for utvalgte jordbruksprodukter",
+      "tittel": "Jordbruk",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Jordbruk"
+          "tekst": "Søylediagram. Vannforbruk for utvalgte jordbruksprodukter"
         },
         {
           "t": "figur",
@@ -138,13 +132,11 @@
         {
           "t": "p",
           "tekst": "Vannet brukes til kunstig vanning og husdyrhold, men også til biodrivstoff og andre produkter som ikke kan spises. Jordbrukets vannbruk vil variere fra sted til sted, men man kan regne med et forbruk på i overkant av 300 liter vann for å produsere et kilo grønnsaker, mens tilsvarende mengde storfekjøtt kan kreve over 15 000 liter."
-        }
-      ]
-    },
-    {
-      "tittel": "Verdenskart. Kunstig vanning i verden er merket per land med ulike farger",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Verdenskart. Kunstig vanning i verden er merket per land med ulike farger"
+        },
         {
           "t": "figur",
           "nr": "13.7",
@@ -225,13 +217,11 @@
         {
           "t": "p",
           "tekst": "Mer enn 140 000 dyre- og plantearter holder til i ferskvannshabitater. Her lever blant annet 55 prosent av all fiskearter. Legger vi til det store antallet arter som igjen er avhengige av ferskvannsartene, forstår vi at ferskvannsnaturen ikke bare er svært artsrik, men også sårbar. Studier har vist at så mye som en tredel av ferskvannsartene er truet. Tapet av biodiversitet går raskere her enn i saltvann og på landjorda."
-        }
-      ]
-    },
-    {
-      "tittel": "Vannliljer i mørkt ferskvann med små fiskestimer",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Vannliljer i mørkt ferskvann med små fiskestimer"
+        },
         {
           "t": "figur",
           "nr": "13.10",
@@ -410,13 +400,11 @@
         {
           "t": "p",
           "tekst": "Fra Kinas høyfjellsplatåer renner storelver som Indus, Ganges, Brahmaputra, Yangtze og Huang He og krysser grensene til land som India, Pakistan og Bangladesh. Brahmaputra renner for eksempel gjennom India før den krysser Bangladesh på den siste etappen mot Bengalbukta."
-        }
-      ]
-    },
-    {
-      "tittel": "Et industrielt anlegg på tvers av en elv med høye snekledde fjell i bakgrunnen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Et industrielt anlegg på tvers av en elv med høye snekledde fjell i bakgrunnen"
+        },
         {
           "t": "figur",
           "nr": "13.15",
@@ -531,12 +519,12 @@
       ]
     },
     {
-      "tittel": "Et stativ i form av en vannflaske rommer mange mindre vannflasker med påskriften Newater",
+      "tittel": "Gjenbruk",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Gjenbruk"
+          "tekst": "Et stativ i form av en vannflaske rommer mange mindre vannflasker med påskriften Newater"
         },
         {
           "t": "figur",
@@ -576,13 +564,11 @@
         {
           "t": "p",
           "tekst": "Tradisjonell vanning har ikke kunnet tilpasse vanntilførselen på denne måten, og resultatet har ofte vært at plantene har fått mer vann enn nødvendig. Det kan både forsterke erosjon og føre til forurensning. I tillegg kan overforbruk av vann i jordbruket ende med at grunnvannsspeilet stiger. Når vann fordamper, vil salter i vannet bli liggende igjen, noe som kan ødelegge jordsmonnet."
-        }
-      ]
-    },
-    {
-      "tittel": "En mann står med en laptop i en åker under et automatisk vanningsannlegg",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En mann står med en laptop i en åker under et automatisk vanningsannlegg"
+        },
         {
           "t": "figur",
           "nr": "13.18",
@@ -665,12 +651,12 @@
       ]
     },
     {
-      "tittel": "Vet De hva jeg lengter etter,",
+      "tittel": "VAND",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "VAND"
+          "tekst": "Vet De hva jeg lengter etter,"
         },
         {
           "t": "p",
@@ -773,13 +759,11 @@
         {
           "t": "p",
           "tekst": "Utdrag fra diktet Vand, av Nordahl Grieg (1929)"
-        }
-      ]
-    },
-    {
-      "tittel": "Urnes stavkirke ligger i en våt tåke i det vakre vestlandslanskapet",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Urnes stavkirke ligger i en våt tåke i det vakre vestlandslanskapet"
+        },
         {
           "t": "figur",
           "nr": "13.20",
@@ -898,13 +882,11 @@
         {
           "t": "p",
           "tekst": "Vannkraft er fornybar, stabil og tilnærmet utslippsfri. Den er derfor en kraftkilde som oppfyller mange av kravene som stilles i en tid der man prøver å få ned utslippene av klimagasser. Vannkraften er også fleksibel. Det er mulig å øke og redusere produksjonen raskt. Dermed egner den seg godt i kombinasjon med andre ikke-fossile energikilder som vind- og solkraft som er mindre stabile over korte tidsrom. Det er også vanligvis lite rennende vann å produsere strøm av om vinteren i Norge, samtidig som behovet for strøm til oppvarming er høyt. For vind er det motsatt. Her er potensialet for å produsere størst om vinteren siden det blåser mer på senhøsten og vinteren."
-        }
-      ]
-    },
-    {
-      "tittel": "Skisse som viser kraftproduksjon og forbruk",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Skisse som viser kraftproduksjon og forbruk"
+        },
         {
           "t": "figur",
           "nr": "13.22",
@@ -956,12 +938,12 @@
       ]
     },
     {
-      "tittel": "Geologi",
+      "tittel": "Ferskvannsutfordringer",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Ferskvannsutfordringer"
+          "tekst": "Geologi"
         },
         {
           "t": "p",
@@ -1097,12 +1079,12 @@
       ]
     },
     {
-      "tittel": "En frustrert bonde går på befaring i en åker som er rammet av ekstrem tørke",
+      "tittel": "Tørke",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Tørke"
+          "tekst": "En frustrert bonde går på befaring i en åker som er rammet av ekstrem tørke"
         },
         {
           "t": "figur",
@@ -1160,7 +1142,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Kartillustrasjon av verden. Årsnedbør globalt",
+      "del": "Naturen fordeler vannet ulikt",
       "poster": [
         {
           "q": "Hvor stor andel av verdens vannressurser er ferskvann?",
@@ -1184,7 +1166,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Kartillustrasjon av verden. Årsnedbør globalt",
+      "del": "Naturen fordeler vannet ulikt",
       "poster": [
         {
           "q": "Hva kan være årsaken til at monsunen varierer fra år til år?",
@@ -1212,7 +1194,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Vannliljer i mørkt ferskvann med små fiskestimer",
+      "del": "Natur- og friluftsressurs",
       "poster": [
         {
           "q": "Hvilken sektor legger beslag på de største vannressursene i verden?",
@@ -1276,7 +1258,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Vannliljer i mørkt ferskvann med små fiskestimer",
+      "del": "Natur- og friluftsressurs",
       "poster": [
         {
           "q": "Hvordan tror du man har beregnet vannmengden som har gått med til å produsere et par jeans?",
@@ -1300,7 +1282,7 @@
       "art": "oppgave",
       "overskrift": "OPPGAVER",
       "side": null,
-      "del": "Vannliljer i mørkt ferskvann med små fiskestimer",
+      "del": "Natur- og friluftsressurs",
       "poster": [
         {
           "q": "Finn ut hvor mye ferskvann som kreves for å produsere ulike klesplagg. Gå gjennom klesskapet ditt, og beregn hvor mange liter vann som har gått med for å produsere det du finner der. Diskuter om kunnskap om vannbruket i klesindustrien bør få konsekvenser for vårt klesforbruk.",
@@ -1452,7 +1434,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 243,
-      "del": "En mann står med en laptop i en åker under et automatisk vanningsannlegg",
+      "del": "Bruk av mer effektiv tekonologi",
       "poster": [
         {
           "q": "Hva er fordelene ved å produsere ferskvann ved hjelp av avsalting av havvann?",
@@ -1496,7 +1478,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "En mann står med en laptop i en åker under et automatisk vanningsannlegg",
+      "del": "Bruk av mer effektiv tekonologi",
       "poster": [
         {
           "q": "Vi har sett at resirkulering av vann har blitt viktig mange steder. Tror du at dette kommer til å bli viktig i Norge i framtiden? Begrunn svaret.",
@@ -1508,7 +1490,7 @@
       "art": "oppgave",
       "overskrift": "OPPGAVER",
       "side": null,
-      "del": "En mann står med en laptop i en åker under et automatisk vanningsannlegg",
+      "del": "Bruk av mer effektiv tekonologi",
       "poster": [
         {
           "q": "Vi har lest at fosfor kan gjenvinnes fra avløpsvann. Hvorfor er fosfor en viktig ressurs for matproduksjonen?",

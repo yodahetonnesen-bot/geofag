@@ -21,13 +21,11 @@
         {
           "t": "p",
           "tekst": "«På kveldstid 30. juli 2019 førte kraftige, lokale regnbyger til mange jord- og flomskred i de daværende kommunene Jølster, Førde og Gloppen. I Jølster-området ble det kartlagt opptil 30 ulike skred mot veier og bebyggelse. Flere jord- og flomskred førte til svært alvorlige konsekvenser og ett tragisk utfall. Én person mistet livet, og om lag 150 personer ble evakuert. Skadene på vei og eiendommer ble omfattende.»"
-        }
-      ]
-    },
-    {
-      "tittel": "Et jordras har gått gjennom skogen i en fjellside ned mot et vann",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Et jordras har gått gjennom skogen i en fjellside ned mot et vann"
+        },
         {
           "t": "figur",
           "nr": "21.1",
@@ -66,13 +64,11 @@
           "t": "tenk",
           "tekst": "Hva kan ha utløst skredet du ser på bildet i figur 21.1?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Kart som viser de største flomskredene som har gått her i landet i historisk tid",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart som viser de største flomskredene som har gått her i landet i historisk tid"
+        },
         {
           "t": "figur",
           "nr": "21.2",
@@ -81,13 +77,11 @@
         {
           "t": "p",
           "tekst": "Flomskred skjer vanligvis i bratte dalsider med tykke lag av morenejord (se figur 21.1). De kommer ofte etter at det har regnet mye over lang tid eller ved sterk snøsmelting. Jorda blir da så oppbløtt at den lett raser. Slik var forholdene i Gudbrandsdalen i 1789 under kjempeflommen Storofsen (se 7.4). Mer enn 200 år etter ser vi fortsatt skredgropene i dalsidene. I dag er mange sterkt trafikkerte veier og jernbanestrekninger utsatt for jordskred."
-        }
-      ]
-    },
-    {
-      "tittel": "Jordras sett fra luften, har gått over en vei og ned i vann",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Jordras sett fra luften, har gått over en vei og ned i vann"
+        },
         {
           "t": "figur",
           "nr": "21.3",
@@ -110,16 +104,16 @@
       ]
     },
     {
-      "tittel": "Kart som viser de største kvikkleireskredene som har gått her i landet i historisk tid",
+      "tittel": "Kilde: nrk.no",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Kilde: nrk.no"
+          "tekst": "Kvikkleireskred"
         },
         {
           "t": "bilde",
-          "tekst": "Kvikkleireskred"
+          "tekst": "Kart som viser de største kvikkleireskredene som har gått her i landet i historisk tid"
         },
         {
           "t": "figur",
@@ -133,13 +127,11 @@
         {
           "t": "p",
           "tekst": "Om vi legger statistikk til grunn, må vi regne med at det vil komme to–tre store kvikkleireskred de neste 100 årene, men et klima med mer nedbør kan føre til økt skredfare for alle typer skred. Det stiller nye krav til arealplanlegging og beredskap i kommunene."
-        }
-      ]
-    },
-    {
-      "tittel": "Leira forandrer kornstruktur når det går et kvikkleireskred",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Leira forandrer kornstruktur når det går et kvikkleireskred"
+        },
         {
           "t": "figur",
           "nr": "21.5",
@@ -319,12 +311,12 @@
       ]
     },
     {
-      "tittel": "Hendelsesforløp",
+      "tittel": "Kvikkleireskred i by",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Kvikkleireskred i by"
+          "tekst": "Hendelsesforløp"
         },
         {
           "t": "p",
@@ -333,20 +325,22 @@
       ]
     },
     {
-      "tittel": "To døgn i oktober",
+      "tittel": "Tidspunkt",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Tidspunkt"
-        },
-        {
-          "t": "bilde",
           "tekst": "Omfang"
-        },
+        }
+      ]
+    },
+    {
+      "tittel": "Lignende hendelser",
+      "side": null,
+      "blokker": [
         {
           "t": "bilde",
-          "tekst": "Lignende hendelser"
+          "tekst": "To døgn i oktober"
         },
         {
           "t": "p",
@@ -363,13 +357,11 @@
         {
           "t": "p",
           "tekst": "Skredet på Sørum i 2016 hvor 140 000 m3 leire gled ut og tre anleggsarbeidere omkom. Pågående oppfyllingsarbeid i området var sannsynligvis årsaken til skredet."
-        }
-      ]
-    },
-    {
-      "tittel": "En ødelagt vei har sprukket opp etter enorme krefter",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En ødelagt vei har sprukket opp etter enorme krefter"
+        },
         {
           "t": "figur",
           "nr": "21.8",
@@ -589,8 +581,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Jordskred er det samme som løsmasseskred.",

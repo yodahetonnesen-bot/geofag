@@ -14,13 +14,11 @@
         {
           "t": "p",
           "tekst": "Et naturlandskap er dannet av prosesser i naturen gjennom millioner av år. Ulike bergarter og prosesser har dannet ulike landformer. Gjennom bosetting og ressursbruk er naturlandskapet mange steder i dag endret til et kulturlandskap. Når vi bruker begrepet landskap, omfatter det både natur- og kulturlandskap."
-        }
-      ]
-    },
-    {
-      "tittel": "Luftfoto av en høy fjellformasjon med bølgede lagdelte folder",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Luftfoto av en høy fjellformasjon med bølgede lagdelte folder"
+        },
         {
           "t": "figur",
           "nr": "14.1",
@@ -98,13 +96,11 @@
         {
           "t": "p",
           "tekst": "Ørkenklimaet fra tidlig i mellomtiden forandrer seg til et varmt og fuktig tropeklima mot slutten av mellomtiden. Dypforvitring og sporadiske regnskyll sliter ned landoverflaten. Løsmassene fra Baltika (leire og sand) transporteres bort med regnvannet og avsettes på kontinentalsokkelen utenfor vestkysten av kontinentet. →"
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over landformene i Norge",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over landformene i Norge"
+        },
         {
           "t": "figur",
           "nr": "14.3",
@@ -162,12 +158,12 @@
       ]
     },
     {
-      "tittel": "Kart over Sør-Norge som viser plassering av Bitihorn, Hallingskarvet og Kolsås",
+      "tittel": "Når de harde bergartene ligger øverst",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Når de harde bergartene ligger øverst"
+          "tekst": "Kart over Sør-Norge som viser plassering av Bitihorn, Hallingskarvet og Kolsås"
         },
         {
           "t": "p",
@@ -176,35 +172,29 @@
         {
           "t": "p",
           "tekst": "Langs den sør-østligste kanten av skyvedekkene i den kaledonske foldesonen, der harde bergarter er skjøvet over løsere kambrosiluriske bergarter, er det flere steder dannet bratte skrenter mot sørøst. I Sør-Norge finner vi slike eksempler ved Hallingskarvet (figur 14.6) og i Jotunheimen ved Bitihorn øverst i Valdres (se figur 8.12)."
-        }
-      ]
-    },
-    {
-      "tittel": "Grønn åker med bebyggelse, ved roten av en bratt og rund topp",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Grønn åker med bebyggelse, ved roten av en bratt og rund topp"
+        },
         {
           "t": "figur",
           "nr": "14.5",
           "tekst": "Kolsåsplatået"
-        }
-      ]
-    },
-    {
-      "tittel": "Hallingskarvet, en kald ettermiddag med klar rosa himmel",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Hallingskarvet, en kald ettermiddag med klar rosa himmel"
+        },
         {
           "t": "figur",
           "nr": "14.6",
           "tekst": "Hallingskarvet med Skurdalsfjorden (øst på Hardangervidda i nærheten av Geilo) i forgrunnen, bildet er tatt mot nordvest."
-        }
-      ]
-    },
-    {
-      "tittel": "Viddeområde med slake fjell i horisonten",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Viddeområde med slake fjell i horisonten"
+        },
         {
           "t": "figur",
           "nr": "14.7",
@@ -287,35 +277,29 @@
           "t": "tenk",
           "tekst": "Hvordan er de kambrosiluriske bergartene i Oslofeltet foldet?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Kartillustrasjon der områder er markert",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kartillustrasjon der områder er markert"
+        },
         {
           "t": "figur",
           "nr": "14.8",
           "tekst": "Variert berggrunn og uike strukturer i Oslofeltet setter sitt preg på landformene (se også 8.19, 8.20 og 8.21)."
-        }
-      ]
-    },
-    {
-      "tittel": "Satellittbilde",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Satellittbilde"
+        },
         {
           "t": "figur",
           "nr": "14.9",
           "tekst": "Satellittbilde som viser kysten mellom Stadlandet og Trondheimsfjorden. Dette er en del av gneisregionen på Nordvestlandet, som består av prekambriske bergarter sterkt påvirket av den kaledonske fjellkjedefoldningen."
-        }
-      ]
-    },
-    {
-      "tittel": "Utsnitt av Norgeskart over Vestland",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Utsnitt av Norgeskart over Vestland"
+        },
         {
           "t": "figur",
           "nr": "14.10",
@@ -342,13 +326,11 @@
         {
           "t": "p",
           "tekst": "I Ålfoten danner lagdelte, sedimentære bergarter fra perioden devon trappetrinn i landskapet. De sedimentære bergartene er dannet av løsmasser fra erosjonen av den kaledonske fjellkjeden i devon. Løsmassene ble avsatt i innsjøer i den kaledonske fjellkjeden. Lagdelingen i bergartene skaper et særegent landskap (figur 14.11)."
-        }
-      ]
-    },
-    {
-      "tittel": "Terassehyller i fjellformasjonen ser ut som trapper",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Terassehyller i fjellformasjonen ser ut som trapper"
+        },
         {
           "t": "figur",
           "nr": "14.11",
@@ -507,8 +489,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Landformer og landskap er det samme.",

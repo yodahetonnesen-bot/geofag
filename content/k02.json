@@ -31,12 +31,12 @@
       ]
     },
     {
-      "tittel": "Tverrsnitt over jordas oppbygging fra kjerne til jordoverflate",
-      "side": null,
+      "tittel": "Jordas oppbygning",
+      "side": 16,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Jordas oppbygning"
+          "tekst": "Tverrsnitt over jordas oppbygging fra kjerne til jordoverflate"
         },
         {
           "t": "figur",
@@ -253,13 +253,11 @@
         {
           "t": "p",
           "tekst": "Kartlegging av temperaturfordelingen i mantelen ved hjelp av jordskjelvbølger kalles seismisk tomografi (tomografi = todimensjonalt bilde av en indre struktur). Den viser at det ligger to store lavhastighetsområder nederst i mantelen, like over den ytre jordkjernen (figurene 2.5 og 2.6). Det ene området ligger under Afrika, det andre under Stillehavet. I de to lavhastighetsområdene er mantelen ekstra varm. Varmen kommer fra jordkjernen, og den virker som en kokeplate på mantelen over."
-        }
-      ]
-    },
-    {
-      "tittel": "Strømningsmønsteret i mantelen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Strømningsmønsteret i mantelen"
+        },
         {
           "t": "figur",
           "nr": "2.5",
@@ -278,13 +276,11 @@
         {
           "t": "p",
           "tekst": "Høyhastighetsområdet er et sirkumpolart belte, som betyr at beltet går jorda rundt under begge polpunktene. Beltet passerer under Nordpolen, den østlige delen av Asia, Australia, Sørpolen og Sør- og Nord-Amerika."
-        }
-      ]
-    },
-    {
-      "tittel": "Tverrsnitt av jordkloden, med mantelstrømmer",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Tverrsnitt av jordkloden, med mantelstrømmer"
+        },
         {
           "t": "figur",
           "nr": "2.6",
@@ -341,12 +337,12 @@
       ]
     },
     {
-      "tittel": "Verdenskart der det er merket av Columbiaplatået, Sibirplatået og Deccanplatået",
-      "side": null,
+      "tittel": "Søylestrømmer, hotspots og basaltprovinser",
+      "side": 23,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Søylestrømmer, hotspots og basaltprovinser"
+          "tekst": "Verdenskart der det er merket av Columbiaplatået, Sibirplatået og Deccanplatået"
         },
         {
           "t": "p",
@@ -474,7 +470,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 24,
-      "del": "Verdenskart der det er merket av Columbiaplatået, Sibirplatået og Deccanplatået",
+      "del": "Søylestrømmer, hotspots og basaltprovinser",
       "poster": [
         {
           "q": "Hva er manteldynamikk?",
@@ -510,7 +506,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Verdenskart der det er merket av Columbiaplatået, Sibirplatået og Deccanplatået",
+      "del": "Søylestrømmer, hotspots og basaltprovinser",
       "poster": [
         {
           "q": "Hvordan er Hawaii-øyene dannet?",
@@ -534,7 +530,7 @@
       "art": "kapitteloppgave",
       "overskrift": "KAPITTELOPPGAVER",
       "side": null,
-      "del": "Verdenskart der det er merket av Columbiaplatået, Sibirplatået og Deccanplatået",
+      "del": "Søylestrømmer, hotspots og basaltprovinser",
       "poster": [
         {
           "gruppe": "Én skal ut"
@@ -611,8 +607,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Når det ikke lenger strømmer varme opp fra jordas indre, er det slutt på jordskjelv og vulkanutbrudd.",

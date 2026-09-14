@@ -180,11 +180,13 @@ def parse_kapittel(linjer: list[str], start: int, slutt: int, nr: int) -> dict:
             # gruppeoverskrifter inni seg. Andre oppgaveblokker avsluttes av
             # neste overskrift i brodteksten.
             if blokk["art"] == "kapitteloppgave":
-                if er_overskrift(tekst) or (
-                    tekst.endswith("?") and len(tekst) < 40 and i < slutt
-                    and not linjer[i].endswith("?")
-                    and len(linjer[i]) > 160
-                ):
+                korttittel = (
+                    tekst.endswith("?")
+                    and len(tekst) < 45
+                    and i < slutt
+                    and not linjer[i].rstrip().endswith("?")
+                )
+                if er_overskrift(tekst) or korttittel:
                     blokk["poster"].append({"gruppe": tekst})
                 else:
                     blokk["poster"].append({"q": tekst, "f": ""})
@@ -207,6 +209,15 @@ def parse_kapittel(linjer: list[str], start: int, slutt: int, nr: int) -> dict:
             continue
 
         if er_overskrift(tekst):
+            # En overskriftslignende linje rett foran en figurtekst er
+            # alt-teksten til bildet, ikke en ny del.
+            neste_er_figur = i < slutt and FIGUR.match(del_opp_sidetall(linjer[i])[0])
+            # ... og en overskrift uten sidetall rett etter en overskrift med
+            # sidetall er ogsa en bildetekst.
+            rett_etter_overskrift = not gjeldende_del["blokker"] and side is None
+            if neste_er_figur or rett_etter_overskrift:
+                gjeldende_del["blokker"].append({"t": "bilde", "tekst": tekst})
+                continue
             lagre_del()
             gjeldende_del = {"tittel": tekst, "side": side, "blokker": []}
             continue
@@ -230,6 +241,48 @@ def parse_kapittel(linjer: list[str], start: int, slutt: int, nr: int) -> dict:
     return kap
 
 
+def er_fragment(d: dict) -> bool:
+    """Sann for «deler» som egentlig er enkeltceller fra en tabell i boka."""
+    if not d.get("tittel") or len(d["tittel"]) > 44:
+        return False
+    if len(d["blokker"]) > 3:
+        return False
+    for b in d["blokker"]:
+        if b["t"] not in ("bilde", "p"):
+            return False
+        if len(b.get("tekst", "")) > 90:
+            return False
+    return True
+
+
+def slaa_sammen_tabeller(kap: dict, minst: int = 5) -> None:
+    """Lange rekker av fragmenter samles til én tabellblokk.
+
+    Tabellene i laereboka kommer ut av tekstdumpen som én linje per celle.
+    Uten dette blir hver celle til sin egen overskrift i fagstoffet.
+    """
+    deler, ut, i = kap["deler"], [], 0
+    while i < len(deler):
+        j = i
+        while j < len(deler) and er_fragment(deler[j]):
+            j += 1
+        if j - i >= minst:
+            celler = []
+            for d in deler[i:j]:
+                celler.append(d["tittel"])
+                celler.extend(b["tekst"] for b in d["blokker"] if b.get("tekst"))
+            ut.append({
+                "tittel": None,
+                "side": deler[i].get("side"),
+                "blokker": [{"t": "tabell", "celler": celler}],
+            })
+            i = j
+        else:
+            ut.append(deler[i])
+            i += 1
+    kap["deler"] = ut
+
+
 def main() -> int:
     linjer = les_kilde()
     treff = finn_kapitler(linjer)
@@ -242,6 +295,7 @@ def main() -> int:
     for idx, (i, nr) in enumerate(treff):
         slutt = treff[idx + 1][0] + 1 if idx + 1 < len(treff) else len(linjer)
         kap = parse_kapittel(linjer, i, min(slutt, len(linjer)), nr)
+        slaa_sammen_tabeller(kap)
         kapitler.append(kap)
 
     kapitler.sort(key=lambda k: k["nr"])

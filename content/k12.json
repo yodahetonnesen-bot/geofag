@@ -113,13 +113,11 @@
         {
           "t": "p",
           "tekst": "En stor del av vannet som fordamper fra havoverflaten, blir ikke lenge i atmosfæren. I løpet av kort tid faller mer enn tre firedeler av vannet ned over havområder. Resten blir ført med vindene inn over land og faller som nedbør der."
-        }
-      ]
-    },
-    {
-      "tittel": "Skisse over vannets kretsløp",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Skisse over vannets kretsløp"
+        },
         {
           "t": "figur",
           "nr": "12.3",
@@ -208,35 +206,29 @@
         {
           "t": "p",
           "tekst": "Det er ikke mange land som har like mye ferskvann per innbygger som Norge. Drikkevannet her i landet kommer fra både overflatevann og grunnvann. Overflatevannet er mest utsatt for forurensninger. Grunnvannet har til vanlig god kvalitet fordi det ligger godt beskyttet under bakken. Dessuten er selvrensingseffekten ofte stor. Når vannet siger gjennom sandholdige jordarter, blir urenheter i vannet i stor grad borte."
-        }
-      ]
-    },
-    {
-      "tittel": "Illustrerende figur av den gjennomsnittlige årlige vannbalansen i Norge for 1961–1990",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Illustrerende figur av den gjennomsnittlige årlige vannbalansen i Norge for 1961–1990"
+        },
         {
           "t": "figur",
           "nr": "12.5",
           "tekst": "Den gjennomsnittlige årlige vannbalansen i Norge for perioden 1961–90"
-        }
-      ]
-    },
-    {
-      "tittel": "Nedbørsfelt og vannføring for de største norske vassdragene",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Nedbørsfelt og vannføring for de største norske vassdragene"
+        },
         {
           "t": "figur",
           "nr": "12.6",
           "tekst": "Nedbørsfeltet og vannføring for de største norske vassdragene"
-        }
-      ]
-    },
-    {
-      "tittel": "Hydrogram",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Hydrogram"
+        },
         {
           "t": "figur",
           "nr": "12.7",
@@ -325,13 +317,11 @@
         {
           "t": "p",
           "tekst": "Den midlere spesifikke avrenningen i en periode beregnes ved å dividere middelvannføringen med arealet av nedbørsfeltet oppstrøms for målestasjonen. Den oppgis i L/(s · km2)."
-        }
-      ]
-    },
-    {
-      "tittel": "Den midlere spesifikke avrenningen i Norge oppgitt i mm/år for perioden 1961–1990",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Den midlere spesifikke avrenningen i Norge oppgitt i mm/år for perioden 1961–1990"
+        },
         {
           "t": "figur",
           "nr": "12.8",
@@ -354,28 +344,32 @@
       ]
     },
     {
-      "tittel": "Bruk figur 12.6 til å lage tabeller som ordner elvene etter",
+      "tittel": "Avrenning til hav + nedbør over hav =",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Avrenning til hav + nedbør over hav ="
-        },
-        {
-          "t": "bilde",
           "tekst": "Fordampning fra hav – nedbør over hav ="
-        },
-        {
-          "t": "bilde",
-          "tekst": "Nedbør over land – evapotranspirasjon fra land ="
-        },
+        }
+      ]
+    },
+    {
+      "tittel": "Nedbør over land – evapotranspirasjon fra land =",
+      "side": null,
+      "blokker": [
         {
           "t": "bilde",
           "tekst": "Nedbør over land – avrenning til hav ="
-        },
+        }
+      ]
+    },
+    {
+      "tittel": "De største norske vassdragene",
+      "side": null,
+      "blokker": [
         {
           "t": "bilde",
-          "tekst": "De største norske vassdragene"
+          "tekst": "Bruk figur 12.6 til å lage tabeller som ordner elvene etter"
         },
         {
           "t": "p",
@@ -440,13 +434,11 @@
         {
           "t": "p",
           "tekst": "I perioder med mye regn vil vannføringen i elvene øke. Hvor lang tid det tar før elvene når flomtoppen, varierer. Det avhenger av størrelsen på nedbørsfeltet, værsituasjonen og avrenningsforholdene (figur 12.9)."
-        }
-      ]
-    },
-    {
-      "tittel": "Avrenningsforholdene for elvene Leira og Risa på Romerike",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Avrenningsforholdene for elvene Leira og Risa på Romerike"
+        },
         {
           "t": "figur",
           "nr": "12.9",
@@ -469,13 +461,11 @@
         {
           "t": "p",
           "tekst": "Avrenningsmønsteret i elvene varierer fra landsdel til landsdel (figur 12.11). Det som gir flom i norske elver, er store mengder regn, sterk snøsmelting og/eller smelting på isbreer."
-        }
-      ]
-    },
-    {
-      "tittel": "Tilløp og avrenning fra Mjøsa under storflommen i 1938",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Tilløp og avrenning fra Mjøsa under storflommen i 1938"
+        },
         {
           "t": "figur",
           "nr": "12.10",
@@ -540,13 +530,11 @@
           "t": "tenk",
           "tekst": "Hvorfor kommer de største nedbørsmengdene langs kysten om høsten?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Kun et hustak stikker opp av en flom der skrotrester av tømmer ligger tett om overflaten",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kun et hustak stikker opp av en flom der skrotrester av tømmer ligger tett om overflaten"
+        },
         {
           "t": "figur",
           "nr": "12.12",
@@ -644,12 +632,12 @@
       ]
     },
     {
-      "tittel": "Hendelsesforløp",
+      "tittel": "Flom i Lågen og Glomma",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Flom i Lågen og Glomma"
+          "tekst": "Hendelsesforløp"
         },
         {
           "t": "p",
@@ -658,17 +646,19 @@
       ]
     },
     {
-      "tittel": "Lignende hendelser",
+      "tittel": "Tidspunkt",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Tidspunkt"
-        },
-        {
-          "t": "bilde",
           "tekst": "Omfang"
-        },
+        }
+      ]
+    },
+    {
+      "tittel": "Lignende hendelser",
+      "side": null,
+      "blokker": [
         {
           "t": "p",
           "tekst": "Tre døgn i mai med ekstremt mye nedbør. Unormalt høy vannføring i fire uker."
@@ -684,17 +674,19 @@
       ]
     },
     {
-      "tittel": "To forskjellige hydrogram",
+      "tittel": "Storofsen i 1789",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Storofsen i 1789"
-        },
-        {
-          "t": "bilde",
           "tekst": "Vesleofsen i 1995"
-        },
+        }
+      ]
+    },
+    {
+      "tittel": "To forskjellige hydrogram",
+      "side": null,
+      "blokker": [
         {
           "t": "p",
           "tekst": "Se på hydrogrammene for elvene Leira og Risa i figur 12.9. Risa renner i grusmassene på Gardermosletta. Under Gardermoen ligger landets største grunnvannsforekomst. Leira renner i leire."
@@ -744,12 +736,12 @@
       ]
     },
     {
-      "tittel": "Et flomskred drar med seg hus og trær i et dalsøkk",
+      "tittel": "Flomskader",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Flomskader"
+          "tekst": "Et flomskred drar med seg hus og trær i et dalsøkk"
         },
         {
           "t": "figur",
@@ -782,13 +774,11 @@
           "t": "tenk",
           "tekst": "Hva er en forbygning?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Elv bygget inn med betongforskalinger for flomsikring",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Elv bygget inn med betongforskalinger for flomsikring"
+        },
         {
           "t": "figur",
           "nr": "12.16",
@@ -856,13 +846,11 @@
         {
           "t": "p",
           "tekst": "Nedbøren infiltrerer lettere sandjord enn leirjord. Og det skjer raskere i tørr enn i fuktig jord (figur 12.17). Dette kan ha stor innvirkning på elvenes dreneringsnett (se figur 12.19)."
-        }
-      ]
-    },
-    {
-      "tittel": "Infiltrasjonshastighet i ulike jordarter",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Infiltrasjonshastighet i ulike jordarter"
+        },
         {
           "t": "figur",
           "nr": "12.17",
@@ -903,13 +891,11 @@
           "t": "tenk",
           "tekst": "Hva tror du menes med vannsyk jord?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Romerike",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Romerike"
+        },
         {
           "t": "figur",
           "nr": "12.19",
@@ -1000,13 +986,11 @@
         {
           "t": "p",
           "tekst": "Vannet kan bevege seg forholdsvis raskt gjennom de store porene i disse løsmassene. Vi sier at de porøse løsmassene har stor permeabilitet eller gjennomtrengelighet, og de er derfor de beste grunnvannskildene. Grunnvannet beveger seg til vanlig fra noen centimeter til et par meter per døgn, avhengig av jordarten og fallet på grunnvannsspeilet."
-        }
-      ]
-    },
-    {
-      "tittel": "Feltkapasiteten og visnegrensen i ulike jordarter",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Feltkapasiteten og visnegrensen i ulike jordarter"
+        },
         {
           "t": "figur",
           "nr": "12.21",
@@ -1054,13 +1038,11 @@
         {
           "t": "p",
           "tekst": "Norges geologiske undersøkelse (NGU) har ansvar for kartlegging og overvåking av grunnvannsressursene her i landet. Det er etablert et nett av grunnvannsbrønner der grunnvannets kvalitet og mengde blir registrert."
-        }
-      ]
-    },
-    {
-      "tittel": "Vann pipler ut i en bergsprekk",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Vann pipler ut i en bergsprekk"
+        },
         {
           "t": "figur",
           "nr": "12.22",
@@ -1241,57 +1223,47 @@
         {
           "t": "p",
           "tekst": "I 2020 var det om lag 2200 norske isbreer, og til sammen dekket de et areal på ca. 2300 km2, eller ca. 1 prosent av fastlandslandarealet. Dette året ble det utført massebalansemålinger på 13 norske breer. På flere av breene har målingene pågått sammenhengende i mer enn 40 år. Storbreen i Jotunheimen har den lengste måleserien – snart over 70 år (se 12.23)."
-        }
-      ]
-    },
-    {
-      "tittel": "Massebalansen på Storbreen i Jotunheimen (1949–2019) målt i meter vannekvivalent",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Massebalansen på Storbreen i Jotunheimen (1949–2019) målt i meter vannekvivalent"
+        },
         {
           "t": "figur",
           "nr": "12.23",
           "tekst": "Massebalansen på Storbreen i Jotunheimen (1949–2019) målt i meter. Det betyr at snø og is er omregnet til et vannlag jevnt fordelt over hele breoverflaten. Se bilde av Storbreen nedenfor (figur 12.24)"
-        }
-      ]
-    },
-    {
-      "tittel": "Høye fjell med snø og isbre",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Høye fjell med snø og isbre"
+        },
         {
           "t": "figur",
           "nr": "12.24",
           "tekst": "Storbreen i Jotunheimen"
-        }
-      ]
-    },
-    {
-      "tittel": "Skisse over breoverflaten og isens bevegelse",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Skisse over breoverflaten og isens bevegelse"
+        },
         {
           "t": "figur",
           "nr": "12.25",
           "tekst": "Breoverflaten og isens bevegelse"
-        }
-      ]
-    },
-    {
-      "tittel": "Skarelag over fjellvidde som sprekker opp med en skitten kontur",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Skarelag over fjellvidde som sprekker opp med en skitten kontur"
+        },
         {
           "t": "figur",
           "nr": "12.26",
           "tekst": "Spørteggbreen. Skillet mellom avsmeltingsområdet og næringsområdet like før vintersesongen starter. Likevektslinjen er tydelig på bildet."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart som viser likevektslinjens høyde over havet på Vestlandet",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart som viser likevektslinjens høyde over havet på Vestlandet"
+        },
         {
           "t": "figur",
           "nr": "12.27",
@@ -1423,13 +1395,11 @@
         {
           "t": "p",
           "tekst": "Noen ganger kan isen selv demme opp smeltevann fra breen. Disse bredemte sjøene vil før eller senere bli tappet (figur 12.30). Ofte skjer det plutselig, og da blir det uventede flommer (jøkelløp) i breelvene."
-        }
-      ]
-    },
-    {
-      "tittel": "En isbre ligger over et sandete og grusfylt dalområde",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En isbre ligger over et sandete og grusfylt dalområde"
+        },
         {
           "t": "figur",
           "nr": "12.30",
@@ -1453,24 +1423,20 @@
         {
           "t": "p",
           "tekst": "Hvor stor var vinterbalansen og sommerbalansen på Engabreen i 2019? Bruk vinter- og sommerbalansen til å vise at massebalansen var ca. –1,0 meter vannekvivalent i 2020."
-        }
-      ]
-    },
-    {
-      "tittel": "En isbre ligger over et sandete og grusfylt dalområde",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En isbre ligger over et sandete og grusfylt dalområde"
+        },
         {
           "t": "figur",
           "nr": "12.31",
           "tekst": "Hellstugubreen i Jotunheimen har smeltet tilbake litt over en kilometer siden 1900."
-        }
-      ]
-    },
-    {
-      "tittel": "Illustrasjoner: massebalansen på en isbre",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Illustrasjoner: massebalansen på en isbre"
+        },
         {
           "t": "figur",
           "nr": "12.32",
@@ -1526,13 +1492,11 @@
           "t": "figur",
           "nr": "12.33",
           "tekst": "Kumulative frontendringer på Nigardsbreen (foto), Engabreen, Storbreen og Rembesdalskåka fra 1975 til 2020"
-        }
-      ]
-    },
-    {
-      "tittel": "Fotoserie av Briksdalsbreen som trekker seg tilbake. Fra 1997–2022",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Fotoserie av Briksdalsbreen som trekker seg tilbake. Fra 1997–2022"
+        },
         {
           "t": "figur",
           "nr": "12.34",
@@ -1624,7 +1588,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 196,
-      "del": "Den midlere spesifikke avrenningen i Norge oppgitt i mm/år for perioden 1961–1990",
+      "del": "Noen hydrologiske begreper",
       "poster": [
         {
           "q": "Hva er hydrologi?",
@@ -1672,7 +1636,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Den midlere spesifikke avrenningen i Norge oppgitt i mm/år for perioden 1961–1990",
+      "del": "Noen hydrologiske begreper",
       "poster": [
         {
           "q": "Hva er størst av fordampning (fra havene), transpirasjon og evapotranspirasjon?",
@@ -1688,7 +1652,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 202,
-      "del": "Vesleofsen i 1995",
+      "del": "Storofsen i 1789",
       "poster": [
         {
           "q": "Hva mener hydrologene med at en elv er i flom?",
@@ -1768,7 +1732,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 211,
-      "del": "Vann pipler ut i en bergsprekk",
+      "del": "Grunnvannsbrønner",
       "poster": [
         {
           "q": "Hvilke forhold har betydning for hvor lett vann infiltrerer jorda?",
@@ -1820,7 +1784,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Vann pipler ut i en bergsprekk",
+      "del": "Grunnvannsbrønner",
       "poster": [
         {
           "q": "Hva slags løsmasser egner seg til uttak av grunnvann? Begrunn svaret.",
@@ -1836,7 +1800,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "En isbre ligger over et sandete og grusfylt dalområde",
+      "del": "B = P – Q – E",
       "poster": [
         {
           "q": "Hvor mye ville verdenshavene stige dersom innlandsisene på Grønland og i Antarktis smeltet?",
@@ -1872,7 +1836,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "En isbre ligger over et sandete og grusfylt dalområde",
+      "del": "B = P – Q – E",
       "poster": [
         {
           "q": "Hvorfor ligger likevektslinjen høyere på kontinentale breer enn på kystnære breer?",
@@ -2018,8 +1982,7 @@
           "f": ""
         },
         {
-          "q": "Fleip eller fakta?",
-          "f": ""
+          "gruppe": "Fleip eller fakta?"
         },
         {
           "q": "Verdens isbreer er det største av vannmagasinene i vannets kretsløp.",
