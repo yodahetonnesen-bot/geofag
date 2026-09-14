@@ -1,0 +1,799 @@
+{
+  "nr": 19,
+  "tittel": "Kystlandskapet – landhevning og et havnivå i endring",
+  "forsteside": 336,
+  "sisteside": 351,
+  "laereplan": [
+    "sammenligne ulike landformer og gjøre rede for hvordan de dannes og endres under påvirkning av jordsystemene og menneskelig aktivitet",
+    "gjøre rede for ulike naturfarer knyttet til geosfæren og hydrosfæren, og vurdere hvordan mennesker kan forebygge og tilpasse seg disse farene"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 336,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Det meste av den norske landoverflaten hever seg fortsatt etter siste istid. Hevningen er størst der innlandsisen var tykkest. Langs deler av norskekysten var istykkelsen liten, og der hever ikke landet seg lenger."
+        },
+        {
+          "t": "p",
+          "tekst": "Den globale oppvarmingen har ført til mer ekstremvær og at havnivået i verdenshavene øker. Hvordan vil det påvirke kystlandskapet – kanskje kan det på sikt true bosettingen langs deler av kysten? Prognosene fra Kartverket viser at havoverflaten vil stige med ca. 70 cm fram mot 2090. Det kan bety at på deler av kysten blir landhevningen på sikt for liten til å hindre at havet vil oversvømme lavtliggende kystområder."
+        }
+      ]
+    },
+    {
+      "tittel": "Et voldsomt hav i kveldslys med stormskyer og en ensom mann som står langs klippene",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "19.1",
+          "tekst": "Norskekysten, fra Hasvik i Finnmark"
+        }
+      ]
+    },
+    {
+      "tittel": "Flyfoto av skjærgård med en sandete smal øy ut langs havet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Kystlandskapet"
+        },
+        {
+          "t": "figur",
+          "nr": "19.2",
+          "tekst": "Skjærgårdskysten ved Kragerø. Øya Jomfruland til høyre på bildet er en del av Raet. Bildet er tatt mot nord."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser plassering av Rakke og Jomfruland",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Kystlandskapet blir til ved et samspill mellom forvitring i strandsonen, bølgeerosjon, havstrømmer og breerosjon. Men ikke minst har landet som møter havet, stor betydning. Er det fast fjell, eller er det løsmasser? Er det en småkupert landoverflate eller bratte fjell?"
+        }
+      ]
+    },
+    {
+      "tittel": "Skjærgårdskysten",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "På Sørlandet og på begge sider av ytre Oslofjord dukker det småkuperte viddelandskapet (grunnfjellslandskapet) ned i havet og danner skjærgårdskysten (figur 19.2). Øyer, holmer og skjær atskilt av smale sund og grunne fjorder er typisk for dette kystlandskapet – og ettertraktet for både norske og utenlandske turister."
+        }
+      ]
+    },
+    {
+      "tittel": "Skjærgårdskysten – Jomfruland",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Se på bildet i figur 19.2 og les figurteksten."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva består øya Jomfruland av?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilken forskjell er det på Jomfruland og resten av skjærgården til venstre på bildet? Hva består de andre øyene av, og hvordan er de dannet?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilken forskjell er det på strandsonen på Jomfruland og de andre øyene? Kan du se noe på bildet?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Innlandsisen har ikke erodert særlig dypt i grunnfjellslandskapet, og høydeforskjellene i landskapet er små. Likevel ser vi mange spor etter isen. Blankpolerte fjelloverflater med rundsva, skuringsstriper og erosjonsrenner (se kapittel 16 og figur 19.3) er vanlige, men dype fjorder, slik vi har på Vestlandet, finnes ikke på Sørlandskysten."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor har ikke isbreene gravd dype daler og fjorder på Sørlandskysten?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Svaberg",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "P-former"
+        },
+        {
+          "t": "figur",
+          "nr": "19.3",
+          "tekst": "Plastisk skuring, erosjonsrenner på Rakke ved Stavern"
+        },
+        {
+          "t": "p",
+          "tekst": "P-former (plastiske skuringsformer) er en samlebetegnelse på små overflateformer i fast fjell (renner og groper) som er resultatet av erosjon av plastisk breis og brevann som fraktet rikelig med morenemateriale under stort trykk (se figur 19.3)."
+        },
+        {
+          "t": "p",
+          "tekst": "Typiske P-former er buktende renner i fjelloverflaten, gjerne 10–20 cm brede og 5–20 cm dype. Rennene og gropene kan imidlertid ha mye større utstrekning, med lengde inntil flere titalls meter og bredde på et par meter. P-formenes lengdeutstrekning er oftest i isens bevegelsesretning."
+        },
+        {
+          "t": "p",
+          "tekst": "Jettegryter og rundsva forekommer ikke sjelden i forbindelse med P-former."
+        },
+        {
+          "t": "p",
+          "tekst": "(Kilde: [www.artsdatabanken.no](https://www.artsdatabanken.no))"
+        }
+      ]
+    },
+    {
+      "tittel": "Helgelandskysten i Nordland med veiforbindlese mellom øyer i vakker solnedgang",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Strandflaten"
+        },
+        {
+          "t": "figur",
+          "nr": "19.4",
+          "tekst": "Helgelandskysten i Nordland. I forgrunnen ser vi veiforbindelsen mellom øyene i Herøy kommune. Fjellet Dønna er til høyre i bildet, og i bakgrunnen helt til venstre ligger øya Lovund."
+        },
+        {
+          "t": "p",
+          "tekst": "Strandflaten er en plattform, en brem av lavt land, øyer og grunt hav («paddemarka» eller «støvelhavet» som det også kalles), som strekker seg fra Stavanger i sør til Nordkapp i nord."
+        },
+        {
+          "t": "p",
+          "tekst": "Den er bredest på Helgelandskysten i Nordland, der den kan strekke seg 50–60 km ut fra land. Noen av øyene er helt flate, mens andre kan ha fjell som rager et par hundre meter opp (figur 19.4). Inn mot land er strandflaten avgrenset av bratte fjellvegger."
+        },
+        {
+          "t": "p",
+          "tekst": "Sannsynligvis er strandflaten dannet av ulike prosesser, og grunnlaget kan være lagt langt tilbake i jordas historie. I mellomtiden, i periodene trias og jura, lå Norge nærmere ekvator. Et varmt og fuktig klima gjorde at forvitringen trengte dypt ned i berggrunnen og gjorde den løs og lite motstandsdyktig mot ytre krefter."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor tror du strandflaten omtales som «paddemarka» eller «støvelhavet»?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Senere har Norge flyttet seg nordover til dagens posisjon. Sannsynligvis er hovedtrekkene i landskapet dannet av bølger, frostforvitring og breerosjon i jordas nytid, ikke minst i kvartær."
+        }
+      ]
+    },
+    {
+      "tittel": "Fjordkysten",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Innenfor strandflaten, ofte langt innover i landet, finner vi fjordkysten (figur 19.5). Fjordene er druknede U-daler som enkelte steder skjærer gjennom strandflaten og videre ut på kontinentalsokkelen. Her i landet finner vi fjorder på hele kysten fra Mandal i sør til Kirkenes i nord. Fjordene er sterkt «overfordypet» av iserosjon, det vil si at fjordene er gravd mye dypere enn landoverflaten på sidene. Fjordbunnen består ofte av dypere bassenger atskilt av bergterskler. Isstrømmene i istidene har hatt tyngde nok til å grave under havflaten. Det er bare breer som kan lage «ekte» fjorder. Fjordkysten finner vi derfor bare på kyster som har vært nediset. Foruten i Norge er det fjorder på Grønland, i Chile, Alaska og New Zealand."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva kan være årsaken til grønnfargen på vannet innerst i fjordene?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Satellittbilde av fjordkyst på Vestlandet i negativ, med sorte fjorder som penetrerer det norske landområdet"
+        },
+        {
+          "t": "figur",
+          "nr": "19.5",
+          "tekst": "Fjordkyst, Sognefjorden midt på bildet"
+        }
+      ]
+    },
+    {
+      "tittel": "Næringskysten",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Helt fra hevningen av landet gjennom nytiden har havbølger gravd seg inn i landmassen. I Finnmark når det gamle viddelandskapet, som ligger ca. 300 moh., helt ut til kysten, og ender i en bratt skråning ned mot havet (figur 19.6). De stupbratte skråningene ned mot havet kalles næringer og er typiske for næringskysten. Også på Nordvestlandet finner vi kortere strekninger med næringskyst."
+        }
+      ]
+    },
+    {
+      "tittel": "En flat og høy bergformasjon ut i blått hav",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "19.6",
+          "tekst": "Næring fra Flågan mot Reinneset ved Breivikfjorden, Sørøya. Hasvik kommune i Finnmark"
+        }
+      ]
+    },
+    {
+      "tittel": "Løsmassekysten",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Kart over Nord-Norge som viser plassering av Hasvik, nord for Tromsø"
+        },
+        {
+          "t": "p",
+          "tekst": "På Jæren og Lista er det et annet landskap som møter havet. Her har innlandsisen avsatt tykke lag av morene ut mot kysten. Bølgeerosjon, havstrømmer og vind har formet kysten. Sandstrender, sanddyner og rullesteinstrender preger løsmassekysten."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva skiller løsmassekysten fra andre kysttyper?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Havbølgene har flere steder på norskekysten erodert moreneavsetningene i strandsonen og dannet sandstrender (figur 19.7) og rullesteinstrender (figur 19.8). Sanden er ført bort med havstrømmer og avsatt i bukter og viker på kystlinjen. Her er det dannet små og store sandstrender. Steinmaterialet i morenen er blitt liggende igjen og danner i dag rullesteinstrender."
+        }
+      ]
+    },
+    {
+      "tittel": "Turgåer langs en strand med brunlig sand",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "19.7",
+          "tekst": "Løsmassekyst (sand) fra Selestranden på Jæren"
+        }
+      ]
+    },
+    {
+      "tittel": "Rullesteinstrand i skjærgården",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "19.8",
+          "tekst": "Rullesteinstrand på utsiden av øya Jomfruland utenfor Kragerø. Jomfruland er en del av Raet (se også figur 19.2)."
+        }
+      ]
+    },
+    {
+      "tittel": "Landhevning",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "På slutten av siste istid rant store vannmengder tilbake til havet fra innlandsiser som smeltet i Nord-Amerika, Antarktis og Skandinavia. Havnivået steg ca. 125 meter i løpet av noen hundre år. Da tyngden av isen ble borte, begynte landoverflaten langsomt å heve seg. Denne landhevningen pågår fortsatt og vil vare i flere tusen år."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor hever landet seg?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "I den siste istiden var innlandsisen tykkest innerst i Bottenviken lengst nord i Østersjøen. For ca. 20 000 år siden, da innlandsisen var på sitt største, var istykkelsen der kanskje 3000 meter. Den enorme istyngden presset litosfæren ned i den varme, plastiske (myke) astenosfæren (kapittel 2)."
+        },
+        {
+          "t": "p",
+          "tekst": "Astenosfærematerialet ble presset ut til sidene. Det er en langsom prosess som kan ta mange tusen år. De varme steinmassene i astenosfæren er veldig seigtflytende, som harpiks – eller breis."
+        },
+        {
+          "t": "p",
+          "tekst": "Da innlandsisen senere smeltet igjen og istyngden forsvant, strømmet etter hvert astenosfærematerialet tilbake, og litosfæren hevet seg igjen. Vi kaller det landhevning."
+        },
+        {
+          "t": "p",
+          "tekst": "Målinger av tyngdefeltet over Bottenviken og Østersjøen viser verdier som er litt lavere enn i omkringliggende områder. Dette avspeiler et masseunderskudd, som skyldes at astenosfæren fortsatt er i ferd med å flyte tilbake fra randsonen, det vil si fra landområdene rundt som ikke hadde vært dekket av innlandsisen."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er det som gjør det mulig å bruke variasjoner i tyngdefeltet for å studere bevegelser i astenosfæren?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Spor etter landhevningen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "På deler av kysten kan vi se tydelige spor etter landhevningen. På kyststrekninger med løsmasser finner vi strandvoller i ulike høydenivåer over dagens havnivå (figur 19.9). I korte perioder har land og hav stått stille i forhold til hverandre og gjort det mulig for bølgene å danne strandvoller – før landhevingen har fortsatt. Andre steder har bølger og ikke minst frostforvitring laget strandlinjer i fast fjell (figur 19.10)."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Er det bare landhevning som kan føre til strandsonen kommer lavere i forhold til landmassen?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Hav og slak strandsone der landet har fått en bølgeformasjon oppover fra vannkanten",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "19.9",
+          "tekst": "Strandvollene ved Kvalneset i Finnmark viser tydelig at landet har hevet seg etter siste istid. Nye voller ble dannet lavere og lavere på landmassen etter hvert som landet hevet seg."
+        }
+      ]
+    },
+    {
+      "tittel": "En lyegrå klippe lands en steinete strand ved havet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "19.10",
+          "tekst": "Strandlinje i fast fjell ved Børselv i Finnmark"
+        }
+      ]
+    },
+    {
+      "tittel": "Marin grense",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Kart som viser netto landhevning i meter og landområder som ligger under marin grense. Linjene er tegnet gjennom punkter med like stor landhevning etter siste istid."
+        },
+        {
+          "t": "figur",
+          "nr": "19.11",
+          "tekst": "Netto landhevning i meter og landområder som ligger under marin grense (blå farge). Linjene er tegnet gjennom punkter med like stor landhevning etter siste istid."
+        },
+        {
+          "t": "p",
+          "tekst": "Da innlandsisen smeltet etter siste istid, steg havnivået samtidig som landet hevet seg. Til å begynne med steg havnivået raskere enn landet hevet seg. Store deler av lavlandet langs norskekysten ble derfor oversvømt av havet like etter siste istid. På havbunnen ble det avsatt leire over store områder. Etter hvert ble landhevningen større enn økningen i havnivået, og den tidligere havbunnen ble tørt land. Landhevningen (som følge av mindre is) er en langsom prosess som ennå ikke er avsluttet."
+        },
+        {
+          "t": "p",
+          "tekst": "Deltaer og strandvoller som ble dannet i strandsonen, viser hvor langt inn over land havet gikk til ulike tider. Den øvre grensen for havnivået i forhold til landmassen kaller vi den marine grensen (marin = noe som har med havet å gjøre) (figur 19.11). I Osloområdet finner vi spor etter havet 220 moh. På kysten av Finnmark viser strandvoller at havet nådde 60 m høyere enn i dag. På Jæren har ikke havet stått særlig mye høyere enn hva det gjør i dag."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva var årsakene til at havnivået steg, og at landmassen samtidig hevet seg?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "En ravine i et jordbrukslandskap",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "19.12",
+          "tekst": "Ravinelandskap. Marine leiravsetninger danner et bølgende åkerlandskap med raviner og gamle skredgroper i Kvål i Gauldalen. Skred, bekker og elver har «ødelagt» den gamle havbunnen, som opprinnelig var flat."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser plassering av Kvål, sør for Trondheim",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Leirlandskapet"
+        },
+        {
+          "t": "p",
+          "tekst": "Smeltevann fra innlandsisen inneholdt mye leire og sand som breen hadde erodert. Mens sanden ble avsatt nær brefronten og kysten, ble leira ført lenger ut i havet før den ble avsatt. Gjennom århundrer ble det bunnfelt lag på lag med leire på havbunnen."
+        }
+      ]
+    },
+    {
+      "tittel": "Ravinelandskap",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Da landet begynte å heve seg, ble den gamle havbunnen gradvis tørt land. Straks leiravsetningene dukket opp av havet, ble de utsatt for erosjon av rennende vann. Elver og bekker gravde et nettverk av små og store V-daler, og det gikk hyppige kvikkleireskred (omtales kapittel 21). Enkelte steder ble likevel deler av den opprinnelige havbunnen stående igjen som flater i landskapet. Et slikt landskap kaller vi et ravinelandskap (ravine = bekkedal). (19.12)"
+        },
+        {
+          "t": "p",
+          "tekst": "Hvor på bildet i figur 19.12 går den marine grensen sånn omtrent? Forklar!"
+        }
+      ]
+    },
+    {
+      "tittel": "Leirlandskap og marin grense",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Oppdaterte kart fra NGU (2021) som viser beliggenheten av marin grense langs norskekysten, finner du her:"
+        },
+        {
+          "t": "p",
+          "tekst": "Løsmasser m/temakart marin grense (NGU):"
+        },
+        {
+          "t": "p",
+          "tekst": "http://geo.ngu.no/kart/losmasse_mobil/"
+        },
+        {
+          "t": "p",
+          "tekst": "Marine leiravsetninger, ravinelandskap og fare for kvikkleireskred finnes bare under marin grense. Dette er viktig informasjon i kommunens arealplanlegging."
+        },
+        {
+          "t": "p",
+          "tekst": "Finn temakartet som viser den marine grensen langs norskekysten, og zoom inn på området er vist på det vertikale flybildet i figur 19.13."
+        },
+        {
+          "t": "p",
+          "tekst": "Deler av området du ser på flybildet, ligger under den marine grensen. Bruk temakartet som viser marin grense, og flybildet, og forklar hvordan marin grense kommer fram i landskapet."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan tror du landskapet så ut like etter at innlandsisen var smeltet bort fra området?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilke jordarter kan du vente å finne henholdsvis over og under marin grense?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "En elv som strekker seg gjennom et jordbrukslandskap",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "19.13",
+          "tekst": "Satellittfoto fra Bøelvas dalføre like vest for Bø i Telemark"
+        }
+      ]
+    },
+    {
+      "tittel": "Leirlandskap ved Gardermoen på Østlandet",
+      "side": 346,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Se på bildet og kartet i figurene 19.14 og 19.15. Det meste av området som er vist på kartet, ligger under marin grense, se kartet i figur 19.11. Finn det samme området på Google Earth og studer satellittbildene."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva betyr det at området ligger under marin grense?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Gardermoen består av store sandavsetninger som ble avsatt foran iskanten (israndavsetninger) da innlandsisen smeltet tilbake på slutten av siste istid. Studer kartet i figur 17.7, og prøv å finne ut hvor lenge det er siden."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan er landformene og landskapet forskjellig nordøst og sørvest for riksvei 35 (se på kartet)? Hva kaller vi et slikt landskap som vi finner sørvest for riksveien?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Flyplassen ligger på sandgrunn. Hva slags jordart tror du det er sørvest for riksvei 35? Begrunn svaret etter å ha sett litt på figurene 19.15 og 19.11."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor er det flest bekker og elver: på Gardermoen eller sørvest for riksvei 35? Hvorfor er det slik, tror du?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Flyfoto av et grønt flatt landskap med et tørt område i bakgrunnen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "19.14",
+          "tekst": "Gardermoen, bildet er tatt mot nordøst."
+        }
+      ]
+    },
+    {
+      "tittel": "Kartutsnitt, Gardermoen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "19.15",
+          "tekst": "Kartutsnitt fra det samme området som er vist i flybildet på forrige side. Rutene på kartet tilsvarer 1 km i terrenget."
+        }
+      ]
+    },
+    {
+      "tittel": "Havnivå og landhevning i framtiden",
+      "side": 348,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "For ca. 6000 år siden var det meste av isen på jordoverflaten smeltet, og det globale havnivået holdt seg tilnærmet konstant. Men hevningen av landmassene fortsatte. Det førte til at det relative havnivået, havnivået i forhold til landmassen, sank jevnt fram mot moderne tid."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva betyr det at det er «et fall i relativt havnivå på 12 cm i Oslo, mens det er en stigning på 5 cm i Stavanger»?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Det har forandret seg de siste tiårene (figur 19.16). I perioden 1993–2018 økte det globale havnivået med 3,6 mm per år, eller 36 cm per hundre år. De siste tiårene har havnivået økt stadig raskere som følge av global oppvarming. Det meste skyldes smeltevann fra isbreer og termisk utvidelse av havvannet fordi havet er blitt varmere. Den globale havnivåstigningen har på noen kyststrekninger tatt igjen landhevningen. Det har vært gjort målinger av havnivået i forhold til land siden slutten av 1880-tallet og fram til i dag. De viser at endringene i det relative havnivået i perioden 1960–2010 har variert langs kysten. Blant annet finner vi et fall i relativt havnivå på 12 cm i Oslo, mens det er en stigning på 5 cm i Stavanger."
+        }
+      ]
+    },
+    {
+      "tittel": "Graf. Endringer i globalt havnivå",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "19.16",
+          "tekst": "Endring av globalt havnivå basert på vannstandsmålinger i perioden 1880–1992 (svart kurve) og fra satellitt siden slutten av 1992 (rød kurve). Blå skravering viser antatt usikkerhet i globalt havnivå fra før 1880. Usikkerheten i satellittmålt havnivå etter 1992 er bare noen millimeter. (Vannstandsdata fra Church og White (2011) og satellittdata fra AVISO)"
+        }
+      ]
+    },
+    {
+      "tittel": "Kart som viser årlig landhevning i Skandinavia i dag",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "19.17",
+          "tekst": "Årlig landhevning i Skandinavia i dag"
+        },
+        {
+          "t": "p",
+          "tekst": "I store deler av Skandinavia er landhevningen ennå ikke slutt (19.17). Jo tykkere isen har vært, desto større er landhevningen, og desto lenger varer den. Langs det meste av norskekysten er landhevningen fremdeles større enn økningen i havnivået. Landet «stiger opp av havet» – enn så lenge. Selv om landhevningen i Skandinavia langsomt minker, vil den likevel fortsette i flere tusen år."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilken sammenheng er det mellom økningen i det globale havnivået, landhevningen i Skandinavia og strandlinjens høyde i forhold til landmassen?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Figur 19.18 viser «gjenstående hevning» i ulike deler av Skandinavia. På deler av norskekysten er landhevningen etter siste istid allerede slutt. Havet oversvømmer sakte stadig mer av lavlandsområdene langs kysten, og stormfloene når stadig lenger inn over land."
+        },
+        {
+          "t": "p",
+          "tekst": "Landhevningen i framtiden lar seg altså beregne. Slik er det ikke med endringer i det globale havnivået som skyldes global oppvarming. Dersom klimaendringer fører til mer smelting på de store innlandsisene og et varmere hav, vil det føre til at havnivået øker raskere. Da kan oversvømmelser true deler av norskekysten tidligere enn beregningene viser."
+        },
+        {
+          "t": "p",
+          "tekst": "Beregnet gjenstående hevning (i meter) i Skandinavia."
+        },
+        {
+          "t": "figur",
+          "nr": "19.18",
+          "tekst": "Beregnet gjenstående hevning (i meter) i Skandinavia. Konturintervallet er to meter."
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 342,
+      "del": "Rullesteinstrand i skjærgården",
+      "poster": [
+        {
+          "q": "Beskriv hvordan skjærgårdskysten ser ut. Hvor på norskekysten finner vi denne kysttypen?",
+          "f": ""
+        },
+        {
+          "q": "Hva er strandflaten, og hvor på kysten finnes denne kysttypen?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er fjordkysten og næringskysten dannet?",
+          "f": ""
+        },
+        {
+          "q": "Hva skiller løsmassekysten fra andre norske kysttyper?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Rullesteinstrand i skjærgården",
+      "poster": [
+        {
+          "q": "Hvilke landformer på land har vært utgangspunktet for fjordkysten? Enn for næringskysten?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er skjærgårdskysten dannet?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen på en skjærgårdskyst og strandflaten?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er strandflaten dannet?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 350,
+      "del": "Kart som viser årlig landhevning i Skandinavia i dag",
+      "poster": [
+        {
+          "q": "Hva er årsaken til dagens landhevning i Skandinavia?",
+          "f": ""
+        },
+        {
+          "q": "Hva er marin grense?",
+          "f": ""
+        },
+        {
+          "q": "Hva er et ravinelandskap?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan forandrer havnivået langs norskekysten seg i dag?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Kart som viser årlig landhevning i Skandinavia i dag",
+      "poster": [
+        {
+          "q": "Forklar hva som skjer med landoverflaten når en innlandsis bygger seg opp – og når den smelter igjen.",
+          "f": ""
+        },
+        {
+          "q": "Hva kan grunnen være til at høyden på marin grense ikke viser den totale landhevningen i Norge?",
+          "f": ""
+        },
+        {
+          "q": "Bor du ved kysten? (Mini-feltoppgave)",
+          "f": ""
+        },
+        {
+          "q": "Kartverket har laget et interaktivt kart som viser havnivået langs norskekysten fram mot 2090. Klikk på denne lenken [www.kartverket.no](https://www.kartverket.no) og søk på «Havnivå i kart». Kartet viser kystområder som kan bli berørt av havnnivåstigning og ekstreme vannstandsnivåer i framtiden.",
+          "f": ""
+        },
+        {
+          "q": "Informasjonen på kartet forteller at «landhevningen som pågår etter siste istid, er tatt med i beregningene». Hva betyr det? Hva er det Kartverket egentlig beregner? Er det økningen i havnivået, eller er det hevningen av strandlinjen (økningen av havnivået i forhold til landmassen) de beregner?",
+          "f": ""
+        },
+        {
+          "q": "Zoom ut, flytt deg rundt på norskekysten og venstreklikk på kartet underveis. Da får du opp den havnivåstigningen i forhold til landmassen som er forventet fram til 2090 akkurat der. Hvorfor er den ikke lik overalt? Finner du et mønster som gir deg forklaringen?",
+          "f": ""
+        },
+        {
+          "q": "Klikk på [www.kartverket.no](https://www.kartverket.no), og søk på «Havnivå i kart». Velg et sted på kysten. Gjør deg kjent med hvordan du kan zoome ut og inn på kartet som vises på skjermen. Hvilken vei må du zoome for å få fram detaljer i kartet?",
+          "f": ""
+        },
+        {
+          "q": "Velg deg en del av kysten du kjenner. Bruk og beskriv hvordan kystlandskapet vil se ut i 2090. Kanskje har du en favorittstrand der? Hvordan vil det gå med den i årene som kommer? Skriv ut et kart som viser endringene i kystlandskapet.",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": null,
+      "del": "Kart som viser årlig landhevning i Skandinavia i dag",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "skjærgårdskyst – strandflate – restfjell",
+          "f": ""
+        },
+        {
+          "q": "fjordkyst – næringskyst – viddelandskap",
+          "f": ""
+        },
+        {
+          "q": "fjordkyst – U-daler – alpint landskap",
+          "f": ""
+        },
+        {
+          "q": "næringskyst – vidde – V-daler",
+          "f": ""
+        },
+        {
+          "q": "strandvoll – endemorene – strandlinje",
+          "f": ""
+        },
+        {
+          "q": "landhevning– platetektoniske krefter – isostasi",
+          "f": ""
+        },
+        {
+          "q": "global oppvarming – landhevning – økt havnivå",
+          "f": ""
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "Skjærgårdskysten dannes der et viddelandskap dukker i havet.",
+          "f": ""
+        },
+        {
+          "q": "«Fjordene» på skjærgårdskysten er ikke ekte fjorder.",
+          "f": ""
+        },
+        {
+          "q": "Strandflaten består av lave, flate øyer med grunt hav mellom.",
+          "f": ""
+        },
+        {
+          "q": "En ekte fjord er en «druknet» U-dal.",
+          "f": ""
+        },
+        {
+          "q": "Næringskysten dannes der et viddelandskap stuper i havet.",
+          "f": ""
+        },
+        {
+          "q": "Løsmassekysten består av sand- og rullesteinstrender.",
+          "f": ""
+        },
+        {
+          "q": "Strandvoller høyt over dagens havnivå er et bevis på at landet har hevet seg.",
+          "f": ""
+        },
+        {
+          "q": "Tyngden av innlandsisen påvirker astenosfæren.",
+          "f": ""
+        },
+        {
+          "q": "Leiravsetningene langs kysten ble avsatt av smeltevann fra innlandsisen.",
+          "f": ""
+        },
+        {
+          "q": "De største områdene med marin leire finner vi på Vestlandet.",
+          "f": ""
+        },
+        {
+          "q": "Global oppvarming kan føre til at verdenshavene stiger.",
+          "f": ""
+        },
+        {
+          "q": "Landhevningen i framtiden kan beregnes – den er forutsigbar.",
+          "f": ""
+        },
+        {
+          "q": "Global oppvarming lar seg ikke beregne i framtiden – den er ikke forutsigbar.",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "Kystlandskapet blir til ved et samspill mellom forvitring i strandsonen, bølgeerosjon og havstrømmer – og ikke minst har de landformene som møter havet, stor betydning.",
+    "Et småkupert viddelandskap dukker ned i havet og danner skjærgårdskyst.",
+    "Strandflaten er en brem med lavt land, øyer og grunt hav og med enkelte markerte restfjell som er med på å skille denne kysttypen fra skjærgårdskysten.",
+    "Fjordene er druknede U-daler.",
+    "Bratte skråninger, kalt næringer, der et viddelandskap stuper i havet, er typisk for næringskysten.",
+    "Løsmassekysten skiller seg fra de andre kysttypene ved at strandsonen er utformet i løsmasser.",
+    "Landhevningen i Skandinavia er «ettervirkningen» etter isavsmeltningen av den siste innlandsisen.",
+    "Gamle strandlinjer og deltaer høyt over dagens havnivå vitner om landhevningen.",
+    "Marin grense er den øvre grensen for havnivået i forhold til landmassen like etter siste istid.",
+    "Ravinelandskapet, eller leirlandskapet, er dannet i leiravsetningene under marin grense. Bekkedaler (raviner), skredgroper og gammel havbunn er vanlige landformer.",
+    "I store deler av Skandinavia er landhevningen ennå ikke slutt, og den vil fortsette i flere tusen år.",
+    "Den globale havnivåstigningen har på noen kyststrekninger tatt igjen landhevningen.Kapittel 20"
+  ]
+}

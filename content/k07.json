@@ -1,0 +1,545 @@
+{
+  "nr": 7,
+  "tittel": "Løsmasser",
+  "forsteside": 94,
+  "sisteside": 103,
+  "laereplan": [
+    "utforske berggrunn, løsmasser og jordarter lokalt, og tolke observasjonene for å beskrive områdets geologiske historie og betydning for lokale ressurser"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 94,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Løsmasser, eller ganske enkelt jord, er alt løst materiale som ligger oppå berggrunnen. Vi deler jorda inn i ulike jordarter, alt etter hvordan den er dannet."
+        },
+        {
+          "t": "p",
+          "tekst": "Jordsmonnet er den delen som er påvirket av klimaet og levende organismer, det er her plantene har røttene sine."
+        },
+        {
+          "t": "p",
+          "tekst": "En jordskrent der hvite stener er varket frem, og jordlagene tydlige bygger seg opp fra mørkebrune til det lysere rett under torvjorden med bjørketrør på"
+        },
+        {
+          "t": "figur",
+          "nr": "7.1",
+          "tekst": "Morenejord fra Numedalen"
+        }
+      ]
+    },
+    {
+      "tittel": "Jordarter",
+      "side": 96,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Vi deler jordartene inn i to hovedgrupper, mineraljord og organisk jord. Mineraljorda er dannet ved forvitring eller erosjon av berggrunnen. Den har større utbredelse enn den organiske jorda. Myrjord, eller torv, som består av delvis nedbrutte planterester, er et eksempel på en organisk jordart."
+        }
+      ]
+    },
+    {
+      "tittel": "Geologien i bunn",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Tilgang på næringsstoffer er avgjørende for vekst av alt organisk materiale, fra alger og sopp til planter og trær. Noen mineraler og bergarter inneholder imidlertid så lite næringsstoffer at de ikke gir grunnlag for plantevekst og dermed heller ikke dyreliv."
+        },
+        {
+          "t": "p",
+          "tekst": "Områder med vesentlig sandstein eller kvartsitt (som sør i Rondane) vil for eksempel ha svært lite vegetasjon, selv om klimaet er fordelaktig. Granittiske bergarter, med glimmer og feltspat som løses ganske langsomt, kan derimot gi ganske god jord, særlig når bergartene er knust av isen og avsatt som fin sand eller marin leire. Skifre og kalkholdige bergarter forvitrer raskere og gir den beste næringstilgangen (som vest på Hardangervidda). Det samme gjelder basiske bergarter (lite silisium) som gabbro og basalt i Trondheimsområdet og i den nordlige delen av Rondane. Berggrunnen styrer altså i høy grad veksten av planter og trær i skogen og på fjellet."
+        },
+        {
+          "t": "p",
+          "tekst": "Dyrelivet i norsk natur bestemmes igjen i stor grad av vegetasjonen – og dermed også av geologien. Likeledes avspeiler næringsinnholdet i vann og innsjøer bergartene i nedbørfeltet, noe som igjen bestemmer den organiske produksjonen og dermed mengden fisk. Skal du på fisketur i et ukjent område, kan det derfor være lurt å ta med et geologisk kart for å se hva slags bergarter det er omkring vann og elver. Unngå kvartsitter og andre næringsfattige bergarter som for eksempel i den sørlige delen av Rondane."
+        },
+        {
+          "t": "p",
+          "tekst": "(Etter Arne Bjørlykke i GEO, september 2020)"
+        },
+        {
+          "t": "p",
+          "tekst": "Forvitringsjord, elveavsetninger og vindavsetninger er de viktigste jordartene i et globalt perspektiv. De vanligste jordartene i Norge er morene, smeltevannsavsetninger, havavsetninger, elveavsetninger og myrjord. Utbredelsen er vist i figur 7.2."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilke jordarter finner du i nærområdet ditt?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "For å avgjøre hvilken jordart vi har med å gjøre, bruker vi kjennetegn som kornstørrelse, sortering, lagdeling og rundingsgraden på løsmassene. Materiale som leire, finsand, sand, grus, stein, blokk og organisk materiale representerer ulike kornstørrelser (figur 7.3)."
+        },
+        {
+          "t": "p",
+          "tekst": "kart som viser områder med utbredelsen av ulike jordarter i Norge"
+        },
+        {
+          "t": "figur",
+          "nr": "7.2",
+          "tekst": "Utbredelsen av ulike jordarter i Norge"
+        }
+      ]
+    },
+    {
+      "tittel": "De ulike kornstørrelsene",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "7.3",
+          "tekst": "De ulike kornstørrelsene"
+        },
+        {
+          "t": "p",
+          "tekst": "En jordart som inneholder bare én kornstørrelse, sier vi er sortert. Lagdelte løsmasser består av lag med forskjellig kornstørrelse. Jo mindre kantete bestanddelene i jordmaterialet er, desto større er rundheten."
+        }
+      ]
+    },
+    {
+      "tittel": "Morenejord",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Morenejord er usortert, det vil si at vi finner alle kornstørrelser der. Morenejorda er ikke lagdelt. De enkelte steinene kommer fra ulike bergarter, og det er bare kantene som er avrundet, rundingsgraden er liten."
+        },
+        {
+          "t": "p",
+          "tekst": "Morenejord er løsmasser som er dannet ved breerosjon, og som ble liggende igjen da innlandsisen smeltet bort (figur 7.1). Tykkelsen av jordlaget kan variere mye – noen steder kan det være flere meter, slik som du ser i figur 7.4."
+        },
+        {
+          "t": "p",
+          "tekst": "Når morenejorda er korttransportert, er næringsinnholdet i stor grad bestemt av bergarten som ligger under. Leirskifrer og kalkholdige bergarter gir best jord. Den dårligste morenejorda finner vi på harde næringsfattige bergarter som granitt og gneis."
+        },
+        {
+          "t": "p",
+          "tekst": "En bred morenemasse som et sandete berglag brer seg som en høy klippe i et pastoralt landskap"
+        },
+        {
+          "t": "figur",
+          "nr": "7.4",
+          "tekst": "Store morenemasser, opptil 30 meter tykke, i dalsiden i Jodalen i Skåbu."
+        }
+      ]
+    },
+    {
+      "tittel": "Smeltevannsavsetninger",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Smeltevannsavsetninger består for det meste av stein, grus og sand. De er ofte lagdelt, og steinene er avrundet som følge av transporten med smeltevannet."
+        },
+        {
+          "t": "p",
+          "tekst": "Smeltevannsavsetninger (figur 7.5) ble avsatt da innlandsisen smeltet bort etter siste istid. Smeltevannet samlet seg i elver som eroderte moreneavsetninger og førte med seg løsmasser som til slutt ble avsatt på elvesletter eller i deltaer."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Er det noe på bildet i figur 7.5 som forteller hva slags avsetninger dette er?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "De fleste sand- og grusressursene her i landet er smeltevannsavsetninger. Materialet tas ut i små og store grustak og blir brukt til betongproduksjon og veibygging. Sand- og grusavsetninger er også god byggegrunn, og vi finner ofte kjøpesentre og industribygg der."
+        },
+        {
+          "t": "p",
+          "tekst": "Smeltevannsavsetningene kan også inneholde store grunnvannsforekomster (se kapittel 9). Porøse løsmasser som sand og grus gir både god lagringsplass og en rask vanngjennomstrømming. Grunnvann i smeltevannsavsetninger er en vanlig drikkevannskilde her i landet."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva tror du kan være fordelene ved å bruke grunnvann i stedet for overflatevann (elver og innsjøer) som drikkevannskilde?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Kart over Sør-Norge som viser plasseringen av Vinstra, Trondheim, Bergen og OsloEn mann står og graver i en skråning med sandete jord"
+        },
+        {
+          "t": "figur",
+          "nr": "7.5",
+          "tekst": "Smeltevannsavsetninger ved Vinstra i Gudbrandsdalen"
+        }
+      ]
+    },
+    {
+      "tittel": "Elveavsetninger",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Elveavsetninger består av grus, sand og leire som er avsatt av elva etter siste istid. Grus inneholder ofte flere kornstørrelser med stor rundingsgrad. Fint materiale som sand og leire er ofte godt sortert, og avsetningene er ofte lagdelt."
+        },
+        {
+          "t": "p",
+          "tekst": "Elveavsetninger er løsmasser som elvene har avsatt på elvesletter og i elvedeltaer (figur 7.6)."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er finsand?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Innholdet av leire og finsand (silt) har mye å si for jordas evne til å holde på fuktigheten. Dersom elveavsetningene inneholder tilstrekkelig fint materiale, kan det gi god dyrkingsjord, og både elvesletter og deltaer brukes ofte til jordbruk."
+        },
+        {
+          "t": "p",
+          "tekst": "Deltaplattform. Glommas delta i Øyeren. Nitelva inn fra venstre bak, Glomma fra høyre. Råkene fra venstre, Storråka; Storsandråka, Midtråka, Kirkeråka. Fetsund sentrum bak til høyre. Lav vannstand om våren viser gruntvannsommrådene som er bygd opp av sedimenter fraktet hit av elvene."
+        },
+        {
+          "t": "figur",
+          "nr": "7.6",
+          "tekst": "Glommas delta i Øyeren. Ved lav vannføring og vannstand blir elveavsetningene lett synlige."
+        }
+      ]
+    },
+    {
+      "tittel": "Havavsetninger",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Havavsetninger er oftest godt sortert leirjord som består av små (fine) jordpartikler."
+        },
+        {
+          "t": "p",
+          "tekst": "Under siste istid ble landoverflaten presset ned under tyngden av innlandsisen. Da isen smeltet, tok det tid før landoverflaten igjen hevet seg. Etter hvert som brefronten smeltet tilbake, fulgte havet etter innover land. Store landområder, som for eksempel rundt Oslofjorden (figur 7.7) og Trondheimsfjorden, ble liggende under vann, og det ble avsatt tykke lag av leire på havbunnen. Den øvre grensen for havnivået i forhold til landmassen kaller vi den marine grensen."
+        }
+      ]
+    },
+    {
+      "tittel": "Spade blir trykket ned i leirjord av en fot. Grått vann legger seg over jorda",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "7.7",
+          "tekst": "Leirjord i Ytre Oslofjord"
+        },
+        {
+          "t": "p",
+          "tekst": "Senere har landet hevet seg, og gammel havbunn har blitt tørt land. I dag utgjør disse leirområdene de beste jordbruksområdene våre. Havavsetningene dekker bare en tidel av landarealet, men her finner vi nær to tredeler av Norges jordbruksareal."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Leire, silt eller sand?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Det kan være vanskelig å skille mellom leire, silt (finsand) og sand siden de er veldig små korn. For å skille mellom leire og silt er det mulig å ta «tyggetesten». Dersom du ikke kjenner knasing når du tygger prøven, er det leire, men hvis det knaser, er det silt. For å skille silt og sand kan du ta «rulleprøven», dersom du klarer å rulle sedimentene til en pølse, er det silt; hvis ikke, er det mest sand i prøven. Husk at det ofte ikke er ren silt, sand eller leire, men en blanding."
+        },
+        {
+          "t": "p",
+          "tekst": "(Kilde: NGU)"
+        }
+      ]
+    },
+    {
+      "tittel": "Myrjord",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Myrjord består av organisk materiale som er dannet ved nedbrytning av planterester (humus)."
+        }
+      ]
+    },
+    {
+      "tittel": "Lite vann omkranset av myr. I ferd med å gro igjen med siv og Vannliljer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "7.8",
+          "tekst": "Myr – snart er vannet grodd igjen, fra Blefjell i Telemark."
+        },
+        {
+          "t": "p",
+          "tekst": "Myrjord, også kalt torv, dannes i vannmettet jord der det er underskudd på oksygen (figur 7.8). De bakteriene og soppene som til vanlig bryter ned planterester (mose, gress og løv) på myroverflaten, kan ikke leve her. Planterestene hoper seg derfor opp, og andre typer bakterier omdanner det organiske materialet til myrjord (torv). Myrjorda består av delvis nedbrutte planterester som er presset sammen. Den skiller seg fra de andre jordartene ved at den består av organisk og ikke mineralsk materiale."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er vannmettet jord?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Myrene får vanntilførselen med nedbøren eller med grunnvannet. Grunnvannsmyrer er vanligst og oftest mest artsrike. Grunnvann inneholder mer næringsstoffer enn regnvann. Myrene har ofte et spesielt plante- og dyreliv, og flere er vernet eller fredet."
+        },
+        {
+          "t": "p",
+          "tekst": "De største myrene kan inneholde store torvressurser. Torv har tidligere vært brukt som energikilde, men i dag er den mest brukt som jordforbedringsmiddel i hager og gartnerier (figur 7.9)."
+        },
+        {
+          "t": "p",
+          "tekst": "Myr kan bli god åkerjord eller skogsmark hvis den blir grøftet og drenert. En femdel av dyrkingsjorda her i landet består av myrjord. Mye av nydyrkingen i jordbruket har fram til ganske nylig skjedd nettopp i myrområder."
+        },
+        {
+          "t": "p",
+          "tekst": "I dag er det ikke lenger lov å drive nydyrking i myrområder. Grunnen er at myrene inneholder store mengder karbon. Når de dyrkes eller graves opp, kommer lufta til og gjør at plantematerialet råtner. Det gjør at karbonet slipper ut i form av CO2, og karbonlageret blir ødelagt."
+        },
+        {
+          "t": "p",
+          "tekst": "Produksjon av veksttorv. Utvinning av torv fra store torvmyrer. Produksjonsmyr med stor torvhaug i bakgrunnen."
+        },
+        {
+          "t": "figur",
+          "nr": "7.9",
+          "tekst": "Produksjon av veksttorv fra store torvmyrer på Andøya i Vesterålen. Vi ser en stor torvhaug i bakgrunnen."
+        },
+        {
+          "t": "p",
+          "tekst": "kart over Nord-Norge som viser Andøya, Tromsø og Trondheim"
+        }
+      ]
+    },
+    {
+      "tittel": "Aldersbestemmelse av organisk materiale",
+      "side": 101,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Når vi skal studere klimavariasjonene i kvartær (de siste 2,6 millioner år), er vi avhengige av å kunne datere funn av plante- og dyrerester. Vi kan bestemme alderen på dødt organisk materiale, for eksempel skall-, bein- og trerester, ved å bruke karbon-14-metoden."
+        },
+        {
+          "t": "p",
+          "tekst": "Det meste av karbonet i atmosfæren består av den stabile karbonisotopen karbon-12. I tillegg fører den kosmiske strålingen til at det dannes ørsmå mengder av en radioaktiv karbonisotop, karbon-14. Denne ustabile karbonisotopen har en halveringstid på 5730 år."
+        },
+        {
+          "t": "p",
+          "tekst": "Både karbon-14 og karbon-12 reagerer med oksygenet i lufta og danner karbondioksid. Gjennom fotosyntesen blir karbondioksid, med begge karbonisotopene, tatt opp av plantene. Alle levende organismer inneholder derfor karbon-14 i tillegg til den stabile isotopen karbon-12."
+        },
+        {
+          "t": "p",
+          "tekst": "Når organismen dør, tar den ikke lenger opp karbondioksid fra atmosfæren. Da vil mengden karbon-14 i organismen avta, mens mengden av karbon-12 er stabil. Etter 5730 år vil bare halvparten av de opprinnelige karbon-14-isotopene være tilbake (figur 7.10). Det betyr at forholdet (karbon-14/karbon-12) mellom de to isotopene vil være halvert sammenlignet med da organismen døde."
+        },
+        {
+          "t": "p",
+          "tekst": "For å datere en materialprøve måler vi forholdet mellom de to karbonisotopene i prøven. Ved å sammenligne med forholdet i atmosfæren kan vi lett regne ut hvor mange prosent forholdet er redusert med. Dersom forholdet i prøven for eksempel er redusert med 75 prosent, så er antallet karbon-14-isotoper redusert til 25 prosent av det opprinnelige. Alderen på prøvematerialet kan vi så lese av på grafen i figur 7.10 – den er 11 460 år. Metoden egner seg til å datere materiale som er opptil 50 000 år gammelt. Eldre prøver inneholder for lite karbon-14 til at det er målbart. Det er en forutsetning at forholdet mellom karbonisotopene i atmosfæren har vært tilnærmet konstant etter at organismen døde."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor lang tid, sånn omtrent, tar det før tallet på karbon-14-isotoper i figur 7.10 er redusert til 12,5 prosent av det opprinnelige?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Graf",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "7.10",
+          "tekst": "Grafen viser den prosentvise reduksjonen av karbon-14-isotoper i tiden etter at organismen døde."
+        }
+      ]
+    },
+    {
+      "tittel": "Under fanen «Landskap» i venstre marg finner du",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Klikk på https://geo.ngu.no/kart/minkommune/"
+        },
+        {
+          "t": "p",
+          "tekst": "løsmasser"
+        },
+        {
+          "t": "p",
+          "tekst": "marin grense og tidligere havdekte områder"
+        },
+        {
+          "t": "p",
+          "tekst": "Du får opp en tegnforklaring når du klikker på «Mer kartfunksjonalitet» nederst til høyre i skjermbildet – når målestokken er stor nok."
+        },
+        {
+          "t": "p",
+          "tekst": "Lag en enkel kartskisse som viser fordelingen av løsmasser i fylket."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Kanskje er det mulig å hente inn løsmasseprøver i forbindelse med en ekskursjon eller et feltarbeid?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Absolutt alder – karbon-14-metoden",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Forklar hvordan det er mulig å bestemme alderen på en beinrest ved å måle forholdet mellom de to karbonisotopene karbon-14 og karbon-12."
+        },
+        {
+          "t": "p",
+          "tekst": "På Hardangervidda er det gjort funn av gamle stubber av furu. I et av funnene er forholdet mellom de to karbonisotopene målt til 37,5 prosent av tilsvarende forhold i atmosfæren i dag. Hvor gammel er furustubben? Bruk figur 7.10 til å finne svaret."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva forteller et slikt funn om klimaet den gangen furua vokste på Hardangervidda?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "I Gudbrandsdalen er det gjort 18 funn av tann- og beinrester fra mammut. I en av beinrestene er forholdet mellom de to karbonisotopene målt til 1/256 av tilsvarende forhold i atmosfæren. Hvor gammel er beinresten?",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 102,
+      "del": "Graf",
+      "poster": [
+        {
+          "q": "Hva menes med begrepene løsmasser, jord, jordart og jordsmonn?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen på organisk jord og mineraljord?",
+          "f": ""
+        },
+        {
+          "q": "Hva er torv?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke jordarter er vanligst i Norge? Hvordan er de dannet?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke kjennetegn bruker vi for å skille jordartene fra hverandre?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Graf",
+      "poster": [
+        {
+          "q": "Smeltevannsavsetninger består av sand og grus. Hva er det som har smeltet?",
+          "f": ""
+        },
+        {
+          "q": "Hvilket samlebegrep bruker vi for løsmassene i elvevifter, elvesletter og deltaer?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er elveavsetninger og smeltevannsavsetninger forskjellige?",
+          "f": ""
+        },
+        {
+          "q": "Myrene er karbonlagre. Oppdyrking, hyttebygging og veibygging på myrer kan påvirke klimaet – på hvilken måte?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "oppgave",
+      "overskrift": "OPPGAVER",
+      "side": null,
+      "del": "Graf",
+      "poster": [
+        {
+          "q": "Løsmasser i ditt nærområde (mini-feltarbeid)",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": null,
+      "del": "Absolutt alder – karbon-14-metoden",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "Her er noen faguttrykk, samlet i grupper på tre, fra dette kapitlet. Finn et faguttrykk fra hver gruppe som ikke passer inn – du skal finne ett som skal ut. Begrunn valget!",
+          "f": ""
+        },
+        {
+          "q": "Det kan være flere mulige løsninger – med ulike begrunnelser! Prøv å lage noen «én skal ut»-oppgaver selv. Test dem på noen rundt deg.",
+          "f": ""
+        },
+        {
+          "gruppe": "Løsmasser – jord –jordsmonn"
+        },
+        {
+          "gruppe": "Morenejord – myrjord – mineraljord"
+        },
+        {
+          "gruppe": "Bunnmorene – morene – smeltevannsavsetninger"
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "Jord, løsmasser og jordsmonn er det samme.",
+          "f": ""
+        },
+        {
+          "q": "Myrjord er en organisk jordart.",
+          "f": ""
+        },
+        {
+          "q": "Myrjord og torv er det samme.",
+          "f": ""
+        },
+        {
+          "q": "Det finnes ikke morene langs kysten.",
+          "f": ""
+        },
+        {
+          "q": "Morenejord er sortert materiale.",
+          "f": ""
+        },
+        {
+          "q": "Smeltevannsavsetninger inneholder kantete steiner.",
+          "f": ""
+        },
+        {
+          "q": "Havavsetninger består av dårlig sortert leire.",
+          "f": ""
+        },
+        {
+          "q": "Næringsrikt grunnvann kan gi artsrike myrer.",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "Løsmasser, eller jord, er alt løst materiale som ligger oppå berggrunnen.",
+    "Jordsmonnet er den delen av jordlaget som er påvirket av klimaet og levende organismer, det er her plantene har sine røtter.",
+    "Jordartene deles inn i to hovedgrupper: mineraljord og organisk jord.",
+    "De vanligste jordartene i Norge er morene, smeltevannsavsetninger, havavsetninger, elveavsetninger og myrjord.",
+    "Materiale som leire, finsand, sand, grus, stein, blokk og organisk materiale har ulike kornstørrelser.",
+    "En jordart som inneholder bare en kornstørrelse, sier vi er sortert.",
+    "Morenejorda er usortert, her finnes alle kornstørrelser. Den er ikke lagdelt, og rundingsgraden på steinene er liten.",
+    "Smeltevannsavsetninger består for det meste av stein, grus og sand. De er ofte lagdelt, og steinene har stor rundingsgrad.",
+    "Elveavsetninger består av grus, sand og leire. Grusavsetningene er usortert og har stor rundingsgrad. Fint materiale som sand og leire er ofte godt sortert, og avsetningene er ofte lagdelt.",
+    "Havavsetninger er oftest godt sortert leirjord som består av små (fine) jordpartikler.",
+    "Myrjord (torv) består av organisk materiale som er dannet ved nedbrytning av planterester (humus).",
+    "Vi kan bestemme alderen på dødt organisk materiale, for eksempel skall-, bein- og trerester, ved å bruke karbon-14-metoden.Kapittel 8"
+  ]
+}

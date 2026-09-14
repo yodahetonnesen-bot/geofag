@@ -1,0 +1,779 @@
+{
+  "nr": 21,
+  "tittel": "Jordskred",
+  "forsteside": 366,
+  "sisteside": 379,
+  "laereplan": [
+    "sammenligne ulike landformer og gjøre rede for hvordan de dannes og endres under påvirkning av jordsystemene og menneskelig aktivitet",
+    "gjøre rede for ulike naturfarer knyttet til geosfæren og hydrosfæren, og vurdere hvordan mennesker kan forebygge og tilpasse seg disse farene",
+    "utforske en naturfare knyttet til geosfæren eller hydrosfæren i et bestemt geografisk område og vurdere risiko ved hjelp av modellering",
+    "gjennomføre geofaglig feltarbeid knyttet til geosfæren eller hydrosfæren, bearbeide og tolke de innsamlede dataene og presentere resultatene"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 366,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Sommeren 2019 ble Jølster rammet av et styrtregn som fikk dramatiske konsekvenser. Det var en strålende dag. Men plutselig kom styrtregnet og laget et inferno. Det er vanskelig å forutse hvor styrtregn treffer, og hvor kraftig det blir. En artikkel i NRK forteller hvor skremmende og farlig styrtregn kan være:"
+        },
+        {
+          "t": "p",
+          "tekst": "«På kveldstid 30. juli 2019 førte kraftige, lokale regnbyger til mange jord- og flomskred i de daværende kommunene Jølster, Førde og Gloppen. I Jølster-området ble det kartlagt opptil 30 ulike skred mot veier og bebyggelse. Flere jord- og flomskred førte til svært alvorlige konsekvenser og ett tragisk utfall. Én person mistet livet, og om lag 150 personer ble evakuert. Skadene på vei og eiendommer ble omfattende.»"
+        }
+      ]
+    },
+    {
+      "tittel": "Et jordras har gått gjennom skogen i en fjellside ned mot et vann",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "21.1",
+          "tekst": "Jordskred (flomskred) ved Vassenden i Jølster"
+        }
+      ]
+    },
+    {
+      "tittel": "Klimaendringer og jordskred",
+      "side": 368,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "De siste årene har vi sett en større hyppighet av jordskred – både her i landet og i resten av verden. Det må ses i sammenheng med global oppvarming og klimaendringer. Store nedbørsmengder, ofte som styrtregn, gjør at skredfaren i tidligere stabile løsmasser blir større. Flom og store jordskred kan føre til tap av mange menneskeliv og ødelagt infrastruktur, ikke minst i fattige land."
+        },
+        {
+          "t": "p",
+          "tekst": "Her i landet opplever vi også en økning av flomskred i bratte dalsider eller som kvikkleireskred under marin grense. I nordområdene tiner permafrosten og gjør at jordlaget blir løsere, og det går flere skred også her."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan kan permafrosten som tiner, påvirke klimaendringene?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Ulike typer jordskred",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Skred som går i vannmettet morenejord, kalles flomskred (figur 21.2). Kvikkleireskred er en spesiell type jordskred der ustabile leiravsetninger (kvikkleire, se figurene 21.4 og 21.5) raser ut. Både flomskred og kvikkleireskred er jordskred. Jordskred omtales også som løsmasseskred."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva kan ha utløst skredet du ser på bildet i figur 21.1?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Kart som viser de største flomskredene som har gått her i landet i historisk tid",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "21.2",
+          "tekst": "De største flomskredene som har gått her i landet i historisk tid."
+        },
+        {
+          "t": "p",
+          "tekst": "Flomskred skjer vanligvis i bratte dalsider med tykke lag av morenejord (se figur 21.1). De kommer ofte etter at det har regnet mye over lang tid eller ved sterk snøsmelting. Jorda blir da så oppbløtt at den lett raser. Slik var forholdene i Gudbrandsdalen i 1789 under kjempeflommen Storofsen (se 7.4). Mer enn 200 år etter ser vi fortsatt skredgropene i dalsidene. I dag er mange sterkt trafikkerte veier og jernbanestrekninger utsatt for jordskred."
+        }
+      ]
+    },
+    {
+      "tittel": "Jordras sett fra luften, har gått over en vei og ned i vann",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "21.3",
+          "tekst": "Den 8. juni 2016 gikk et ras over E16 ved Hyvingstunnelen i Voss. En trailer ble truffet av steinmassene, og sjåføren ble lettere skadet. Seks områder langs E16 overvåkes nå med radar, men verken dette raset eller to senere ras langs samme vei gikk på de overvåkede stedene."
+        }
+      ]
+    },
+    {
+      "tittel": "Det farlige styrtregnet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "NRK publiserte 19. juli 2020 en artikkel om styrtregnet i Jølster året før, med gode illustrasjoner og animerte kart. Artikkelen illustrerer godt tidslinjene for de ulike skredene og viser hvor farlig styrtregn kan være. Artikkelen gir et innsiktsfullt bilde av hvordan flomskred forårsaket av styrtregn kan virke inn på hverdagen til folk. Søk på nettet med:"
+        },
+        {
+          "t": "p",
+          "tekst": "«Slik var det ekstreme sommarregnet i Jølster – NRK Vestland»"
+        }
+      ]
+    },
+    {
+      "tittel": "Kart som viser de største kvikkleireskredene som har gått her i landet i historisk tid",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Kilde: nrk.no"
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kvikkleireskred"
+        },
+        {
+          "t": "figur",
+          "nr": "21.4",
+          "tekst": "De største kvikkleireskredene som har gått her i landet i historisk tid"
+        },
+        {
+          "t": "p",
+          "tekst": "Områdene under den marine grensen er gammel havbunn, og store arealer der er dekket av marin leire som ble avsatt i havet (se figur 19.11 i kapittel 19). På det meste er leiravsetningene mer enn 150 meter tykke. Leire er en jordart som er bygd opp av ørsmå partikler. Leirpartiklene er ofte tynne flak med kanter som er kortere enn 0,002 mm."
+        },
+        {
+          "t": "p",
+          "tekst": "Om vi legger statistikk til grunn, må vi regne med at det vil komme to–tre store kvikkleireskred de neste 100 årene, men et klima med mer nedbør kan føre til økt skredfare for alle typer skred. Det stiller nye krav til arealplanlegging og beredskap i kommunene."
+        }
+      ]
+    },
+    {
+      "tittel": "Leira forandrer kornstruktur når det går et kvikkleireskred",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "21.5",
+          "tekst": "Leira forandrer kornstruktur når det går et kvikkleireskred."
+        }
+      ]
+    },
+    {
+      "tittel": "Kvikkleire",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Når leire blir avsatt i saltvann, blir mineralflakene (leirpartiklene) stående som kort i et korthus (figur 21.5). Årsaken er at leirpartiklene blir elektrisk ladd i kontakt med saltvann. Det oppstår tiltrekningskrefter mellom partiklenes kanter og flater som bygger korthuset. Porevann fyller den åpne korthusstrukturen."
+        },
+        {
+          "t": "p",
+          "tekst": "Leiravsetningene, som i dag er tørt land, har en fast, to–tre meter tykk tørrskorpe øverst. Kjemisk forvitring av leirpartiklene har frigjort jern og aluminium, som senere er felt ut igjen, og disse har sementert det øverste leirlaget og gjort det fast."
+        },
+        {
+          "t": "p",
+          "tekst": "Kan leire som er avsatt i innsjøer, bli til kvikkleire? Begrunn svaret."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er leiravsetningene under tørrskorpa som kan være skredfarlige. Regnvann og grunnvann har gjennom flere tusen år vasket ut saltet av den marine leira. Det har gjort de elektriske kreftene mellom leirpartiklene svakere, og korthuset står ikke lenger like støtt."
+        },
+        {
+          "t": "p",
+          "tekst": "Når mye av saltet i leira er vasket ut, kan den bli til kvikkleire. Den vil være fast så lenge den får ligge uforstyrret og ikke blir overbelastet. Men dersom det skjer, kan korthusstrukturen nokså plutselig bryte sammen og gjøre kvikkleira til en tyntflytende leirsuppe. Da kan det bli utløst kvikkleireskred."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor skjer kvikkleireskred alltid under den marine grensen?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Til sammen 5000 km2 av den norske landoverflaten er dekket av marin leire (se figur 19.11 i kapittel 19). Ikke all marin leire blir til kvikkleire. Og heldigvis – kvikkleire som har rast ut, kan aldri bli kvikk igjen. I dag er det registrert nærmere 2000 områder med skredfarlig kvikkleire. De fleste ligger på Østlandet og i Trøndelag."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva utløser et kvikkleireskred?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Store og små bekker eroderer effektivt i den marine leira, de skaper mange steder et ravinelandskap (se figur 19.12) med bratte skråninger. Jo brattere skråningen er, desto mer ustabil er den. Dersom bekkene kommer i kontakt med kvikkleire, kan det føre til at det oppstår kvikkleireskred. Det har skjedd mange ganger gjennom tusener av år etter siste istid."
+        },
+        {
+          "t": "p",
+          "tekst": "Søk med «Kvikkleireskredet i Rissa – 1978» på YouTube."
+        },
+        {
+          "t": "p",
+          "tekst": "I dag er det ofte menneskers aktivitet som er med på å utløse kvikkleireskred. Dersom løsmasser eller stein blir lagret på toppen av en leirskråning, kan belastningen på kvikkleira bli for stor, og den kan plutselig rase ut. Kvikkleireskred kan også oppstå ved sprengninger i forbindelse med grunnarbeid og når det graves grøfter eller fjernes masse nederst i en skråning."
+        },
+        {
+          "t": "p",
+          "tekst": "Kvikkleire tåler store belastninger vertikalt, men er veldig sårbar for krefter i horisontal retning. Dersom den blir utsatt for slike krefter, kan korthuset falle sammen. Et kvikkleireskred består av en tynn suppe av leire og vann der leirpartiklene flyter fritt. Det kan forplante seg raskt bakover og sette store leirmasser i bevegelse. Store flak med tørrskorpe kan flyte av gårde oppå skredmassene."
+        }
+      ]
+    },
+    {
+      "tittel": "Kvikkleireskredet i Gjerdrum",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Dronebilde fra skredområde der det har gått et stort kvikkleire skred og slukt med seg flere bygninger"
+        },
+        {
+          "t": "figur",
+          "nr": "21.6",
+          "tekst": "Kvikkleireskredet på Ask i Gjerdrum på Romerike julen 2020. Bildet er tatt fem måneder etter at skredet gikk."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser plassering av Gjerdrum, nord for Oslo",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Det var flere årsaker til kvikkleireskredet på Ask i Gjerdrum. Under leiroverflaten var det dannet store mengder kvikkleire, samtidig var bekkedalene dype og skråningene bratte. Det gir ustabile skråninger som lett kan rase ut og åpne for kvikkleira under."
+        },
+        {
+          "t": "p",
+          "tekst": "En av årsakene til at skredet i Gjerdrum ble utløst, var sterk erosjon i en liten bekk, Tistilbekken, sør for Ask sentrum. Erosjonen hadde foregått over mange år og undergravd en 30 meter høy og ustabil ravineskråning vest for Holmen."
+        },
+        {
+          "t": "p",
+          "tekst": "Den sterke erosjonen i Tistilbekken var ikke bare en følge av naturlige forhold. De siste årene hadde det skjedd store endringer i arealbruken i nedbørsfeltet. Mer bebyggelse og mindre vegetasjon hadde ført til tette flater og raskere avrenning. Det førte igjen til mer vann i bekkene, flere vannføringstopper og sterkere erosjon i Tistilbekken."
+        },
+        {
+          "t": "p",
+          "tekst": "På 1980-tallet ble deler av Tistilbekken lagt i rør, og det foregikk samtidig utstrakt bakkeplanering for å legge forholdene bedre til rette for jordbruksmaskiner. Senere har det oppstått lekkasjer som har ført til sterkere erosjon og en forskyvning av bekkeløpet mot øst. Det har ført til økt press på ustabile leirskråninger og økt erosjon i leirmassene."
+        },
+        {
+          "t": "p",
+          "tekst": "Gjennom flere år «gikk det bra» – helt fram til julen 2020. Den høsten hadde det falt store mengder regn, og det var mildt og lite tele i bakken. Det førte til at vannet lett trengte ned i jorda, og vannmetningen i leirjorda ble stor. Leirmineralene ble «presset fra hverandre», og stabiliteten i kvikkleira ble enda mer svekket."
+        },
+        {
+          "t": "p",
+          "tekst": "Samtidig var erosjonen i Tistilbekken ekstra stor like før skredet gikk, og det gjorde skråningen enda mer ustabil. De første utglidningene fant sted på østsiden av Tistilbekken, i skråningen nedenfor Holmen gård."
+        },
+        {
+          "t": "p",
+          "tekst": "Senere undersøkelser av skredet konkluderte med at den milde og våte høsten 2020, med mye vann i bakken, mest sannsynlig var den utløsende faktor for skredet. Men det var som nevnt foran flere årsaker til det største kvikkleireskredet i Norge i nyere tid."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan sikre seg mot kvikkleireskred?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Store kvikkleireskred (se figur 21.8 og figur 21.7) er blant de største naturkatastrofene vi kan oppleve her i landet. Skredene er vanskelige å varsle. Derfor må vi vite hvor det er farlig kvikkleire, så kartlegging blir viktig. Etter Rissa-skredet i 1978 og Gjerdrum-skredet i 2020 kom kartleggingen av skredfarlig kvikkleire skikkelig i gang."
+        },
+        {
+          "t": "p",
+          "tekst": "Kartleggingen har vist at det finnes over 200 områder på Østlandet og i Trøndelag som krever omfattende sikringsarbeid. Det vil ta flere tiår. En må også ta med i beregningene at klimaendringer antagelig vil medføre større nedbørsmengder i framtiden. Nedbøren vil oftere komme i form av styrtregn. Det betyr mye vann på kort tid."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva betyr det å steinsette elveløpet?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Et tiltak som kan redusere faren for kvikkleireskred, kan være å steinsette elveløp for å hindre at elveerosjon gjør leirskråningene ustabile. En bør også i mindre grad bygge ned landoverflaten og skape tette flater som gjør at regn- og smeltevann ikke kommer ned i bakken. Det vil føre til at vannet renner raskere ut i bekker og elver og resultere i flom og sterk erosjon. Det samme vil skje om en fjerner vegetasjon som «holder igjen noe av vannet»."
+        },
+        {
+          "t": "p",
+          "tekst": "Bakkeplanering i jordbruksområder for å legge forholdene bedre til rette for et effektivt jordbruk, kan føre til at avrenningen forandrer seg slik at det blir større erosjon. Det samme kan skje ved bekkelukning, det vil si å legge bekker og mindre elver i rør. Senere brudd på slike rør kan føre til sterke vannstrømmer og erosjon."
+        },
+        {
+          "t": "p",
+          "tekst": "Sorthvittfoto av et enormt kvikkleireskred som har spist opp flere bygninger og laget vrakmasser utover"
+        },
+        {
+          "t": "figur",
+          "nr": "21.7",
+          "tekst": "Verdalsskredet i 1893, der 116 mennesker mistet livet."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser plassering av Verdal, nord for Trondheim",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Det er mange eksempler på at menneskelige inngrep i naturen har utløst skred. Det kan være graving i leirskråninger eller lagring av store jord- og steinmasser over ustabile skråninger. Både gravingen og belastningen av massene kan føre til at kvikkleirestrukturen bryter sammen og det oppstår kvikkleireskred."
+        },
+        {
+          "t": "p",
+          "tekst": "Sikringsarbeid i skredfarlige kvikkleireområder er både tids- og kostnadskrevende og krever mye faglig kompetanse. Og hvem er det som har ansvaret? Er det sentrale myndigheter, kommunen, utbygger eller grunneier? Det er ikke alltid like klart."
+        },
+        {
+          "t": "p",
+          "tekst": "Mange av de mest skredutsatte områdene ligger der det bor mange mennesker, ca. 100 000 nordmenn bor på skredfarlig kvikkleire. For eksempel er deler av Skien, Porsgrunn, Drammen, Fredrikstad og Trondheim utsatt. I slike områder er kart som viser skredfare, et viktig og nødvendig hjelpemiddel i arealplanleggingen."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Er det noen risiko knyttet til skredfarlige områder der det ikke ferdes mennesker?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Når man skal vurdere risikoen for skred, tas det hensyn både til skredfare og følgene av et eventuelt skred. Dersom det er boligområder, veier og jernbane i nærheten, vil det ha stor betydning for risikovurderingen. I områder med høy skredfare og tett bosetting er risikoen stor. Her kan et skred føre til store ødeleggelser og at menneskeliv går tapt. Dersom skredfaren er stor, men følgene av et skred er små, vurderes skredrisikoen som liten. Det er konsekvensene av skred, ikke skredfaren i seg selv, som er grunnlag for risikovurderingene."
+        },
+        {
+          "t": "p",
+          "tekst": "DSB (Direktoratet for samfunnsberedskap og sikkerhet) har siden 2011 gjort risikoanalyser av alvorlige hendelser som kan ramme det norske samfunnet."
+        }
+      ]
+    },
+    {
+      "tittel": "Hendelsesforløp",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Kvikkleireskred i by"
+        },
+        {
+          "t": "p",
+          "tekst": "Anleggsarbeid og erosjon utløser et stort skred på Øvre Bakklandet i Trondheim. Det går først et initialskred, hvor 10 x 100 meter glir ut i NIdelva en natt i oktober. Det iverksettes evakuering neste dag, og natta etter går hovedskredet. Hovedskredet fører umiddelbart til en flodbølge både oppstrøms og nedstrøms i Nidelva som rammer bebyggelsen langs elva. Leira fører til fullstendig oppdemming av elva, og vannstanden opstrøms stiger raskt med 12 meter"
+        }
+      ]
+    },
+    {
+      "tittel": "To døgn i oktober",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Tidspunkt"
+        },
+        {
+          "t": "bilde",
+          "tekst": "Omfang"
+        },
+        {
+          "t": "bilde",
+          "tekst": "Lignende hendelser"
+        },
+        {
+          "t": "p",
+          "tekst": "3 mill. m3 leire glir ut. Ca. 2 000 personer bor på det 0,5 km2 med ca. 1 000 innbyggere blir oversvømt i Trondheim sentrum og på Øya."
+        },
+        {
+          "t": "p",
+          "tekst": "Rissaskredet 1978 hvor 5–6 mill. m3 leire gled ut. 20 hus og gårder ble tatt, og en person omkom."
+        },
+        {
+          "t": "p",
+          "tekst": "Verdalsskredet i 1893 er den største skredulykken i moderne tid i Norge. 116 mennesker mistet livet da 55 mill. m3 leire eller tre km2 av Verdal kommune forsvant med 105 gårder."
+        },
+        {
+          "t": "p",
+          "tekst": "Skredet på Sørum i 2016 hvor 140 000 m3 leire gled ut og tre anleggsarbeidere omkom. Pågående oppfyllingsarbeid i området var sannsynligvis årsaken til skredet."
+        }
+      ]
+    },
+    {
+      "tittel": "En ødelagt vei har sprukket opp etter enorme krefter",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "21.8",
+          "tekst": "Et kvikkleireskred raserte deler av E6 i nærheten av Munkedal nord for Uddevalla på vestkysten av Sverige 21. desember 2006. Biler ble tatt av skredet, og flere mennesker ble skadet."
+        }
+      ]
+    },
+    {
+      "tittel": "Skred på havbunnen",
+      "side": 375,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Figur 21.9 viser de største skredene vi kjenner til på den norske kontinentalskråningen. De røde områdene omfatter både løsneområdet øverst i kontinentalskråningen, selve skredbanen og avsetningene lenger nede i skråningen og på havbunnen."
+        },
+        {
+          "t": "p",
+          "tekst": "kart over området mellom Norge, Jan Mayen og Svalbard. De største skredene på den norske kontinentalhylla"
+        },
+        {
+          "t": "figur",
+          "nr": "21.9",
+          "tekst": "De største skredene på den norske kontinentalhylla. Bjørnøyrenneraset er trolig mer enn 200 000 år gammelt, Nykraset er om lag 19 500 år, mens de andre skredene har gått etter siste istid. Storeggaraset er det største."
+        },
+        {
+          "t": "p",
+          "tekst": "Storeggaraset for 8100 år siden dekket et område som tilsvarer en tredel av Norges areal. En 290 km lang bruddkant markerer den bakre enden av raset. Skredet flyttet løsmassene over en strekning som tilsvarer avstanden fra Oslo til Trondheim, og utløste en tsunami som slo inn mot norskekysten med en bølgehøyde på 10–12 meter. Innerst i fjordene har bølgen kanskje vært 40–50 meter høy."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor store skredmasser følger med de største skredene på havbunnen sammenlignet med de største fjellskredene?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "I dag ligger olje- og gassfeltet Ormen Lange øverst i skredgropa etter Storeggaraset. Risikoen for nye skred ble nøye vurdert før Ormen Lange ble bygd ut. Konklusjonen ble at det måtte bli en ny istid, med tilførsel av nye løsmasser, før det kunne gå et nytt skred i området."
+        },
+        {
+          "t": "p",
+          "tekst": "De fleste skredene på kontinentalskråningen gikk på slutten av siste istid, etter at isbreene hadde avsatt store mengder morene på eggakanten. Avsetningene kan ha blitt så mektige at de har rast ut på grunn av sin egen tyngde. Likevel har nok jordskjelv vært den vanligste årsaken til at skredene ble utløst."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva har fjellskred og skred på havbunnen felles?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Der rennene som isstrømmene har erodert på kontinentalhylla, munner ut på eggakanten, ser vi hvordan slamstrømmer har dannet vifteformede avsetninger lenger nede på kontinentalskråningen. Slamstrømmer består av vann som inneholder så mye slam at tettheten er mye større enn i vannmassene omkring. Derfor synker det slamførende vannet nedover kontinentalskråningen."
+        }
+      ]
+    },
+    {
+      "tittel": "Doggerland",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Havnivået for 12 000 år siden var mye lavere enn i dag, ettersom store vannmasser fortsatt var bundet opp i restene av de store innlandsisene fra siste istid. Doggerland forbandt for 12 000 år siden England, Danmark, Tyskland og Nederland. En stor ferskvannsinnsjø lå midt i landet, og den fikk vann fra Themsen i vest og fra Rhinen i øst."
+        },
+        {
+          "t": "p",
+          "tekst": "Etter hvert som havet steg og oversvømte fastlandsforbindelsene, ble det et stort øyrike ute i Nordsjøen. For rundt 8000 år siden var Doggerland ei flat øy, omtrent på størrelse med Danmark."
+        },
+        {
+          "t": "p",
+          "tekst": "Øyriket Atlantis er en moderne myte, men det som slettes ikke er en myte, er den sunkne øya Doggerland. Den forhistoriske øya ligger midt ute i Nordsjøen mellom Norge og England, og man antar at den hadde et velutviklet samfunn før den ble slukt av havet for omtrent 8100 år siden."
+        },
+        {
+          "t": "p",
+          "tekst": "Forskere ved Imperial College i London presenterte i fjor teorien om at Doggerland ble utslettet da Storeggaraset for 8100 år siden utløste en stor tsunami."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er usikkert om Doggerland fortsatt var bebodd da monsterbølgen kom."
+        },
+        {
+          "t": "p",
+          "tekst": "Restene av Doggerland er i dag den sandbanken som heter Doggerbank. Den ligger bare 18 meter under havet midt ute i Nordsjøen. I dag er det store fiskebestander i det grunne havområdet. Det er gjort en rekke funn på sandbanken som vitner om livet som en gang var der. Trålere har fisket opp støttenner fra mammuter, og det er funnet redskaper som dokumenterer menneskelig aktivitet."
+        },
+        {
+          "t": "p",
+          "tekst": "Kart som viser Doggerland – tidligere bebodde områder som i dag ligger på havets bunn og er lite utforsket."
+        },
+        {
+          "t": "figur",
+          "nr": "21.10",
+          "tekst": "Tidligere bebodde områder som i dag ligger på havets bunn, er lite utforsket. Doggerland er et eksempel. Under og like etter siste istid forbandt Doggerland trolig flere av de nordeuropeiske landene."
+        },
+        {
+          "t": "p",
+          "tekst": "(Kilde: Dagbladet 29.11.2015/Trym Mogen)"
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Doggerland",
+      "poster": [
+        {
+          "q": "Hva er løsmasseskred?",
+          "f": ""
+        },
+        {
+          "q": "Hva er den marine grensen?",
+          "f": ""
+        },
+        {
+          "q": "Hva er et ravinelandskap?",
+          "f": ""
+        },
+        {
+          "q": "Hva er marin leire?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er marin leire kommet på land?",
+          "f": ""
+        },
+        {
+          "q": "Hva er tørrskorpe?",
+          "f": ""
+        },
+        {
+          "q": "Hva er kvikkleire?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan et kvikkleireskred bli utløst?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan vi beskytte oss mot kvikkleireskred?",
+          "f": ""
+        },
+        {
+          "q": "Hva blir det tatt hensyn til ved beregning av det vi kaller skredrisiko?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er størrelsen og utløpsdistansen for skredene på havbunnen sammenlignet med skredene på land?",
+          "f": ""
+        },
+        {
+          "q": "Hva er Storeggaraset?",
+          "f": ""
+        },
+        {
+          "q": "Hva er et morenedelta?",
+          "f": ""
+        },
+        {
+          "q": "Hva er slamstrømmer?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Doggerland",
+      "poster": [
+        {
+          "q": "Hvorfor er ikke all marin leire blitt til kvikkleire?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke to forutsetninger vil sammen gi størst leiravsetninger: flat kyst, bratt kyst, lav marin grense, høy marin grense?",
+          "f": ""
+        },
+        {
+          "q": "Hva er det som gjør morenejord ustabil? Hva gjør leire ustabil?",
+          "f": ""
+        },
+        {
+          "q": "Kan kvikkleire som har rast ut, bli kvikk igjen?",
+          "f": ""
+        },
+        {
+          "q": "Hva utløste Storeggaraset?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke forskjeller er det på en tsunami og en flodbølge?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": null,
+      "del": "Doggerland",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "kvikkleireskred–jordskred–fjellskred",
+          "f": ""
+        },
+        {
+          "q": "kvikkleire–marin leire–torrskorpe",
+          "f": ""
+        },
+        {
+          "q": "jordskred–ravinelandskap–kvikkleireskred",
+          "f": ""
+        },
+        {
+          "q": "elveerosjon–grøftegraving–forbygninger",
+          "f": ""
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "Jordskred er det samme som løsmasseskred.",
+          "f": ""
+        },
+        {
+          "q": "Kvikkleireskred er ikke et jordskred.",
+          "f": ""
+        },
+        {
+          "q": "Statistikken viser at det har gått 10–12 store kvikkleireskred de siste 100 årene.",
+          "f": ""
+        },
+        {
+          "q": "Kvikkleireskred kan gå både over og under marin grense.",
+          "f": ""
+        },
+        {
+          "q": "All leire kan bli til kvikkleire.",
+          "f": ""
+        },
+        {
+          "q": "Leirmassene som har rast ut i et kvikkleireskred, kan igjen bli til kvikkleire.",
+          "f": ""
+        },
+        {
+          "q": "Ravinelandskapet er et flatt landskap.",
+          "f": ""
+        },
+        {
+          "q": "Mennesker kan utløse snøskred, men ikke kvikkleireskred.",
+          "f": ""
+        },
+        {
+          "q": "At leira er kvikk, betyr at den kan bli tyntflytende.",
+          "f": ""
+        },
+        {
+          "q": "Kvikkleireskred er umulig å varsle.",
+          "f": ""
+        },
+        {
+          "q": "Det har gått mange store jordskred på havbunnen langs kontinentalskråningen.",
+          "f": ""
+        },
+        {
+          "q": "Skredene på kontinentalsokkelen er mindre enn skredene på land.",
+          "f": ""
+        },
+        {
+          "q": "Skredene langs kontinentalskråningen er ofte kvikkleireskred.",
+          "f": ""
+        },
+        {
+          "q": "Handler det om fjellskred, flomskred eller kvikkleireskred?Avgjør om påstandene nedenfor gjelder for en eller flere av de tre skredtypene fjellskred, flomskred eller kvikkleireskred.",
+          "f": ""
+        },
+        {
+          "q": "Skredet forekommer bare i områder under den marine grensen.",
+          "f": ""
+        },
+        {
+          "q": "Skredet kan forekomme hele året.",
+          "f": ""
+        },
+        {
+          "q": "Noen ganger kan det oppstå store flodbølger.",
+          "f": ""
+        },
+        {
+          "q": "Skredet kan ikke utløses direkte av mennesker.",
+          "f": ""
+        },
+        {
+          "q": "Isbreenes erosjon i istidene har hatt betydning.",
+          "f": ""
+        },
+        {
+          "q": "Jordskjelv kan utløse skredet.",
+          "f": ""
+        },
+        {
+          "q": "Kraftig regnvær kan føre til at det oppstår skred.",
+          "f": ""
+        },
+        {
+          "q": "Skredet lar seg ikke varsle.",
+          "f": ""
+        },
+        {
+          "q": "Det er løsmasser som raser ut.",
+          "f": ""
+        },
+        {
+          "q": "Skredet går bare i lavlandet.",
+          "f": ""
+        },
+        {
+          "q": "Skredet kan komme igjen på samme sted.",
+          "f": ""
+        },
+        {
+          "q": "Skredet kan utløses på kunstig måte.",
+          "f": ""
+        },
+        {
+          "q": "Det er mulig å kartlegge risikoen for skred.",
+          "f": ""
+        },
+        {
+          "gruppe": "Faren for flomskred"
+        },
+        {
+          "q": "Faren for flomskred øker med nedbørsmengden. Skredekspertene regner med at dersom det kommer mer enn 8 prosent av årsnedbøren i løpet av et døgn, øker skredfaren betydelig.",
+          "f": ""
+        },
+        {
+          "q": "I Bergen er årsnedbøren ca. 2000 mm. Hvor mye må det da regne på ett døgn før skredfaren øker faretruende?",
+          "f": ""
+        },
+        {
+          "q": "Hvor mye må det regne i det området du bor, før faregrensen nås?",
+          "f": ""
+        },
+        {
+          "q": "Et nedbørsfelt er «vant til» en viss mengde regn, og jordoverflaten har på en måte tilpasset seg forholdene. Hvorfor tror du faregrensen for nedbør og skred oppgis som en prosent av årsnedbøren – i stedet for en bestemt nedbørsmengde (målt i mm) i løpet av et døgn?",
+          "f": ""
+        },
+        {
+          "q": "Gå til [www.varsom.no](https://www.varsom.no). Er det sendt varsel om flomskred i ditt nærområde (din kommune)?",
+          "f": ""
+        },
+        {
+          "gruppe": "Faren for kvikkleireskred"
+        },
+        {
+          "q": "Gå inn på [www.nve.no](https://www.nve.no), klikk på «Flaum og skred»/«Kartlegging»/ «Kvikkleireskred»/ «Kvikkleiresoner», så får du opp kart for faresoner i fylker og kommuner.",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen på faresonekart og aktsomhetskart?",
+          "f": ""
+        },
+        {
+          "q": "Hva kan du finne ut om faren for kvikkleireskred i ditt nærområde?",
+          "f": ""
+        },
+        {
+          "q": "Let deg fram til Rissa-området på Fosenhalvøya i Trøndelag, og finn ut om det er mer rasfarlig leire i området der Rissa-skredet gikk 1978.",
+          "f": ""
+        },
+        {
+          "gruppe": "Storeggaraset – et skred på havbunnen"
+        },
+        {
+          "q": "Lag en presentasjon av Storeggaraset, som gikk på kontinentalsokkelen for 8100 år siden. Finn informasjon på Internett eller andre steder.",
+          "f": ""
+        },
+        {
+          "q": "Kanskje finner du en animasjon av skredet på nettet? Søk med «Storeggaraset, animasjon».",
+          "f": ""
+        },
+        {
+          "q": "Hva slags skred var Storeggaraset?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke følger fikk det?",
+          "f": ""
+        },
+        {
+          "q": "Hva ville blitt følgene om det samme hadde skjedd i dag?",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "I jordskred er det morenejord (flomskred) eller leirjord (kvikkleireskred) som raser ut.",
+    "Kvikkleireskred skjer under den marine grensen og er med på å forme det leirbakkelandskapet vi kaller ravinelandskap.",
+    "Kvikkleire er ustabil leire der saltet som har holdt leirpartiklene sammen, er vasket ut eller redusert.",
+    "Kvikkleireskred kan utløses både av naturen selv og av menneskers aktivitet. Derfor er det viktig å kartlegge områder med kvikkleire.",
+    "Det er mulig å forebygge kvikkleireskred. Det kan gjøres ved forbygninger, steinsettinger eller støping av betongsøyler i leirmassene.",
+    "Når risikoen ved kvikkleireskred beregnes, er det skredfare og følgene av et skred som teller."
+  ]
+}

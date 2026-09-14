@@ -1,0 +1,1210 @@
+{
+  "nr": 8,
+  "tittel": "Norges geologiske historie",
+  "forsteside": 104,
+  "sisteside": 127,
+  "laereplan": [
+    "utforske berggrunn, løsmasser og jordarter lokalt, og tolke observasjonene for å beskrive områdets geologiske historie og betydning for lokale ressurser"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 104,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Det er berggrunnen som gjør Leka spesiell. Bergartene på den vestlige delen av øya skiller seg ut med gulbrune og rustrøde farger. Hva slags bergarter er dette – og hvordan er de dannet? Platetektonikken gir svaret."
+        },
+        {
+          "t": "p",
+          "tekst": "Da kontinentene Laurentia og Baltika kolliderte midt i oldtiden, for ca. 420 millioner år siden, ble den kaledonske fjellkjeden dannet. I kollisjonen ble deler av havbunnsplata mellom kontinentene revet løs og ble en del av fjellkjeden."
+        },
+        {
+          "t": "p",
+          "tekst": "Etter som fjellkjeden ble slitt ned, hevet restene av den kaledonske fjellkjeden seg. Dermed kunne de ytre kreftene erodere dypt ned i den gamle fjellkjeden. Rester av den kambriske havbunnsplata, med kambrisk havbunnsskorpe og den øverste delen av mantelen, kom etter hvert fram i dagen. Mantelbergarter var med det blitt en del av landoverflaten på Leka."
+        }
+      ]
+    },
+    {
+      "tittel": "En brunlig fjellformasjon med små kratt og vekster med en blå himmel i bakgrunnen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "8.1",
+          "tekst": "Øya Leka i Trøndelag fylke, med sin særpregede geologi, er kåret til Norges geologiske nasjonalmonument. Leka er sammen med ni andre geologiske severdigheter en del av den geologiske nasjonalarven."
+        }
+      ]
+    },
+    {
+      "tittel": "De geologiske periodene i jordas historie",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Geologisk tid – den geologiske tidsskalaen"
+        },
+        {
+          "t": "figur",
+          "nr": "8.2",
+          "tekst": "De geologiske periodene i jordas historie"
+        },
+        {
+          "t": "p",
+          "tekst": "kart over Nord-Norge som viser Leka, Tromsø og Trondheim"
+        },
+        {
+          "t": "p",
+          "tekst": "Med geologisk tid mener vi det tidsperspektivet som brukes når vi studerer jordas historie. Det handler om millioner og milliarder av år, tidsrom det er vanskelig å fatte. Den geologiske tidsskalaen er vist i figur 8.2."
+        },
+        {
+          "t": "p",
+          "tekst": "Urtiden, eller prekambrium (betyr «før kambrium»), er den første og også den lengste delen av jordhistorien. Den varte i over fire milliarder år. Sannsynligvis var de første kontinentene dannet allerede for 3–4 milliarder år siden. Vi tror at platetektonikk har vært en viktig del av jordas geologiske historie de siste to til tre milliarder årene – kanskje lenger. Litosfæreplater har flyttet seg rundt på jordoverflaten. Noen ganger kolliderte de, andre ganger sprakk de opp – for så å kollidere på nytt. Det er det platetektoniske kretsløpet."
+        },
+        {
+          "t": "p",
+          "tekst": "Prekambrium inneholder flere hovedperioder. Etter prekambrium kommer hovedperiodene oldtiden, mellomtiden og nytiden, som igjen er inndelt i perioder."
+        },
+        {
+          "t": "p",
+          "tekst": "Paleogen og neogen – «nye perioder»"
+        },
+        {
+          "t": "p",
+          "tekst": "Tidligere delte geologene nytiden (startet for 66 millioner år siden) inn i to perioder: tertiær og kvartær. I dag er begrepet «tertiær» erstattet av periodene paleogen (fra 66 til 23 millioner år siden) og neogen (fra 23 til 2,6 millioner år siden). I neogen ble klimaet kjøligere og mindre stabilt enn i paleogen. Kalde perioder på slutten av neogen bar bud om istidene i kvartær, som fortsatt er navnet på de siste 2,6 millioner årene av nytiden."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er forskjellen på en meteor og en meteoritt?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "I tiden etter prekambrium har det vært flere masseutryddelser av arter på jorda. Det betyr at minst halvparten av alle arter forsvinner i løpet av «kort tid». Årsakene til masseutryddelsene kan være utbrudd fra supervulkaner eller meteorittnedslag som kan påvirke hele jordkloden. De fem største omtales som «The big five» og skjedde på slutten av periodene ordovicium, devon, perm, trias og kritt. Den siste utryddet dinosaurene på jordoverflaten da en meteoritt traff Yucatán-halvøya i Mellom-Amerika for ca. 66 millioner år siden."
+        }
+      ]
+    },
+    {
+      "tittel": "Den norske berggrunnen – noen hovedtrekk",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Den norske berggrunnen"
+        },
+        {
+          "t": "p",
+          "tekst": "Store deler av den norske berggrunnen er dannet i forbindelse med platekollisjoner i prekambrium (se figur 8.2). Bergartene fra den tiden kalles grunnfjell. Dette er i stor grad metamorfe bergarter. Gneis er den vanligste, men det finnes også magmatiske og sedimentære bergarter i grunnfjellet."
+        },
+        {
+          "t": "p",
+          "tekst": "Etter prekambrium, i periodene kambrium til silur (kalles kambrosilur), ble det avsatt tykke lag leire, sand, grus og kalk i havet som dekket store deler av jordskorpeplaten Baltika. Løsmassene ble forsteinet (herdet) til sedimentære bergarter som leirskifer, sandstein, konglomerat og kalkstein – såkalte kambrosiluriske bergarter."
+        },
+        {
+          "t": "p",
+          "tekst": "Fra tidlig i oldtiden, kambrium, var de to platene Baltika og Laurentia på kollisjonskurs. Midt i oldtiden, på slutten av silur, kolliderte de og dannet den kaledonske fjellkjeden. Magmatiske og metamorfe bergarter er derfor vanlige kaledonske bergarter, særlig langs vestkysten av landet vårt."
+        },
+        {
+          "t": "p",
+          "tekst": "På slutten av oldtiden, i periodene karbon og perm, sprakk landoverflaten opp, og Oslofeltet ble dannet. Oslofeltet er et «smalt» område mellom Hamar i nord og Langesund i sør. Mellom nordgående sprekker sank jordoverflaten inn, fulgt av en intens vulkansk aktivitet. Et mangfold av magmatiske bergarter, blant annet basalt, rombeporfyr og larvikitt, er vanlige i Oslofeltet."
+        },
+        {
+          "t": "p",
+          "tekst": "Innsynkningen vitner om bevegelser i jordskorpa som truet med å «dele landet i to», men bevegelsene stoppet opp før det skjedde. Det finnes også områder med kambrosiluriske bergarter bevart i Oslofeltet."
+        },
+        {
+          "t": "p",
+          "tekst": "De yngste bergartene finner vi på kontinentalsokkelen. Her er det tykke lag av sedimentære bergarter fra jordas mellomtid og nytid."
+        },
+        {
+          "t": "p",
+          "tekst": "Da Nordøst-Atlanteren åpnet seg tidlig i jordas nytid, ble landet hevet og stilt på skrå. Det skjedde i flere omganger og førte til de høydeforholdene vi ser i dag, med høye fjell langs vestkysten av landet."
+        },
+        {
+          "t": "p",
+          "tekst": "Studer det geologiske kartet side 92 (figur 6.24). Den norske berggrunnen på land består av"
+        },
+        {
+          "t": "p",
+          "tekst": "metamorfe og magmatiske bergarter fra prekambrium (gneiser og granitter)"
+        },
+        {
+          "t": "p",
+          "tekst": "sedimentære bergarter fra oldtiden (leirskifre, sandsteiner og kalksteiner)"
+        },
+        {
+          "t": "p",
+          "tekst": "kaledonske bergarter (magmatiske og metamorfe) som er dannet og omdannet under den kaledonske fjellkjedefoldningen midt i oldtiden"
+        },
+        {
+          "t": "p",
+          "tekst": "permiske, magmatiske bergarter (dyp-, gang- og dagbergarter) i Oslofeltet"
+        },
+        {
+          "t": "p",
+          "tekst": "De permiske bergartene i Oslofeltet er av de yngste bergartene på land i Fastlands-Norge. Etter perm har de ytre kreftene slitt ned landoverflaten. Løsmasser er blitt avsatt på kontinentalsokkelen og herdet til sedimentære bergarter som leirskifre, sandsteiner og kalksteiner. Svalbard skiller seg fra fastlandet med bergarter fra hele perioden fra prekambrium til nytiden."
+        }
+      ]
+    },
+    {
+      "tittel": "Prekambrium",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Tidlig i prekambrium (for snaut 4000 millioner siden) ble de første bergartene og de første kontinentene dannet på jordoverflaten. Senere har platedriften «herjet» med litosfæreplatene, plater har kollidert og drevet fra hverandre i det platetektoniske kretsløpet (se side 20 i kapittel 2)."
+        },
+        {
+          "t": "p",
+          "tekst": "På slutten av urtiden (1400–1200 millioner år siden) var så godt som alt land på jordoverflaten samlet i ett stort superkontinent – Rodinia. De vanligste bergartene i dette superkontinentet var magmatiske og metamorfe bergarter som var dannet i platekollisjoner gjennom flere hundre millioner av år."
+        },
+        {
+          "t": "p",
+          "tekst": "Alle fjellkjedene som ble dannet under oppbygningen av Rodinia, ble slitt ned i løpet av prekambrium. Mot slutten var bare de geologiske røttene av fjellkjedene tilbake, selve fjellene var borte, og landoverflaten var et jevnt, bølgende sletteland nær havets overflate. Det kaller vi et peneplan (figur 8.3)."
+        },
+        {
+          "t": "p",
+          "tekst": "Et peneplan dannes gjennom flere titalls eller hundretalls millioner år. Peneplanet som var dannet på Rodinia mot slutten av urtiden, kaller geologene det subkambriske peneplanet (sub = under), og det er underlaget for de kambriske avsetningene i oldtiden."
+        }
+      ]
+    },
+    {
+      "tittel": "Sky over fjelltopp på Hardangervidda",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "8.3",
+          "tekst": "Deler av Hardangervidda er rester av et peneplan."
+        }
+      ]
+    },
+    {
+      "tittel": "De eldste bergartene – grunnfjellet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Bergarter som ble dannet i prekambrium, prekambriske bergarter, omtales som nevnt tidligere også som grunnfjell. Store områder med grunnfjell kaller vi grunnfjellsskjold. Norge ligger på det baltiske grunnfjellsskjoldet, Baltika (figur 8.4)."
+        },
+        {
+          "t": "p",
+          "tekst": "I dag er store deler av Baltika dekket av yngre bergarter. Likevel er det tre større områder her i landet der grunnfjellet ligger åpent i dagen (se figurene 6.24 og 8.4). Det nordligste grunnfjellsområdet finner vi i Finnmark, og i Sør-Norge ligger det sørnorske og det sørøstnorske grunnfjellsområdet. Grunnfjell dekker to tredeler av den norske landoverflaten."
+        }
+      ]
+    },
+    {
+      "tittel": "Grunnfjellsskjoldene på jordoverflaten",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "8.4",
+          "tekst": "Grunnfjellsskjoldene på jordoverflaten"
+        },
+        {
+          "t": "p",
+          "tekst": "Grunnfjellet er et puslespill av geologiske formasjoner av ulik alder. Metamorfe bergarter dominerer, og gneis er den vanligste bergarten. Magmatiske bergarter som granitt og gabbro er også vanlige, mens det er mindre sedimentære bergarter."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva menes med et «puslespill av geologiske formasjoner»?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "De eldste bergartene i det norske grunnfjellet finner vi på Finnmarksvidda og i Lofoten. Her er bergartene noen steder over tre milliarder år gamle. Den eldste norske bergarten er en gneis som er 3002 millioner år gammel. Den ble funnet sør for Lakselv i Troms og Finnmark (2020)."
+        },
+        {
+          "t": "p",
+          "tekst": "kart over Nord-Norge som viser Lofoten, Lakselv og Finnmarksvidda"
+        },
+        {
+          "t": "p",
+          "tekst": "Så avtar alderen på grunnfjellet jo lenger sør vi kommer. Mye av grunnfjellet i det sørnorske grunnfjellsområdet er dannet for 1200–1800 millioner år siden. Det yngste grunnfjellet finner vi i det sørøstnorske grunnfjellsområdet – som i Østfold. Her er bergartene ca. 1000 millioner år gamle."
+        }
+      ]
+    },
+    {
+      "tittel": "Senprekambrium – et superkontinent splittes opp",
+      "side": null,
+      "blokker": [
+        {
+          "t": "tenk",
+          "tekst": "Hva kan være forklaringen på at grunnfjellet blir stadig yngre fra nord til sør i Norge?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Senprekambrium er den yngste delen av prekambrium og varte fra for 1000 millioner år siden til for 541 millioner år siden. I løpet av 100 millioner år (for 850–750 millioner år siden) ble superkontinentet Rodinia splittet i flere mindre kontinentplater. To av dem var Baltika og Laurentia (figur 8.5). Mellom dem åpnet det seg langsomt et tidlig «Atlanterhav» – eller Iapetushavet."
+        },
+        {
+          "t": "p",
+          "tekst": "Kart over landområdene i senprekambrium for ca. 630 millioner år siden. Det meste ligger på den sørlige halvkule."
+        },
+        {
+          "t": "figur",
+          "nr": "8.5",
+          "tekst": "Landområdene i senprekambrium for ca. 630 millioner år siden; det meste ligger på den sørlige halvkula. Rodinia er i ferd med å splitte seg opp i mindre kontinenter. Baltika er ennå i nærkontakt med Laurentia (det kanadiske skjoldet) i nord og Amazonia (de søramerikanske skjoldene) i nordvest."
+        },
+        {
+          "t": "p",
+          "tekst": "flatt steinparti skjærer seg frem i et leirholdig jordsmonn på et kystparti"
+        },
+        {
+          "t": "figur",
+          "nr": "8.6",
+          "tekst": "Forsteinet morene oppå en isskurt sandstein ved Bigganjargga ved Varangerfjorden i Finnmark. Morenen ble avsatt mens Norge lå i nærheten av Sørpolen – se figur 8.5."
+        },
+        {
+          "t": "p",
+          "tekst": "Det flate slettelandskapet fra Rodinia preget også de nye kontinentene. Landområdet som senere skulle bli «Norge», lå på plata Baltika. Det skulle få stor betydning for det norske naturlandskapet. Prekambriske bergarter og rester av landformene fra prekambrium kommer mange steder tydelig fram i landskapet også i dag."
+        },
+        {
+          "t": "p",
+          "tekst": "Kysten av Baltika sank inn da kontinentene skilte lag. Dermed trengte havet inn over slettelandet. Elvene transporterte sand og grus fra landområdene og ut i havet. Der ble løsmassene avsatt, og etter millioner av år herdet de til sedimentære bergarter. I dag finner vi store områder av slike sedimentære bergarter lengst nord på Østlandet og i Finnmark (se figur 6.24). Den vanligste bergarten fra denne tiden er en feltspatrik sandstein som vi kaller sparagmitt. Forekomster av forsteinet morene viser at det også var istider mot slutten av senprekambrium for nærmere 600 millioner år siden (figur 8.6)."
+        }
+      ]
+    },
+    {
+      "tittel": "Kambrosilur og den kaledonske fjellkjeden",
+      "side": 112,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Først i kambrosilur åpnet Iapetushavet seg, før det igjen lukket seg – og den kaledonske fjellkjeden ble dannet i silur/devon. Oslofeltet ble dannet helt på slutten av oldtiden, i perioden perm."
+        }
+      ]
+    },
+    {
+      "tittel": "Kambrosilur",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Iapetushavet («Ur-Atlanteren») åpnet seg mer og mer fram mot ordovicium. De to kontinentene Laurentia og Baltika beveget seg stadig lenger fra hverandre (figur 8.7) på hver sin side av en midthavsrygg."
+        },
+        {
+          "t": "p",
+          "tekst": "Havet trengte inn over lavtliggende landområder av Baltika. På land var høydeforskjellene små, og stilleflytende elver transporterte store mengder fint materiale ut i havet. Tykke lag av leire ble avsatt på havbunnen, leiravsetningene ble med tiden herdet til kambriske leirskifre (figur 8.8)."
+        },
+        {
+          "t": "p",
+          "tekst": "Gjennom kambrium flyttet de to kontinentene seg nordover fra et temperert til et tropisk klima – hele tiden på den sørlige halvkula (se figur 8.9). På overgangen mellom kambrium og ordovicium begynte Laurentia og Baltika å bevege seg mot hverandre, og Iapetushavet begynte å lukke seg igjen."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilke krefter kan snu platenes bevegelsesretning?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "I ordovicium og den første delen av silur ble det avsatt skjellbanker og korallrev i Iapetushavet. Dette ble grunnlaget for tykke lag av kalkstein. Korallrevene viste at klimaet var blitt varmere, «landet vårt» var på vei mot ekvator – fortsatt fra sør."
+        }
+      ]
+    },
+    {
+      "tittel": "Figur av midthavsrygg og fordelingen av land og hav fra periodene kambrium til silur",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "8.7",
+          "tekst": "Fordelingen av land og hav fra kambrium til silur"
+        },
+        {
+          "t": "p",
+          "tekst": "svartgrå harde skarpt svaberg"
+        },
+        {
+          "t": "figur",
+          "nr": "8.8",
+          "tekst": "Kambrisk leirskifer i Langodden naturreservat ved Mjøsa"
+        },
+        {
+          "t": "p",
+          "tekst": "Periodene kambrium, ordovicium og silur omtales som nevnt, som «kambrosilur». På bunnen av Iapetushavet ble det gjennom hele kambrosilur dannet tykke lag av sedimentære bergarter. Leirskifre, sandsteiner og kalksteiner fra denne tiden omtales som kambrosiluriske bergarter."
+        },
+        {
+          "t": "p",
+          "tekst": "I dag er en firedel av den norske landoverflaten dekket av kambrosiluriske bergarter. Vi finner dem i et belte fra Rogaland til Finnmark, og her er de i mer eller mindre grad omdannet i den kaledonske fjellkjedefoldningen i silur/devon. Kambrosiluriske bergarter er også bevart i Oslofeltet (se side 92)."
+        }
+      ]
+    },
+    {
+      "tittel": "Den kaledonske fjellkjeden",
+      "side": 114,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Den siste store fjellkjedefoldningen som hatt direkte betydning for Norges geologi, var den kaledonske fjellkjedefoldningen midt i oldtiden (på overgangen mellom silur og devon) (figur 8.9)."
+        }
+      ]
+    },
+    {
+      "tittel": "Oppbygningen av den kaledonske fjellkjeden",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Platebevegelsene i forbindelse med lukking av Iapetushavet mellom Baltika og Laurentia og dannelsen av den kaledonske fjellkjede"
+        },
+        {
+          "t": "figur",
+          "nr": "8.9",
+          "tekst": "Platebevegelsene i forbindelse med lukking av Iapetushavet mellom Baltika og Laurentia og dannelsen av den kaledonske fjellkjeden. Hvir linje i havet markerer en midthavsrygg. Rød strek med sorte trekanter markerer en subduksjonssone."
+        },
+        {
+          "t": "p",
+          "tekst": "Selve kollisjonen mellom Baltika og Laurentia skjedde i overgangen mellom silur og devon (se figur 8.9). Bergartene i kollisjonssonen ble omdannet, skjøvet og foldet (figur 8.10). Dette skjedde dypt nede i jordskorpa. I kollisjonen mellom kontinentene ble Baltika presset ned under Laurentia. Langs kysten av Vestlandet, særlig på Mørekysten, ble grunnfjellet i den baltiske plata trukket dypt ned i mantelen. Grunnfjellet ble sterkt omdannet i kollisjonen. Nordvestlandet hører i dag med til det vi kaller gneisregionen, med sterkt omdannet prekambriske gneisbergarter."
+        },
+        {
+          "t": "p",
+          "tekst": "I kollisjonen mellom Laurentia og Baltika ble flak av harde bergarter revet løs og skjøvet ut til siden og inn over kontinentene. Slike flak kaller geologene for skyvedekker (se figur 8.10). Dekkene, som består av ulike bergarter fra prekambrium og oldtiden, ble skjøvet mot sørøst da Laurentia og Baltika kolliderte (figur 8.11)."
+        },
+        {
+          "t": "p",
+          "tekst": "På det baltiske skjoldet ble skyvedekker som kunne være over 1 km tykke og opp til 100 km brede, noen steder skjøvet mer enn 300 km mot sørøst. Jotunheimen er utformet i et slik skyvedekke av prekambriske gabbroer, geologene kaller det Jotundekket (figur 8.11, se også figur 6.24)."
+        },
+        {
+          "t": "p",
+          "tekst": "Kambriske leirskifre som lå oppå grunnfjellet, ble omdannet til fyllitt, samtidig som de minsket friksjonen mellom Jotundekket og grunnfjellet under."
+        }
+      ]
+    },
+    {
+      "tittel": "Kollisjon mellom to kontinentplater",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Tidslinje: Den kaledonske fjellkjedefoldningen midt i oldtiden"
+        },
+        {
+          "t": "figur",
+          "nr": "8.10",
+          "tekst": "Kollisjon mellom to kontinentplater. Skyvedekker er flak av bergarter som skyves ut av kollisjonssonen. Foran skyvedekkene blir bergartene foldet som duken på et bord. Bergartene i kollisjonssonen blir omdannet av høyt trykk og høy temperatur."
+        },
+        {
+          "t": "p",
+          "tekst": "Jotundekket ble flyttet ca. 315 km mot sørøst. Opprinnelig lå dekket nordvest for kysten av Vestlandet og ble skjøvet mot sørøst over grunnfjellet."
+        },
+        {
+          "t": "figur",
+          "nr": "8.11",
+          "tekst": "Jotundekket ble flyttet ca. 315 km mot sørøst, det skjedde dypt nede i jordskorpa. Opprinnelig lå dekket nordvest for kysten av Vestlandet og ble skjøvet mot sørøst over grunnfjellet."
+        },
+        {
+          "t": "p",
+          "tekst": "flyfoto av en grønn fjellvegg som rager opp av landskapet med snekledde fjelltopper i horisonten bak"
+        },
+        {
+          "t": "figur",
+          "nr": "8.12",
+          "tekst": "Bitihorn (til venstre i bildet) i Jotunheimen er en del av Jotundekket. Flak av prekambrisk gabbro er skjøvet over yngre prekambriske sandsteiner i forgrunnen. Pila viser skyveretningen mot sørøst. Sammenlign med 8.11."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser plasseringen av Ålfoten, Bitihorn og Hårteigen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Skyvedekket Jotundekket har tidligere dekket et større område, noe vi blant annet kan se på Hardangervidda. Fjell som Bitihorn i Valdres (figur 8.12), Hallingskarvet (se figur 14.5) og Hårteigen (se figur 15.3) er rester av dette skyvedekket."
+        },
+        {
+          "t": "p",
+          "tekst": "I dag finner vi skyvedekker i en sone fra Hordaland over Hardangervidda til Jotunheimen (se figur 6.24). Dette er ofte metamorfe bergarter fra prekambrium eller magmatiske bergarter fra selve foldingen. Skyvedekker av lett omdannede, sedimentære bergarter (sparagmitt) fra prekambrium/kambrium finner vi på det indre Østlandet nord for Mjøsa og i Finnmark."
+        }
+      ]
+    },
+    {
+      "tittel": "Den kaledonske fjellkjeden slites ned",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Høydeforskjellene som ble skapt i den kaledonske fjellkjedefoldningen satte fart på erosjonsprosessene. Elvene eroderte fjellene og avsatte løsmasser (grus og sand) på elvesletter og i innsjøer inne i fjellkjeden. I løpet av perioden devon ble løsmassene herdet til sedimentære bergarter som vi i dag finner i store fjellpartier i Ålfoten på Vestlandet (figur 8.13)."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilket kjent fjellområde er utformet i skyvedekket nord for Mjøsa?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "flotte trappetrinnsformede fjellplatåer i et fjordlandskap"
+        },
+        {
+          "t": "figur",
+          "nr": "8.13",
+          "tekst": "Lagrekkene i Ålfoten er flere tusen meter tykke og består av konglomerater og sandsteiner."
+        }
+      ]
+    },
+    {
+      "tittel": "Isostasi, hevning og erosjon",
+      "side": 118,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Den kaledonske fjellkjeden ble dannet i løpet av om lag 100 millioner år, men det tok «bare» 50 millioner år før selve fjellene var borte. Men «røttene» av fjellkjeden er i dag synlige i den norske berggrunnen. Det skyldes en isostatisk hevning av landoverflaten."
+        },
+        {
+          "t": "p",
+          "tekst": "Isostasi handler om likevektstilstanden i jordskorpa. «Lettere» (lav tetthet) deler av jordskorpa flyter oppå tyngre (stor tetthet) materiale under."
+        },
+        {
+          "t": "p",
+          "tekst": "Da bergarter ble presset ned i astenosfæren under fjellkjedefoldningen, fikk fjellkjeden en «rot» av lette bergarter dypt ned i den tyngre, plastiske astenosfæren. Kontinentkollisjonen og tyngden av fjellkjeden gjorde at astenosfærematerialet ble skjøvet unna."
+        },
+        {
+          "t": "p",
+          "tekst": "Etter hvert ble den kaledonske fjellkjeden slitt ned. Dermed ble tyngden av fjellene mindre, og de plastiske bergartene i astenosfæren kunne strømme tilbake, og fjellkjeden hevet seg på jordoverflaten. Der fortsatte erosjonen stadig dypere ned i den opprinnelige fjellkjeden. Til slutt kom fjellkjedens geologiske røtter fram i dagen."
+        },
+        {
+          "t": "p",
+          "tekst": "kart over Nord-Amerika, Grønland og Europa, og den kaledonske foldesonen"
+        },
+        {
+          "t": "figur",
+          "nr": "8.14",
+          "tekst": "Den kaledonske foldesonen"
+        },
+        {
+          "t": "p",
+          "tekst": "Den kaledonske fjellkjeden var mektig, kanskje slik Himalaya er i dag. Foldesonen strekker seg fra Spitsbergen i nord, gjennom Vest-Norge til Skottland og Irland. På den andre siden av Atlanterhavet finner vi den kaledonske foldesonen på Grønland og i Appalachene på østkysten av Nord-Amerika (figur 8.14)."
+        },
+        {
+          "t": "p",
+          "tekst": "Fossilinnholdet i bergartene viser at enkelte områder av Vest-Europa tilhørte det kanadiske skjoldet før den kaledonske foldningen. Dette tror vi gjelder deler av Vest-Norge (blant annet Lofoten og Leka utenfor kysten av Trøndelag), Nordvest-Skottland og Nord-Irland. Disse landområdene lå opprinnelig på den andre siden av Iapetushavet. Den kaledonske foldningen gjorde at det kanadiske og det baltiske skjoldet ble ett kontinent. Da Atlanterhavet åpnet seg igjen i nytiden, ble de nevnte landområdene tilbake på østsiden av oppsprekkingssonen – nå som deler av Vest-Europa."
+        }
+      ]
+    },
+    {
+      "tittel": "Oslofeltet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Tidlig i perioden karbon var det meste av landområdene på jordoverflaten samlet i en landmasse nær ekvator (Laurasia = Laurentia + Baltika) og en annen landmasse (Gondwana) mellom 30 grader sør og Sørpolen. Senere i karbon, på slutten av oldtiden (for ca. 320 millioner år siden), kolliderte de to landmassene, og nesten alt land på jorda ble samlet i ett superkontinent, Pangea. Pangea strakk seg nesten fra pol til pol på jordoverflaten."
+        }
+      ]
+    },
+    {
+      "tittel": "Dannelsen av Oslofeltet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "De store platebevegelsene som fulgte med oppsplittingen av Pangea i jordas mellomtid og nytid, førte til sprekkedannelser og forkastninger i jordskorpa. En forkastning betyr at to deler av jordskorpa, på hver sin side av en sprekk, forskyver seg i forhold til hverandre."
+        },
+        {
+          "t": "p",
+          "tekst": "På slutten av oldtiden, i periodene karbon og perm ble det vi kaller Oslofeltet, dannet. Mellom to nordgående sprekkesoner fra Langesund i sør til Brumunddal i nord sank jordoverflaten inn og dannet en forsenkning."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over geologien i Oslofeltet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "8.15",
+          "tekst": "Geologien i Oslofeltet"
+        },
+        {
+          "t": "p",
+          "tekst": "Denne forsenkningen, eller grabenen (graben (fra tysk) = grøft), kaller vi Oslofeltet (eller Osloriften, rifting = oppsprekking) (figur 8.15). Dannelsen av Oslofeltet vitner om bevegelser i jordskorpa som truet med å «splitte landet i to», men bevegelsene stoppet opp før det skjedde."
+        }
+      ]
+    },
+    {
+      "tittel": "Bergartene i Oslofeltet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Det er mange magmatiske bergarter i Oslofeltet, dagbergarter som basalt (figur 8.16) og rombeporfyr (figur 8.17), og mange ulike dypbergarter. Det er også spor etter flere supervulkaner. I dag kan vi se ringformede innsynkninger der vulkanene til slutt eksploderte (se figur 8.19)."
+        },
+        {
+          "t": "p",
+          "tekst": "Sedimentære, kambrosiluriske bergarter dekker også store områder i Oslofeltet. De er bevart fordi Oslofeltet sank inn, og de kambrosiluriske bergartene ble senere dekket av lava. Senere er lavadekkene slitt bort, og de kambrosiluriske bergartene er kommet fram i dagen. Likevel – det er magmatiske bergarter som dominerer i Oslofeltet."
+        }
+      ]
+    },
+    {
+      "tittel": "Oslofeltets geologiske historie",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I Oslofeltet var perm en urolig tid med stor vulkansk aktivitet. Smeltemasser størknet både langt nede i dypet, i tilførselsganger til vulkaner og oppe på jordoverflaten. Tidlig i perioden, for ca. 300 millioner år siden, strømmet tyntflytende lava ut fra sprekker i jordskorpa. Lavaen størknet til dagbergarten basalt (se figur 8.16 og figur 8.18a)) og dekket de kambrosiluriske bergartene."
+        },
+        {
+          "t": "p",
+          "tekst": "Svart ruglete lavastein stivner i bølgete mønstre."
+        },
+        {
+          "t": "figur",
+          "nr": "8.16",
+          "tekst": "Basalt"
+        }
+      ]
+    },
+    {
+      "tittel": "Rudstrød stein spettet med lysere partier sammen med et nøkkelknipe som viser skalaen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "8.17",
+          "tekst": "Rombeporfyr"
+        },
+        {
+          "t": "p",
+          "tekst": "Senere forandret sammensetningen av magmaet seg. Det ble dannet rombeformede feltspatkrystaller i magmaet (ved delvis krystallisasjon) som fulgte magmastrømmen opp mot jordoverflaten og der størknet til den magmatiske dagbergarten rombeporfyr (figur 8.17 og figur 8.18b) oppå basalten. Det er også vanlig med gangbergarter av rombeporfyr."
+        }
+      ]
+    },
+    {
+      "tittel": "Oslofeltets geologiske historie",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "8.18",
+          "tekst": "Oslofeltets geologiske historie"
+        }
+      ]
+    },
+    {
+      "tittel": "9: Dypbergarter",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "1: Grunnfjell"
+        },
+        {
+          "t": "bilde",
+          "tekst": "2–5: Foldede kambrosiluriske bergarter"
+        },
+        {
+          "t": "bilde",
+          "tekst": "6: Basalt over et tynt lag av konglomerat"
+        },
+        {
+          "t": "bilde",
+          "tekst": "7–8: Rombeporfyr"
+        },
+        {
+          "t": "p",
+          "tekst": "Ulike typer magma strømmet fra dypet og størknet til dypbergarter under jordoverflaten (figur 8.18 c). Mange av dypbergartene er sjeldne, og flere har fått navnet sitt etter det norske funnstedet. Nordmarkitt finner vi i Nordmarka ved Oslo og larvikitt i Larvikområdet. Oslofeltet er kjent blant geologer over hele verden for sitt store mangfold av bergarter."
+        },
+        {
+          "t": "p",
+          "tekst": "Vi kan følge milelange rombeporfyrganger inn i grunnfjellet som omgir Oslofeltet. Det viser at permiske lavabergarter tidligere har dekket et større område enn i dag. Permiske lavadekker har gjennom flere titalls millioner av år dekket og skjermet både dypbergartene og de kambrosiluriske bergartene i Oslofeltet mot erosjon. I tiden etter perm har erosjonen fjernet lavadekker og sedimentære bergarter slik at dypbergarter mange steder har kommet fram i dagen (figur 8.18 d)."
+        },
+        {
+          "t": "p",
+          "tekst": "en gigantisk skogkledd fjellskråning med et sandete parti har to veier og en fjor under seg. På toppen er det helt flatt"
+        },
+        {
+          "t": "figur",
+          "nr": "8.19",
+          "tekst": "Lavadekke øst for Tyrifjorden"
+        },
+        {
+          "t": "p",
+          "tekst": "Søk på Google Earth med «Heggedalsvannet, Krokkleiva». Zoom, skråstill og roter bildet til du tydelig ser kanten av et lavadekke."
+        },
+        {
+          "t": "p",
+          "tekst": "Vi finner rester av lavadekkene som større sammenhengende platåer med basalt og rombeporfyrer både i nordre Vestfold, på Krokskogen øst for Tyrifjorden og på Kolsås i Bærum. På det meste er lagene 1–2 km tykke, og mange steder danner de tydelige skrenter i terrenget (figur 8.19)."
+        },
+        {
+          "t": "p",
+          "tekst": "Enkelte steder i Oslofeltet ser vi rester etter tilførselsgangene til de permiske vulkanene. Ofte er bergartene så motstandsdyktige at de står opp over mindre motstandsdyktige bergarter omkring. Et slikt eksempel er Brandbukampen (figur 8.20)."
+        },
+        {
+          "t": "p",
+          "tekst": "Søk på Google Earth med «Brandbukampen». Zoom, skråstill og roter bildet til du får et godt bilde av vulkanresten."
+        },
+        {
+          "t": "p",
+          "tekst": "Den kaledonske fjellkjedefoldningen påvirket de kambrosiluriske bergartene i Oslofeltet. I Mjøsområdet er disse bergartene noe omdannet, mens de i Osloområdet bare er foldet (figur 8.21)."
+        }
+      ]
+    },
+    {
+      "tittel": "Gule åkerlapper i et vakkert høstlandskap med et stort rundt skogkledd fjell",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "8.20",
+          "tekst": "Brandbukampen i Oslofeltet– rest etter en permisk vulkan"
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser Brandbukampen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Lag på lag av kalkstein og leirskifer ved Fornebu. Bergartene har vært utsatt for sterk forvitring, og da får vi knudrete oppsrukne bergartstriper, som er vonde å tråkke på."
+        },
+        {
+          "t": "figur",
+          "nr": "8.21",
+          "tekst": "Foldede lag av kalkstein (lys farge) og leirskifer (mørk) i Osloområdet"
+        }
+      ]
+    },
+    {
+      "tittel": "Fra perm til vår tid",
+      "side": 124,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "De permiske bergartene i Oslofeltet er de yngste bergartene vi har i Fastlands-Norge – med noen få unntak av bergarter fra jura og kritt. Det tyder på at landmassen har vært utsatt for omfattende erosjon de siste ca. 200 millioner år. Tykke lag av sedimentære bergarter fra denne tiden finnes på kontinentalsokkelen og viser hvor løsmassene ble avsatt."
+        },
+        {
+          "t": "p",
+          "tekst": "Denne delen av Norges geologiske historie vil bli nærmere omtalt i kapittel 10 i forbindelse med olje- og gassressursene og i kapittel 15 når det gjelder landformer som ble dannet i mellomtiden og nytiden."
+        }
+      ]
+    },
+    {
+      "tittel": "De geologiske periodene i jordas historie",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "8.22",
+          "tekst": "De geologiske periodene i jordas historie"
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 107,
+      "del": "De geologiske periodene i jordas historie",
+      "poster": [
+        {
+          "q": "Hva skiller geologisk tid fra «vanlig» tid?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke hovedperioder deler vi tiden etter prekambrium inn i?",
+          "f": ""
+        },
+        {
+          "q": "Hva er «The big five» i en geologisk sammenheng?",
+          "f": ""
+        },
+        {
+          "q": "Hva var det som utryddet dinosaurene?",
+          "f": ""
+        },
+        {
+          "q": "Hva har litosfæreplater, kontinentalplater og havbunnsplater felles, og hvordan er de ulike?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "De geologiske periodene i jordas historie",
+      "poster": [
+        {
+          "q": "Hva skiller prekambrium fra oldtiden, mellomtiden og nytiden – bortsett fra at prekambrium er eldst?",
+          "f": ""
+        },
+        {
+          "q": "Er periodene i jordhistorien like lange? Se figur 8.2.",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Senprekambrium – et superkontinent splittes opp",
+      "poster": [
+        {
+          "q": "Hva er forskjellen på prekambrium og urtiden?",
+          "f": ""
+        },
+        {
+          "q": "Fra hvilke hovedperioder i jordhistorien finner vi bergarter på land i Norge?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke perioder tilhører bergartene på kontinentalsokkelen?",
+          "f": ""
+        },
+        {
+          "q": "Hva var Rodinia?",
+          "f": ""
+        },
+        {
+          "q": "Hva er et peneplan?",
+          "f": ""
+        },
+        {
+          "q": "Hva var «Ur-Atlanteren» – eller Iapetushavet?",
+          "f": ""
+        },
+        {
+          "q": "Hva er sparagmitt, og når er bergarten dannet?",
+          "f": ""
+        },
+        {
+          "q": "Hva er grunnfjell, og hvilke bergarter er vanlige i grunnfjellet?",
+          "f": ""
+        },
+        {
+          "q": "Hva er Baltika? Og hva er et grunnfjellsskjold?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke tre større områder med grunnfjell finner vi i Norge?",
+          "f": ""
+        },
+        {
+          "q": "Hvor gammelt er det norske grunnfjellet?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Senprekambrium – et superkontinent splittes opp",
+      "poster": [
+        {
+          "q": "Hva mener du det passer best å kalle den eldste delen av jordhistorien: prekambrium eller urtiden? Begrunn svaret.",
+          "f": ""
+        },
+        {
+          "q": "Prekambrium blir også kalt «urtiden». Vi har jo fra før oldtiden, mellomtiden og nytiden. Hva skiller prekambrium/urtiden fra de andre «tidene»?",
+          "f": ""
+        },
+        {
+          "q": "Hvorfor er de fleste bergartene fra prekambrium magmatiske eller metamorfe? Begrunn svaret.",
+          "f": ""
+        },
+        {
+          "q": "På hvilken måte er berggrunnen på kontinentalsokkelen, i Fastlands-Norge og på Svalbard forskjellig?",
+          "f": ""
+        },
+        {
+          "q": "Hva er det subkambriske peneplanet? – Og kan du forklare navnet?",
+          "f": ""
+        },
+        {
+          "q": "Hva menes med begrepet «geologiske røtter»?",
+          "f": ""
+        },
+        {
+          "q": "Baltika blir også kalt «det baltiske skjoldet». Hvilket «skjold» er Laurentia?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Figur av midthavsrygg og fordelingen av land og hav fra periodene kambrium til silur",
+      "poster": [
+        {
+          "q": "Hva er Iapetushavet?",
+          "f": ""
+        },
+        {
+          "q": "Hva ligger i begrepet «kambrosiluriske bergarter»?",
+          "f": ""
+        },
+        {
+          "q": "Gi to–tre eksempler på sedimentære bergarter fra kambrosilur.",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Figur av midthavsrygg og fordelingen av land og hav fra periodene kambrium til silur",
+      "poster": [
+        {
+          "q": "Hva kan de kambrosiluriske bergartene fortelle om klima og landformer på den tiden de ble avsatt?",
+          "f": ""
+        },
+        {
+          "q": "Er «kambrosilur» en eller flere perioder på den geologiske tidsskalaen?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 119,
+      "del": "Isostasi, hevning og erosjon",
+      "poster": [
+        {
+          "q": "Hvordan ble den kaledonske fjellkjeden dannet, og hvor på jordoverflaten skjedde kollisjonen?",
+          "f": ""
+        },
+        {
+          "q": "Hvorfor dannes det vulkanske øybuer før to kontinenter kolliderer?",
+          "f": ""
+        },
+        {
+          "q": "På hvilke måter blir bergartene i kollisjonssonen påvirket av den kaledonske fjellkjedefoldningen?",
+          "f": ""
+        },
+        {
+          "q": "Hva er kaledonske bergarter?",
+          "f": ""
+        },
+        {
+          "q": "Hva slags bergarter består skyvedekkene av?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke områder rundt det nordlige Atlanterhavet ble berørt av foldningen?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Isostasi, hevning og erosjon",
+      "poster": [
+        {
+          "q": "Hvordan flyttet Laurentia og Baltika seg på jordoverflaten og i forhold til hverandre gjennom den første delen av oldtiden (kambrosilur)?",
+          "f": ""
+        },
+        {
+          "q": "Skyvedekkene ligger noen steder over yngre bergarter. Hva har skjedd?",
+          "f": ""
+        },
+        {
+          "q": "I hvilke deler av landet finner vi områder med omdannede kaledonske bergarter, og hvor ligger skyvedekkene?",
+          "f": ""
+        },
+        {
+          "q": "Hva betyr det at det bare er «røttene» som er tilbake av den kaledonske fjellkjeden som ble dannet for flere hundre millioner år siden? Lag gjerne en skisse.",
+          "f": ""
+        },
+        {
+          "q": "Forklar med dine egne ord hva isostasi er, og hvordan den kan forklare at landområder hever seg.",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan gamle fjellkjeder som for lengst er slitt ned, sette sitt preg på berggrunnen i dag?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 125,
+      "del": "De geologiske periodene i jordas historie",
+      "poster": [
+        {
+          "q": "Når ble Oslofeltet dannet?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan ble Oslofeltet dannet?",
+          "f": ""
+        },
+        {
+          "q": "Oslofeltet er en graben. Hva er en graben?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke hendelser preget Oslofeltet da det ble dannet?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken av de tre hovedgruppene bergarter er vanligst i Oslofeltet?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken hovedgruppe av bergarter tilhører basalt og rombeporfyr, og hva er forskjellen på dem?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kommer disse bergartene fram i landskapet i dag?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "De geologiske periodene i jordas historie",
+      "poster": [
+        {
+          "q": "Hva er de viktigste geologiske særtrekkene ved geologien i Oslofeltet?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke spor ser vi i dag etter vulkansk aktivitet i Oslofeltet?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er rombeporfyr med sine feltspatkrystaller dannet?",
+          "f": ""
+        },
+        {
+          "q": "Hva menes med at permiske lavadekker har skjermet andre bergarter mot erosjon?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er bergarter i Oslofeltet påvirket av den kaledonske fjellkjedefoldningen?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan har bergartene i Oslofeltet påvirket landformene?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": null,
+      "del": "De geologiske periodene i jordas historie",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "Her er noen faguttrykk, samlet i grupper på tre, fra dette kapitlet. Finn et faguttrykk fra hver gruppe som ikke passer inn – du skal finne ett som skal ut. Begrunn valget!",
+          "f": ""
+        },
+        {
+          "q": "Det kan være flere mulige løsninger – med ulike begrunnelser! Prøv å lage noen «én skal ut»-oppgaver selv. Test dem på noen rundt deg.",
+          "f": ""
+        },
+        {
+          "q": "kambrium – neogen – paleogen",
+          "f": ""
+        },
+        {
+          "q": "hovedperiode – prekambrium – nytiden",
+          "f": ""
+        },
+        {
+          "q": "prekambrium – urtiden – oldtiden",
+          "f": ""
+        },
+        {
+          "q": "prekambriske bergarter – det subkambriske peneplanet – kambriske bergarter",
+          "f": ""
+        },
+        {
+          "q": "grunnfjell – oldtiden – urtiden",
+          "f": ""
+        },
+        {
+          "q": "prekambriske bergarter – fjellgrunn – grunnfjell",
+          "f": ""
+        },
+        {
+          "gruppe": "Oslofeltet – grunnfjell – det baltiske skjoldet"
+        },
+        {
+          "q": "skyvedekke – lavadekke – sparagmitt",
+          "f": ""
+        },
+        {
+          "q": "rifting – platekollisjon – oppsprekking",
+          "f": ""
+        },
+        {
+          "q": "basalt – rombeporfyr – kambrosiluriske bergarter",
+          "f": ""
+        },
+        {
+          "q": "mellomtiden – Oslofeltet – oldtiden",
+          "f": ""
+        },
+        {
+          "q": "eruptive bergarter – magmatiske bergarter – metamorfe bergarter",
+          "f": ""
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "Geologisk tid går langsommere enn vanlig tid.",
+          "f": ""
+        },
+        {
+          "q": "Periodene på den geologiske tidsskalaen har ulik lengde.",
+          "f": ""
+        },
+        {
+          "q": "Prekambrium er det samme som urtiden.",
+          "f": ""
+        },
+        {
+          "q": "Bergartene på land og på kontinentalsokkelen er like gamle.",
+          "f": ""
+        },
+        {
+          "q": "Det subkambriske peneplanet ble dannet i prekambrium.",
+          "f": ""
+        },
+        {
+          "q": "Iapetushavet lå mellom Laurentia og Baltika.",
+          "f": ""
+        },
+        {
+          "q": "Grunnfjell og prekambriske bergarter er det samme.",
+          "f": ""
+        },
+        {
+          "q": "Kambrosilur er en geologisk periode i oldtiden.",
+          "f": ""
+        },
+        {
+          "q": "I kambrosilur var Baltika fortsatt på den sørlige halvkula.",
+          "f": ""
+        },
+        {
+          "q": "Kaledonske bergarter er det samme som kambrosiluriske bergarter.",
+          "f": ""
+        },
+        {
+          "q": "Den kaledonske fjellkjeden ble dannet på den nordlige halvkula.",
+          "f": ""
+        },
+        {
+          "q": "Skyvedekker er flak av bergarter som er skjøvet ut av kollisjonssonen mellom to litosfæreplater.",
+          "f": ""
+        },
+        {
+          "q": "Lavadekkene i Oslofeltet er en form for skyvedekker.",
+          "f": ""
+        },
+        {
+          "q": "Gangbergarter har størst utbredelse av de magmatiske bergartene i Oslofeltet.",
+          "f": ""
+        },
+        {
+          "q": "Kambrosilurbergartene i Oslofeltet ble foldet i perm.",
+          "f": ""
+        },
+        {
+          "q": "Atlanterhavet vest for Norge åpnet seg i nytiden.",
+          "f": ""
+        },
+        {
+          "gruppe": "Geologiske hovedområder i Norge"
+        },
+        {
+          "q": "Studer det geologiske kartet over Norge (figur 6.24).",
+          "f": ""
+        },
+        {
+          "q": "Vi regner med tre større grunnfjellsområder i Norge. Hvor finner vi dem?",
+          "f": ""
+        },
+        {
+          "q": "Først i oldtiden, i periodene kambrium, ordovicium og silur, var Norge dekket av hav (se figur 8.7). Hvilke bergarter ble dannet, og hva kaller vi denne gruppen bergarter?",
+          "f": ""
+        },
+        {
+          "q": "Bergarter som ble omdannet eller dannet i den kaledonske fjellkjedefoldningen, kaller vi kaledonske bergarter. Hvor på kartet finner vi slike bergarter? Kan du forklare beliggenheten (se figur 8.10)?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke to hovedgrupper av bergarter finner du mest av i Oslofeltet (se også figur 8.17). Hvordan vil du forklare det?",
+          "f": ""
+        },
+        {
+          "q": "Bergarten på bildet i figur 8.23 er opprinnelig en sedimentær bergart fra kambrosilurperioden. Det samme gjelder bergartene på bildet i figur 8.21. Finn ut hvor i landet bildene er tatt, og bruk det sammen med kartet i figur 6.24 til å forklare hvorfor de er så forskjellige.",
+          "f": ""
+        },
+        {
+          "q": "Hva slags bergarter er det på kontinentalsokkelen? Hvor kom løsmassene fra?",
+          "f": ""
+        },
+        {
+          "q": "Kortversjon av den geologiske historien i nærområdet (mini-feltarbeid)",
+          "f": ""
+        },
+        {
+          "q": "Ta utgangspunkt i det geologiske norgeskartet i figur 6.24 på side 92.",
+          "f": ""
+        },
+        {
+          "q": "Fra hvilke deler av jordas historie, hvilke perioder, finner du bergarter i ditt nærområde?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke bergarter er det?",
+          "f": ""
+        },
+        {
+          "q": "Skriv en enkel geologisk historie for nærområdet. Forklar hvordan bergartene er dannet, og hva som har skjedd med dem senere.",
+          "f": ""
+        },
+        {
+          "q": "Det ligger mer omfattende feltoppgaver som handler om den geologiske historien til nærområdet, på nettstedet til Geofag.",
+          "f": ""
+        },
+        {
+          "gruppe": "En finger peker på en ruglete sort stein"
+        },
+        {
+          "gruppe": "8.23 Fyllitt fra Flåmsdalen"
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "Den geologiske historien strekker seg over mer enn 4,5 milliarder år, og vi deler den inn i perioder og hovedperioder.",
+    "Den eldste tiden, prekambrium, varte til for 540 millioner år siden. Den inneholder flere hovedperioder.",
+    "Platetektonikk har vært en viktig del av jordas geologiske historie de siste to til tre milliarder årene.",
+    "Det har vært fem masseutryddelser av arter etter prekambrium.",
+    "Det platetektoniske kretsløpet handler om platebevegelsen på jordoverflaten.",
+    "Mot slutten av prekambrium var alt land på jordoverflaten samlet i superkontinentet Rodinia.",
+    "Bergarter som ble dannet i prekambrium, omtales som grunnfjell. Rodinia besto derfor bare av grunnfjell.",
+    "Mot slutten av prekambrium var Rodinia slitt ned til et jevnt, bølgende sletteland nær havets overflate – det vi kaller et peneplan.",
+    "I senprekambrium ble superkontinentet splittet i flere mindre kontinenter som drev fra hverandre. To av dem var Laurentia og Baltika. Det som skulle bli Norge var en del av Baltika.",
+    "Store deler av den norske berggrunnen er dannet i forbindelse med platekollisjoner tidlig i jordas historie, i prekambrium.",
+    "På bunnen av Iapetushavet, som åpnet seg mellom Laurentia og Baltika, ble det gjennom hele kambrosilur avsatt tykke lag av leire, sand og kalk.",
+    "Avsetningen ble herdet til sedimentære bergarter som leirskifre, sandsteiner og kalksteiner, det vi kaller «kambrosiluriske bergarter».",
+    "Tidlig i oldtiden, for ca. 485 millioner år siden (ordovicium) snudde bevegelsen, og de to platene Baltika og Laurentia kom på kollisjonskurs. Midt i oldtiden, på slutten av silur, kolliderte de og dannet den kaledonske fjellkjeden.",
+    "Bergartene i kollisjonssonen mellom de to kontinentene ble omdannet, skjøvet og foldet. Bergarter som ble påvirket av foldningen, kaller vi kaledonske bergarter.",
+    "Tidlig i perm var igjen alt land samlet i et nytt superkontinentet, Pangea, som strakk seg fra pol til pol.",
+    "I løpet av perm sprakk Pangea opp, og Oslofeltet ble dannet. Mellom nordgående sprekker sank jordoverflaten inn, fulgt av en intens vulkansk aktivitet.",
+    "Et mangfold av magmatiske bergarter preger Oslofeltet, men sedimentære, kambrosiluriske bergarter er også bevart i store områder.Kapittel 9"
+  ]
+}

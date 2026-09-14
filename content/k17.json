@@ -1,0 +1,607 @@
+{
+  "nr": 17,
+  "tittel": "Avsetninger fra isbreer og smeltevann",
+  "forsteside": 306,
+  "sisteside": 319,
+  "laereplan": [
+    "sammenligne ulike landformer og gjøre rede for hvordan de dannes og endres under påvirkning av jordsystemene og menneskelig aktivitet"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 306,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "For 20 000 år siden var innlandsisen over Skandinavia på sitt største. Etter hvert ble klimaet gradvis varmere, og isen smeltet ned og tilbake. Etter noen tusen år lå iskanten et godt stykke innenfor dagens kystlinje. Tyngden av ismassene hadde presset landet ned, så havet fulgte etter iskanten inn over land. For ca. 13 000 år siden ble klimaet kaldere, og isen vokste igjen. For ca. 11 700 stoppet isens framrykning, og iskanten stoppet der hvor Bøkeskogen i Larvik, Mølen i Brunlanes og Jomfruland er i dag. Her sto isen i flere hundre år, og på havbunnen foran isen ble det avsatt en mektig rygg av sand, stein, grus og leire –en endemorene. Endemorenen kan vi følge rundt hele norskekysten, her i Oslofjordområdet kalles den Raet."
+        },
+        {
+          "t": "p",
+          "tekst": "Etter at innlandsisen smeltet bort, hevet landet seg igjen fordi tyngden av isen nå var borte. Toppen av endemorenen dukket opp fra havet og bølgene slo inn mot den nye strandkanten. I dag ser vi tydelige strandlinjer som viser hvordan landet har hevet seg."
+        }
+      ]
+    },
+    {
+      "tittel": "Et kystlandskap med hvit grunn mot blått hav",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "17.1",
+          "tekst": "Mølen i Brunlanes, her dukker Raet ned i havet."
+        }
+      ]
+    },
+    {
+      "tittel": "En mann står i et fjellandskap og studerer en grusete haug",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Avsetninger fra en innlandsis i bevegelse"
+        },
+        {
+          "t": "figur",
+          "nr": "17.2",
+          "tekst": "Endemorene"
+        }
+      ]
+    },
+    {
+      "tittel": "En jordvegg av ulike sandlag med en skog på toppen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "17.3",
+          "tekst": "Glasifluviale avsetninger"
+        },
+        {
+          "t": "p",
+          "tekst": "Morene er løsmasser breene fører med seg, og kan omfatte alt fra leirpartikler til store steinblokker. Den transporteres langs bunnen av isbreen. Når breen senere smelter tilbake, blir morenen liggende igjen som bunnmorene. Noen steder kan laget av bunnmorene være flere meter tykt, men til vanlig er det mindre enn én meter."
+        },
+        {
+          "t": "p",
+          "tekst": "Dersom breen rykker framover igjen, skyver den bunnmorenen foran seg – som en gedigen bulldoser. Der framrykkingen stopper opp, blir løsmassene liggende som en rygg i terrenget og kalles da en endemorene (figur 17.2)."
+        },
+        {
+          "t": "p",
+          "tekst": "Langs kantene eroderer breen dalsidene og danner sidemorener. Der to brearmer møter hverandre, blir ofte sidemorenene samlet i en midtmorene."
+        },
+        {
+          "t": "p",
+          "tekst": "Morenejord har liten global betydning, men hos oss er det den vanligste jordarten. Den holder godt på fuktighet, og morenejord fra leirskifer og kalkstein er dessuten næringsrik. Slik morenejord er grunnlag for jordbruket rundt Mjøsa og på Jæren."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er det på bildet i figur 17.3 som tyder på at løsmassene er glasifluviale avsetninger og ikke morene?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Da innlandsisen smeltet, ble mye morene transportert videre med smeltevannet. Det kantete og usorterte morenematerialet ble mer sortert og avrundet, før det igjen ble avsatt. Slike avsetninger kaller vi glasifluviale avsetninger (glasifluvial = avsatt av smeltevann) (figur 17.3)."
+        }
+      ]
+    },
+    {
+      "tittel": "Tykke morenelag på kontinentalhylla",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Undersøkelser av havbunnen viser tydelige tegn på at innlandsisen flere ganger har beveget seg ut på kontinentalhylla. I tillegg til erosjonsrenner finner vi tykke lag av morene der. Ytterst på kontinentalhylla kan lagene være opp til 1500 meter tykke. Det finnes også glasifluviale avsetninger fra smeltevannselver."
+        },
+        {
+          "t": "p",
+          "tekst": "Kart som viser hvordan isstrømmer avsatte store mengder løsmasser i sedimentvifter ute i havet"
+        },
+        {
+          "t": "figur",
+          "nr": "17.14",
+          "tekst": "På eggakanten avsatte isstrømmene store mengder løsmasser i store sedimentvifter. Viftene er sannsynligvis dannet gjennom flere istider. Kartet viser situasjonen ved maksimal isutbredelse i siste istid."
+        },
+        {
+          "t": "p",
+          "tekst": "I flere av istidene nådde innlandsisen helt ut til eggakanten, som er grensen mellom kontinentalhylla og kontinentalskråningen. Det ble avsatt store mengder løsmasser i vifteformede avsetninger øverst i kontinentalskråningen (figur 17.4)."
+        },
+        {
+          "t": "p",
+          "tekst": "Bruk figur 17.4 til å forklare hvordan bergarter fra Oslofeltet har havnet i Stavangerområdet!"
+        },
+        {
+          "t": "p",
+          "tekst": "Nordsjøvifta, Bjørnøyvifta og Storfjordvifta er de største sedimentviftene. De ligger utenfor renner som isstrømmene har erodert på kontinentalhylla, og er de mektigste istidsavsetningene på norsk område. Den største vifta, Bjørnøyvifta, dekker et areal som tilsvarer to tredeler av Fastlands-Norge. Hver gang innlandsisen smeltet tilbake fra kontinentalhylla, kalvet store isfjell ut i havet. Bilder fra havbunnen viser pløyespor etter isfjell som på sin ferd over kontinentalhylla har «skrubbet» på bunnen."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Er det mulig å varsle tsunamier som er utløst av skred på havbunnen?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "De enorme mengdene med glasiale og glasifluviale avsetninger langs eggakanten og øverst på kontinentalskråningen har flere ganger rast ut. Sannsynligvis er skredene satt i gang av jordskjelv. Et eksempel er Storeggaraset, som gikk der olje- og gassfeltet Ormen Lange ligger i dag. Enorme løsmasser forsvant ut mot dyphavet, og det oppsto en tsunami som traff Vestlandskysten, og som må ha skapt flodbølger innover i fjordene. Undersøkelser har vist at det ikke er noen rasfare i skredgropa i dag."
+        }
+      ]
+    },
+    {
+      "tittel": "Drumlin",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Skisse over en drumlin (fra irsk: liten rygg) er en avlang avsetning av bunnmorene."
+        },
+        {
+          "t": "figur",
+          "nr": "17.5",
+          "tekst": "En drumlin er en «grusås» som er dannet under en is i bevegelse."
+        },
+        {
+          "t": "p",
+          "tekst": "En drumlin (fra irsk: liten rygg) er en avlang avsetning av bunnmorene (figur 17.6). En drumlin er butt i den enden breen kom fra, den andre enden er spissere. Moreneryggen viser derfor hvilken vei breen har beveget seg. De er dannet der breen har møtt en hindring, som for eksempel en stor stein eller en fjellknaus. Morenen er avsatt bak hindringen. Drumliner kan forekomme i store svermer."
+        },
+        {
+          "t": "p",
+          "tekst": "Søk med «Iešjávri» på Google Earth, og finn svermer med drumliner som i figur 17.6."
+        },
+        {
+          "t": "p",
+          "tekst": "Grønne beiteområder med et forhøyet felt. I bakgrunnen er det en elv og skråninger med trær"
+        },
+        {
+          "t": "figur",
+          "nr": "17.6",
+          "tekst": "Drumlin på Dovrefjell"
+        }
+      ]
+    },
+    {
+      "tittel": "Kart som viser morenerygger og israndavsetninger rundt Oslofjorden",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "17.7",
+          "tekst": "Endemorener og andre israndavsetninger rundt Oslofjorden. Raet er en endemorene som ble dannet for 11 700 år siden."
+        }
+      ]
+    },
+    {
+      "tittel": "Randavsetninger",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Randavsetninger er løsmasser som breen selv eller smeltevannselver har avsatt foran iskanten. De kan bestå av endemorener eller glasifluviale avsetninger."
+        },
+        {
+          "t": "p",
+          "tekst": "Raet er en del av en endemorene som ble skjøvet opp foran innlandsisen ved slutten av siste istid. Endemorenen kan følges rundt hele norskekysten."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Bruk Google Earth til å finne Raet i Østfold og Vestfold. Zoom og skråstill. Hvordan kommer Raet fram på satellittbildet?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Da innlandsisen rykket fram på slutten av siste istid, lå mye av det lave landet vi ser langs kysten i dag, fortsatt under vann. Landoverflaten var presset ned under tyngden av innlandsisen, og brefronten sto ut i havet. Raet ble derfor dannet på datidens havbunn."
+        },
+        {
+          "t": "p",
+          "tekst": "Etter Raet-tiden fortsatte tilbakesmeltingen av innlandsisen. Likevel kunne brefronten stå stille eller rykke litt fram i kortere perioder. Isen som smeltet, frigjorde store vannmengder. Smeltevannselvene førte med seg leire, sand og grus, som ble avsatt som randavsetninger foran brefronten. Isranddeltaer er randavsetninger som ble avsatt i havet."
+        },
+        {
+          "t": "p",
+          "tekst": "Gardermoen (se figur 17.7) er et slikt isranddelta, det samme er Eggemoen sør for Randsfjorden, Geiteryggen ved Skien og randavsetningene i Høybuktmoen ved Kirkenes. Mindre avsetninger er ellers vanlige i daler, fjorder og lavlandet langs kysten. Da landet senere hevet seg, eroderte elver disse smeltevannsavsetningene."
+        },
+        {
+          "t": "p",
+          "tekst": "På slutten av avsmeltingstiden ble klimaet raskt varmere, og breoverflaten senket seg. De høyeste fjellene smeltet fram først, mens dalene ennå var fylt med is. De siste isrestene ble altså liggende igjen nede i dalene. Isen var ikke lenger i bevegelse, den hadde mistet sitt næringsområde og var det vi kaller en dødis. For ca. 8500 år siden var innlandsisen helt borte."
+        }
+      ]
+    },
+    {
+      "tittel": "Avsetninger i forbindelse med dødis",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "En dødis er restene av en bre som ikke lenger beveger seg – derav navnet. Også innlandsisen etter siste istid endte som en dødis når denne hadde smeltet tilstrekkelig ned."
+        }
+      ]
+    },
+    {
+      "tittel": "Esker",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Som på slutten av tidligere istider ble smeltevannet viktig i utformingen av landskapet. Vannet søkte seg ned under isen og dannet et nettverk av tunneler. En esker, en avlang grusås (fra irsk eiscir = avlang haug) (figur 17.8) er dannet i en slik tunnel under en dødis."
+        },
+        {
+          "t": "p",
+          "tekst": "Smeltevannet førte med seg store mengder sand og grus. På slake strekninger ble noe av materialet avsatt i smeltevannstunnelene. Når isen senere smeltet, ble tunnelfyllingene liggende igjen som langstrakte åser med grus, det vi kaller eskere. Lengden på dem kan variere fra noen meter til flere kilometer."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor kan ikke en esker dannes under en bre som er i bevegelse?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "En esker er avsatt av smeltevann. Det gjør at materialet er sortert – i motsetning til i drumlinene, som består av usortert morene."
+        }
+      ]
+    },
+    {
+      "tittel": "En elv og en vei går paralellt i et treløst landskap",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "17.8",
+          "tekst": "Veien følger en esker i Einunndalen i Folldal."
+        }
+      ]
+    },
+    {
+      "tittel": "Et mosegrodd landskap foran et høyt fjell",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "17.9",
+          "tekst": "Dødisgroper ved Dørålseter i Rondane"
+        }
+      ]
+    },
+    {
+      "tittel": "Bredemte sjøer",
+      "side": 315,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "kart. Utbredelsen av restene av innlandsisen da tappingen av den bredemte sjøen (Nedre Glåmsjø) fant sted på slutten av siste istid."
+        },
+        {
+          "t": "figur",
+          "nr": "17.11",
+          "tekst": "Utbredelsen av restene av innlandsisen da tappingen av den bredemte sjøen (Nedre Glåmsjø) fant sted på slutten av siste istid."
+        },
+        {
+          "t": "p",
+          "tekst": "Isskillets beliggenhet sør og øst for vannskillet fikk betydning for avsmeltingen i innlandet (figur 17.10). De siste isrestene ble liggende igjen nede i dalene under isskillet. Der hadde breen vært tykkest. Isrestene stengte for elver som rant sør- og østover fra vannskillet, de demte dermed opp store smeltevannssjøer."
+        },
+        {
+          "t": "p",
+          "tekst": "Vi kjenner eksempler på slike bredemte sjøer fra mange deler av landet. De store sjøene som lå øverst i Gudbrandsdalen og Østerdalen, er mest kjent. De hadde avløp over vannskillet til henholdsvis Rauma og Gaula. Strandlinjer i dalsidene, deltaflater høyt oppe i dalsidene og bunnsedimenter i dalbunnen er spor etter de bredemte sjøene."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan er sporene etter de bredemte sjøene dannet?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Skisse over dannelsen av bredemte sjøer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser plassering av Østerdalen og Koppang"
+        },
+        {
+          "t": "figur",
+          "nr": "17.12",
+          "tekst": "Den bredemte sjøen øverst i Østerdalen ble tappet ut da vannet fant vei under de siste isrestene som demte opp sjøen. Dette kan ha skjedd flere ganger. Resultatet ser vi i Jutulhogget."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Søk med «Jutulhogget» på Google Earth. Zoom, skråstill og snurr rundt. Studer landskapet. Hvor er steinmaterialet som flomvannet gravde ut i Jutulhogget, avsatt?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Isrestene i dalene, de som demte opp sjøene, ble stadig mindre, og til slutt klarte de ikke lenger å stå imot trykket fra vannmassene. Demningen brast. Isen fløt opp, og vannmassene raste nedover dalen. I Østerdalen tok vannet veien over fjellkjølen til Tylldalen. Det kan ha skjedd i mange av istidene, for i dag er det dannet et enormt gjel, Jutulhogget, gjennom fjellkjølen (figurene 17.12 og 17.13)."
+        }
+      ]
+    },
+    {
+      "tittel": "En diger kløft i et skogsområde",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "17.13",
+          "tekst": "Jutulhogget, fotografert fra Østerdalen. Tylldalen i Rendalen kommune ses i bakgrunnen. Kan du kjenne deg igjen på tegningen i 17.12?"
+        }
+      ]
+    },
+    {
+      "tittel": "Kart som viser raet og løsmasser ved ytre Oslofjord",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "17.14",
+          "tekst": "Løsmasser i området som er vist i figurene 17.7 og 17.15."
+        },
+        {
+          "t": "p",
+          "tekst": "Satellittbilde av området rund Oslofjorden. Det viser kontrasten mellom sjø og land, bebyggelse og utbygging"
+        },
+        {
+          "t": "figur",
+          "nr": "17.15",
+          "tekst": "Satellittbilde fra samme område som i 17.7. De lyse områdene på bildet er dyrket mark, skogområdene er grønne."
+        }
+      ]
+    },
+    {
+      "tittel": "Randavsetninger foran brefronten i avsmeltningstiden",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Se på figur 17.7, samt figurene 17.14, og 17.15."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Når sto brefronten ved raet?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Når ble brefrontdeltaet som Gardermoen ligger på, dannet?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Forklar hvordan kartene i figurene det landskapet vi ser på satellittbildet i figur 17.15. Stikkord er arealbruk, morenerygger og oppdemming av vassdrag."
+        }
+      ]
+    },
+    {
+      "tittel": "Bredemte sjøer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Bruk figur 17.10 til å forklare hvordan strandlinjer, deltaer og bunnsedimenter er spor etter bredemte sjøer som oppsto da innlandsisen smeltet etter siste istid."
+        },
+        {
+          "t": "p",
+          "tekst": "I tillegg til det læreboka forteller, kan du søke på Internett med søkeord «Jutulhogget» – her finner du flere bilder også. Og du kan bruke Google Earth med søkeordet «Jutulhogget» – zoom, skråstill og snu litt rundt. Bruk dine egne ord til å forklare hvordan Jutulhogget (figurene 17.10 og 17.11) er dannet."
+        },
+        {
+          "t": "p",
+          "tekst": "Se på figur 17.10. Kan det ha vært bredemte sjøer i andre dalfører enn Østerdalen? Begrunn svaret, og undersøk om det har vært tilfellet. Søk på Internett med ordene «Bredemte sjøer, Gudbrandsdalen»."
+        },
+        {
+          "t": "p",
+          "tekst": "Gå inn på [www.ngu.no](https://www.ngu.no) og søk på «VR-tur: Jutulhogget»."
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "oppgave",
+      "overskrift": "OPPGAVE",
+      "side": null,
+      "del": "Et mosegrodd landskap foran et høyt fjell",
+      "poster": [
+        {
+          "q": "Se på bildet i figur 17.9. I dalbunnen er det avsatt løsmasser (grus).",
+          "f": ""
+        },
+        {
+          "q": "Grusen ble avsatt da innlandsisen smeltet for ca. 10 000 år siden. Smeltevannet førte med seg grusen og avsatte den i dalbunnen. Beskriv det du ser på bildet.",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er gropene dannet? Hva kan ha skjedd?",
+          "f": ""
+        },
+        {
+          "q": "Smeltevann fra breene førte med seg sand og grus som ble avsatt som mektige sandurer foran brefronten. I en sandur deler breelva seg i et forgrenet løpsmønster der elvevannet stadig skifter leie. Grunnen er at elveløpene fylles opp med ny stein og grus så elva stadig må finne nye løp.",
+          "f": ""
+        },
+        {
+          "q": "Under avsmeltingen ble enkelte isrester avsnørt fra resten av ismassen. Noen av isrestene ble begravd av sand og grus. Da isrestene senere smeltet, sank løsmassene inn og dannet forsenkninger. De kalles dødisgroper (figur 17.9). I dag finner vi små tjern i mange av dødisgropene. Tjernene har verken tilløp eller avløp; det er grunnvannet som kommer fram.",
+          "f": ""
+        },
+        {
+          "q": "Smeltevannsavsetningene, de glasifluviale avsetningene, er opprinnelig morene som smeltevannet har transportert, slipt og sortert. Det meste av sand- og grusforekomstene her i landet er slike avsetninger.",
+          "f": ""
+        },
+        {
+          "q": "Sand og grus er verdifulle ressurser og blir blant annet brukt til betongproduksjon og veibygging. Samtidig er sand og grus god byggegrunn. Porøse masser som sand og grus kan også inneholde store mengder grunnvann. Glasifluviale avsetninger inneholder derfor de største og beste grunnvannsforekomstene her i landet, Romerike og området ved hovedflyplassen er et eksempel.",
+          "f": ""
+        },
+        {
+          "q": "Tegningen viser hvordan bredemte sjøer ble dannet mellom vannskillet og isskillet. Det skjedde både i Gudbrandsdalen og i Østerdalen.",
+          "f": ""
+        },
+        {
+          "q": "17.10 Tegningene viser hvordan bredemte sjøer ble dannet mellom vannskillet og isskillet. Det skjedde både i Gudbrandsdalen og i Østerdalen.",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 318,
+      "del": "Kart som viser raet og løsmasser ved ytre Oslofjord",
+      "poster": [
+        {
+          "q": "Hvilke morenetyper kjenner du?",
+          "f": ""
+        },
+        {
+          "q": "Hva er glasifluviale avsetninger?",
+          "f": ""
+        },
+        {
+          "q": "Hva består sedimentviftene ytterst på kontinentalsokkelen av?",
+          "f": ""
+        },
+        {
+          "q": "Hvorfor oppsto det skred på kontinentalskråningen utenfor eggakanten?",
+          "f": ""
+        },
+        {
+          "q": "Hva er en drumlin?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan dannes israndavsetninger?",
+          "f": ""
+        },
+        {
+          "q": "Hva er en esker?",
+          "f": ""
+        },
+        {
+          "q": "Hva er en dødisgrop?",
+          "f": ""
+        },
+        {
+          "q": "Hva er en dødis?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan bredemte sjøer oppstå?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Kart som viser raet og løsmasser ved ytre Oslofjord",
+      "poster": [
+        {
+          "q": "Hvorfor er morenejorda usortert?",
+          "f": ""
+        },
+        {
+          "q": "Er israndavsetninger avsatt i vann eller på land – eller begge deler?",
+          "f": ""
+        },
+        {
+          "q": "Både en esker og en drumlin er «grusåser». Hva er forskjellen?",
+          "f": ""
+        },
+        {
+          "q": "Har det vært én eller flere katastrofetapninger av en bredemt sjø som har dannet Jutulhogget? Begrunn svaret.",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": null,
+      "del": "Bredemte sjøer",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "endemorene – midtmorene – sidemorene",
+          "f": ""
+        },
+        {
+          "q": "morene – glasifluviale avsetninger – smeltevann",
+          "f": ""
+        },
+        {
+          "gruppe": "Bjørnøyvifta – morene – glasifluvialt materiale"
+        },
+        {
+          "q": "drumlin – esker – morene",
+          "f": ""
+        },
+        {
+          "gruppe": "Raet – endemorene – bunnmorene"
+        },
+        {
+          "q": "dødisgrop – esker – drumlin",
+          "f": ""
+        },
+        {
+          "q": "dødis – esker – endemorene",
+          "f": ""
+        },
+        {
+          "q": "isskille – vannskille – bredemt sjø",
+          "f": ""
+        },
+        {
+          "gruppe": "Jutulhogget – Nedre Glomsjø – Glomma"
+        },
+        {
+          "q": "bredemte sjøer – på slutten av en istid – i dag",
+          "f": ""
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "Glasiale avsetninger finnes både på land og under vann.",
+          "f": ""
+        },
+        {
+          "q": "Glasifluviale avsetninger finnes bare på land.",
+          "f": ""
+        },
+        {
+          "q": "En drumlin dannes under en dødis.",
+          "f": ""
+        },
+        {
+          "q": "En esker dannes under en dødis.",
+          "f": ""
+        },
+        {
+          "q": "En dødis kan ikke lage endemorener.",
+          "f": ""
+        },
+        {
+          "q": "Dødisgroper er dannet av innlandsisen.",
+          "f": ""
+        },
+        {
+          "q": "Israndavsetninger kan være avsatt av smeltevann.",
+          "f": ""
+        },
+        {
+          "q": "I Sørøst-Norge lå vannskillet sør for isskillet.",
+          "f": ""
+        },
+        {
+          "q": "De bredemte sjøene ble tappet ut i løpet av kort tid.",
+          "f": ""
+        },
+        {
+          "q": "Det finnes ikke spor etter de bredemte sjøene.",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "Det er avsatt enorme mengder med glasiale og glasifluviale avsetninger langs eggakanten og øverst på kontinentalskråningen.",
+    "En drumlin er en ryggformet moreneavsetning som er avsatt av en bre i bevegelse.",
+    "En esker er en grusås av glasifluviale avsetninger som er avsatt av smeltevannet i en tunnel under en dødis. En dødis har ikke noe næringsområde og flytter ikke på seg.",
+    "Randavsetninger er glasiale eller glasifluviale avsetninger som er avsatt foran breen.",
+    "Dødisgroper er dannet i glasifluviale avsetninger når mindre isrester som var begravd i løsmassene, smeltet.",
+    "Som en følge av at isskillet i Sør-Norge lå sør og øst for vannskillet, dannet det seg bredemte sjøer øverst i de største østnorske dalene under isavsmeltingen.Kapittel 18"
+  ]
+}

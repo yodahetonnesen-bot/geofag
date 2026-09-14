@@ -1,0 +1,625 @@
+{
+  "nr": 20,
+  "tittel": "Steinsprang, steinskred og fjellskred",
+  "forsteside": 352,
+  "sisteside": 365,
+  "laereplan": [
+    "sammenligne ulike landformer og gjøre rede for hvordan de dannes og endres under påvirkning av jordsystemene og menneskelig aktivitet",
+    "gjøre rede for ulike naturfarer knyttet til geosfæren og hydrosfæren, og vurdere hvordan mennesker kan forebygge og tilpasse seg disse farene",
+    "utforske en naturfare knyttet til geosfæren eller hydrosfæren i et bestemt geografisk område og vurdere risiko ved hjelp av modellering",
+    "gjennomføre geofaglig feltarbeid knyttet til geosfæren eller hydrosfæren, bearbeide og tolke de innsamlede dataene og presentere resultatene"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 352,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Noen steder er mer utsatt for skred enn andre. Skredfare er et uttrykk for hvor ofte et skred går. Jo kortere tid det er mellom dem, desto større er skredfaren. Menneskeliv kan gå tapt, og skadeomfanget kan være stort."
+        },
+        {
+          "t": "p",
+          "tekst": "Hvor stor skredfaren er, har naturligvis med berggrunn, løsmasser og terrengforhold å gjøre, men nedbøren har også stor betydning. Mer regn og smeltevann vil gjøre bratte dal- og fjellsider mer rasfarlige. Det stiller nye krav til arealplanlegging og beredskap i kommunene."
+        },
+        {
+          "t": "p",
+          "tekst": "Jo større skredfaren er, og jo større det mulige skadeomfanget er, desto større er skredrisikoen. Når vi snakker om skredrisiko, tar vi hensyn både til skredfare og skadeomfang."
+        }
+      ]
+    },
+    {
+      "tittel": "Fjell med et stort sammenrast parti",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "20.1",
+          "tekst": "Ramnefjellet i Lodalen. Herfra kom det store fjellskred i 1906 og 1936. Lovatnet i forgrunnen."
+        }
+      ]
+    },
+    {
+      "tittel": "Historiske skred",
+      "side": 354,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Vi skiller mellom ulike typer skred avhengig av hva som raser ut. Fjellskred, kvikkleireskred, jordskred og snøskred er de vanligste. Om vi legger statistikk til grunn, må vi regne med at det vil komme to–tre store fjellskred, to–tre store kvikkleireskred og tre–fire store snøskred de neste 100 årene."
+        },
+        {
+          "t": "p",
+          "tekst": "Norges vassdrags- og energidirektorat (NVE) har en database med mange tusen skred som er gått i historisk tid. I skredene har mer enn 4000 mennesker mistet livet. Snøskred tar flest liv, men også de andre skredtypene har krevd mange menneskeliv."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilke skredtyper er vanligst i ditt hjemfylke?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "[www.skredregistrering.no](https://www.skredregistrering.no)"
+        }
+      ]
+    },
+    {
+      "tittel": "Fjellskred i Ramnefjellet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Kart over Sør-Norge som viser plassering av Lovatnet og Breimsvatnet, mellom Bergen og Trondheim"
+        },
+        {
+          "t": "p",
+          "tekst": "Ramnefjellet hadde tatt menneskeliv før. I 1905 raste en fjellhammer ut i Lovatnet (se figur 20.1). Flodbølgen som oppsto, tok livet av 61 mennesker som bodde rundt vannet. Etter det gikk de som bodde der, i stadig frykt for fjellet. Tidlig i september i 1936 hadde det buldret fra mindre steinskred i Ramnefjellet i flere dager. Og tidlig om morgenen søndag 13. september 1936 rammer katastrofen det vesle bygdesamfunnet igjen."
+        },
+        {
+          "t": "p",
+          "tekst": "Plutselig kommer det tre kraftige smell. Høyt oppe i Ramnefjellet, 800 meter over vannflaten, løsner en stor del av fjellsiden. Folk bråvåkner over hele bygda. De tenker både på jordskjelv og dommedag, men innerst inne vet de hva som skjer. Steinmassene raser nedover fjellsiden og treffer den blanke vannflaten. Det oppstår en flodbølge som bare minutter senere skyller inn over gårdene som ligger langs vannet. Noen steder når flodbølgen 80 meter høyere enn strandkanten."
+        },
+        {
+          "t": "p",
+          "tekst": "En familie har sovet med klærne på av frykt for det urolige fjellet. De løper ut på tunet og blir slått i bakken av lufttrykket fra skredet. Men de kommer seg på beina og løper som besatt oppover lia og unngår de frådende vannmassene som like etter velter inn over gården. 16 gårdsbruk blir utslettet, og 70 mennesker mister livet. Hus blir knust og feid på sjøen som pinneved, sammen med all åkerjord. Strendene ligger renskrapte tilbake. Et helt bygdesamfunn er knust."
+        },
+        {
+          "t": "p",
+          "tekst": "Dersom store enkeltsteiner løsner og raser ut, kaller vi det steinsprang (figur 20.2)."
+        },
+        {
+          "t": "p",
+          "tekst": "I et steinskred er det større mengder stein som raser ut (figur 20.3). Se video: «Steinskred i fjellet Børa» på YouTube. Dersom mer enn 100 000 m3 stein raser ut, kaller vi det fjellskred (figur 20.4). Farligst er de som går ut i fjorder eller innsjøer. Det kan føre til flere titalls meter høye flodbølger som feier inn over lavtliggende områder i sjøkanten, der folk bor – slik det skjedde ved Lovatnet i 1905 og 1936 (se figur 20.1)."
+        },
+        {
+          "t": "p",
+          "tekst": "Veien ned til bygden er smal og trang, med spor etter ras, som den store steinen her indikerer. Jølster, Sunnfjord kommune, Sogn og Fjordane."
+        },
+        {
+          "t": "figur",
+          "nr": "20.2",
+          "tekst": "Steinsprang gjør mange veier usikre, som her langs en sidevei fra E39 til Førde ved Breimsvatnet på Vestlandet."
+        }
+      ]
+    },
+    {
+      "tittel": "Et stort ras har gått langs en motorvei med store skarpe kapesteiener",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "20.3",
+          "tekst": "Steinskred på E18 ved Larvik i desember 2019, store steiner blokkerte E18."
+        }
+      ]
+    },
+    {
+      "tittel": "Et stort ras har gått fra høyfjellet og fordelt seg nedover platået nedenfor",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "20.4",
+          "tekst": "De største fjellskredene kan føre med seg opptil flere hundre millioner kubikkmeter stein. Urdbøuri ved innsjøen Totak i Telemark vitner om et stort fjellskred. Skredet løsnet i fjellsiden i bakgrunnen og har gått tvers over dalen. I dag går riksveien gjennom Urdbøuri."
+        },
+        {
+          "t": "p",
+          "tekst": "Kart over Sør-Norge som viser plassering av Rjukan, Urdbøuri, Svaddenipun og Vestfjorddalen"
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan oppstår fjellskred?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Bratte fjellsider med tydelige svakhetssoner i berggrunnen er mest utsatt for fjellskred. Svakhetssonene kan danne et glideplan som fjellmassene kan gli på. Mange steder er det tydelige åpne sprekker på fjelloverflaten som viser at fjellet har vært eller er i bevegelse (figur 20.6)."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan dannes svakhetssoner i berggrunnen?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er et glideplan?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Fjelloverflaten på sørsiden av Vestfjorddalen, ved Svaddenipun ovenfor Rjukan, viser tydelige sprekker. Sprekkene kan være opptil én meter i bredden og flere titalls meter dype. Et fjellskred eller mindre steinskred fra området ville true bebyggelse og er derfor tatt inn i NGUs kartlegging. Målinger viser at området i dag ikke er i bevegelse."
+        },
+        {
+          "t": "p",
+          "tekst": "Regnvann og smeltevann som trenger ned gjennom sprekker i fjellet til glideplanet, kan føre til at vanntrykket øker. Det skjer ofte under snøsmelting og i perioder med mye regn. Det økte vanntrykket fører til at friksjonen langs svakhetssonene minker, og hele fjellsider kan gli ut. Geologene tror dette er den viktigste årsaken til at fjellskred løsner, men store fjellpartier kan også løsne uten at de er påvirket av økt vanntrykk."
+        }
+      ]
+    },
+    {
+      "tittel": "Figur som viser overvåking av ustabile fjellsider i Norge",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "20.5",
+          "tekst": "Overvåking av ustabile fjellsider i Norge. Kartlegging og risikoklassifisering er utført av Norges geologiske undersøkelse (NGU) på oppdrag fra Norges vassdrags- og energidirektorat (NVE)."
+        },
+        {
+          "t": "p",
+          "tekst": "Varsling av fjellskred er i dag i stor grad basert på observasjoner av en gradvis utvikling i ustabile fjellsider, men plutselige hendelser som jordskjelv kan også utløse fjellskred. Like etter siste istid, da jordskorpa hevet seg etter at innlandsisen var smeltet, var jordskjelv med størrelse 5–6 eller mer ikke uvanlige. Dateringer av gamle fjellskred har vist at mange av dem gikk like etter siste istid for over 10 000 år siden. Også i dag er vestkysten av landet utsatt for jordskjelv. Senest i 2007 ble det utløst et skjelv med størrelse 4, og episentret lå 4 km nordøst for Ålesund. Jordskjelvets sentrum lå ca. 10 km nede i jordskorpa."
+        }
+      ]
+    },
+    {
+      "tittel": "Skredutsatte områder i Norge",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Geologisk kartlegging har avdekket mange hundre ustabile fjellpartier i Norge (figur 20.5). De fleste skredfarlige fjellsidene ligger i Troms, Møre og Romsdal, Sogn og Fjordane, Rogaland og Telemark."
+        },
+        {
+          "t": "p",
+          "tekst": "I mange fjellsider blir det foretatt målinger for å finne ut om de er i bevegelse. De fleste representerer liten fare for mennesker. I dag er det likevel sju svært skredfarlige fjellsider som overvåkes 24 timer i døgnet. Skred der kan få svært alvorlige konsekvenser. Fem av fjellsidene kan rase ut i fjorder og føre til flodbølger – se oversikten på neste side."
+        },
+        {
+          "t": "p",
+          "tekst": "Fjellpartiet Mannen har dype sprekker fra toppen av fjellet. Langs kanten skimtes den enorme høydeforskjellen"
+        },
+        {
+          "t": "figur",
+          "nr": "20.6",
+          "tekst": "Fjelloverflaten på vestsiden av Vestfjorddalen, ved Svaddenipun ovenfor Rjukan, viser tydelige sprekker, Sprekkene kan være opptil en meter i bredden og opp til flere titalls meter dype. Et fjellskred eller et mindre steinskred fra området vil true bebyggelse og er derfor tatt inn i NGUs kartlegging. Målinger viser at området ii dag ikke er i bevegelse. sannsynligheten for fjellskred er evaluert som mindre enn 1/5000 og sannsynligheten for et mindre steinskred er evaluert som høyere enn 1/1000."
+        }
+      ]
+    },
+    {
+      "tittel": "Fjellpartier som overvåkes hele døgnet",
+      "side": 357,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Åkneset i Møre og Romsdal: Et skred på inntil 54 millioner m3 vil utvikle flodbølger som kan ramme inntil ti kommuner. Antall mennesker i faresonen varierer med årstiden, fra noen hundre til fem–seks tusen."
+        },
+        {
+          "t": "p",
+          "tekst": "Mannen i Møre og Romsdal: Et skred på inntil 20 millioner m3 vil krysse Romsdalen og kan føre til oppdemming og flom. Antall mennesker i faresonen varierer med årstiden, fra relativt få til et par hundre. Dette er et skred fra den store Mannen og er mye større enn skredet fra Veslemannen som gikk i 2019."
+        },
+        {
+          "t": "p",
+          "tekst": "Hegguraksla i Møre og Romsdal: Et skred på inntil 3 millioner m3 vil utløse flodbølger i hovedsak innenfor Norddal kommune. Antall mennesker i faresonen varierer fra noen titalls til noen hundre"
+        },
+        {
+          "t": "p",
+          "tekst": "Joasetbergi i Sogn: Et skred fra et mindre fjellparti på 130 000 m3 kan danne flodbølger med store konsekvenser i tettstedet Flåm i Aurland kommune. Kontinuerlig overvåking startet opp høsten 2020."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan vil du forklare at enkelte deler av landet er mer utsatt for fjellskred enn andre?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Jettan på Nordnesfjellet i Troms: Et skred på ca. 6 millioner m3 vil utvikle flodbølger innenfor tre kommuner langs Lyngenfjorden og Storfjorden. Noen hundre mennesker kan være i faresonen."
+        },
+        {
+          "t": "p",
+          "tekst": "Se hvordan en geolog jobber med skredsikring (rassikring): http://hvakanjegblimedrealfag.no/hva-jobber-en-geolog-med/"
+        },
+        {
+          "t": "p",
+          "tekst": "Indre Nordnes i Troms: Et skred på ca. 6 millioner m3 kan utvikle flodbølger innenfor fire kommuner, og flere hundre mennesker kan være i faresonen."
+        },
+        {
+          "t": "p",
+          "tekst": "Gámanjunni i Troms: Et skred på 26 millioner m3 vil gå tvers over Manndalen i Kåfjord kommune og føre til oppdemming og fare for flom. Flere titalls mennesker kan være i faresonen. Mange flere vil være berørt av oppdemning og fare for flom. Kontinuerlig overvåking startet opp høsten 2020."
+        }
+      ]
+    },
+    {
+      "tittel": "Åkneset – et forventet skred",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Kilde: NVE"
+        },
+        {
+          "t": "p",
+          "tekst": "Møre og Romsdal er trolig det fylket som er mest utsatt for fjellskred, og det finnes mange spor etter tidligere skred. Undersøkelser de siste årene har påvist en svært ustabil fjellside ved Åkneset i Stranda kommune (figur 20.7). Et skred fra Åkneset har et særdeles stort skadepotensial. I dag overvåkes fjellsiden 24 timer i døgnet."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Bruk «Me-Åkerneset» (se figur 20.8) og søk i Google Earth for å finne den ustabile fjellsiden du ser i figur 20.7. Hvor på bildet ligger småbruket Me-Åkerneset?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Det største fjellskredet vi kjenner her i landet, gikk i Tjellefjellet i Langfjorden i Møre og Romsdal i 1756. Rundt 10 millioner m3 stein raste ut. Undersøkelser har vist at et skred fra Åkneset kan bli betydelig større. Geologene har antydet et skred på over 50 millioner m3 stein. Det tydeligste tegnet på at det er fare på ferde, er den såkalte Åknesrevna. Det er en om lag 600 meter lang fjellsprekk, mer eller mindre sammenhengende, som utvider seg med 2–6 cm per år (figur 20.9). Det er ingen tvil om at fjellsiden er i bevegelse."
+        }
+      ]
+    },
+    {
+      "tittel": "Et bratt fjell langs fjordvann. Et område er markert med stiplet strek",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "20.7",
+          "tekst": "Det ustabile fjellpartiet ved Åkneset i Sunnylvsfjorden. Store deler av fjellsiden beveger seg over et glideplan som ligger 50–60 meter under fjelloverflaten."
+        },
+        {
+          "t": "p",
+          "tekst": "Et eldre sort-hvitt bilde viser en større trebygning med gresstak, bygget inntil og som en forlengelse av fjellet i en bratt skråning. Under ser man en fjord, og høye fjell bak"
+        },
+        {
+          "t": "figur",
+          "nr": "20.8",
+          "tekst": "På småbruket Me-Åkerneset i Stranda i Møre og Romsdal ble husene bygd «inn i» terrenget for at snøskred ikke skulle gjøre skade. I tillegg beveger fjellsiden i Åkneset seg (se figur 20.7)."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Vil et skred fra Åkneset føre til en flodbølge eller en tsunami?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Det er gjennomført boringer for å kartlegge geologien i fjellsiden. Berggrunnen består av lagdelt gneis, med innslag av biotittrike lag. Omtrent 60 meter under overflaten er det påvist en svakhetssone med sprekker og knust fjell. Svakhetssonen følger lagdelingen i gneisen som skråner ned mot fjorden. Dette er sannsynligvis hovedglideplanet for et framtidig skred i Åkneset."
+        }
+      ]
+    },
+    {
+      "tittel": "Glideplanet under Åkneset",
+      "side": 359,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Åkneset er i flere år blitt fulgt tett opp av eksperter og ulike typer måleutstyr. Det nye seismiske måleutstyret som jordskjelvforskere fra NORSAR har fått på plass, skal gi enda bedre overvåking. Nå er nytt måleutstyr på plass her nede i berget. (NVE har laget en video, søk på YouTube med «Åknes borehull».)"
+        },
+        {
+          "t": "p",
+          "tekst": "Utstyret er plassert i et borehull som går ned gjennom fjellpartiets glideplan – drøyt 50 meter under overflaten på fjellet. Overflatedata er mer utsatt for støy enn data fra et borehull. Dypt nede i et borehull blir ikke signalene forstyrret av vind, steinsprang eller lyder fra mennesker. Nå kan forskere ta pulsen på berget helt nede der gigantskredet kan komme til å løsne."
+        },
+        {
+          "t": "p",
+          "tekst": "Se på videoen hva forskerne oppdaget 62,5 meter nede i fjellet! Du forstår tydelig hvorfor Åkneset er så farlig. Borehullet du ser på videoen, går faktisk helt ned til 200 meter. Men hadde seismologene strukket kablene til instrumentene forbi glideplanet, ville de ha blitt kappet av om noen måneder eller år fordi fjellet beveger seg så mye."
+        },
+        {
+          "t": "p",
+          "tekst": "Når det skjer bevegelser i fjellet, skapes det mikrojordskjelv. Med de nye instrumentene kan forskerne kartlegge hvor inne i fjellet slike mikrojordskjelv utløses."
+        },
+        {
+          "t": "p",
+          "tekst": "NORSAR-forskerne er ikke de eneste som jobber med å overvåke Åkneset. Flere institusjoner bidrar med ulike teknologier med tilhørende instrumenter."
+        },
+        {
+          "t": "p",
+          "tekst": "Sammenlignet med de fleste andre teknologier er seismiske instrumenter ikke avhengig av sikt, vær, vegetasjon eller om det ligger snø. I tillegg kan seismiske instrumenter overvåke et større område. Lasermålere og ekstensometre (instrumenter som måler små forskyvninger) kan bare måle fjellets bevegelser på ett punkt."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser plassering av Mannen, Tafjord, Åkneset og Geiranger",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Kilde: forskning.no"
+        },
+        {
+          "t": "p",
+          "tekst": "Tettstedene rundt Storfjorden ligger helt nede i vannkanten, og ved et fjellskred i Åkneset vil over 3000 mennesker være truet. Bølgene kan bli over 80 meter høye, men beregningene er usikre. Størrelsen, formen og hastigheten på skredet, hvordan det treffer vannflaten, fjordbunnen og refleksjoner fra fjordsidene vil ha betydning for bølgestørrelsen."
+        },
+        {
+          "t": "p",
+          "tekst": "Sunnylvsfjorden og Geirangerfjorden med tettstedene Hellesylt og Geiranger er mest utsatt. Bølgene vil nå Hellesylt etter fem minutter og Geiranger etter ti. Geologene regner med at den døgnkontinuerlige overvåkingen, sammen med god beredskap og gode varslingsrutiner, vil varsle befolkningen i god tid slik til at de kan evakuere."
+        },
+        {
+          "t": "p",
+          "tekst": "Stranda, lenger ute i Storfjorden, ligger også utsatt til, for bølgene bruker bare seks minutter dit. Tafjord, som dessuten har sitt eget skredproblem Hegguraksla, vil også være utsatt om det går et skred i Åkneset."
+        }
+      ]
+    },
+    {
+      "tittel": "Overvåking av skredfarlige fjellsider",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Naturen har sin egen skredvarsling. Erfaring viser at fjellet selv kan gi varsler før et skred kommer. De siste døgnene eller timene er det ofte økt aktivitet i fjellsiden, og bevegelsen blir større. Steinsprang og små steinskred er tegn på at fjellet rører på seg."
+        },
+        {
+          "t": "p",
+          "tekst": "Det må imidlertid avansert måleutstyr til for å sikre trygg overvåking, man må ha måleutstyr som registrerer selv de minste bevegelser. Med bakkeradar er det mulig å observere om det skjer endringer i fjelloverflaten. Radaren skanner fjellet med jevne mellomrom, og forandringer vises på en dataskjerm. Med en laser kan man sveipe over en fjellside med laserreflektorer. Det gjør det mulig å måle avstanden til forskjellige punkter i fjellsiden. Dersom avstandene forandrer seg, betyr det at fjellsiden er i bevegelse."
+        }
+      ]
+    },
+    {
+      "tittel": "Et bratt fjellparti med en cruicebåt i bakgrunnen viser den enorme høydeforskjellen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "20.9",
+          "tekst": "Strekkstag er satt ut i Åknesrevna for å registrere om fjellsprekken utvider seg. Den 600 meter lange sprekken i fjellet, som kan være opp mot 100 meter dyp, utvider seg hele tiden."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser plassering av Norfjord og Osmundneset",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Fra en fjellside er det også mulig å registrere den nøyaktige beliggenheten av målepunkter ved hjelp av GPS – altså satellitter. Posisjonen kan bestemmes med millimeters nøyaktighet. Gjennom et nettverk av målepunkter, der noen er plassert i stabile områder av fjellet og andre i ustabile deler, er det mulig å se hvordan fjellsiden beveger seg."
+        },
+        {
+          "t": "p",
+          "tekst": "Der det er åpne sprekker i fjellsiden, kan de overvåkes med et strekkstag som boltes fast på hver side av sprekken (se figur 20.9). Utvider sprekken seg, blir det registrert. Fintfølende seismografer kan registrere selv små rystelser i berggrunnen. Geofoner, små lytteapparater som er plassert i fjellsiden, fanger opp lydbølger som forplanter seg i berggrunnen når fjellet rører på seg. Nattkameraer og meteorologiske måleinstrumenter bidrar også til overvåking av fjellet. Droner er et nytt hjelpemiddel som kommer til med kameraer i bratte fjellsider. Signaler fra de ulike måleinstrumentene sendes via ulike sambandssystemer til overvåkingsstasjoner."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan utføres seismiske målinger?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Det er også mulig å undersøke selve fjellsiden. Man kan påvise svakhetssoner under fjelloverflaten ved å bore ned i fjellet og studere bergartene i borekjernene. Også små videokameraer, seismiske sensorer og annet måleutstyr kan sendes mange titalls meter ned i borehullene. Det blir i tillegg utført seismiske målinger for å kartlegge bergartene i fjellet. Det er samme type undersøkelser som blir gjort på kontinentalsokkelen for å kartlegge forekomster av olje og gass."
+        },
+        {
+          "t": "p",
+          "tekst": "Osmundneset i Nordfjord er eksempel på et fjellparti der ustabilitet ble oppdaget på satellittbilder."
+        },
+        {
+          "t": "figur",
+          "nr": "20.10",
+          "tekst": "Osmundneset i Nordfjord er et eksempel på et fjellparti der ustabilitet ble oppdaget på satellittbilder. De røde partiene av fjellsiden er i bevegelse."
+        },
+        {
+          "t": "p",
+          "tekst": "Målinger av den elektriske motstanden i fjellet kan også avsløre svakhetssoner. Dersom det er stor elektrisk motstand, vitner det om tørt, massivt fjell. Liten motstand betyr vannfylte sprekker, noe som kan være tegn på svakhetssoner – soner som kan fungere som glideplan for steinmasser over."
+        },
+        {
+          "t": "p",
+          "tekst": "Satellittradar kan også brukes til å registrere bevegelser i fjellsider. Med jevne mellomrom tas det bildeserier av det samme området fra satellitt. Når bildene sammenholdes, er det mulig å se hvordan landoverflaten beveger seg (figur 20.10) – med millimeters nøyaktighet. Gjennom det europeiske romfartsprogrammet Copernicus er nå satellittdata tilgjengelige. Data som viser små forandringer av landoverflaten, kan dermed lastes ned hver sjette dag."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Kan et fjellskred varsles?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "For å unngå tap av liv er det etablert beredskap basert på overvåking, varsling og evakuering. Det kan likevel bli store materielle og økonomiske tap, ikke bare som følge av skredet og flodbølgene, men også av store skadevirkninger på viktig infrastruktur."
+        },
+        {
+          "t": "p",
+          "tekst": "Her i landet er det Norges vassdrags- og energidirektorat (NVE) som har ansvaret for geologisk kartlegging, risikovurdering og overvåking av skredfarlige fjellsider. Andre forebyggende tiltak, som evakuering og beredskapsplaner, har kommunene og politiet ansvar for. Det handler om å være forberedt på det som kan skje."
+        },
+        {
+          "t": "p",
+          "tekst": "Selv om geologene kan måle bevegelsene i et fjellområde svært nøyaktig, er det umulig å si nøyaktig når et skred kommer. Og når skal man la alarmen gå? Geologer vurderer hele tiden målinger og fastsetter farenivå. Dersom det skjer endringer i farenivået, blir det meddelt kommuner, politi, Statsforvalteren og andre aktuelle aktører."
+        },
+        {
+          "t": "p",
+          "tekst": "De overvåkede fjellpartiene i Norge er i sakte bevegelse – fra én millimeter til flere centimeter i året. Det er lite dramatikk i det. Dersom det ikke inntreffer jordskjelv, kan en slik bevegelse holde på i århundrer. Erfaringer fra Alpene og 7andre fjellområder viser at bevegelsene i fjellet akselererer gjennom flere uker eller måneder før et fjellskred løsner. Det er altså en nær sammenheng mellom fartsøkning i ustabile fjellpartier og skredfare (figur 20.11)."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er likevel ikke lett å varsle fjellskred, det er vanskelig å «regne på naturen». Det er mange forhold vi ikke kan tallfeste, mange sammenhenger vi ikke kjenner til. Samtidig varierer faktorene som påvirker skredfaren, fra skred til skred. Geologene varsler derfor helst om «økt eller mindre farenivå». Det er ikke mulig å varsle når et skred kommer – enten det handler om timer, dager, uker eller år. Modeller og modellering er mye brukt i skredforskning og skredvarsling."
+        },
+        {
+          "t": "p",
+          "tekst": "Graf. Endringer i hastigheten for ustabile fjellpartier er viktig for å vurdere skredfaren. Når hastigheten øker, blir skredfaren større og farenivået hevet."
+        },
+        {
+          "t": "figur",
+          "nr": "20.11",
+          "tekst": "Endringer i hastigheten for ustabile fjellpartier er viktig for å vurdere skredfaren. Når hastigheten øker, blir skredfaren større og farenivået hevet. Grafen ovenfor er en prinsippskisse. Hvert fjell har sitt bevegelsesmønster, men hovedtrekkene er like."
+        },
+        {
+          "t": "p",
+          "tekst": "Utløpsmodellene brukes til å vurdere rekkevidden av skred og hvor raskt det beveger seg. Slike modeller blir ofte brukt i forbindelse med steinsprang. Det er ofte av interesse å finne ut hvor langt steinblokkene kan nå i forhold til planlagt bebyggelse. Her setter plan- og bygningsloven grenser."
+        },
+        {
+          "t": "p",
+          "tekst": "I skredfarlige dalsider brukes stabilitetsmodeller for å vurdere sikkerheten og hvilke muligheter det er for stabiliserende tiltak."
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Kart over Sør-Norge som viser plassering av Norfjord og Osmundneset",
+      "poster": [
+        {
+          "q": "Hvilke typer skred forekommer i Norge?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken type skred tar flest menneskeliv?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan klimaendringer innvirke på skredfaren?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellene mellom steinsprang, steinskred og fjellskred?",
+          "f": ""
+        },
+        {
+          "q": "Hva kan utløse et fjellskred?",
+          "f": ""
+        },
+        {
+          "q": "Hvem har ansvaret for skredovervåkingen i Norge?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan farlige fjellsider overvåkes?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan fjellet selv varsle at et skred «er på vei»?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan folk varsles dersom fjellsiden begynner å bevege seg?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Kart over Sør-Norge som viser plassering av Norfjord og Osmundneset",
+      "poster": [
+        {
+          "q": "Kan du gi noen grunner til at en flodbølge som følger etter et fjellskred, kanskje ikke skal kalles en tsunami?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": null,
+      "del": "Kart over Sør-Norge som viser plassering av Norfjord og Osmundneset",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "steinsprang – steinskred – steinras",
+          "f": ""
+        },
+        {
+          "q": "fjellskred – steinskred – steinsprang",
+          "f": ""
+        },
+        {
+          "q": "vanntrykk i fjellsprekker – jordskjelv – fjellskred",
+          "f": ""
+        },
+        {
+          "q": "glideplan – fjellskred – frostforvitring",
+          "f": ""
+        },
+        {
+          "q": "radar – laser – strekkstag",
+          "f": ""
+        },
+        {
+          "q": "høyt farenivå – 10 cm/døgn – lavt farenivå",
+          "f": ""
+        },
+        {
+          "q": "tsunami – fjellskred – skred på havbunnen",
+          "f": ""
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "Skredrisiko og skredfare betyr det samme.",
+          "f": ""
+        },
+        {
+          "q": "Mye regn over en lang periode kan øke faren for fjellskred.",
+          "f": ""
+        },
+        {
+          "q": "Jordskjelv kan ikke utløse fjellskred.",
+          "f": ""
+        },
+        {
+          "q": "Det er laget en spillefilm, «Skredet», som handler om et fjellskred fra Åkneset i Stranda kommune.",
+          "f": ""
+        },
+        {
+          "q": "Fjellpartiet Veslemannen i Romsdalen har rast ut, men det har ikke Mannen.",
+          "f": ""
+        },
+        {
+          "q": "Veslemannen beveget seg med en fart på 100 cm/døgn like før skredet gikk.",
+          "f": ""
+        },
+        {
+          "q": "Naturen kan selv varsle at et fjellskred er på vei.",
+          "f": ""
+        },
+        {
+          "q": "Med radar, på bakken eller fra satellitt, er det mulig å måle avstanden til et bestemt punkt på jordoverflaten med jevne mellomrom og beregne farten et fjellparti beveger seg med.",
+          "f": ""
+        },
+        {
+          "q": "Alle ustabile fjellpartier som overvåkes i Norge, beveger seg sakte nedover med opptil flere centimeter i året.",
+          "f": ""
+        },
+        {
+          "q": "Bevegelsen i ustabile fjellsider øker gjennom uker eller måneder før et fjellskred løsner.",
+          "f": ""
+        },
+        {
+          "gruppe": "Fjellskred"
+        },
+        {
+          "q": "Finn Åkneset og Mannen på kartet i figur 20.7. Søk opp de to skredutsatte fjellsidene på Google Earth. Snu litt rundt på bildet, zoom inn og skråstill for å få god «utsikt» til fjellsidene. Finn igjen bildemotivet i figur 20.7. I hvilken himmelretning er bildet tatt? Studer landformene og forklar hva som er den grunnleggende årsaken til de ustabile fjellsidene.",
+          "f": ""
+        },
+        {
+          "q": "Gå inn på nettstedet [www.nve.no](https://www.nve.no). Klikk på «Flaum og skred»/ «Fjellskredovervaking», eller bruk søkeordet «Fjellskredovervaking» på en søkemotor. Se etter de siste dags- og ukerapportene fra de fjellsidene som har døgnkontinuerlig overvåking. Hvilket farenivå har fjellsidene akkurat nå? Hva innebærer det?",
+          "f": ""
+        },
+        {
+          "q": "Databasen for ustabile fjellpartier ved Norges geologiske undersøkelse (NGU) inneholder informasjon om alle ustabile fjellpartier som per i dag er kjent i Norge. Ustabile fjellpartier er fjellområder som viser tegn til bevegelse etter siste istid, og der det derfor kan være fare for fjellskred i framtiden. Du finner databasen her: [www.ngu.no](https://www.ngu.no). Klikk på «Kartinnsyn»/«Ustabile fjellparti», eller gå direkte til http://geo.ngu.no/kart/ustabilefjellparti/. Du kan også søke med «Nasjonal database for ustabile fjellparti». Er det noen ustabile fjellpartier i nærheten av der du bor, eller i andre områder du ferdes?",
+          "f": ""
+        },
+        {
+          "q": "kart. Åknes, Hegguraksla og Mannen er tre av sju fjellsider i Norge som overvåkes hele døgnet.",
+          "f": ""
+        },
+        {
+          "q": "20.12 Åkneset, Hegguraksla og Mannen er tre av sju fjellsider i Norge som overvåkes hele døgnet.",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "De vanligste skredtypene er fjellskred, steinskred, jordskred, kvikkleireskred og snøskred. Det forekommer også skred på havbunnen.",
+    "Når enkeltsteiner raser ut, kaller vi det steinsprang.",
+    "Klimaendringer kan øke skredfaren.",
+    "Bratte fjellsider og svakhetssoner i berggrunnen øker faren for fjellskred.",
+    "Jordskjelv kan utløse fjellskred.",
+    "Det er vanskelig å hindre fjellskred. Derfor er det viktig med kartlegging og overvåking av skredfarlige fjellsider.",
+    "NVE har ansvaret for overvåkingen av skredfarlige fjellsider i Norge.",
+    "Ustabile fjellsider kan overvåkes med radar, laser, seismografer, geofoner, strekkstag, borehull og GPS.",
+    "Det er ofte økt aktivitet i en fjellside like før et fjellskred, og det gjør det mulig å varsle skredet.Kapittel 21"
+  ]
+}

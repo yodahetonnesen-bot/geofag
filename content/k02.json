@@ -1,0 +1,714 @@
+{
+  "nr": 2,
+  "tittel": "Platetektonikk og manteldynamikk",
+  "forsteside": 14,
+  "sisteside": 25,
+  "laereplan": [
+    "gjøre rede for bevegelser i jordas indre og hvilke konsekvenser de har for jordskorpa og jordoverflaten"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 14,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Livet på overflaten gjør jorda enestående blant planetene i vårt solsystem. Ingen av de andre planetene har grunnlag for de livsformene vi kjenner. Magnetfeltet rundt jordkloden skjermer oss mot solvindene (ladde partikler med høy hastighet), ozonlaget beskytter mot UV-stråler, og temperaturforholdene gjør at det finnes vann og is her. Dette er viktige forutsetninger for liv – i alle fall slik vi kjenner det."
+        },
+        {
+          "t": "p",
+          "tekst": "Planeten vår har en lang historie, den ble dannet for ca. 4570 millioner år siden. Det er de samme prosessene som former jordoverflaten i dag som for milliarder av år siden: «The present is the key to the past» er et grunnleggende prinsipp i studiet av jordhistorien."
+        },
+        {
+          "t": "p",
+          "tekst": "maleri av lava som flyter mellom et svart steinete landskap"
+        },
+        {
+          "t": "figur",
+          "nr": "2.1",
+          "tekst": "Jordoverflaten tidlig i jordas urtid, noen få hundre millioner år etter at planeten vår var dannet. Meteorittnedslag var fortsatt vanlig. Jordskorpa har begynt å størkne, men lavasjøer dekker ennå store deler av overflaten. (Bilde av Bogdan Bocianowski)"
+        }
+      ]
+    },
+    {
+      "tittel": "Tverrsnitt over jordas oppbygging fra kjerne til jordoverflate",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Jordas oppbygning"
+        },
+        {
+          "t": "figur",
+          "nr": "2.2",
+          "tekst": "Vi kan dele jorda inn i skorpe, mantel og kjerne."
+        },
+        {
+          "t": "p",
+          "tekst": "Jorda ble altså dannet for ca. 4570 millioner år siden. Etter hvert sank temperaturen på overflaten, og det øverste laget størknet til en fast jordskorpe (figur 2.2). Mye tyder på at det var dannet jordskorpe allerede for ca. 4,4 milliarder år siden. I dag er jordskorpa 5–7 km tykk under havene og til vanlig 30–40 km under kontinentene."
+        },
+        {
+          "t": "p",
+          "tekst": "Under jordskorpa ligger mantelen. Det meste av mantelen består av faste bergarter. Bare unntaksvis og i mindre områder smelter mantelbergartene. Den øvre mantelen går ned til 410 km under jordoverflaten. I overgangssonen mellom 410 og 660 km blir mineraler i mantelbergartene omformet til nye mineraler. Under overgangssonen ligger den nedre mantelen, som går ned til en dybde på 2900 km."
+        },
+        {
+          "t": "p",
+          "tekst": "Helt øverst i den øvre mantelen ligger det et lag som skiller seg fra resten av mantelen. Bergartene her er faste og stive, men likevel forskjellige fra bergartene i jordskorpa over. Denne grensen mellom skorpebergarter og mantelbergarter kalles Moho etter seismologen (seismolog = jordskjelvforsker) Mohorovicic som oppdaget den. Jordskjelvbølger får en mye større hastighet når de passerer denne grensen. Sammen med jordskorpa danner dette laget det vi kaller litosfæren (steinsfæren). Tykkelsen på litosfæren varierer mellom 80 og 200 km, tykkest er den under kontinentene, tynnest under havene."
+        },
+        {
+          "t": "p",
+          "tekst": "Under litosfæren, stadig i den øvre mantelen, ligger astenosfæren («sfæren uten styrke»). Her er mantelbergartene annerledes. De er nær smeltetemperaturen, samtidig som de inneholder forholdsvis mye vann. Det gjør bergartene mykere, og de stive litosfæreplatene glir «lett» oppå den mykere astenosfæren. Astenosfæren har ingen klar nedre grense, men forsvinner gradvis under dybder på ca. 200 km."
+        },
+        {
+          "t": "p",
+          "tekst": "Det tyngste materialet samlet seg i jordas kjerne, som ligger under mantelen. En rask økning i temperatur og tetthet markerer overgangen til den flytende ytre kjernen. Innerst i jorda ligger den indre faste kjernen."
+        }
+      ]
+    },
+    {
+      "tittel": "Platedrift",
+      "side": 17,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Platedrift handler om litosfæreplatenes bevegelse. Platetektonikken er en teori som setter platedrift inn i en større sammenheng. Teorien har i stor grad revolusjonert geologisk tenkning og er i dag allment akseptert. Platetektonikken gjør det mulig å sette jordskjelv, vulkaner og tsunamier inn i en større sammenheng og at vi kan forstå hvilke geologiske prosesser som er virksomme. Det begynte med teorien om kontinentaldrift."
+        }
+      ]
+    },
+    {
+      "tittel": "Kontinentaldrift",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Det var den tyske geofysikeren Alfred Wegener som la fram teorien om kontinentaldrift tidlig på 1900-tallet. Ifølge Wegener var alle kontinentene tidligere samlet i ett stort superkontinent: Pangea. Senere var superkontinentet splittet opp, og kontinentaldriften hadde ført de enkelte kontinentene til de posisjonene de nå har, mente Wegener. Det var en revolusjonerende tanke, men hva kunne drivkraften være? Det klarte ikke Wegener å svare på, og det skulle gå mer enn 50 år før teorien hans om kontinentaldrift fikk ny interesse."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er forskjellen på kontinentaldrift og havbunnsspredning?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Havbunnsspredning",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Undersøkelser av havbunnen i verdenshavene i begynnelsen av 1960-årene avslørte undersjøiske fjellkjeder, det vi kaller midthavsrygger. Det viste seg at havbunnsskorpa var yngst nærmest midthavsryggene, og at den ble eldre ut til sidene. Forskerne fant ut at midthavsryggene var spredningsakser. Det var altså ikke bare kontinentene som flyttet på seg, det gjorde havbunnen også."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva var det som viste at midthavsryggene var spredningsakser?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "I 1960-årene foreslo noen forskere at drivkraften for platedriften kunne være langsomme strømninger i mantelen under litosfæren. Litosfæreplatene flyttet seg som «passasjerer» på toppen av slike mantelstrømmer, mente forskerne."
+        }
+      ]
+    },
+    {
+      "tittel": "Mantelstrømmer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Det meste av mantelen består av faste bergarter. Mantelbergartene under litosfæren er plastiske, som betyr at de kan «strømme» uten å være flytende, slik breis gjør det på jordoverflaten. Det er temperaturforskjeller som setter i gang det vi kaller mantelstrømmer. Varme bergarter er lettere enn kalde. I områder med varm mantel vil derfor bergartene langsomt stige oppover mot jordoverflaten."
+        },
+        {
+          "t": "p",
+          "tekst": "I områder med kald mantel er bergartene kaldere og tyngre enn omgivelsene, og her vil de synke. I begge tilfellene dannes det mantelstrømmer."
+        }
+      ]
+    },
+    {
+      "tittel": "Platetektonikk",
+      "side": 18,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "kart som viser jordens tektoniske plater. De fem verdensdelene er fargekodet. Under kartet vises platene som går fra hverandre, mot hverandre eller gnisser mot hverandre i hver sin retning."
+        },
+        {
+          "t": "figur",
+          "nr": "2.3",
+          "tekst": "Litosfæreplatene på jordoverflaten. Pilene viser retningen platene beveger seg i. Tallene viser farten i centimeter per år."
+        },
+        {
+          "t": "p",
+          "tekst": "Teorien om platetektonikk ble til i slutten av 1960-årene. Den bygde videre på teoriene om kontinentaldrift og havbunnsspredning. Ifølge platetektonikken består jordoverflaten av små og store litosfæreplater som beveger seg i forhold til hverandre (figur 2.3). Noen av dem har kontinentskorpe øverst (kontinentplate), andre har havbunnsskorpe øverst (havbunnsplate). Noen har begge deler."
+        },
+        {
+          "t": "p",
+          "tekst": "Havbunnsplatene blir dannet langs midthavsryggene. Her strømmer magma opp mot jordoverflaten og størkner til ny havbunn som beveger seg ut til sidene, bort fra midthavsryggene. Det sterke presset nedenfra gjør at litosfæren buler litt opp, slik at midthavsryggene rager 3000–5000 meter over dyphavsslettene på sidene. Resultatet blir at havbunnsplata som dannes på midthavsryggen, glir litt «utforbakke», noe som bidrar til platebevegelsen bort fra midthavsryggen."
+        },
+        {
+          "t": "p",
+          "tekst": "Skisse med tverrsnitt av havbunnen. Rød lava ligger under jordskorpen og påvirker fjellformasjoner."
+        },
+        {
+          "t": "figur",
+          "nr": "2.4",
+          "tekst": "Havbunnsspredning er en viktig del av platetektonikken. På midthavsryggen er det dype, langsgående sprekker i havbunnen som viser at havbunnen revner."
+        },
+        {
+          "t": "p",
+          "tekst": "Når de eldre delene av havbunnsplata kolliderer med andre plater, vil de dukke ned i mantelen i subduksjonssoner (subduksjon = nedføring) eller dyphavsgroper, både ute i verdenshavene og langs kontinentkystene (figur 2.4). En tung og synkende havbunnsplate vil trekke resten av litosfæreplata på overflaten mot dyphavsgropa."
+        },
+        {
+          "t": "p",
+          "tekst": "I dag hevder forskerne at det er denne trekkraften som er den viktigste drivkraften for platebevegelsen på jordoverflaten. Nyere undersøkelser bekrefter dette, og du kan lese om det i neste kapittel, som handler om manteldynamikk."
+        },
+        {
+          "t": "p",
+          "tekst": "Finn fram til midthavsrygger og dyphavsgroper på Google Earth. Zoom inn, skråstill og snu rundt! Gi noen eksempler."
+        },
+        {
+          "t": "p",
+          "tekst": "Ennå er det mye forskerne ikke forstår når det gjelder de – bokstavelig talt – underliggende årsakene til at litosfæreplatene beveger seg. Men platetektonikken er fortsatt viktig for forståelsen av platenes bevegelser og hva det fører med seg i form av jordskjelv, vulkanutbrudd og tsunamier. GPS-målinger gjør det mulig å beregne hastighetene for ulike plater. De beveger seg opp til noen centimeter i løpet av ett år (se figur 2.3)."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva tror du de røde og de blå pilene i figur 2.4 betyr?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Naturvitenskapelig metode",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I geofag er observasjoner og datainnsamling i naturen eller laboratoriet grunnlag for utvikling av nye teorier. Teorier utvikles gjennom en serie av trinn som systematisk analyserer problemet som skal løses. Vi kaller det naturvitenskapelig metode."
+        },
+        {
+          "t": "p",
+          "tekst": "Det første forskerne gjør for å finne forklaringen på et fenomen, er å samle inn data og lete etter mønstre og sammenhenger i observasjonsmaterialet. Dersom slike finnes, gir det grunnlag for en foreløpig forklaring, en hypotese (hypotese = foreløpig antagelse)."
+        },
+        {
+          "t": "p",
+          "tekst": "For at hypotesen ikke skal forkastes, må nye observasjoner passe med modellen. Hypotesen må testes. Den må også kunne forutsi hva som vil skje under gitte forutsetninger. Dersom hypotesen blir bekreftet i ulike situasjoner og av forskjellige forskere, befester den sin stilling og blir mer troverdig. Når en hypotese har vist seg å holde stikk over lengre tid, uten å svikte en eneste gang, omtaler vi den som en teori."
+        },
+        {
+          "t": "p",
+          "tekst": "Teorien om platetektonikk (fra latin, tectonicus = byggmester) er et eksempel på en teori. Den sier at jorda er delt inn i litosfæreplater som beveger seg i forhold til hverandre. Platene er i gjennomsnitt 100 km tykke og består av jordskorpa og den øvre faste delen av mantelen. Platetektonikken setter geologiske prosesser inn i en større sammenheng, og den er i dag grunnleggende for vår forståelse av jordskjelv, vulkanutbrudd og hvordan fjellkjeder og havbunn oppstår."
+        },
+        {
+          "t": "p",
+          "tekst": "Men naturvitenskapelige teorier er ikke nødvendigvis uten feil. Nye observasjoner kan føre til at teorier må forkastes og nye konstrueres. Det gjelder teorien som forklarer hvordan planeten jorda er dannet, men også teorien om platetektonikk."
+        }
+      ]
+    },
+    {
+      "tittel": "Det platetektoniske kretsløpet",
+      "side": 20,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "En litosfæreplate består av jordskorpa og den øvre, faste delen av mantelen. Det kaller vi litosfæren. Litosfæreplater som har kontinental skorpe øverst, kaller vi kontinentplater. Havbunnsplater har havbunnsskorpe øverst."
+        },
+        {
+          "t": "p",
+          "tekst": "Vi tror at platetektonikk har vært en viktig del av jordas geologiske historie de siste to til tre milliarder årene – kanskje enda lenger. Store og små litosfæreplater har flyttet seg rundt på jordoverflaten. Noen ganger har de alle vært samlet i ett kontinent – et superkontinent. Etter en tid sprekker superkontinentet opp, og nye kontinenter og verdenshav oppstår. Så vil verdenshavene igjen lukkes, og kontinentene samles i et annet superkontinent. Dette skjer i det platetektoniske kretsløpet. Det siste superkontinentet på jordoverflaten var Pangea, som ble dannet for ca. 300 millioner år siden. Litt over 100 millioner år senere var også dette kontinentet brutt opp i ulike litosfæreplater som i dag flytter seg rundt på jordas overflate."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Har det noen gang levd mennesker på et superkontinent?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Manteldynamikk",
+      "side": 21,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I løpet av de siste hundre årene har det skjedd store endringer i vår forståelse av litosfæreplatenes bevegelser, men mye gjenstår fortsatt før vi forstår det som foregår i jordas mantel. Manteldynamikk handler om prosesser og bevegelser i mantelen. Dynamikk betyr «noe som har med bevegelse å gjøre», og det som strømmer i mantelen, er mantelmateriale (se boks på side 17). Mantelstrømmene settes i sammenheng med både jordskjelv og vulkanisme på jordoverflaten. Men hva er det som driver mantelstrømmene?"
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor dypt under jordoverflaten ligger mantelen?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Temperaturfordelingen i mantelen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I dag kan forskerne kartlegge den omtrentlige temperaturfordelingen i mantelen ved hjelp av jordskjelvbølger. Bølgene har nemlig høyere hastighet i kald mantel enn i varm. Etter et jordskjelv kommer bølgene fram til en jordskjelvstasjon på jordoverflaten tidligere enn normalt dersom de har passert kald mantel på sin vei fra jordskjelvets sentrum. Har de passert varm mantel, kommer de senere. Ved å studere bølgene fra flere jordskjelv kan man kartlegge de varme og de kalde områdene i mantelen."
+        }
+      ]
+    },
+    {
+      "tittel": "Lavhastighetsområder",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Kartlegging av temperaturfordelingen i mantelen ved hjelp av jordskjelvbølger kalles seismisk tomografi (tomografi = todimensjonalt bilde av en indre struktur). Den viser at det ligger to store lavhastighetsområder nederst i mantelen, like over den ytre jordkjernen (figurene 2.5 og 2.6). Det ene området ligger under Afrika, det andre under Stillehavet. I de to lavhastighetsområdene er mantelen ekstra varm. Varmen kommer fra jordkjernen, og den virker som en kokeplate på mantelen over."
+        }
+      ]
+    },
+    {
+      "tittel": "Strømningsmønsteret i mantelen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "2.5",
+          "tekst": "Platetektonikk og hvor de to store lavhastighetsområdene ligger i mantelen. Røde grenser er spredningsakser, grønne er subduksjonssoner (dyphavsgroper), og pilene angir størrelse og retning på platebevegelsene. De oransje områdene er de to lavhastighetsområdene under Stillehavet og Afrika."
+        }
+      ]
+    },
+    {
+      "tittel": "Høyhastighetsområdet",
+      "side": 22,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Mellom lavhastighetsområdene ligger et belte med kald mantel (se figur 2.6). Dette er høyhastighetsområdet, der altså jordskjelvbølgene har høy hastighet. Temperaturen er lavere i denne delen av mantelen fordi kalde og tunge rester av havbunnsplater har sunket ned under dyphavsgroper."
+        },
+        {
+          "t": "p",
+          "tekst": "Høyhastighetsområdet er et sirkumpolart belte, som betyr at beltet går jorda rundt under begge polpunktene. Beltet passerer under Nordpolen, den østlige delen av Asia, Australia, Sørpolen og Sør- og Nord-Amerika."
+        }
+      ]
+    },
+    {
+      "tittel": "Tverrsnitt av jordkloden, med mantelstrømmer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "2.6",
+          "tekst": "Snitt gjennom jorda ved ekvator som viser de to lavhastighetsområdene (med oransje farge) og strømningsmønsteret i mantelen (røde og blå piler). Platenes bevegelse er angitt med rette fiolette piler. Grensen mot den nedre mantelen ligger 660 km under jordoverflaten."
+        }
+      ]
+    },
+    {
+      "tittel": "Strømningsmønsteret i mantelen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Som figur 2.6 viser, er strømningsmønsteret i jordas mantel i hovedsak preget av stigende mantelstrømmer over de to store lavhastighetsområdene under Afrika og Stillehavet og synkende mantelstrømmer i et sirkumpolarbelte gjennom Arktis, Asia, Australia, Antarktis og Sør- og Nord-Amerika."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er ikke noen dype, oppadgående mantelstrømmer under midthavsryggene. Det skjer heller en mer «passiv» oppstrømming av mantelmateriale fordi havbunnsplatene beveger seg fra hverandre. Noen steder på jordoverflaten er det til og med slik at litosfæreplatene beveger seg i motsatt retning av den framherskende retningen på mantelstrømmene under. Det gjør det vanskelig å tro at mantelstrømmer er den viktigste drivkraften for platebevegelsene."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva skjer i mantelen?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Studer figur 2.6."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor på figuren ligger lavhastighetsområdene i mantelen?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor ligger det sirkumpolare høyhastighetsbeltet på figuren?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan ligger høyhastighetsområdet i forhold til dyphavsgropene?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan er strømningsbildet i mantelen under midthavsryggene?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor på figuren finner du «kirkegårdene» for havbunnsplater?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Verdenskart der det er merket av Columbiaplatået, Sibirplatået og Deccanplatået",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Søylestrømmer, hotspots og basaltprovinser"
+        },
+        {
+          "t": "p",
+          "tekst": "Langs yttergrensene av de to lavhastighetsområdene, under Afrika og Stillehavet, oppstår det termiske (termisk: noe som har med temperatur å gjøre) oppdriftsstrømmer eller søylestrømmer (se figurene 2.5 og 2.6). Søylestrømmene har sitt opphav nederst i mantelen, like over den ytre jordkjernen. Store temperatur- og trykkforskjeller gjør at varme mantelbergarter river seg løs og stiger oppover i mantelen som en seig, plastisk masse. De stiger fordi de er varmere og lettere enn mantelen omkring."
+        },
+        {
+          "t": "p",
+          "tekst": "Trykket minker når mantelbergartene nærmer seg jordoverflaten, og det gjør at smeltetemperaturen for bergartene synker. Like under litosfæren blir smeltetemperaturen så lav at de varme mantelbergartene i søylestrømmen smelter til magma. Et slikt smelteområde kaller vi en hotspot. Magmaet samler seg i magmakamre i jordskorpa, før det strømmer videre opp til vulkaner på jordoverflaten."
+        },
+        {
+          "t": "p",
+          "tekst": "Dersom hotspoten ligger under et kontinent, kan kraftige vulkanutbrudd føre til omfattende sprekkdannelser i jordskorpa. Fra slike sprekker, eller rifter, kan magma strømme ut på jordoverflaten og dekke store områder med den vulkanske bergarten basalt. Deccan-platået i India, Columbia-platået i USA og Sibir-platået i Russland er eksempler på det. Deccan-platået dekker 500 000 km2, og basaltlaget kan være opptil 3000 meter tykt."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Tror du det tar hundrevis av år, tusenvis av år eller millioner av år å bygge opp et platå som Deccan-platået?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Dersom hotspoten ligger under en havbunnsplate, kan den vulkanske aktiviteten føre til at det oppstår en rekke av vulkanøyer. Gamle vulkanøyer følger med havbunnsplata, som beveger seg sakte over søylestrømmen, samtidig som nye vulkanøyer bygger seg opp fra havbunnen. Hawaii er et eksempel. (Se figurene 4.8 og 4.9 i kapittel 4.)"
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hawaii ligger over en søylestrøm. Søk med «Hawaii» som søkeord på Google Earth. Zoom, skråstill og snurr rundt. Hvilke observasjoner gjør du?",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Det platetektoniske kretsløpet",
+      "poster": [
+        {
+          "q": "Hvilke tre hoveddeler kan vi dele jorda inn i?",
+          "f": ""
+        },
+        {
+          "q": "Hva er Moho?",
+          "f": ""
+        },
+        {
+          "q": "Hva består litosfæreplatene av?",
+          "f": ""
+        },
+        {
+          "q": "Hva er astenosfæren?",
+          "f": ""
+        },
+        {
+          "q": "Hvor ligger mantelen?",
+          "f": ""
+        },
+        {
+          "q": "Hva er mantelstrømmer?",
+          "f": ""
+        },
+        {
+          "q": "Hva la Alfred Wegener i begrepet «kontinentaldrift» da han lanserte det tidlig på 1900-tallet?",
+          "f": ""
+        },
+        {
+          "q": "Hva er havbunnsspredning?",
+          "f": ""
+        },
+        {
+          "q": "Kjenner du et annet ord for subduksjonssone?",
+          "f": ""
+        },
+        {
+          "q": "Hva handler platetektonikken om, og hva er forskjellig fra kontinentaldrift og havbunnsspredning?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen på observasjoner, en hypotese og en teori?",
+          "f": ""
+        },
+        {
+          "q": "Er en «naturlov» en hypotese, en teori eller noe annet?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Det platetektoniske kretsløpet",
+      "poster": [
+        {
+          "q": "Hva legger du i setningen «The present is the key to the past»?",
+          "f": ""
+        },
+        {
+          "q": "Havbunnsskorpe dannes langs midthavsryggene og forsvinner ned i dyphavsgropene. Hvor og hvordan tror du kontinentskorpe dannes og ødelegges?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken rolle spiller tyngdekraften i platebevegelsen?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "oppgave",
+      "overskrift": "OPPGAVE",
+      "side": null,
+      "del": "Det platetektoniske kretsløpet",
+      "poster": [
+        {
+          "q": "Platetektonikk – se filmen på geofag på aunivers.lokus.no, gjør observasjoner og forklar hva du ser.",
+          "f": ""
+        },
+        {
+          "q": "Les først gjennom «Om filmen», «Sentrale begreper» og «Oppgaver til filmen». Spørsmålene antyder hva du skal se etter. Slå av lyden og spill filmen, stopp og spill om igjen ved behov. Gjør notater og forsøk til slutt å kommentere filmen sammenhengende med støtte i notatene. Til slutt kan du sette lyden på og høre om du har tolket bildene riktig.",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 24,
+      "del": "Verdenskart der det er merket av Columbiaplatået, Sibirplatået og Deccanplatået",
+      "poster": [
+        {
+          "q": "Hva er manteldynamikk?",
+          "f": ""
+        },
+        {
+          "q": "Hva brukes seismisk tomografi til?",
+          "f": ""
+        },
+        {
+          "q": "Hva særmerker et lavhastighetsområde i mantelen?",
+          "f": ""
+        },
+        {
+          "q": "Hvor i mantelen ligger lavhastighetsområdene?",
+          "f": ""
+        },
+        {
+          "q": "Hvor i mantelen ligger høyhastighetsområdet?",
+          "f": ""
+        },
+        {
+          "q": "Hvor dannes det termiske oppdriftsstrømmer?",
+          "f": ""
+        },
+        {
+          "q": "Hva er en søylestrøm?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Verdenskart der det er merket av Columbiaplatået, Sibirplatået og Deccanplatået",
+      "poster": [
+        {
+          "q": "Hvordan er Hawaii-øyene dannet?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken sammenheng er det mellom basaltprovinser på jordoverflaten og lavhastighetsområdene i mantelen?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan påvirker lavhastighetsområdene og høyhastighetsområdet strømningene i mantelen?",
+          "f": ""
+        },
+        {
+          "q": "Hva er det som «overrasker» i figur 2.6 når det gjelder bevegelsen til litosfæreplatene?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": null,
+      "del": "Verdenskart der det er merket av Columbiaplatået, Sibirplatået og Deccanplatået",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "Nedenfor finner du noen faguttrykk som du har støtt på når du har lest kapittel 2. De er samlet i grupper på tre. Oppgaven går ut på å finne et faguttrykk (eller ord) fra hver gruppe som ikke passer inn – du skal finne ett som «skal ut».",
+          "f": ""
+        },
+        {
+          "q": "Det er viktig å begrunne valget ditt. Noen ganger kan det være flere mulige løsninger – med ulike begrunnelser. Løs oppgaven sammen med andre, og diskuter svarene.",
+          "f": ""
+        },
+        {
+          "q": "Her er først et eksempel:",
+          "f": ""
+        },
+        {
+          "gruppe": "Vi ser på faguttrykkene"
+        },
+        {
+          "q": "riftdal – dyphavsgrop – fjellkjede",
+          "f": ""
+        },
+        {
+          "q": "Her er det riftdal som går ut. En riftdal dannes der to plater glir fra hverandre. En dyphavsgrop og en fjellkjede dannes der to plater kolliderer.",
+          "f": ""
+        },
+        {
+          "q": "jordskorpe – astenosfære – mantel",
+          "f": ""
+        },
+        {
+          "q": "spredningsakse – dyphavsgrop – kollisjonssone",
+          "f": ""
+        },
+        {
+          "q": "kollisjonssone – platedrift – midthavsrygg",
+          "f": ""
+        },
+        {
+          "q": "kontinentaldrift – platedrift – platetektonikk",
+          "f": ""
+        },
+        {
+          "q": "litosfæreplate – kontinent – kontinentplate",
+          "f": ""
+        },
+        {
+          "q": "spredningsakse – midthavsrygg – dyphavsgrop",
+          "f": ""
+        },
+        {
+          "q": "subduksjonssone – hotspot – dyphavsgrop",
+          "f": ""
+        },
+        {
+          "q": "midthavsrygg – dyphavsgrop – hotspot",
+          "f": ""
+        },
+        {
+          "q": "riftdal – øybue – kollisjonssone",
+          "f": ""
+        },
+        {
+          "q": "skjoldvulkan – kollisjonssone – hotspot",
+          "f": ""
+        },
+        {
+          "q": "søylestrøm – mantelstrøm – seismisk tomografi",
+          "f": ""
+        },
+        {
+          "q": "basaltprovins – hotspot – søylestrøm",
+          "f": ""
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "Når det ikke lenger strømmer varme opp fra jordas indre, er det slutt på jordskjelv og vulkanutbrudd.",
+          "f": ""
+        },
+        {
+          "q": "Det er jordskorpa som er delt opp i plater.",
+          "f": ""
+        },
+        {
+          "q": "Kontinentaldrift er det samme som platedrift.",
+          "f": ""
+        },
+        {
+          "q": "Det dannes ny jordskorpe på midthavsryggene.",
+          "f": ""
+        },
+        {
+          "q": "Midthavsryggene ligger alltid under havet.",
+          "f": ""
+        },
+        {
+          "q": "Havbunnen kan være flere milliarder år gammel.",
+          "f": ""
+        },
+        {
+          "q": "Platene kan flytte seg flere meter i løpet av et år.",
+          "f": ""
+        },
+        {
+          "q": "En havbunnsplate er også en litosfæreplate.",
+          "f": ""
+        },
+        {
+          "q": "Mantelen og litosfæren er to ulike deler av jordkloden.",
+          "f": ""
+        },
+        {
+          "q": "Platetektonikk handler om platedrift.",
+          "f": ""
+        },
+        {
+          "q": "Tyngdekraften er viktig for litosfæreplatenes bevegelse.",
+          "f": ""
+        },
+        {
+          "q": "Seismisk tomografi kartlegger temperaturforholdene i mantelen.",
+          "f": ""
+        },
+        {
+          "q": "Litosfæreplatene beveger seg sakte i lavhastighetsområdene.",
+          "f": ""
+        },
+        {
+          "q": "Søylestrømmer danner basaltprovinser på jordoverflaten.",
+          "f": ""
+        },
+        {
+          "gruppe": "Hver av øyene i Hawaii-øyrekken har en aktiv vulka"
+        },
+        {
+          "gruppe": "Søyle- og mantelstrømmer"
+        },
+        {
+          "q": "Hvilken påstand er riktig? Hvorfor er de to andre alternativene ikke riktige?",
+          "f": ""
+        },
+        {
+          "q": "En søylestrøm er en mantelstrøm.",
+          "f": ""
+        },
+        {
+          "q": "En mantelstrøm er en søylestrøm.",
+          "f": ""
+        },
+        {
+          "q": "Søylestrømmer består av flytende steinmasser.",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "Jorda er lagdelt. Vi kan dele den i tre deler: skorpe, mantel og kjerne.",
+    "Litosfæren består av jordskorpa og den øverste faste delen av mantelen, litosfæren er 80–200 km tykk.",
+    "Under litosfæren finner vi astenosfæren, der mantelbergartene er nær smeltetemperatur.",
+    "Mantelstrømmer er faste mantelbergarter som «strømmer».",
+    "Platetektonikken handler om litosfæreplater som beveger seg i forhold til hverandre.",
+    "Forskerne mener det er trekkraften fra havbunnsplater som synker ned i mantelen, som er den viktigste drivkraften i platetektonikken.",
+    "Pangea er det yngste superkontinentet – men det har vært flere.",
+    "Manteldynamikken forsøker å se platetektonikken på jordas overflate i sammenheng med prosesser i jordas mantel.",
+    "Seismisk tomografi avdekker temperaturforholdene i jordas mantel.",
+    "Nederst i mantelen ligger det to store varme områder, like over jordkjernen, på hver sin side av jorda.",
+    "Søylestrømmer er termiske oppstrømmer som dannes i utkanten av de varme områdene, på grensen mellom jordkjernen og den nedre mantelen.",
+    "Hotspoter er varme områder like under litosfæren, der bergartene i søylestrømmer smelter til magma som en følge av at trykket minker.",
+    "Søylestrømmer som når opp til jordoverflaten, kan der danne store basaltprovinser.",
+    "En hotspot kan føre til at det dannes vulkanske øyrekker når en havbunnsplate glir over hotspoten. Eller den kan bidra til at et kontinent sprekker opp dersom hotspKapittel 1"
+  ]
+}

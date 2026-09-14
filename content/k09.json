@@ -1,0 +1,1064 @@
+{
+  "nr": 9,
+  "tittel": "Geologiske ressurser på land",
+  "forsteside": 128,
+  "sisteside": 149,
+  "laereplan": [
+    "utforske berggrunn, løsmasser og jordarter lokalt, og tolke observasjonene for å beskrive områdets geologiske historie og betydning for lokale ressurser",
+    "gjøre rede for danning, kartlegging og utvinning av geologiske ressurser nasjonalt og globalt og drøfte konsekvenser av å utvinne og utnytte disse i et bærekraftsperspektiv"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 128,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Larvikitt er en vanlig bergart i den sørlige delen av Oslofeltet. Her utgjør den en stor del av berggrunnen i Gea Norvegica UNESCO Global Geopark. Larvikitt er sammen med rombeporfyr svært sjeldne bergarter på jordoverflaten. Begge to er magmatiske bergarter, larvikitten er en dypbergart og rombeporfyren en dagbergart (eller en gangbergart), og de er dannet fra det samme magmaet."
+        },
+        {
+          "t": "p",
+          "tekst": "Uttak av mineraler, metaller og byggeråstoffer (mineralske ressurser) har skapt grunnlag for både næringsutvikling og bosetting mange steder i Norge. Ikke minst langs kysten har gode havner og utskiping gjort det mulig å eksportere mye av produksjonen til andre land. Men også i innlandet har det vokst fram små samfunn som er basert på uttak av mineralske ressurser og på bergverksindustri."
+        },
+        {
+          "t": "p",
+          "tekst": "En steinskulptur former en snodd ring der deler av larvikittsteinen er polert blank og delvis upolert og grov står ved havet i solnedgang"
+        },
+        {
+          "t": "figur",
+          "nr": "9.1",
+          "tekst": "Larvikitt ble i 2008 kåret til Norges nasjonalstein."
+        }
+      ]
+    },
+    {
+      "tittel": "En hånd holder frem en blanding av knust metall og plast som har kommet ut av en kvern",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Mineralressurser"
+        },
+        {
+          "t": "figur",
+          "nr": "9.2",
+          "tekst": "Mineralske råstoffer blir i økende grad gjenvunnet. Dette er en knust mobiltelefon, og det er mye å hente her. Ett tonn mobiltelefoner inneholder omtrent 300 gram gull, 3 kilogram sølv, 100 gram kobber og sjeldne metaller som platina, ruthenium, indium og vismut"
+        },
+        {
+          "t": "p",
+          "tekst": "Mineralressurser er ikke-fornybare ressurser, eller lagerressurser. Vi skiller mellom fem ulike grupper av mineralressurser som tas ut i norske bergverk:"
+        },
+        {
+          "t": "p",
+          "tekst": "Naturstein (blant annet larvikitt, granitt, marmor og skifer)"
+        },
+        {
+          "t": "p",
+          "tekst": "Byggeråstoffer (sand, grus, pukk)"
+        },
+        {
+          "t": "p",
+          "tekst": "Industrimineraler er mineraler som brukes i industrien (blant annet olivin, nefelinsyenitt, kvarts, kalkstein og dolomittstein)."
+        },
+        {
+          "t": "p",
+          "tekst": "Metalliske malmer er bergarter som inneholder så mye metall at de gir grunnlag for lønnsom drift (jern, nikkel og ilmenitt (titanjernstein))."
+        },
+        {
+          "t": "p",
+          "tekst": "Energimineraler er mineraler som kan brukes til energiproduksjon, og omfatter fossile brensler som kull, råolje og naturgass."
+        },
+        {
+          "t": "p",
+          "tekst": "Vi vil alltid leve i en «steinalder». Et moderne samfunn kan ikke klare seg uten bruk av mineraler. Naturstein brukes som fasadestein eller bygningsstein, sand og grus til betong, pukk til veier og kalkstein til sement og papir. Jernmalm brukes til produksjon av jern, og stål og kull brukes i metallurgisk industri. Mobiltelefoner (figur 9.2), elbiler, vindmøller og solcellepaneler er andre eksempler på produkter som krever tilgang på mange ulike og noen sjeldne mineraler. I gjennomsnitt forbruker hver person her i landet fra 10 til 15 tonn mineraler årlig."
+        }
+      ]
+    },
+    {
+      "tittel": "Bergindustrien",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Norge har en variert berggrunn med store ressurser av mineralske råstoffer, men ressurser er ikke det samme som reserver. Mineralreserver er kjente forekomster som er i produksjon, eller som det er besluttet å sette i produksjon. Mineralressurser omfatter i tillegg kjente forekomster der det ikke er besluttet å sette i gang produksjon. Lønnsomhet er avgjørende for om en mineralressurs settes i produksjon eller ikke."
+        },
+        {
+          "t": "p",
+          "tekst": "Norges geologiske historie har vært avgjørende for hvilke geologiske ressurser vi finner i ulike deler av landet. Grunnfjellet, som er bygd opp gjennom utallige fjellkjedefoldninger i prekambrium, inneholder for eksempel mye mineraler og bergarter som er nær knyttet til platetektoniske prosesser. Det samme gjelder for den kaledonske foldesonen langs vestkysten av landet."
+        },
+        {
+          "t": "p",
+          "tekst": "Helt tilbake til 1600-tallet har bergverksdrift vært en viktig del av norsk næringsliv, og den er i dag blant de eldste eksportindustriene i landet. Gjennom lang tid var det de metalliske malmene (for eksempel jern og kobber) som hadde størst økonomisk betydning i den norske bergindustrien. I metalliske malmer inneholder mineralene så mye metall at det gir grunnlag for lønnsom drift. Slik var det helt fram mot det siste århundreskiftet. I dag er det byggeråstoffer som gir de største inntektene."
+        }
+      ]
+    },
+    {
+      "tittel": "Naturstein",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Naturstein er betegnelse på stein som kan sages, spaltes eller hogges til bruk på utearealer, i bygninger og i monumenter. Den inndeles i blokkstein, skifer og murestein. Blokkstein tas ut, som navnet sier, i store massive steinblokker. Skifer produseres fra bergarter som lett lar seg spalte i tynne flak eller heller, som for eksempel leirskifre, sandsteiner, granitter eller gneiser. Murestein er uthogd stein fra harde bergarter som brukes til å bygge tørrmurer uten bruk av mørtel."
+        }
+      ]
+    },
+    {
+      "tittel": "Blokkstein",
+      "side": null,
+      "blokker": [
+        {
+          "t": "tenk",
+          "tekst": "Er all stein naturstein?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Norsk blokkstein har til vanlig god kvalitet. Den viktigste grunnen er at Norge har vært dekket av is i istidene. Innlandsisen eroderte berggrunnen og høvlet bort det øverste laget med sprekker og forvitret fjell. Det gjør at stein av god kvalitet ofte ligger lett tilgjengelig."
+        }
+      ]
+    },
+    {
+      "tittel": "En grå stein med lilla sjattering og svarte spetter",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "9.3",
+          "tekst": "Ubehandlet larvikitt er en grovkornet dypbergart."
+        }
+      ]
+    },
+    {
+      "tittel": "Et steinbrudd med store firkantede blokker skåret ut av det lysegrå fjellpartiet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "9.4",
+          "tekst": "Larvikittbrudd, Klåstadbruddet i Larvik – produksjon av blokkstein"
+        }
+      ]
+    },
+    {
+      "tittel": "Larvikitt",
+      "side": 133,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I perm, for snaut 300 millioner år siden, var det sterk vulkansk aktivitet i Oslofeltet. Magma som trengte opp fra dypet, størknet nede i jordskorpa, i tilførselsganger til vulkaner eller på jordoverflaten."
+        },
+        {
+          "t": "p",
+          "tekst": "Larvikitt er en magmatisk dypbergart. Den ble dannet dypt nede i jordskorpa, i store magmakamre 30–40 km under jordoverflaten. Magmaet størknet langsomt, feltspatkrystaller vokste seg store, og larvikitten ble en grovkornet dypbergart (figur 9.3)."
+        },
+        {
+          "t": "p",
+          "tekst": "Senere har de ytre kreftene slitt ned landoverflaten, og larvikitten har kommet fram i dagen sør i Vestfold og Telemark. Larvikitt tas ut som blokkstein, som for eksempel i Klåstadbruddet i Tjølling i Larvik kommune (figur 9.4)."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Er blokkstein en bestemt bergart?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Larvikitten kan være lys eller mørk, og mineralinnholdet kan variere noe. Feltspat er det dominerende mineralet. Når lyset brytes og reflekteres i feltspatkrystallene i spesielle retninger og under spesielle lysforhold, oppstår det ofte et vakkert, blått fargespill (figur 9.5.) Det gjør den attraktiv som dekorstein."
+        },
+        {
+          "t": "p",
+          "tekst": "Lysspill i krystaller i overflaten av bergarten larvikitt. 2X forstørret."
+        },
+        {
+          "t": "figur",
+          "nr": "9.5",
+          "tekst": "Fargespill i krystaller i overflaten på polert larvikitt"
+        },
+        {
+          "t": "p",
+          "tekst": "I Larvikområdet er det store ressurser med larvikitt av god kvalitet, stein med lite eller ingen sprekker og fine farger. Av steinen som brytes, er det likevel en stor del (80–90 prosent) som er såkalt skrotstein som ikke egner seg til videre bearbeiding."
+        },
+        {
+          "t": "p",
+          "tekst": "Tidligere ble skrotsteinen betraktet som ubrukelig avfall, men i dag er den en ressurs. Noe av skrotsteinen har gjennom mange år blir eksportert til England der den blir brukt som kystsikringsstein for å hindre bølgeerosjon på kysten. Men stadig mer av skrotsteinen blir i dag brukt til andre produkter, som trapper, murestein og heller, eller den blir knust til pukk."
+        }
+      ]
+    },
+    {
+      "tittel": "Skifer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Skifer kommer fra bergarter som lett lar seg spalte i tynne flak langs naturlige spalteflater (figur 9.6). Skifrigheten er ofte et resultat av en moderat omdanning av sedimentære bergarter som sandstein eller leirskifer. Skiferbruddene finner vi gjerne litt i utkanten av den kaledonske foldesonen, der omdanningen av bergartene ikke har vært altfor sterk."
+        },
+        {
+          "t": "p",
+          "tekst": "skarpe, flate, skifrede, mørkegrå, steinblokker i en haug"
+        },
+        {
+          "t": "figur",
+          "nr": "9.6",
+          "tekst": "Skifer"
+        },
+        {
+          "t": "p",
+          "tekst": "De vanligste skifrene er pressede sandsteiner (kvartssandstein), som for eksempel i Oppdal og Alta, eller fyllitter (Otta) og glimmerskifre (Jondalen i Hardanger). Skifer brukes til hellelegging, til tørrmurer og som beklednings- og dekorstein. Om lag en tredel av skiferproduksjonen eksporteres, og den slitesterke norske kvartsskiferen regnes som særlig egnet på arealer med stor trafikk."
+        },
+        {
+          "t": "p",
+          "tekst": "Er skifer en bestemt bergart? Begrunn svaret."
+        }
+      ]
+    },
+    {
+      "tittel": "Byggeråstoffer – sand, grus og pukk",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Byggeråstoffer tas ut fra fjell ved sprengning eller fra naturlige sand- og grusavsetninger (figur 9.7). Sand, grus og pukk har de siste tiårene fått stadig større økonomisk betydning, og i dag er det produksjonen av pukk, grus og sand som gir de største inntektene i bergindustrien."
+        },
+        {
+          "t": "p",
+          "tekst": "Om lag halvparten av produksjonen av byggeråstoffer går til veier, mens rundt 20 prosent går til betongproduksjon. En tredel går til andre formål, som fyllmasse, planering av anleggsområder og underlag for rørledninger på norsk kontinentalsokkel."
+        },
+        {
+          "t": "p",
+          "tekst": "En sandrygg, bestående av ulike jordlag og sand som en stor beige haug med vegetasjon på toppen"
+        },
+        {
+          "t": "figur",
+          "nr": "9.7",
+          "tekst": "Monaryggen er en tre–fire kilometer lang sand- og grusås på grensen mellom kommunene Eidsberg og Trøgstad. Ryggen ble dannet i slutten av siste istid i forbindelse med avsmeltningen (Ås-Ski-trinnet) for ca. 11 000 år siden (se også figur 17.8). Monaryggen ruver 80 meter over terrenget rundt."
+        },
+        {
+          "t": "p",
+          "tekst": "Masseuttak og asfaltverk under vegbygging og legging av fast dekke. Produksjon av pukk, grus og sand med en gul gravemaskin."
+        },
+        {
+          "t": "figur",
+          "nr": "9.8",
+          "tekst": "Pukk, grus og sand"
+        }
+      ]
+    },
+    {
+      "tittel": "Sand og grus",
+      "side": 137,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Sand og grus er «naturlig» knust stein. Erosjonsprosesser som forvitring og bre- og elveerosjon har løsnet materialet fra berggrunnen. De største forekomstene er avsatt av smeltevannet på slutten av siste istid og noe av elvene etter siste istid. Etterspørselen er stor, og i dag kan vi ikke lenger betrakte sand og grus som ubegrensede ressurser her i landet. Likevel skjer det ofte at områder med gode forekomster av grusavsetninger bygges ned og brukes til andre formål."
+        },
+        {
+          "t": "p",
+          "tekst": "Noen steder inneholder grusavsetningene store mengder grunnvann som kan brukes til vannforsyning. Andre steder brukes avsetningene som mottaker (resipient) for avløpsvann. Sand og grus har stor renseeffekt og renser avløpsvann effektivt over korte avstander."
+        }
+      ]
+    },
+    {
+      "tittel": "Pukk",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Pukk er maskinknust stein (figur 9.8). Steinressursene som kan knuses til pukk, er de fleste steder så store at de ikke blir oppbrukt i overskuelig framtid. Prekambriske grunnfjellsbergarter (gneis og granitt), kambrosiluriske bergarter, permiske lavaer og dypbergarter i Oslofeltet og devonske sandsteiner på i Ålfoten i Vestland fylke er bergarter som brukes til produksjon av pukk."
+        },
+        {
+          "t": "p",
+          "tekst": "Pukk er dyrere å produsere enn sand og grus siden fast fjell må sprenges ut og knuses. Likevel utgjør pukk en økende andel av forbruket av byggeråstoffer. Det har sammenheng med lokal knapphet på sand og grus og at det stilles kvalitetskrav til byggeråstoffer som naturlig sand og grus ikke alltid dekker. På grunn av store transportkostnader foregår mye av pukkproduksjonen i nærheten av området der pukken skal brukes."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er et økende behov for pukk til bygge- og anleggsformål i europeiske land, så eksporten av pukk fra Norge har derfor økt betydelig de siste årene. I mange land i Europa er det mangel på byggeråstoffer av god kvalitet til vei- og betongformål. Fra pukkverk som ligger langs norskekysten, skipes det store mengder pukk til land som Tyskland, Danmark, Nederland, England, Polen og Russland og til landene i Baltikum."
+        }
+      ]
+    },
+    {
+      "tittel": "Industrimineraler",
+      "side": 138,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Industrimineraler er mineraler og bergarter som på grunn av sine fysiske, kjemiske og ikke-metalliske egenskaper er råstoff (eller tilsettingsstoffer) i industrien. Anvendelsesområdene er mange. En rekke av de produktene vi omgir oss med til daglig, inneholder industrimineraler. Det gjelder papir, plast, keramikk, glass og maling."
+        },
+        {
+          "t": "p",
+          "tekst": "De viktigste produktene er kalksteinsprodukter, olivin, nefelinsyenitt og kvartsitt i ulike kvaliteter. Norge er blant verdens ledende produsenter av industrimineralene olivin og nefelinsyenitt."
+        }
+      ]
+    },
+    {
+      "tittel": "Kalkstein",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Bergarten kalkstein er bygd opp av mineralet kalkspat. Kalkspat er et av de vanligste industrimineralene."
+        },
+        {
+          "t": "p",
+          "tekst": "Kalkstein brukes også til framstilling av kalksteinsslurry (oppmalt kalkstein blandet med vann), som brukes til fyllstoff i papirproduksjon. Det er også en stor produksjon av kalk til andre formål, som sement, brent kalk, miljøkalk og jordbrukskalk. Kalkstein er råstoff for sementproduksjonen ved Norcems sementfabrikk i Brevik."
+        },
+        {
+          "t": "p",
+          "tekst": "Bergarten som er bygd opp av mineralet dolomitt, bærer det samme navnet. Dolomitt har mye til felles med kalkspat, men i tillegg til kalk inneholder det magnesium. Det meste av den norske dolomittproduksjonen blir brukt til å produsere magnesium. Norsk Hydro, en av verdens største magnesiumprodusenter, framstiller magnesium på Herøya ved Porsgrunn. Dolomitt brukes dessuten i produksjon av glass-, plast- og malingsprodukter og som bygningsstein når den tas ut i blokker."
+        },
+        {
+          "t": "p",
+          "tekst": "Store mengder knust dolomitt- og kalkstein blir hvert år brukt til kalking av jord og vann. Kalking motvirker forsuring. Dersom jorda blir for sur som følge av forbruket av kunstgjødsel, fører det til at nedbrytningen av organisk materiale blir hemmet. Det gjør at plantene ikke får tilført næringsstoffer som fosfor, nitrogen og magnesium i tilstrekkelig grad."
+        }
+      ]
+    },
+    {
+      "tittel": "Olivin",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Olivinforekomsten ved Åheim på Sunnmøre er kanskje den største i hele verden (figur 9.9). Olivin er et olivengrønt mineral med høyt smeltepunkt og kalles ofte «det grønne gullet» (figur 9.10). Det viktigste bruksområdet er som slaggdanner i jern- og stålindustrien. Når olivin stilsettes i smelteprosessen i masovnene, binder det avfallsstoffer (urenheter) i jernmalmen slik at råjernet som produseres, blir renere. Slagglaget flyter oppå smelten og kan fjernes. Olivin har også vært mye brukt til ildfaste produkter på grunn av det høye smeltepunktet mineralet har."
+        },
+        {
+          "t": "p",
+          "tekst": "flyfoto av et landskap med grønne daler og lavere fjell, vann, fjord og to større steinbrudd"
+        },
+        {
+          "t": "figur",
+          "nr": "9.9",
+          "tekst": "Olivinsteinforekomsten på Åheim er stor. Reservene sikrer drift i mange hundre år med dagens produksjon. Bildet øverst viser et av dagbruddene (Gusdalen)."
+        }
+      ]
+    },
+    {
+      "tittel": "En irrgrønn knudrete rund stein",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "9.10",
+          "tekst": "Olivinsteinen (dunitt, gulbrun) er en dypbergart, og mineralet olivin utvinnes fra denne bergarten."
+        },
+        {
+          "t": "p",
+          "tekst": "Virksomheten på Nord-Vestlandet forsyner stålverk over hele Europa med olivin. Kvaliteten på olivinsteinen fra Åheim er svært god, og mengdene er så store at de kunne forsyne verdens stålverk i flere hundre år."
+        },
+        {
+          "t": "p",
+          "tekst": "Når olivin erstatter andre tilsettingsstoffer i stålproduksjonen (som dolomitt, se nedenfor), reduseres samtidig utslippene av klimagassen CO2. Halvparten av all olivin som brukes som slaggdanner i europeiske stålverk, kommer fra bruddet på Åheim."
+        }
+      ]
+    },
+    {
+      "tittel": "Metalliske malmer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "brune slagghauger bungner i forgrunnen med Røros by i bakgrunnen. Trehus med en hvit kirke"
+        },
+        {
+          "t": "figur",
+          "nr": "9.11",
+          "tekst": "Slagghaugene på Røros gir et godt bilde av de enorme mengder fjell som er tatt ut i kobbergruvene. Røros står på UNESCOs liste over verneverdige kulturminner, verdensarvlisten."
+        },
+        {
+          "t": "p",
+          "tekst": "I løpet av 1900-tallet har det vært drift på metallisk malm i nesten 50 gruver i Norge (gull, sølv, jern, kobber, bly, sink, nikkel, molybden, vanadium og niob). De fleste er i dag nedlagt. Ressursene har tatt slutt, eller det har ikke lenger vært mulig å drive lønnsomt, som på Røros (figur 9.11)."
+        },
+        {
+          "t": "p",
+          "tekst": "Bergarter som inneholder metall omtales ofte som malm. For at forekomsten skal være det vi kaller en metallisk malm, må metallet ha en tetthet større enn 5 g/cm3, og konsentrasjonen må være så høy at det gir grunnlag for lønnsom gruvedrift. Metallet kan være felt ut fra et magma, hydrotermale kilder («black smokers») eller havvann gjennom flere titalls millioner år (se side 147)."
+        },
+        {
+          "t": "p",
+          "tekst": "I dag er det bare to gruveselskaper i Norge som har en jevn produksjon av metallisk malm: Titania i Rogaland og Rana Gruber i Nordland. Det meste av produksjonen går til eksport."
+        }
+      ]
+    },
+    {
+      "tittel": "Et brudd-område der fjellet er formet som trapper og terrasser i et juv",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "9.12",
+          "tekst": "Gruvene til Titania AS i Rogaland"
+        },
+        {
+          "t": "p",
+          "tekst": "Bedriften Titania i Sokndal i Rogaland produserer ilmenitt fra den nest største forekomsten av ilmenittjernmalm i verden (figur 9.12). Ilmenitt er et mørkt, metallglinsende mineral som inneholder titan. Titan tilsettes som hvitt fargestoff i maling, plast og papir. Selskapet Titania AS leverer rundt en tidel av verdens ilmenittproduksjon."
+        },
+        {
+          "t": "p",
+          "tekst": "Norges eneste gjenværende jernmalmgruve er Rana Gruber AS i Nordland. Selskapet har imidlertid lagt om produksjonen fra ren metallproduksjon til produksjon av spesialprodukter med høyere bearbeidingsgrad."
+        },
+        {
+          "t": "p",
+          "tekst": "De siste årene har interessen for å lete etter malmer i Norge økt sterkt. Det har sammenheng med at prisene på verdensmarkedet har steget. Et grønt skifte, med blant annet fornybare energikilder, krever også tilgang på metaller. Metaller som jern, nikkel, kobber, titan, molybden, tinn og gull er igjen ettertraktet. Her i landet er det særlig i Nord-Norge, og spesielt i Finnmark, at interessen er stor."
+        },
+        {
+          "t": "p",
+          "tekst": "I framtiden kan det også bli aktuelt å utvinne metaller fra mineralressurser på havbunnen i tilknytning til den midtatlantiske ryggen og de hydrotermale kildene der («black smokers»)."
+        }
+      ]
+    },
+    {
+      "tittel": "Bærekraftig bergindustri",
+      "side": 142,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Gruver, steinbrudd, pukkverk og sand- og grustak påvirker naturmiljøet både gjennom inngrep i landskapet, lagring av overskuddsmasser og forurensninger som følge av driften. Ofte oppstår det arealkonflikter med andre brukere av landarealene."
+        },
+        {
+          "t": "p",
+          "tekst": "De siste tiårene er det blitt lagt stadig større vekt på at steinbrudd og gruvedrift ikke skal sette varige spor etter seg. Når driften er slutt, skal sårene i landskapet leges, og landskapet skal så langt det er mulig, føres tilbake til sin naturlige tilstand."
+        },
+        {
+          "t": "p",
+          "tekst": "Støv og støy følger ofte med bergverksdrift og kan være til sjenanse for omgivelsene. Folk vil helst ikke ha steinbrudd og gruvevirksomhet i nærheten av friluftsområder eller der de bor."
+        },
+        {
+          "t": "p",
+          "tekst": "I dag er de fleste steinbruddene dagbrudd. I framtiden kan det bli aktuelt med drift under jorda. Det vil redusere både støyplager, arealkonflikter og størrelsen på synlige naturinngrep."
+        },
+        {
+          "t": "p",
+          "tekst": "Fra noen nedlagte gruver lekker det ut tungmetaller (kobber og sink) og svovel til vassdragene. Når sigevannet fra gruver og avfallshauger renner ut i vassdragene, kan tungmetallene utrydde livet i store deler av et vassdrag. Mange titalls kilometer av elver som Gaula og Orkla i Trøndelag, Folla og de øvre delene av Glomma er sterkt påvirket av tungmetaller. Ved å dekke til avfall fra gruvedriften med tykke jordlag kan man hindre at regn og sigevann fører tungmetaller videre."
+        },
+        {
+          "t": "p",
+          "tekst": "En bærekraftig forvaltning av mineralressursene må ta hensyn både til samfunnets behov for mineralressurser på kort og på lang sikt og til naturmiljøet og menneskene som bor der."
+        },
+        {
+          "t": "p",
+          "tekst": "Bruken av mineralressurser fører som all annen ressursbruk, med seg et avfallsproblem. Det må håndteres ved gjenbruk, resirkulasjon og avfallsdeponier."
+        },
+        {
+          "t": "p",
+          "tekst": "Gjenbruk og resirkulasjon kan bidra til å redusere avfallsproblemet. En «urban gruvedrift» handler om å gjenvinne mineraler og metaller i avfallet fra bedrifter og husholdninger i byer og områder med tett bosetting. Avfall blir resirkulert og brukt til råvarer for nye produkter. På den måten kan en sirkulær økonomi bidra til det grønne skiftet, som forutsetter en stor grad gjenbruk av mineraler og metaller."
+        },
+        {
+          "t": "p",
+          "tekst": "En slik «urban gruvedrift» forutsetter effektive resirkuleringsopplegg. Det finnes allerede flere bedrifter her i landet som driver med gjenvinning (og destruering) av ulike typer avfall både fra husholdninger og næringslivet."
+        }
+      ]
+    },
+    {
+      "tittel": "Avfallsdeponier",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Utvinning av mineraler og metaller medfører store overskuddsmasser som må deponeres (deponere = lagre, deponi = lagringssted). Massene består hovedsakelig av knust stein og eventuelle tilsettingsstoffer som har vært benyttet i produksjonsprosessen. Deponering skjer på land (figur 9.13), i innsjøer eller fjorder, men også ved tilbakefylling. Tilbakefylling betyr at overskuddsmassene blir ført tilbake til gruvegangene og deponert der."
+        }
+      ]
+    },
+    {
+      "tittel": "Rustrøde løssteiner i en haug på skogbunnen med lav og furutrær",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "9.13",
+          "tekst": "Gruveavfall ved Bergsgruvene i Ekers Kobberværk nær Ormåsen, Øvre Eiker"
+        },
+        {
+          "t": "p",
+          "tekst": "Bergindustrien mener at deponeringer av overskuddsmasser i vann noen steder kan gi en mer stabil og trygg lagring, og mindre forurensning enn på land. Særlig gjelder det i dype norske fjorder."
+        },
+        {
+          "t": "p",
+          "tekst": "Norske fjorder er dannet ved breerosjon gjennom flere istider i kvartær. Fjordene er «druknede daler» som ble oversvømmet av vann da isen smeltet etter siste istid. I iseroderte daler (og fjorder) er dalbunnen delt opp i dype bassenger, atskilt av bergterskler. Det virker inn på vannstrømmene i fjorden og bidrar til at den groveste delen av overskuddsmassene kan bli liggende nokså stabilt i fjordbassenget."
+        },
+        {
+          "t": "p",
+          "tekst": "Ikke alle er enige i det. Bunnfaunaen i deponiområdet vil bli påvirket i perioden deponeringen foregår. Sjødeponier fører også til en risiko for spredning av fint materiale, noe som kan påvirke livet i havet i et større område rundt deponiområdet."
+        }
+      ]
+    },
+    {
+      "tittel": "Vakkert grønt fjordlandskap med grønne sletter, skogkledde åser",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "9.14",
+          "tekst": "Utsikt mot Engebøfjellet (midt på bildet) ved Førdefjorden. I forgrunnen Liavatnet. Miljømyndighetene har gitt tillatelse til å opprette et sjødeponi i fjorden."
+        },
+        {
+          "t": "p",
+          "tekst": "kart over Norge som viser Repparfjorden nord for Tromsø og Førdefjorden, rett nord for Bergen"
+        },
+        {
+          "t": "p",
+          "tekst": "I Engebøfjellet ved Førdefjorden (figur 9.14) finnes en av de største forekomstene av rutil i verden. Rutil brukes til å produsere titan (se side 147). Her er det nylig gitt tillatelse til gruvedrift med tilhørende sjødeponi til tross for protester fra miljøorganisasjonene."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er også planer om en ny kobbergruve ved Repparfjorden i Finnmark. Det har vært og er fortsatt motstand mot prosjektene, særlig er det lagring av gruveavfall i fjorden som er et problem."
+        }
+      ]
+    },
+    {
+      "tittel": "Særlig aktuelle mineraler og bergarter i det grønne skiftet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Mineraler og bergarter for det grønne skiftet"
+        },
+        {
+          "t": "figur",
+          "nr": "9.15",
+          "tekst": "Global industrialisering har i alle år blitt fulgt av økende behov for både mengder og typer av råvarer. Den høyteknologiske revolusjonen og det grønne skiftet har ført til et behov for å bruke en stadig større del av det periodiske systemet – her eksemplifisert ved behovet for grunnstoffer i kjerneteknologier gjennom de siste tre hundre år. (Kilde: NGU)"
+        },
+        {
+          "t": "p",
+          "tekst": "Mineralske råstoffer har gjennom hele menneskehetens historie vært avgjørende for velstand og utvikling. Stadig nye mineraler er blitt tilgjengelige i menneskets verktøykasse og skapt grunnlag for ny teknologi (figur 9.15). På samme måte som steinalderen ble avløst av bronsealderen, vil et grønt skifte avløse fossilsamfunnet."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva menes med «fossilsamfunnet»?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Det grønne skiftet vil kreve betydelig satsing på grønn teknologi. I hovedsak dreier dette seg om en overgang til fornybare energikilder som bioenergi, hydrogen, vann, vind og sol. Batterier og en bedre energitransport vil gi bedre lagring og mindre tap av energi. Bruk av lettere materialer og elektrifisering av kjøretøy vil minske forbruket av fossil energi. Men de fleste av disse områdene er mineralkrevende. Det grønne skiftet vil derfor øke etterspørselen av mineralske råstoffer – både kjente og nye mineraler."
+        }
+      ]
+    },
+    {
+      "tittel": "Grønne mineraler",
+      "side": 146,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Koppermineraler i sitt røde råmateriale vist sammen med en stikkontakt for å vise størrelsesordenen"
+        },
+        {
+          "t": "figur",
+          "nr": "9.16",
+          "tekst": "Kobber"
+        },
+        {
+          "t": "p",
+          "tekst": "Enkelte metaller og mineraler har ekstra stor betydning for å få gjennomført det grønne skiftet. Vi kaller dem «grønne mineraler». Det gjelder mineraler som er absolutt uunnværlige i klima- og miljøvennlig energiproduksjon, og stoffer som sikrer effektiv produksjon av teknologi med et minimum av inngrep og forbruk. Vi skal se på noen av dem her."
+        },
+        {
+          "t": "p",
+          "tekst": "Behovet for kobber er økende og har økt eksponentielt gjennom historien. Det betyr at forbruket dobler seg stadig raskere. Kobber har mange bruksområder, men 75 prosent av det kobberet som utvinnes, blir benyttet for transport av strøm i en eller annen sammenheng. Alt som skal elektrifiseres, trenger kobber, og kobber er et helt uunnværlig metall i det grønne skiftet."
+        },
+        {
+          "t": "p",
+          "tekst": "Norge har vært en svært viktig kobberprodusent gjennom historien, og man leter aktivt etter kobber i Norge også i dag. Store ressurser kan fortsatt ligge skjult i norske fjell, men også på havbunnen i norsk territorium finnes det potensial for drivverdige forekomster."
+        },
+        {
+          "t": "p",
+          "tekst": "En elektrisk bil trenger tre ganger så mye kobber som en tilsvarende «fossil bil»: omtrent 80 kg."
+        }
+      ]
+    },
+    {
+      "tittel": "En person holder frem en plate av metall i ulike gråsjatteringer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Sjeldne jordartsmetaller"
+        },
+        {
+          "t": "figur",
+          "nr": "9.17",
+          "tekst": "Sjeldne jordartsmetaller"
+        },
+        {
+          "t": "p",
+          "tekst": "Sjeldne jordartsmetaller er et samlenavn som omfatter 16 grunnstoffer med helt spesielle egenskaper, egenskaper som er viktige i moderne teknologi. Grunnstoffene opptrer ofte sammen i sjeldne jordartsmineraler, og det krever svært avanserte prosesser å skille metallene ut fra hverandre."
+        },
+        {
+          "t": "p",
+          "tekst": "Kina dominerer produksjonen totalt. Vi, og resten av Europa, importerer alt vi trenger. De forskjellige metallene har mange og ulike bruksområder, men batterier, elektriske motorer, vindturbiner, skjermteknologi og energivennlige LED-lys er spesielt viktige og en avgjørende del av framtidens grønne verden. Norge har en del små, og en enkelt svært stor forekomst av sjeldne jordartsmetaller. Den ligger ved Ulefoss i Telemark og er en av Europas største."
+        }
+      ]
+    },
+    {
+      "tittel": "En grønn krystall",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Fosfat"
+        },
+        {
+          "t": "figur",
+          "nr": "9.18",
+          "tekst": "Fosfat"
+        },
+        {
+          "t": "p",
+          "tekst": "Fosfat er, sammen med nitrogen og kalium, de tre viktigste næringsstoffene for verdens kornproduksjon. De største kjente forekomstene ligger i Nord-Afrika, og den største produksjonen av fosfat skjer også i disse områdene. Her utvinnes fosfat fra ressurser som dessuten er rike på tungmetaller."
+        },
+        {
+          "t": "p",
+          "tekst": "I løpet av årene har tungmetallene enten fulgt med gjødselen til landbruksjorda eller hopet seg opp på uttaksplassene. «Grønt fosfat» blir viktig for framtiden, og Norge har betydelige ressurser som kan være aktuelle for utnyttelse. Den største forekomsten ligger øst for Egersund i Rogaland."
+        }
+      ]
+    },
+    {
+      "tittel": "En mørkegrå ruglete stein",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Grafitt"
+        },
+        {
+          "t": "figur",
+          "nr": "9.19",
+          "tekst": "Grafitt"
+        },
+        {
+          "t": "p",
+          "tekst": "Grafitt er et mykt grått mineral som bare består av grunnstoffet karbon. Alle har et forhold til grafitt ettersom «blyet» i blyanten består av grafitt, typisk blandet med leire for å justere skrivehardheten. Men grafitt har også spesielle egenskaper som er viktige for det grønne skiftet, og i framtiden kan ultratynne lag av grafitt danne grunnlag for en ny teknologisk revolusjon."
+        },
+        {
+          "t": "p",
+          "tekst": "Litiumbatteriet (se nedenfor), som er den sentrale energikilden i nesten all bærbar elektronikk, inneholder dobbelt så mye grafitt som litium. Kvaliteten på naturlig grafitt er avgjørende for bruk i høyteknologi, og mange kjente forekomster i Norge holder den nødvendige kvaliteten. Skaland grafittgruve på Senja er den største produsenten av høykvalitets naturlig grafitt i Europa."
+        }
+      ]
+    },
+    {
+      "tittel": "En ferskenfarget krystallaktig stein med to litiumbatterier vedsidenav",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Litium"
+        },
+        {
+          "t": "figur",
+          "nr": "9.20",
+          "tekst": "Litium"
+        },
+        {
+          "t": "p",
+          "tekst": "Litium er det letteste metallet som finnes. Litium brukes i mange sammenhenger, men det meste ender opp i enten keramiske produkter eller i batterier. På grunn av den økende elektrifiseringen av transportsektoren og veksten i forbrukerteknologi, som krever effektive og lette batterier, fortsetter etterspørselen etter litium å øke. Norge har ikke kjente utvinnbare forekomster av litium. De viktigste finnes i Portugal, Russland, USA, Canada, Chile, Argentina og Kina."
+        },
+        {
+          "t": "p",
+          "tekst": "En liten elbil som Nissan Leaf har et batteri som inneholder 4 kg litium, mens batteriet på en Tesla er mye større og trenger vesentlig mer."
+        }
+      ]
+    },
+    {
+      "tittel": "En rund grønn mineralsk stein med grønne gjennomsiktige krystaller inni",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Olivin"
+        },
+        {
+          "t": "figur",
+          "nr": "9.21",
+          "tekst": "Olivin"
+        },
+        {
+          "t": "p",
+          "tekst": "Olivin er faktisk et grønt mineral – også når du treffer på det i naturen. Olivin er ett av de viktigste industrimineralene våre, og Norge står for nesten halvparten av verdensproduksjonen. Det meste av olivinen brukes som slaggdanner i smelteverk, men olivin har også en grønn side."
+        },
+        {
+          "t": "p",
+          "tekst": "Olivin har spesielle egenskaper når det gjelder absorpsjon av tungmetaller, og benyttes i økende grad for fjerning av tungmetaller fra jord eller vann eller for tildekking av forurensede masser, for eksempel i havneområder. Sibelco Nordics olivingruve i Åheim er verdens største, og regionen har flere forekomster i verdensklasse."
+        }
+      ]
+    },
+    {
+      "tittel": "Titan",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Titan i form av TiO2 – titandioksid – var en del av en tidligere fase av grønn utvikling som fant sted i det forrige århundre. Fram til da hadde bly vært det vanligste tilsettingsstoffet for å få hvitfarge på maling. Gammel blybasert hvit maling kan inneholde flere titalls prosent med bly og ligger tilbake som en betydelig forurensningskilde i jorda, spesielt i byene."
+        }
+      ]
+    },
+    {
+      "tittel": "En gråmelert og rustrød stein",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "9.22",
+          "tekst": "Titan"
+        },
+        {
+          "t": "p",
+          "tekst": "Norge har svært store ressurser av titan, og Titanias gruve i Sokndal i Rogaland står for 6 prosent av verdens produksjon. Et nytt titanprosjekt på Engebøfjellet i Førdefjorden (se figur 9.14) kan med tiden øke Norges betydning som titanprodusent ytterligere."
+        },
+        {
+          "t": "p",
+          "tekst": "Titan er sterkere enn stål, men 42 prosent lettere og brukes derfor i flyskrog. En Boeing 787 Dreamliner inneholder 15 prosent titan. Titan er et metall som kroppen vår tolererer, og derfor benyttes titan i implantater og proteser. Titandioksid er et ikke-giftig pigment som gjør maling, matvarer og andre produkter hvite. Du finner titandioksid i blant annet softis, solkrem og tannkrem."
+        }
+      ]
+    },
+    {
+      "tittel": "En lilla krystall ved siden av et solcellepanel",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Kvarts og andre solcelleråstoffer"
+        },
+        {
+          "t": "figur",
+          "nr": "9.23",
+          "tekst": "Kvarts"
+        },
+        {
+          "t": "p",
+          "tekst": "Ekstremt ren kvarts er et nødvendig råstoff for blant annet solcelleprodusenter. Solcelleindustrien trenger høyt raffinerte råvarer, selv om utgangspunktet er svært ren kvarts. Veien fra en ultraren kvartsforekomst til salgbart råmateriale for solcelleproduksjon er imidlertid krevende. I tillegg til kvarts krever solcelleproduksjon, som mye annen høyteknologi, en hel rekke grunnstoffer med spesielle egenskaper, som bidrar til at solcellene blir effektive og økonomiske å produsere."
+        },
+        {
+          "t": "p",
+          "tekst": "(NGU, noe omskrevet)"
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Bergindustrien",
+      "poster": [
+        {
+          "q": "Hvilke fem typer mineralressurser skiller vi mellom?",
+          "f": ""
+        },
+        {
+          "q": "Er mineralressursene fornybare, betinget fornybare eller ikke-fornybare?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen på reserver og ressurser?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken gruppe av mineralressurser har størst økonomisk betydning i dag?",
+          "f": ""
+        },
+        {
+          "q": "Kan du gi noen eksempler på bergindustrier?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Bergindustrien",
+      "poster": [
+        {
+          "q": "Hva er det som gjør at bergindustrien er råvareorientert?",
+          "f": ""
+        },
+        {
+          "q": "Mye av bergindustrien ligger langs kysten. Hvorfor det, tror du?",
+          "f": ""
+        },
+        {
+          "q": "Hvorfor er tilgangen på spesielle mineraler og metaller viktig i det grønne skiftet?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen på «dagens steinalder» og steinalderen for 4000–5000 år siden?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen mellom ressurser, reserver og forekomster av et mineral?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Skifer",
+      "poster": [
+        {
+          "q": "Hva er naturstein?",
+          "f": ""
+        },
+        {
+          "q": "Er blokkstein og skifer bestemte bergarter?",
+          "f": ""
+        },
+        {
+          "q": "Hva er blokkstein, og hva er skifer?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Pukk",
+      "poster": [
+        {
+          "q": "Hva er byggeråstoffer en samlebetegnelse for?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke prosesser danner sand og grus?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er pukk produsert?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Pukk",
+      "poster": [
+        {
+          "q": "Er byggeråstoffer fornybare ressurser? Begrunn svaret.",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "En irrgrønn knudrete rund stein",
+      "poster": [
+        {
+          "q": "Hva er et industrimineral?",
+          "f": ""
+        },
+        {
+          "q": "Hva er «det grønne gullet», og hva brukes det til?",
+          "f": ""
+        },
+        {
+          "q": "Norge er i verdenstoppen når det gjelder produksjon av to industrimineraler. Hvilke?",
+          "f": ""
+        },
+        {
+          "q": "Hva brukes kalkstein til?",
+          "f": ""
+        },
+        {
+          "q": "Kvarts kan bli et enda viktigere mineral i framtiden. Hvorfor det?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Et brudd-område der fjellet er formet som trapper og terrasser i et juv",
+      "poster": [
+        {
+          "q": "Hva er forskjellen på malm og metallisk malm?",
+          "f": ""
+        },
+        {
+          "q": "Hvor mange gruver er det som driver på metallisk malm i Norge i dag?",
+          "f": ""
+        },
+        {
+          "q": "Hva er det som gjør at malmproduksjonen kan få en ny blomstringstid?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellene på reserver, ressurser og forekomster?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Vakkert grønt fjordlandskap med grønne sletter, skogkledde åser",
+      "poster": [
+        {
+          "q": "På hvilke måter kan bergindustrien påvirke naturmiljøet?",
+          "f": ""
+        },
+        {
+          "q": "Hva er et dagbrudd?",
+          "f": ""
+        },
+        {
+          "q": "Hva menes med «urban gruvedrift»?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen på et landdeponi og et sjødeponi?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Vakkert grønt fjordlandskap med grønne sletter, skogkledde åser",
+      "poster": [
+        {
+          "q": "Hvordan kan land- og sjødeponier påvirke naturmiljøet?",
+          "f": ""
+        },
+        {
+          "q": "Hva menes med «en bærekraftig forvaltning av mineralressursene»?",
+          "f": ""
+        },
+        {
+          "q": "Hva er det som gjør norske fjorder godt egnet til sjødeponier?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": null,
+      "del": "En lilla krystall ved siden av et solcellepanel",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "sand – grus – pukk",
+          "f": ""
+        },
+        {
+          "q": "naturstein – granitt – grus",
+          "f": ""
+        },
+        {
+          "q": "reserver – ressurser – forekomster",
+          "f": ""
+        },
+        {
+          "q": "grunnvann – pukk – sand",
+          "f": ""
+        },
+        {
+          "q": "olivinstein – jernmalm – kalkstein",
+          "f": ""
+        },
+        {
+          "q": "malmreserver – metallisk malm – malmforekomst",
+          "f": ""
+        },
+        {
+          "q": "metalliske malmer – industrimineraler – magma",
+          "f": ""
+        },
+        {
+          "q": "steinbrudd – gruvedrift – sandtak",
+          "f": ""
+        },
+        {
+          "q": "landdeponi – sjødeponi – tilbakefylling",
+          "f": ""
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "Sand, grus og pukk omtales som naturstein.",
+          "f": ""
+        },
+        {
+          "q": "Industrimineraler og metalliske malmer er ikke det samme.",
+          "f": ""
+        },
+        {
+          "q": "Industrimineraler blir produsert i industrien.",
+          "f": ""
+        },
+        {
+          "q": "Mineralressursene er større enn mineralreservene.",
+          "f": ""
+        },
+        {
+          "q": "Sand, grus og pukk har i dag stor økonomisk betydning i bergverksindustrien.",
+          "f": ""
+        },
+        {
+          "q": "Det grønne skiftet vil føre til større etterspørsel etter mineraler.",
+          "f": ""
+        },
+        {
+          "q": "Blokkstein er navn på en bergart.",
+          "f": ""
+        },
+        {
+          "q": "Skifer er en magmatisk dypbergart.",
+          "f": ""
+        },
+        {
+          "q": "Pukk er stein som finnes i naturen.",
+          "f": ""
+        },
+        {
+          "q": "Sand og grus er naturlig knust stein.",
+          "f": ""
+        },
+        {
+          "q": "Industrimineraler blir brukt som råstoffer i industriprosesser.",
+          "f": ""
+        },
+        {
+          "q": "Urban gruvedrift drives som dagbrudd.",
+          "f": ""
+        },
+        {
+          "q": "Tilbakefylling er en måte å deponere overskuddsmasser på.",
+          "f": ""
+        },
+        {
+          "q": "Gruvedeponier ligger alltid på land.",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "Forekomsten av verdifulle mineraler og bergarter kaller vi mineralressurser. Virksomhet som utvinner mineralressurser, kaller vi bergindustri.",
+    "Tilstrekkelig tilgang på nye mineraler og metaller er en viktig forutsetning for det grønne skiftet.",
+    "Vi deler mineralressursene inn i naturstein, byggeråstoffer, industrimineraler, metalliske malmer og energimineraler.",
+    "Reserver er kjente forekomster som er i produksjon, eller som det er bestemt å sette i produksjon.",
+    "Ressurser er forekomster man kjenner til, men det er ikke besluttet å sette i gang produksjon.",
+    "Den geologiske historien er avgjørende for hvilke geologiske ressurser vi finner i ulike deler av landet.",
+    "Naturstein omfatter blokkstein, skifer og murestein.",
+    "Naturstein brukes i stor grad som prydstein, og mye går til eksport.",
+    "Larvikitt dominerer norsk natursteinproduksjon.",
+    "Det er byggeråstoffer som pukk, sand og grus som har størst økonomisk betydning i den norske bergindustrien.",
+    "Det meste av byggeråstoffene går til veibygging, fyllmasse og betongproduksjon.",
+    "Produksjon av industrimineraler har økt de siste årene, mens metallproduksjonen har minket.",
+    "De viktigste norske industrimineralene er kalkstein og olivin.",
+    "Olivin brukes som slaggdanner i stålproduksjon.",
+    "Mange malmgruver er nedlagt fordi driften ikke ble lønnsom, eller fordi det var slutt på ressursene.",
+    "De siste årene har interessen for å lete etter malmer i Norge økt. Det har sammenheng med at prisene på verdensmarkedet har steget. Et grønt skifte krever også tilgang på mange metaller.",
+    "All bergverksdrift påvirker naturmiljøet med støy, støv, deponier, arealbruk og store sår i landskapet.",
+    "Overskuddsmasser fra gruvedriften lagres både i land- og sjødeponier.",
+    "Urban gruvedrift passer inn i det grønne skiftet.Kapittel 10"
+  ]
+}

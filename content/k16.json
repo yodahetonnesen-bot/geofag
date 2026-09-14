@@ -1,0 +1,1021 @@
+{
+  "nr": 16,
+  "tittel": "Glasiale landformer",
+  "forsteside": 286,
+  "sisteside": 305,
+  "laereplan": [
+    "sammenligne ulike landformer og gjøre rede for hvordan de dannes og endres under påvirkning av jordsystemene og menneskelig aktivitet",
+    "gjøre rede for ulike naturfarer knyttet til geosfæren og hydrosfæren, og vurdere hvordan mennesker kan forebygge og tilpasse seg disse farene",
+    "utforske en naturfare knyttet til geosfæren eller hydrosfæren i et bestemt geografisk område og vurdere risiko ved hjelp av modellering",
+    "gjennomføre geofaglig feltarbeid knyttet til geosfæren eller hydrosfæren, bearbeide og tolke de innsamlede dataene og presentere resultatene"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 286,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I kvartærperioden var Norge flere ganger dekket av store innlandsiser. Forskerne mener det har vært ca. 40 av dem. Isstrømmer eroderte landoverflaten, og særlig sterk ble iserosjonen i de elvedalene som allerede eksisterte."
+        },
+        {
+          "t": "p",
+          "tekst": "Bildet under viser den nedre delen av Bøverdalen i Lom. Det er både gamle og unge landformer på bildet. I fjellandskapet, på sidene av dalen, ser du de gamle landformene som ble dannet for flere titalls millioner år siden. Selve Bøverdalen tilhører de unge landformene, den er dannet av breerosjon gjennom istidene i de siste 2–3 millioner av år."
+        },
+        {
+          "t": "p",
+          "tekst": "Flyfoto fra Bøverdalen. Tydelig dyrkningsområder i bunnen av dalen og bosettingen er samme sted."
+        },
+        {
+          "t": "figur",
+          "nr": "16.1",
+          "tekst": "Tettstedet Lom og Bøverdalen (oppover på bildet)"
+        }
+      ]
+    },
+    {
+      "tittel": "Isbreer – prosesser og landformer",
+      "side": 288,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Utsikt over den ikoniske fjellkjeden Rondane sett fra en gulgledd høstskog med elveleie i forgrunnen"
+        },
+        {
+          "t": "figur",
+          "nr": "16.2",
+          "tekst": "Rondane har paleiske former (restfjell med avrundede former) sett fra Sohlbergplassen utsiktspunkt på østsiden av Atnasjøen."
+        },
+        {
+          "t": "p",
+          "tekst": "Isbreer, elver og forvitring er ytre krefter som har vært viktige i utformingen av de unge landformene."
+        },
+        {
+          "t": "p",
+          "tekst": "I løpet av kvartær ble elvedalene fra paleogen og neogen sterkt påvirket av breerosjon. Resultatet ble dype, U-formede daler som skar seg dypt ned i den paleiske landoverflaten. Landformer som er dannet av breer, kaller vi glasiale landformer (av latin glacies = is)."
+        },
+        {
+          "t": "p",
+          "tekst": "I høyfjellet eroderte botnbreer seg inn i de avrundede fjellformasjonene, som for eksempel i Rondane, ofte uten at hovedformen til den paleiske overflaten ble borte (figur 16.2)."
+        },
+        {
+          "t": "p",
+          "tekst": "Isbreer er forskjellige både når det gjelder størrelse, form og temperaturforhold. Disse egenskapene bruker vi til å skille mellom ulike bretyper og deres evne til å erodere landoverflaten."
+        }
+      ]
+    },
+    {
+      "tittel": "Temperaturforhold i breen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Smeltepunktet for is er avhengig av trykkforholdene. Jo høyere trykk, desto lavere er smeltepunktet. Det som skjer under en skøyteegg, er et eksempel. Under den smale eggen blir trykket stort, og dermed smelter litt av isen selv om den holder minusgrader, og skøytene glir lettere på isen."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Kan du med dine egne ord forklare hva trykksmeltepunktet er?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Under en tykk bre er også trykket stort. Derfor kan litt av isen smelte selv om temperaturen er under 0 °C. Siden smeltepunktet er avhengig av trykket, snakker vi om trykksmeltepunktet for isen. Jo tykkere isen er, desto lavere er trykksmeltepunktet langs bunnen av breen."
+        },
+        {
+          "t": "p",
+          "tekst": "Vi kan bruke temperaturforholdene i breen til å skille mellom polare breer, subpolare breer og tempererte breer. I polare breer er temperaturen under trykksmeltepunktet i hele breen, både langs bunnen og i resten av ismassen. Isen smelter ikke, og breen er fastfrosset til underlaget. I subpolare breer er temperaturen i isen på trykksmeltepunktet i de indre delene av breen, og her kan isen smelte. I de ytre delene er temperaturen i isen under trykksmeltepunktet, og isen er fastfrosset til underlaget."
+        }
+      ]
+    },
+    {
+      "tittel": "Flyfoto av svartisen viser den hvite breen som ligger mellom fjellene på vidda",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.3",
+          "tekst": "Svartisen består egentlig av to adskilte platåbreer (fotografert i september 2015). Bildet er tatt mot nordvest, dalen i forgrunnen er Blakkådalen. Dalbreen til høyre i forkanten av bildet er Fingerbreen. Nederst i høyre bildekant ligger Bogvatnet. Innsjøen til høyre i bakgrunnen er Storglomvatnet. Vestre Svartisen har den største istykkelsen av norske breer, den er målt til 636 meter."
+        }
+      ]
+    },
+    {
+      "tittel": "En isbre hviler langs et sort fjell med skitne partier",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.4",
+          "tekst": "Visbreen, som ligger i Visdalen mellom Spiterstulen og Leirvassbu i Jotunheimen, er en botnbre."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser plassering av Bøvra, Lom og Spiterstulen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor er hele ismassen i en temperert bre på trykksmeltepunktet om sommeren, men ikke om vinteren?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "I tempererte breer er temperaturen langs bunnen på trykksmeltepunktet hele året, og om sommeren er hele ismassen på trykksmeltepunktet. Det foregår da smelting både på overflaten og langs bunnen, og det kan være vannfylte sprekkesystemer inne i isen."
+        }
+      ]
+    },
+    {
+      "tittel": "Form og størrelse på breen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "En annen vanlig inndeling av breer er å bruke form og størrelse. Den største breen er innlandsisen. Deretter følger platåbre (figur 16.3), dalbre og botnbre (figur 16.4). I tillegg snakker vi om breer av Spitsbergen-typen. På Spitsbergen er det sammenhengende ismasser, som er delt opp i ulike isstrømmer av fjellrygger og nunataker."
+        }
+      ]
+    },
+    {
+      "tittel": "Breens bevegelse og erosjon",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Det er tyngdekraften som setter breen i bevegelse. Det kan skje som en indre bevegelse i selve ismassen og/eller ved at breen glir på underlaget (figur 16.5)."
+        }
+      ]
+    },
+    {
+      "tittel": "Isbevegelsen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Noen titalls meter under isoverflaten er trykket så stort at breisen blir plastisk, det vil si at den kan bevege seg uten å sprekke opp. Dermed kan isen «strømme» sakte nedover som en seig masse. Dette er den indre bevegelsen i isen. På polare breer, som er frosset fast til underlaget, er dette den eneste måten breen beveger seg på."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Kjenner du til andre faste stoffer i jorda som har en «indre bevegelse»?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "De tempererte breene beveger seg både ved en slik indre bevegelse og ved at breen glir på underlaget. Under slike breer, der temperaturen langs bunnen av breen er på trykksmeltepunktet, er det alltid vann. Ofte er det også oppbløtt morene som «smører» glideflaten og gjør at breen glir lettere. Tempererte breer eroderer derfor berggrunnen, i motsetning til polare breer."
+        }
+      ]
+    },
+    {
+      "tittel": "Tegninger av breens bevegelse og erosjon + isbreens bevegelse og erosjon",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.5",
+          "tekst": "Breens bevegelse. Lengden og retningen på pilene angir hastigheten. Ulik hastighet har gjort at borehullet har forandret seg etter noen uker (a). Isbevegelsen fra øverst til nederst på breen er vist i (b)."
+        },
+        {
+          "t": "p",
+          "tekst": "En isbre fra toppen av fjellet åler seg ned mot to vann med ulik blåfarve. Pil til tunnellinngang og forskningslaboratorium"
+        },
+        {
+          "t": "figur",
+          "nr": "16.6",
+          "tekst": "Engabreen er en dalbre og en utløper fra Svartisen i Nordland."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan kan du se på bildet i figur 16.6 at Engabreen har vært større før?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Dersom det renner mer smeltevann ned til bunnen av breen enn det som renner unna, vil vannet samle seg, og vanntrykket kan rett og slett «løfte» isen fra underlaget. Slike løft er observert nesten daglig i sommerhalvåret på Engabreen i Nordland (figur 16.6). Løftet kan vare noen timer. Selv om isen bare løfter seg noen millimeter, er det nok til at friksjonen minker, og breen beveger seg raskere. Observasjonene er gjort i et forskningslaboratorium som NVE har bygd i en fjelltunnel under breen (figur 16.7)."
+        },
+        {
+          "t": "p",
+          "tekst": "Alle breene på det norske fastlandet er tempererte. Farten varierer fra noen centimeter til 1–2 meter per døgn, men den er ikke lik over hele breen. Minst bevegelse er det øverst og nederst. Dalbunn og dalsider bremser dessuten isbevegelsen. Farten er aller størst i brefall. De oppstår der breen beveger seg over en brattere del av underlaget (figur 16.8), og der kan farten bli over to meter per døgn. Når farten øker, sprekker isen opp, og det dannes et brefall."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilke forhold påvirker farten til en isbre, tror du?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Når farten forandrer seg, oppstår det spenninger i isen som gjør at det dannes sprekker på overflaten (figur 16.9). Bresprekker er sjelden dypere enn 20–30 meter i tempererte breer, for dypere ned er isen plastisk, og derfor lukker sprekkene seg. I kalde, polare breer kan sprekkene bli mye dypere fordi breisen er mindre plastisk. Sprekkene oppstår oftest i brefall og langs kanten av en bre. Store deler av året kan bresprekkene være dekket av snø, såkalte snøbruer. De kan være farlige å gå over."
+        }
+      ]
+    },
+    {
+      "tittel": "En forsker med oransje klær og motorsag står under en isbre i en grotte",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.7",
+          "tekst": "NVE har bygd et forskningslaboratorium i en tunnel under Engabreen."
+        }
+      ]
+    },
+    {
+      "tittel": "En kvinne går på en bre med steinete fjell i bakgrunnen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.8",
+          "tekst": "Brefallene Tor og Odin på Austerdalsbreen, en utløper fra Jostedalsbreen"
+        },
+        {
+          "t": "p",
+          "tekst": "Flyfoto av isbre mellom snekledde tinder."
+        },
+        {
+          "t": "figur",
+          "nr": "16.9",
+          "tekst": "Nathorstbreen er en del av et bresystem der flere breer samler seg i en større bre. Breene kalver i Van Keulenfjorden til venstre på bildet. Legg merke til alle sprekkene på breoverflaten."
+        }
+      ]
+    },
+    {
+      "tittel": "Breframrykk overvåket med rutefly",
+      "side": 292,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Høsten 2008 begynte breene i Nathorstbreen-systemet på Svalbard å rykke fram (16.9). I femårsperioden 2008–2013 rykket brefronten fram 15 km. Det tilsvarer 3 km per år, 1 km i løpet av fire måneder eller ca. 8 meter per døgn. Da brefronten stoppet opp i 2013 og surgen (bølge av is som forplanter seg nedover breen) var over, hadde breoverflaten øverst på breen senket seg 50 meter."
+        },
+        {
+          "t": "p",
+          "tekst": "Nathorstbreen er en del av et bresystem der flere breer samler seg i en større bre. Breene kalver i Van Keulenfjorden til venstre på bildet. Legg merke til alle sprekkene på breoverflaten"
+        },
+        {
+          "t": "p",
+          "tekst": "Nathorst-surgen er antageligvis den første surgen på Svalbard der selve oppsprekkingen og framrykkingen ble varslet. De fleste surger har så langt ikke blitt oppdaget før de har vært godt i gang. Uvanlige metoder som «fotodugnad» ble tatt i bruk for å dokumentere så mye som mulig av den siste surgefasen, selve framrykkingen av brefronten."
+        },
+        {
+          "t": "p",
+          "tekst": "Tilfeldigvis passerer ruteflyet mellom Longyearbyen og Tromsø over bresystemet. Det ble satt i gang en kampanje for å få flypassasjerer til å ta bilder på godværsdager. Kampanjen fikk støtte fra SAS, som sørget for at et kamera ble sendt med pilotene på tur til Tromsø, der kameraet ble levert og sendt tilbake igjen med neste fly. På denne måten ble det tatt flere hundre bilder som viser oppsprekkingen og utviklingen av breframstøtet."
+        },
+        {
+          "t": "p",
+          "tekst": "Fjernanalyse, fly- og satellittbilder ble også tatt i bruk for å finne ut hva som hadde skjedd i årene før breframstøtet. Målingene viste det samme mønsteret i de ulike delene av bresystemet. Først bygger breene seg opp i øvre del over en lengre periode, samtidig som nedre del blir tynnere som følge av smelting og at fronten kalver tilbake. Allerede i perioden fra 1990 til 2003 var det økt aktivitet i de øvre breområdene. Hastighetene økte, og breoverflaten senket seg som følge av økt isbevegelse, mens breen langsomt ble tykkere lenger nede."
+        },
+        {
+          "t": "p",
+          "tekst": "I perioden 2003–2008 gikk prosessen raskere, men deler av brefronten smeltet fremdeles tilbake. Her var isen antagelig fremdeles frosset fast i underlaget. Den fungerte som en demning for ismassene lenger oppe, som nå beveget seg stadig raskere nedover. Trykket økte. Det lå i kortene at fronten snart ville rykke fram, men det var ikke mulig å si akkurat når det ville skje."
+        },
+        {
+          "t": "p",
+          "tekst": "Spenningen var stor i begynnelsen av 2009 da mørketida gikk mot slutten og det begynte å bli lyst nok til å se eventuelle endringer. I midten av februar var det ingen tvil. Observasjoner fra bakken viste at breene var på frammarsj. Bilder tatt fra fly i mars avslørte at fronten hadde rykket hele tre kilometer fram i løpet av fem vintermåneder."
+        },
+        {
+          "t": "p",
+          "tekst": "(Kilde: Monica Sund og Dag Ottesen, 2015)"
+        }
+      ]
+    },
+    {
+      "tittel": "Isstrømmer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I dag er det to innlandsiser på jorda: i Antarktis og på Grønland (figur 16.10). Innlandsisen i Antarktis er 7–8 ganger større enn den på Grønland. Innlandsiser har dekket Norge og Skandinavia mange ganger de siste 2,6 millioner årene. Vi må regne med at de beveget seg på samme måte som dagens innlandsiser."
+        }
+      ]
+    },
+    {
+      "tittel": "Isbre som smelter i store elver i en sanddekket dal med snekledde fjell",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.10",
+          "tekst": "Isbreen Sermeq på Grønland (80 km sør for Nuuk) smelter og bidrar til at havet stiger. Innlandsisen i bakgrunnen."
+        }
+      ]
+    },
+    {
+      "tittel": "Kartutsnitt viser «Troll» i et hvitt lanskap",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.11",
+          "tekst": "Isstrømmer rundt den norske forskningsstasjonen Troll i Antarktis. De to største isstrømmene er Sveabreen lengst til venstre på bildet og Tønnesenbreen til høyre. Nord er oppover på bildet. Bildet/kartet er en mosaikk av flere satellittbilder som er påført kartdata."
+        },
+        {
+          "t": "p",
+          "tekst": "På Grønland og i Antarktis er isstrømmer (figur 16.11) viktige for forståelsen av breens bevegelse og massebalanse. En isstrøm er en del av innlandsisen som beveger seg mye raskere enn ismassene rundt, farten kan være 0,3–2,3 meter per døgn. Isstrømmene er som «iselver» som drenerer de store innlandsisene. De kan være 10–100 km brede, 300–500 km lange og 500–2500 meter dype."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er grunnen til at isen ikke er på trykksmeltepunktet på siden av isstrømmen, og hva kalles slike breer?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Boringer ned til bunnen av innlandsisen viser at temperaturen under isstrømmene er på trykksmeltepunktet, på sidene er temperaturen lavere. Mens de dype isstrømmene glir på underlaget, er den mindre tykke isen på sidene i stor grad fastfrosset til underlaget (se side 290)."
+        },
+        {
+          "t": "p",
+          "tekst": "Innlandsisen i Antarktis inneholder 91 prosent av all is på jorda. På det meste er den 3000 meter tykk. Store deler av innlandsisen er frosset fast til underlaget, så her er det bare en indre bevegelse i isen. Unntaket er altså isstrømmene, der breen glir på underlaget. Det området isstrømmene dekker, er relativt lite, men det er her det foregår! Isstrømmene står for 90 prosent av isen som transporteres, og det er under isstrømmene at breen eroderer sterkest."
+        },
+        {
+          "t": "p",
+          "tekst": "Jutulstraumen er en av isstrømmene i Antarktis. Den beveger seg 800 meter per år og er på det dypeste nesten 3000 meter. Noen steder er bunnen av isstrømmen hele 1390 meter under havnivået. Innlandsisen som dekket Norge under siste istid, var omtrent like tykk. Sognefjorden er til sammenligning 1308 meter dyp."
+        },
+        {
+          "t": "p",
+          "tekst": "På Grønland er det lignende forhold. Her skjer rundt halvparten av dreneringen av innlandsisen gjennom tolv mektige isstrømmer. Satellittmålinger viser at hastigheten på isstrømmene har økt betydelig de siste årene. Smeltevann som finner vei ned til bunnen av isen, fører til at friksjonen minker og farten øker."
+        },
+        {
+          "t": "p",
+          "tekst": "Jakobshavnbreen på vestkysten av Grønland er den isbreen som fører med seg mest is i hele verden. Den beveger seg ca. 20 meter per døgn og transporterer 30 milliarder tonn is i løpet av et år. Det tilsvarer ca. 10 prosent av alle isfjell som kalver fra Grønlandsisen."
+        }
+      ]
+    },
+    {
+      "tittel": "Breens bevegelse",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Studer figur 16.5."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor er det ikke sprekker som går dypere enn 30–40 meter?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan kan du se at både dalbunnen og dalsidene bremser isbevegelsen?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Breen beveger seg på to ulike måter. Forklar hvordan du kan se det på figuren. Studer utseende og posisjon for borehullet noen uker etter at det er boret."
+        },
+        {
+          "t": "p",
+          "tekst": "Nederst på breen smelter det ofte fram steiner på breoverflaten. Det kan være steiner breen har plukket med seg, eller steiner som har falt ned på breen – kanskje til og med meteoritter. Studer strømningslinjene inne i breen og forklar hvorfor steinene dukker opp nederst på breen, i avsmeltingsområdet."
+        }
+      ]
+    },
+    {
+      "tittel": "Landformer dannet ved iserosjon",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Breerosjon er den kraftigste av alle erosjonsprosesser. Det er mulig å måle hvor mye en bre eroderer fjelloverflaten, fordi man kan måle hvor mye løsmasser breelva fører med seg. Målinger foran dagens norske breer viser at noen av dem eroderer 1–1,5 millimeter per år."
+        },
+        {
+          "t": "p",
+          "tekst": "De mektige isstrømmene i innlandsisene eroderte (og eroderer) neppe mindre. I løpet av de siste 2,6 millioner årene har det som nevnt vært mange istider. Da eroderte breene landoverflaten og avsatte løsmasser, morene. Det er særlig på fastlandet og den innerste delen av kontinentalhylla at isen har erodert. Lenger ute på kontinentalhylla er det avsatt tykke lag med morene. Innlandsisen har vært en mektig landskapsarkitekt."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er bare breer som glir på underlaget, som eroderer. Polare breer er frosset fast. De eroderer ikke, det er heller slik at de bevarer landformene under seg. Det er funnet løsmasser fra siste mellomistid som har «overlevd» siste istid, men det meste av løsmassene fra tiden før siste istid er feid på havet og avsatt på kontinentalhylla."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Er begrepet polar bre knyttet til formen på breen, beliggenheten eller temperaturforholdene i breen?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Skuringsstriper og rundsva",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Når breen glir på underlaget, eroderer den berggrunnen. Skuringsstriper viser hvordan den «steinbelagte» bresålen har slipt fjelloverflaten (figur 16.12). Der breen har erodert et rundsva, kan vi se hvordan sliping og plukking, de to måtene breen eroderer på, har virket sammen (figur 16.13)."
+        }
+      ]
+    },
+    {
+      "tittel": "Slepne grå fjellpartier langs et grusete lanskap",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.12",
+          "tekst": "Skuringsstriper"
+        }
+      ]
+    },
+    {
+      "tittel": "Lyse svaberg omgitt av mennesker i kjærgården",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.13",
+          "tekst": "Rundsva fra Ålandsøyene"
+        },
+        {
+          "t": "p",
+          "tekst": "Rundsva er dannet i fast fjell og er en vanlig erosjonsform i landskap som har vært nediset. Når breen glir over en ujevn landoverflate, vil trykket øke på støtsiden og føre til at isens trykksmeltepunkt synker. Det gjør at litt av breisen langs bunnen av breen smelter, og vannet strømmer til lesiden. Der minker trykket fordi bresålen ikke ligger helt nedpå. Vannet fryser derfor til is igjen, og frostforvitring sprenger løs biter av fjellet. Resultatet blir et rundsva med en glatt støtside og en kantet leside."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilken vei har breen som dannet rundsvaet i figur 16.13 beveget seg, til høyre eller til venstre?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Rundsvaene varierer i størrelse. De kan være fra én til flere hundre meter lange. Formen på rundsvaet viser, sammen med skuringsstripene, hvilken vei breen har beveget seg."
+        }
+      ]
+    },
+    {
+      "tittel": "Alpint landskap",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Det alpine landskapet i Jotunheimen ser du i figur 16.14. Det er botnbreene og mindre dalbreer som danner det alpine landskapet. Spisse tinder, skarpe egger og botnbreer er typiske. Før istidene var Jotunheimen et fjellområde med avrundede fjellformasjoner. Senere har botnbreene gravd seg inn i høyfjellsmassivet fra alle kanter, og resultatet ser du på bildet i figur 16.14."
+        },
+        {
+          "t": "p",
+          "tekst": "I løpet av den siste istidsperioden, som startet for 2,6 millioner år siden, har Jotunheimen vekselvis vært isfri og dekket av innlandsiser. I mellomistidene har fjellområdet opplevd mange «generasjoner» av botnbreer som har utviklet det alpine landskapet vi ser i dag. Botnbreene har vært aktive i starten og på slutten av istidene – og i perioder av mellomistidene. Også i selve istidene har det vært milde perioder med botnbreer i høyfjellet."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva med dagens breer – når ble de dannet?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Botnbreene på bildet har bare eksistert i 4000–5000 år, men det alpine landskapet var godt utviklet lenge før det. Breene har ikke kunnet forme dette landskapet i løpet av noen tusen år, det er for kort tid. Spørsmålet er hvordan disse markerte landformene har kunnet overleve flere istider, kanskje dekket av mange hundre meter med is."
+        },
+        {
+          "t": "p",
+          "tekst": "flyfoto av snekledd fjellandskap"
+        },
+        {
+          "t": "figur",
+          "nr": "16.14",
+          "tekst": "Alpint landskap i Jotunheimen. Breen til høyre i forgrunnen er Heimre Illåbreen. Den øvre delen av Storjuvbreen ses i forgrunnen til venstre. Galdhøpiggen ligger øverst i venstre bildekant. Bildet er tatt mot sør. Sammenlign med kartet i figur 16.22."
+        },
+        {
+          "t": "p",
+          "tekst": "De alpine landformene her i landet finner vi både i kystnære og mer kontinentale områder. I de kystnære områdene er det en mulighet for at fjellene kan ha stått opp over innlandsisen som nunataker i istidene (figur 16.15). Isen var nemlig langt tynnere ute ved kysten enn inne i landet."
+        },
+        {
+          "t": "p",
+          "tekst": "I innlandet, derimot, var også de høyeste fjellene dekket av is. Siden det alpine landskapet har «overlevd» også her, kan ikke innlandsisen ha erodert særlig mye. Kanskje var deler av breen fastfrosset til underlaget, mens isstrømmer drenerte is ut gjennom dalene, slik vi ser det på dagens innlandsiser?"
+        }
+      ]
+    },
+    {
+      "tittel": "Skarpe fjell stikker opp av et flatt snedekke",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.15",
+          "tekst": "Fjellrekken Fenriskjeften i Dronning Mauds land i Øst-Antarktis. Fjellene står opp som nunataker, isstrømmen Snuggerudbreen ses i forgrunnen. Kanskje så det slik ut i deler av Norge under siste istid?"
+        }
+      ]
+    },
+    {
+      "tittel": "Daler og fjorder",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Den spektakulære Aurlandsfjorden sett fra stølen Hovdungo, bildet er tatt mot øst. Det høyeste fjellet i bakgrunnen er Blåskavlen."
+        },
+        {
+          "t": "p",
+          "tekst": "Lag en lengdeprofil av en elveerodert og en breerodert dal!"
+        },
+        {
+          "t": "p",
+          "tekst": "Det er flere trekk som skiller iseroderte daler fra dem som er elveerodert. For det første har dalene en tydelig U-form. Det er fordi breen også graver i dalsidene. Det gjør ikke elvene, de graver bare i dalbunnen. Lengdeprofilet viser en serie trau (langstrakte groper) og terskler (figur 16.18). Profilet er ikke jevnt som i en elveerodert dal. Noen steder ender iseroderte daler i en bratt fjellvegg inn mot høyfjellet – vi kaller det en dalende. Se figurene 16.17 og 16.18."
+        }
+      ]
+    },
+    {
+      "tittel": "Vakker utsikt ned mot en blå fjord blandt bratte fjell",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.16",
+          "tekst": "Den spektakulære Aurlandsfjorden sett fra stølen Hovdungo, bildet er tatt mot øst. Det høyeste fjellet i bakgrunnen er Blåskavlen."
+        }
+      ]
+    },
+    {
+      "tittel": "Spektakulær foss renner ned i et elveleie blandt høye bratte grønne fjell",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.17",
+          "tekst": "Dalende med Vøringsfossen innerst i Måbødalen."
+        }
+      ]
+    },
+    {
+      "tittel": "Lengdeprofil av dal/fjord",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.18",
+          "tekst": "Lengdeprofil av dal og fjord. Dalen og fjorden er gravd ut av vekslende bre- og elveerosjon. Dalbunnen slik den kan ha vært før istidene (preglasial dalbunn), er tegnet med stiplet strek. Den paleiske (gamle) overflaten er rester etter det flate landskapet som var før den landhevningen i nytiden."
+        },
+        {
+          "t": "p",
+          "tekst": "Sidedalene er hengende daler, det betyr at de munner ut oppe i siden på hoveddalen (se figur 16.18 og figur 16.19). Vi finner de samme landformene både i fjorder og i iseroderte daler. Fjorder er ganske enkelt iseroderte daler der havvannet har trengt inn. Hengende fjorder finnes, det også!"
+        },
+        {
+          "t": "p",
+          "tekst": "De største dalene og fjordene må være dannet ved erosjon av isstrømmer i innlandsisen. Da den siste istidsperioden startet for 2,6 millioner år siden, hadde elvene allerede erodert elvedaler i den skråstilte landoverflaten. I istidene har isstrømmene i innlandsisen erodert videre i de dalene som elvene allerede hadde dannet."
+        },
+        {
+          "t": "p",
+          "tekst": "Langs bunnen av isstrømmene har isen vært på trykksmeltepunktet, mens ismassene på sidene kan ha vært fastfrosset til underlaget. Det førte til at erosjonen ble sterkest under isstrømmen, altså i de dalene som allerede eksisterte. Det samme skjedde istid etter istid. Mellom dalene har erosjonen vært liten. For hver istid ble dalene stadig dypere (figur 16.20)."
+        }
+      ]
+    },
+    {
+      "tittel": "Flyfoto av fjellandskap med en by langs en fjord",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.19",
+          "tekst": "Sanddalen (midt på bildet) ved Vangsmjøsa er en hengende dal. Den er skåret ned i den paleiske landoverflaten 1500–1800 moh. (Se flate II i figur 15.6). Bildet er tatt mot nordvest, med Jotunheimen i bakgrunnen."
+        }
+      ]
+    },
+    {
+      "tittel": "Et arkitektonisk utkikspunkt langs trollstigen, en slyngete vei langs en bratt fjellside",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.20",
+          "tekst": "Utsikt mot Isterdalen og Åndalsnes. Isterdalen er en typisk U-dal. Turister nyter utsikten på luftige utsiktsplattformer i Trollstigen."
+        },
+        {
+          "t": "p",
+          "tekst": "Søk med «Trollstigen» på Google Earth. Zoom, skråstill og snurr rundt. I figur 16.18 er det tegnet inn en «dalende». Undersøk om det er en dalende i Isterdalen (figur 16.20). Begrunn svaret."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er dette som skjer i Antarktis og på Grønland i dag. Isstrømmer følger dalene under breen. Der er breen tykkest, og temperaturen langs bunnen av breen er ved trykksmeltepunktet. Isstrømmen glir på underlaget og eroderer fjelloverflaten."
+        },
+        {
+          "t": "p",
+          "tekst": "Søk med «Grønland» på Google Earth. Zoom inn på østkysten av Grønland til du finner et landskap som ligner på norskekysten mot slutten av siste istid. Begrunn valget."
+        },
+        {
+          "t": "p",
+          "tekst": "Iserosjonen har vært særlig sterk på den bratte vestkysten av landet vårt. Det største dal- og fjordsystemet her i landet er Sognefjorden. Det er fordi isstrømmene har fulgt dalene. Selve Sognefjorden er erodert hele 2000 meter ned i landoverflaten. Fjorden er 205 km lang, og på det dypeste er den 1308 meter. Det er bare isbreer som kan grave under havnivået."
+        }
+      ]
+    },
+    {
+      "tittel": "Kontinentalhylla",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Illustrasjon viser isskillet og isstrømmene på vestsiden av den siste skandinaviske innlandsisen da den var på sitt største for ca. 20 000 år siden"
+        },
+        {
+          "t": "figur",
+          "nr": "16.21",
+          "tekst": "Isskillet og isstrømmene på vestsiden av den siste skandinaviske innlandsisen da den var på sitt største for ca. 20 000 år siden"
+        },
+        {
+          "t": "p",
+          "tekst": "Begrepene kontinentalhylle og kontinentalsokkel har litt forskjellig betydning. Kontinentalhylla beskriver selve formen på kontinentalsokkelen (altså en hylle), mens kontinentalsokkelen også omfatter løsmasser på havbunnen og berggrunnen under."
+        },
+        {
+          "t": "p",
+          "tekst": "For godt over 100 år siden ble geologen Amund Helland oppmerksom på noen merkelige steiner på Jæren utenfor Stavanger. Det viste seg at steinene var rombeporfyrer, en bergart som her i landet bare er funnet i Oslofeltet. Hvordan var de havnet på Jæren? Helland foreslo at de var kommet med en bre som hadde beveget seg vestover og erodert Norskerenna, en dyp renne på havbunnen utenfor Sør-Norge. Den strekker seg helt fra Skagerrak til Stad på Nord-Vestlandet, en strekning på 800 km. Mange stilte seg tvilende, men i dag er det fastlagt at Helland hadde rett."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Jotunheimen rundt Galdhøpiggen og sørover",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "16.22",
+          "tekst": "Jotunheimen rundt Galdhøpiggen"
+        },
+        {
+          "t": "tenk",
+          "tekst": "Kjenner du noen bergarter som er spesielle for Oslofeltet?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "I istidene beveget isstrømmene seg ut fra de høyeste delene av innlandsisen, det vi kaller isskillet (figur 16.21). Mange av dem fulgte daler og fjorder ut til kontinentalhylla. Erosjonen var sterkest på land og innerst på kontinentalhylla. Isstrømmene som kom ut gjennom fjordene, kunne gå på tvers av kontinentalhylla, eller de kunne gå parallelt med kysten."
+        },
+        {
+          "t": "p",
+          "tekst": "Til nå er det kartlagt ca. 20 slike erosjonsrenner på kontinentalhylla mellom Skagerrak og Svalbard (se figur 16.21). De fleste er oppdaget under kartlegging av havbunnen i forbindelse med olje- og gassleting på kontinentalsokkelen. De to største er Bjørnøyrenna og Norskerenna."
+        },
+        {
+          "t": "p",
+          "tekst": "Bjørnøyrenna ble erodert av isstrømmer som kom nordfra, fra Barentshavet. Isstrømmene som eroderte Norskerenna, kom ut Oslofjorden og beveget seg videre mot vest parallelt med kysten av Sørlandskysten – og etter hvert nordover langs Vestlandskysten."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor er Norskerenna og Bjørnøyrenna på figur 16.21?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Glasiale landformer på kartet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Se på kartet fra Jotunheimen i figur 16.22."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva heter landskapstypen du ser på kartet?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Finn noen eksempler på botnsjøer, og forklar hvordan de er dannet."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Ser du noen U-daler på kartutsnittet? Hva er typisk for dem?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Hva er en «egg» når du er i fjellet? Gi noen eksempler fra kartet."
+        },
+        {
+          "t": "p",
+          "tekst": "Hva er en «tind». Gi noen eksempler fra kartet, og forklar hvordan de er dannet."
+        },
+        {
+          "t": "p",
+          "tekst": "Søk på nettet og finn bilder fra det området kartet dekker. Sammenlign kart og bilder."
+        }
+      ]
+    },
+    {
+      "tittel": "Beregning av breerosjon",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Breelva fra Nigardsbreen bygger ut et delta i Nigardsvatnet. Nigardsbreen er en utløper fra Jostedalsbreen og dekker et areal på 47 km2. Breelva fører med seg ca. 20 000 tonn leire, sand og grus per år."
+        },
+        {
+          "t": "p",
+          "tekst": "Søk etter Nigardsbreen med Google Maps, https://earth.google.com/."
+        },
+        {
+          "t": "p",
+          "tekst": "Du kan se både isbreen, breelva, deltaet og Nigardsvatnet."
+        },
+        {
+          "t": "p",
+          "tekst": "Regn ut den gjennomsnittlige årlige erosjonen (i mm) under breen. Vi regner med at alt det materialet breelva fører med seg, er erodert av breen, og at bergartene har en tetthet på 2,7 tonn/m3."
+        },
+        {
+          "t": "p",
+          "tekst": "Finn ut hvor mange istider en isstrøm som eroderer berggrunnen med 1,5 mm per år, trenger for å grave ut Sognefjorden. Sognefjorden er erodert ca. 2000 meter ned i landoverflaten. Regn med at en istid varer 100 000 år."
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Kartutsnitt viser «Troll» i et hvitt lanskap",
+      "poster": [
+        {
+          "q": "Hva menes med trykksmeltepunktet for isen?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellene mellom polare, subpolare og tempererte breer?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke bretyper skiller vi mellom dersom vi tar utgangspunkt i breenes form og størrelse?",
+          "f": ""
+        },
+        {
+          "q": "På hvilke to måter beveger breen seg?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan oppstår sprekker og brefall på breen?",
+          "f": ""
+        },
+        {
+          "q": "Hva er en surge?",
+          "f": ""
+        },
+        {
+          "q": "Hva er isstrømmer i en innlandsis?",
+          "f": ""
+        },
+        {
+          "q": "Hvorfor er isstrømmene i en innlandsis så viktige for å forstå hvordan breen eroderer?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke forskjeller har det vært på istidene (innlandsisene) de siste 2,7 millioner år?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": 295,
+      "del": "Kartutsnitt viser «Troll» i et hvitt lanskap",
+      "poster": [
+        {
+          "q": "Hvilken bretype tror du beveger seg raskest under vanlige forhold: en polar bre eller en temperert bre? Begrunn svaret.",
+          "f": ""
+        },
+        {
+          "q": "Er en innlandsis, som i Antarktis eller på Grønland, en polar eller en subpolar bre? Begrunn svaret.",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan økt issmelting påvirke farten breen beveger seg med? Begrunn svaret.",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": 298,
+      "del": "Skarpe fjell stikker opp av et flatt snedekke",
+      "poster": [
+        {
+          "q": "Hvordan er landskapet dannet?",
+          "f": ""
+        },
+        {
+          "q": "Se på bildet i figur 16.14.",
+          "f": ""
+        },
+        {
+          "q": "Beskriv med dine egne ord det landskapet du ser. Hvilke landskapstrekk er typiske?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken bretype har vært, og er, viktig for utformingen av landskapet?",
+          "f": ""
+        },
+        {
+          "q": "Tror du landskapet er dannet før eller etter siste istid? Begrunn svaret.",
+          "f": ""
+        },
+        {
+          "q": "Hva er problemet med å forklare hvordan landskapet er dannet, dersom det ikke er eldre enn siste istid? Hva om det er dannet før siste istid?",
+          "f": ""
+        },
+        {
+          "q": "Hva blir din forklaring på hvordan landskapet er dannet?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Kart over Jotunheimen rundt Galdhøpiggen og sørover",
+      "poster": [
+        {
+          "q": "På hvilke måter eroderer breen underlaget?",
+          "f": ""
+        },
+        {
+          "q": "Hvorfor eroderer ikke polare breer berggrunnen under breen?",
+          "f": ""
+        },
+        {
+          "q": "Hva er et rundsva, og hvordan er det dannet?",
+          "f": ""
+        },
+        {
+          "q": "Hva er et alpint landskap, og når er det dannet?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan et alpint landskap ha «overlevd» istidene?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke landformer er resultat av breens erosjon?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken sammenheng er det mellom Antarktis i dag og forholdene i Skandinavia i istidene?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen mellom begrepene kontinentalhylla og kontinentalsokkelen?",
+          "f": ""
+        },
+        {
+          "q": "Hva er isskillet, og hvordan beveget isen seg i forhold til isskillet?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er erosjonsrennene på kontinentalsokkelen dannet?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Kart over Jotunheimen rundt Galdhøpiggen og sørover",
+      "poster": [
+        {
+          "q": "Hvorfor er fjorden så dyp?",
+          "f": ""
+        },
+        {
+          "q": "Studer figur 16.16. Aurlandsfjorden er nesten 1 km dyp på det dypeste.",
+          "f": ""
+        },
+        {
+          "q": "Beskriv landskapet. Hvilke landskapstyper finner du?",
+          "f": ""
+        },
+        {
+          "q": "Hvor i landskapet har innlandsisene gravd mest?",
+          "f": ""
+        },
+        {
+          "q": "Landoverflatene som fjorder og daler er skåret ned i, er ganske jevnhøye og flate. Kan du forklare hvorfor det er slik – hva har skjedd?",
+          "f": ""
+        },
+        {
+          "q": "Det norske landskapet viser at breene har erodert mye. Hvor er det blitt av løsmassene?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan tror du det er mulig å regne ut hvor mye en bre eroderer berggrunnen i løpet av et år?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "oppgave",
+      "overskrift": "OPPGAVER",
+      "side": null,
+      "del": "Kart over Jotunheimen rundt Galdhøpiggen og sørover",
+      "poster": [
+        {
+          "q": "Kartanalyse – «Jotunheimen vest»",
+          "f": ""
+        },
+        {
+          "q": "Studer kartutsnittet i figur 16.22. Bildet i figur 16.14 er fra det samme området.",
+          "f": ""
+        },
+        {
+          "q": "Sidene i rutenettet på kartet svarer til 1 km i terrenget. Hvor stor målestokk har kartet? Studer høydekurvene og bruk dem til å finne ekvidistansen på kartet. Kartutsnittet er hentet fra kartbladet «Jotunheimen Vest».",
+          "f": ""
+        },
+        {
+          "q": "Kan du finne igjen breer, daler og fjelltopper i figurene 16.14 og 16.22?",
+          "f": ""
+        },
+        {
+          "q": "Bruk Google Earth til å studere området slik det ser ut fra satellitt – søk med «Galdhøpiggen». Zoom, skråstill bildet og se deg litt rundt.",
+          "f": ""
+        },
+        {
+          "q": "Hvilken bretype er vanligst i landskapet? Hva kaller vi dette landskapet, og hvordan er det dannet?",
+          "f": ""
+        },
+        {
+          "q": "Over likevektslinjen er breoverflaten ofte «innhul», mens den under likevektslinjen er høyest midt på breen. Det ser vi av høydekurvene på breen. Der de går over fra å krumme oppover til å krumme nedover, ligger likevektslinjen. Bruk det til å bestemme den omtrentlige høyden på likevektslinjen på noen breer på kartutsnittet.",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": null,
+      "del": "Beregning av breerosjon",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "dalbre – polarbre – breerosjon",
+          "f": ""
+        },
+        {
+          "q": "skuringsstriper – rundsva – morene",
+          "f": ""
+        },
+        {
+          "gruppe": "U-dal – isstrøm – botnbre"
+        },
+        {
+          "q": "kontinentalhylla – kontinentalsokkelen – kontinent",
+          "f": ""
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "En dalbre kan ikke være en polar bre.",
+          "f": ""
+        },
+        {
+          "q": "Smeltepunktet for is stiger når trykket øker.",
+          "f": ""
+        },
+        {
+          "q": "Isbreer kan ikke bevege seg uten å gli på underlaget.",
+          "f": ""
+        },
+        {
+          "q": "Breer og isstrømmer kan bevege seg mange meter per døgn.",
+          "f": ""
+        },
+        {
+          "q": "En isstrøm kan være 100 km bred, 500 km lang og flere hundre meter dyp.",
+          "f": ""
+        },
+        {
+          "q": "Innlandsisene har vært like store i alle istider.",
+          "f": ""
+        },
+        {
+          "q": "Nesten all is kan være borte i korte perioder av en istid.",
+          "f": ""
+        },
+        {
+          "q": "En bre kan erodere 2–3 meter i fast fjell i løpet av 100 år.",
+          "f": ""
+        },
+        {
+          "q": "Det alpine landskapet er dannet av botnbreer etter siste istid.",
+          "f": ""
+        },
+        {
+          "q": "En dal er egentlig en gammel fjord som er blitt til tørt land.",
+          "f": ""
+        },
+        {
+          "q": "Kontinentalhylla er det samme som kontinentalsokkelen.",
+          "f": ""
+        },
+        {
+          "q": "Isbreene har ikke erodert utenfor kysten.",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "Glasiale landformer er dannet av isbreer.",
+    "Temperaturforholdene i breen gjør at vi skiller mellom polare, subpolare og tempererte breer.",
+    "Ut fra breens form og størrelse deler vi breene inn i bretyper som innlandsis, breer av Spitsbergen-typen, platåbre, dalbre og botnbre.",
+    "Brebevegelsen kan foregå som en indre bevegelse i isen og ved at breen glir på underlaget.",
+    "Der underlaget blir brattere, kan breen sprekke opp og danne brefall. Snøbruer er tynne snølag som skjuler sprekker under.",
+    "Isstrømmer er store «iselver» som drenerer innlandsisene på Grønland og i Antarktis.",
+    "Innlandsisene som har kommet og gått i Skandinavia de siste 2,6 millioner år, har vært forskjellige både i størrelse og varighet. De største innlandsisene nådde helt ut til eggakanten ute i havet i vest.",
+    "Det er bare tempererte breer som eroderer underlaget. Løsmassene kalles morene.",
+    "På et rundsva ser vi ofte tydelige skuringsstriper på støtsiden og resultatet av isens plukking på lesiden.",
+    "Det alpine landskapet med sine spisse tinder, fjellegger og botner er dannet av botnbreer. Det har skjedd i mellomistidene og i varmere perioder innenfor en istid. Et alpint landskap må derfor ha «overlevd» flere istider.",
+    "Dalene og fjordene er i stor grad gravd ut av isstrømmer gjennom mange istider. Hver gang har dalen og fjorden blitt litt dypere.",
+    "Endemorener vitner om en «levende» bre som reagerer på klimaforandringer ved å rykke fram.",
+    "Glasifluviale avsetninger er løsmasser som er avsatt av smeltevann fra breene.",
+    "Glasiale og glasifluviale avsetninger er avsatt i store sedimentvifter flere steder langs eggakanten. Flere steder har det gått skred i disse avsetningene.Kapittel 17"
+  ]
+}

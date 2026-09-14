@@ -1,0 +1,573 @@
+{
+  "nr": 14,
+  "tittel": "Berggrunn og landformer",
+  "forsteside": 262,
+  "sisteside": 273,
+  "laereplan": [
+    "sammenligne ulike landformer og gjøre rede for hvordan de dannes og endres under påvirkning av jordsystemene og menneskelig aktivitet"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 262,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Et naturlandskap er dannet av prosesser i naturen gjennom millioner av år. Ulike bergarter og prosesser har dannet ulike landformer. Gjennom bosetting og ressursbruk er naturlandskapet mange steder i dag endret til et kulturlandskap. Når vi bruker begrepet landskap, omfatter det både natur- og kulturlandskap."
+        }
+      ]
+    },
+    {
+      "tittel": "Luftfoto av en høy fjellformasjon med bølgede lagdelte folder",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "14.1",
+          "tekst": "Lagdelte, sedimentære bergarter i Ålfoten, Vestland fylke"
+        }
+      ]
+    },
+    {
+      "tittel": "Landformer",
+      "side": 264,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I geofag studerer vi hvordan landformene på jordoverflaten er blitt til. Norsk geologisk ordbok forklarer begrepet landform slik:"
+        },
+        {
+          "t": "p",
+          "tekst": "En form på landoverflaten dannet på naturlig måte i berggrunn eller løsmasser. Omfatter store former som sletter, platåer, fjorder, dyphavsgroper og fjell så vel som mindre terrengformer som morenerygger, elvesletter, bekkedaler og skråninger."
+        },
+        {
+          "t": "p",
+          "tekst": "(Kilde: Norsk geologisk ordbok)"
+        },
+        {
+          "t": "p",
+          "tekst": "Et naturlandskap er dannet av prosesser i naturen gjennom millioner av år. Ulike prosesser har dannet ulike landformer. Gjennom bosetting og ressursbruk er naturlandskapet mange steder i dag endret til et kulturlandskap. Når vi bruker begrepet landskap, omfatter det både natur- og kulturlandskap."
+        },
+        {
+          "t": "p",
+          "tekst": "Kart over øygruppe fargekodet med grønn: Store/Lille Bergensbue, Lilla: Lindåsdekket: overskjøvet grunnfjell, Rød: Blåmannsdekket: Grunnfjell og kvartsskifer, Grå: Grunnfjell"
+        },
+        {
+          "t": "figur",
+          "nr": "14.2",
+          "tekst": "Bergensbuene danner et tydelig mønster, både når det gjelder berggrunn og topografi. Daler og fjorder følger sprekkeretningen. Store og lille Bergensbue avgrenser det fargelagte området mot henholdsvis øst/sørøst og vest. De fiolette og rødlige områdene er skyvedekker av grunnfjell. Platetektoniske krefter har ført til både sammenpressing og strekking av jordskorpa. Det har satt spor etter seg i berggrunn og landskap."
+        },
+        {
+          "t": "p",
+          "tekst": "Jordas indre krefter danner sammen med de ytre kreftene landformene på jordoverflaten. Når de indre kreftene setter jordskorpeplatene i bevegelse, dannes det fjellkjeder og dyphavsgroper langs grensene."
+        },
+        {
+          "t": "p",
+          "tekst": "Klimaet avgjør hvilke ytre krefter som er mest aktive. I et varmt og fuktig tropisk klima er kjemisk forvitring vanlig. I et kjøligere klima får elveerosjon større betydning, mens breerosjon og frostforvitring er vanlig i et kaldt klima."
+        },
+        {
+          "t": "p",
+          "tekst": "De ytre kreftene setter sine tydelige spor etter seg, for eksempel som U-daler og V-daler, men landformene blir også påvirket av hvordan berggrunnen er bygd opp."
+        },
+        {
+          "t": "p",
+          "tekst": "Både landformer og berggrunn er påvirket av prosesser som har satt sitt preg på landoverflaten – ofte til ulike tider i jordhistorien. Det krever trening å tolke et naturlandskap. Det kan du gjøre ved å studere kart og bilder – og ta en tur ut i felt og studere landformene."
+        }
+      ]
+    },
+    {
+      "tittel": "Utviklingen av de norske landformene – noen hovedtrekk",
+      "side": 265,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "På slutten av urtiden var det meste av landmassene på jordoverflaten samlet i superkontinentet Rodinia. Ved inngangen til jordas oldtid, i kambrium, var superkontinentet slitt ned til et lavtliggende slettelandskap – det subkambriske peneplanet."
+        },
+        {
+          "t": "p",
+          "tekst": "Etter hvert ble dette flate landskapet oversvømt av havet. På havbunnen ble det avsatt løsmasser som ble herdet til sedimentære bergarter. De yngre bergartene dekket over og bevarte det subkambriske peneplanet og landformene fra urtiden."
+        },
+        {
+          "t": "p",
+          "tekst": "Flere hundre millioner år senere, da oldtidsbergartene i stor grad var fjernet ved erosjon, ble det subkambriske peneplanet blottlagt, og landformene fra urtiden kom igjen fram i dagen. I dag er de en del av det norske grunnfjellslandskapet."
+        },
+        {
+          "t": "p",
+          "tekst": "Etter den kaledonske fjellkjedefoldningen (ca. 450 millioner år siden) samlet kontinentene på jordoverflaten seg nok en gang i ett kontinent (superkontinentet Pangea). I løpet av mellomtiden sprekker Pangea opp. Baltika og Laurentia er fortsatt sammensveiset i ett kontinent, men etter hvert oppstår det et grunnhav mellom de to landområdene."
+        },
+        {
+          "t": "p",
+          "tekst": "Ørkenklimaet fra tidlig i mellomtiden forandrer seg til et varmt og fuktig tropeklima mot slutten av mellomtiden. Dypforvitring og sporadiske regnskyll sliter ned landoverflaten. Løsmassene fra Baltika (leire og sand) transporteres bort med regnvannet og avsettes på kontinentalsokkelen utenfor vestkysten av kontinentet. →"
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over landformene i Norge",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "14.3",
+          "tekst": "Landformene i Norge"
+        },
+        {
+          "t": "p",
+          "tekst": "På slutten av mellomtiden er Baltika blitt et lavtliggende sletteland med enkelte avrundede fjellområder (restfjell). I nytiden åpner Atlanterhavet seg, og den skandinaviske landblokken blir hevet og stilt på skrå, hevningen var høyest i vest og noe lavere i øst. Det som var lavtliggende sletteland, blir til høyfjellsvidder der enkelte fjellområder rager mer enn 2 000 meter over havet. Den skrå landhevningen forklarer høydeforholdene vi ser i dag, med høye fjell langs vestkysten av landet."
+        },
+        {
+          "t": "p",
+          "tekst": "Mot slutten av perioden neogen, som sluttet for ca. 2,6 millioner år siden, blir klimaet kjøligere, og frostforvitring blir den dominerende forvitringsformen. Elver graver de første V-dalene i den skråstilte landoverflaten. Dalene på vestsiden av høyderyggen ble dypest, for her er fallet størst og elveerosjonen sterkest. Tykke lag av sedimentære bergarter fra nytiden på kontinentalsokkelen viser at erosjonen på land må ha vært stor gjennom hele paleogen og neogen."
+        },
+        {
+          "t": "p",
+          "tekst": "Klimaet i perioden kvartær (de siste 2,6 millioner år) veksler mellom istider og mellomistider. Breerosjon setter tydelige spor i landskapet. Isstrømmene i innlandsisen følger elvedalene fra neogen og graver dem dypere. V-daler blir til U-daler – mange av dem blir senere til fjorder. I høyfjellet blir det dannet alpine landformer (tinder og botner), både i begynnelsen og på slutten av istidene og i mellomistidene. Langs kysten finpusser breene strandflaten."
+        },
+        {
+          "t": "p",
+          "tekst": "Da innlandsisen smeltet etter siste istid for ca. 10 000 år siden, steg havnivået, og store deler av norskekysten ble oversvømmet. På havbunnen ble det avsatt tykke lag av leire som smeltevannet førte med seg. Senere har landet hevet seg, og gammel havbunn er blitt tørt land. Leirlandskapet langs kysten, landformer i morene og elveavsetninger er dannet i løsmasser som er avsatt etter siste istid."
+        }
+      ]
+    },
+    {
+      "tittel": "Motstandsdyktige bergarter",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Bergarter som er harde, er også motstandsdyktige mot erosjon, derfor står de opp i landskapet. Løsere bergarter er mindre motstandsdyktige og finnes ofte i forsenkninger i landskapet."
+        },
+        {
+          "t": "p",
+          "tekst": "I de høyeste toppene i Jotunheimen er det gabbro fra prekambrium som står opp. I Rondane er det en hard, senprekambrisk sandstein (sparagmitt) som danner de høyeste toppene. Deler av Lyngsalpene i Troms består også av hard, prekambrisk gabbro. Både i Jotunheimen, Rondane og Lyngsalpene er de harde bergartene skjøvet på plass under den kaledonske fjellkjedefoldningen midt i oldtiden."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Nord-Norge, viser Helgelandskysten med plassering av Stetind og De syv søstre",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Et annet eksempel er fjellrekka De syv søstre på Helgelandskysten (figur 14.4). Søstrene består av motstandsdyktig granitt, som rager opp over løsere, metamorfe kambrosiluriske bergarter. Det er på samme måte som Norges nasjonalfjell Stetind (også i granitt) gjør det på forsiden av læreboka."
+        },
+        {
+          "t": "p",
+          "tekst": "Fjellrekken De Syv Søstre er sen puklete rygg, sett fra vannet."
+        },
+        {
+          "t": "figur",
+          "nr": "14.4",
+          "tekst": "De syv søstre i Nordland. Fjellene består av motstandsdyktig granitt, som rager opp over lavereliggende område med mindre motstandsdyktige bergarter fra kambrosilur."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser plassering av Bitihorn, Hallingskarvet og Kolsås",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Når de harde bergartene ligger øverst"
+        },
+        {
+          "t": "p",
+          "tekst": "Der det ligger harde bergarter over løsere bergarter, dannes det ofte bratte skrenter. Erosjonen går raskt i den løse bergarten, de harde bergartene over undergraves, og det oppstår bratte skrenter. Slike skrenter finner vi langs lavaplatåene i Oslofeltet, både Kolsås og Skaugum er eksempler. Her ligger løse sedimentære bergarter fra kambrosilur under harde vulkanske bergarter fra perm (figur 14.5) (se også geologisk kart over Oslofeltet på side 120)."
+        },
+        {
+          "t": "p",
+          "tekst": "Langs den sør-østligste kanten av skyvedekkene i den kaledonske foldesonen, der harde bergarter er skjøvet over løsere kambrosiluriske bergarter, er det flere steder dannet bratte skrenter mot sørøst. I Sør-Norge finner vi slike eksempler ved Hallingskarvet (figur 14.6) og i Jotunheimen ved Bitihorn øverst i Valdres (se figur 8.12)."
+        }
+      ]
+    },
+    {
+      "tittel": "Grønn åker med bebyggelse, ved roten av en bratt og rund topp",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "14.5",
+          "tekst": "Kolsåsplatået"
+        }
+      ]
+    },
+    {
+      "tittel": "Hallingskarvet, en kald ettermiddag med klar rosa himmel",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "14.6",
+          "tekst": "Hallingskarvet med Skurdalsfjorden (øst på Hardangervidda i nærheten av Geilo) i forgrunnen, bildet er tatt mot nordvest."
+        }
+      ]
+    },
+    {
+      "tittel": "Viddeområde med slake fjell i horisonten",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "14.7",
+          "tekst": "Innsjøen Iešjávri på Finnmarksvidda. Gaisser i horisonten."
+        },
+        {
+          "t": "p",
+          "tekst": "Finn fjellområdene som er nevnt i avsnittet ovenfor, på det geologisk kartet over Norge (figur 6.24)."
+        },
+        {
+          "t": "p",
+          "tekst": "Det samme er tilfellet i Troms og Finnmark, der Gaissene (gaisa = spiss fjelltopp, samisk) i nord og vest står opp over vidda i sørøst (figur 14.7). Gaissene består av skyvedekker som er skjøvet inn over Finnmarksvidda i forbindelse med den kaledonske fjellkjedefoldningen."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Langs grensen mellom Gaissene og vidda er det markert en smal sone på det geologiske kartet i figur 6.24. Hva forteller det deg? Hva er likheten mellom geologien i Gaissene og Jotunheimen?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Vi finner også markerte skrenter foran skyvedekker av sandsteiner (sparagmitt) nordvest på Østlandet. Rondane er en del av dette skyvedekket. Sandsteinen er skjøvet inn over kambrosiluriske bergarter nord for Mjøsa, og her er det en markert brattkant i naturlandskapet (se figur 6.24)."
+        }
+      ]
+    },
+    {
+      "tittel": "Berggrunnsstruktur og mønstre i landskapet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Berggrunnen har stor betydning, og indre og ytre krefter er avgjørende for hvilke landformer som blir dannet på jordoverflaten. Bergartene kan være dannet både på og under jordoverflaten."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Har ikke klimaet noe å si for dannelsen av landformer?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Mens berggrunnen er «steingammel», er landformene på jordoverflaten mye yngre. Det meste av berggrunnen i Norge er dannet for hundrevis av millioner år siden (prekambrium, oldtiden), mens landformene stort sett er dannet i den siste delen av jordhistorien (mellomtiden, nytiden) – særlig de siste 2–3 millioner år (istider i kvartær)."
+        },
+        {
+          "t": "p",
+          "tekst": "Med berggrunnsstruktur mener vi hvordan berggrunnen er bygd opp. Vekslingen mellom ulike bergarter, sprekkesystemer, lagdeling og folder av lagene påvirker dannelsen av landformene. Harde og løse bergarter, sprekker, lagdeling, og folderetning «styrer» erosjonsprosessene."
+        },
+        {
+          "t": "p",
+          "tekst": "Bergarter som har vært utsatt for strekk eller press, for eksempel i forbindelse med fjellkjedefoldninger, utvikler ofte sprekker. Sprekkene er svakhetssoner i fjellet der erosjonen kommer godt til. Her i landet er grunnfjellet preget av mange slike sprekkesystemer fra prekambrium."
+        },
+        {
+          "t": "p",
+          "tekst": "Vi skal se nærmere på noen eksempler som viser en tydelig sammenheng mellom berggrunnsstruktur og landskapsmønstre."
+        }
+      ]
+    },
+    {
+      "tittel": "Gneisregionen på Nordvestlandet",
+      "side": 269,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I gneisregionen i den kaledonske foldesonen, fra Mørekysten til Trondheimsfjorden, ser vi tydelig hvordan fjorder og daler følger ulike sprekkeretninger. Særlig tydelig er den kaledonske sprekkeretningen fra sørvest til nordøst (figur 14.9). Daler og fjorder ligger parallelt med kysten og det som var den kaledonske foldeaksen. Lenger mot nord, i Nordland og Troms, er det lignende forhold."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er det som skiller gneisregionen på Nordvestlandet fra andre grunnfjellsområder i Norge?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Strøkdaler i Oslofeltet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I deler av Oslofeltet, der berggrunnen består av foldede, kambrosiluriske bergarter, kan vi se hvordan åser, daler og fjorder følger foldenes lengderetning, også den fra sørvest til nordøst. Denne retningen kaller vi strøket, og dalene kaller vi strøkdaler. I tillegg til områdene rundt indre Oslofjorden, finner vi slike landformer på Hadeland og rundt Mjøsa (se figur 14.8)."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan er de kambrosiluriske bergartene i Oslofeltet foldet?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Kartillustrasjon der områder er markert",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "14.8",
+          "tekst": "Variert berggrunn og uike strukturer i Oslofeltet setter sitt preg på landformene (se også 8.19, 8.20 og 8.21)."
+        }
+      ]
+    },
+    {
+      "tittel": "Satellittbilde",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "14.9",
+          "tekst": "Satellittbilde som viser kysten mellom Stadlandet og Trondheimsfjorden. Dette er en del av gneisregionen på Nordvestlandet, som består av prekambriske bergarter sterkt påvirket av den kaledonske fjellkjedefoldningen."
+        }
+      ]
+    },
+    {
+      "tittel": "Utsnitt av Norgeskart over Vestland",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "14.10",
+          "tekst": "Strøkdaler (og «strøkfjorder») i foldede kambrosiluriske bergarter setter sitt preg på landskapet innerst i Oslofjorden. Kartutsnittet viser det samme området som du ser på flybildet."
+        },
+        {
+          "t": "p",
+          "tekst": "Snitt av foldede bergarter, med retning på strøkdalerKart over Sør-Norge som viser plassering av Tyrifjorden og Holmestrand"
+        },
+        {
+          "t": "p",
+          "tekst": "I de delene av Oslofeltet der berggrunnen består av magmatiske dypbergarter (14.8), er det et kupert landskap der koller og avrundede åser er typiske landformer. Harde dypbergarter står opp i landskapet, omgitt av mindre motstandsdyktige, kambrosiluriske bergarter. Det gjelder den sørligste delen av Oslofeltet, i Drammensmarka og fra Nordmarka ved Oslo til Mjøsa i nord."
+        },
+        {
+          "t": "p",
+          "tekst": "På Krokskogen øst for Tyrifjorden, i Vestmarka vest for Oslo og ved Holmestrand på vestsiden av Oslofjorden er det store platåer dannet av lava. Platåene er ofte oppskåret av sprekkedaler som er dannet langs svakhetssoner i bergartene. Flere steder er lavaplatåene avgrenset av bratte skrenter der lavadekkene ligger over løsere bergarter, slik eksemplet med Kolsås viser (se figur 14.5)."
+        }
+      ]
+    },
+    {
+      "tittel": "Lagdelte bergarter i landskapet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I Ålfoten danner lagdelte, sedimentære bergarter fra perioden devon trappetrinn i landskapet. De sedimentære bergartene er dannet av løsmasser fra erosjonen av den kaledonske fjellkjeden i devon. Løsmassene ble avsatt i innsjøer i den kaledonske fjellkjeden. Lagdelingen i bergartene skaper et særegent landskap (figur 14.11)."
+        }
+      ]
+    },
+    {
+      "tittel": "Terassehyller i fjellformasjonen ser ut som trapper",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "14.11",
+          "tekst": "Lagdelte, sedimentære bergarter i Ålfoten"
+        }
+      ]
+    },
+    {
+      "tittel": "Hva er eldst – bergartene eller landformen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "tenk",
+          "tekst": "Hva menes med en «motstandsdyktig bergart»? Hva er det motsatte?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan er motstandsdyktige bergarter ofte synlige i landskapet?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan er det kaledonske sprekkesystemet synlig i kystlandskapet på Nordvestlandet?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan er Bergensbuene blitt til?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er en strøkdal?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Bergarter, berggrunn og landformer i indre Oslofjord",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Finn Sandvika, Semsvannet og Nesøya på kartutsnittet og på satellittbildet i figur 14.10. Bruk også Google Earth, søk med «Sandvika» og zoom inn mot det området som er vist på satellittbildet i boka."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Se på satellittbildet i figur 14.10 og det geologiske kartet i figur 14.8. Hva slags bergarter er det i området som er vist på kartutsnittet?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Når er bergartene på øyene og i fjordnære områder dannet – og når ble de foldet?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilke bergarter er det i Skaugumsåsen (ved Semsvannet), og når ble de dannet?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan påvirker bergartene landformene på satellittbildet og kartutsnittet?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Bruk Google Earth for å se på områdene utenfor satellittbildet i boka."
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Hva er eldst – bergartene eller landformen",
+      "poster": [
+        {
+          "q": "Hvordan forklarer du at det ofte dannes skrenter der harde bergarter ligger over løsere bergarter?",
+          "f": ""
+        },
+        {
+          "q": "Hva ligger i begrepet «berggrunnsstruktur»?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan vil du forklare «trappetrinnene» i Ålfoten-landskapet (se figur 14.11)?",
+          "f": ""
+        },
+        {
+          "q": "Forklar hvordan strøkdalene innerst i Oslofjorden er dannet.",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen mellom en strøkdal og en sprekkedal?",
+          "f": ""
+        },
+        {
+          "q": "Kan landformer påvirke berggrunnen – eller er det omvendt?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": null,
+      "del": "Bergarter, berggrunn og landformer i indre Oslofjord",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "frostsprengning – breerosjon – kjemisk forvitring",
+          "f": ""
+        },
+        {
+          "q": "restfjell – paleisk landskap – ungt landskap",
+          "f": ""
+        },
+        {
+          "q": "brattkanter – skrenter – skråninger",
+          "f": ""
+        },
+        {
+          "q": "lite motstandsdyktige landformer – gabbro – granitt",
+          "f": ""
+        },
+        {
+          "q": "«råttent fjell» – gråstein – granitt",
+          "f": ""
+        },
+        {
+          "gruppe": "Gaustatoppen – Bitihorn – Hallingskarvet"
+        },
+        {
+          "q": "gneisregionen på Nordvestlandet – Oslofeltet – grunnfjellsområdet på Østlandet",
+          "f": ""
+        },
+        {
+          "q": "magma – lavaplatåer -lavadekker",
+          "f": ""
+        },
+        {
+          "q": "motstandsdyktige bergarter – harde bergarter – sprekkfylte bergarter",
+          "f": ""
+        },
+        {
+          "gruppe": "Bergensbuene – byggverk – berggrunnsstruktur"
+        },
+        {
+          "q": "sprekkedaler – strøkdaler – foldede bergarter",
+          "f": ""
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "Landformer og landskap er det samme.",
+          "f": ""
+        },
+        {
+          "q": "De eldste landformene er eldre enn de eldste bergartene.",
+          "f": ""
+        },
+        {
+          "q": "Elver eroderer like effektivt som breer i fast fjell.",
+          "f": ""
+        },
+        {
+          "q": "En hard og massiv (sprekkfri) bergart er en motstandsdyktig bergart.",
+          "f": ""
+        },
+        {
+          "q": "Motstandsdyktige bergarter står fram i landskapet.",
+          "f": ""
+        },
+        {
+          "q": "Lavaplatåer kan ikke bestå av metamorfe bergarter.",
+          "f": ""
+        },
+        {
+          "q": "Fjellet Hårteigen på Hardangervidda viser at skyvedekkene har hatt større utbredelse tidligere.",
+          "f": ""
+        },
+        {
+          "q": "Rondane er en del av et skyvedekke.",
+          "f": ""
+        },
+        {
+          "q": "Den kaledonske fjellkjedefoldningen påvirket berggrunnsstrukturen langs vestkysten av Norge.",
+          "f": ""
+        },
+        {
+          "q": "Parallelle åser og daler kan skyldes at bergartene er foldet.",
+          "f": ""
+        },
+        {
+          "q": "Strøkdaler følger helningen på landoverflaten.",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "Landformer kan være dannet av både ytre og indre krefter.",
+    "Berggrunn og bergarter har mange steder betydning for landformene.",
+    "Harde og motstandsdyktige bergarter står ofte fram i landskapet.",
+    "Når harde bergarter ligger over løsere bergarter, kan det oppstå bratte skrenter.",
+    "Skyvedekker og lavadekker kan være slik harde bergarter som ligger over løsere bergarter.",
+    "Landformene er dannet i den siste delen av jordhistorien – i mellomtiden og nytiden.",
+    "Oppbygningen av berggrunnen, bergrunnsstrukturen, kan styre erosjonsprosessene og lage spesielle mønstre i landskapet.",
+    "Gneisregionen er et område på Nordvestlandet der gneisbergartene er sterkt påvirket av den kaledonske fjellkjedefoldningen – det synes i landskapet.",
+    "I Oslofeltet har foldede, kambrosiluriske bergarter styrt erosjonsprosessene som har dannet strøkdaler i foldenes lengderetning.",
+    "Lavadekker danner store platåer i landskapet, mens dypbergarter gir et landskap med koller og åser.",
+    "Lagdelte, sedimentære bergarter kommer noen steder tydelig fram i landskapet – som i Ålfoten.Kapittel 15"
+  ]
+}

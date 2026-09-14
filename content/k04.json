@@ -1,0 +1,786 @@
+{
+  "nr": 4,
+  "tittel": "Vulkaner",
+  "forsteside": 42,
+  "sisteside": 55,
+  "laereplan": [
+    "gjøre rede for bevegelser i jordas indre og hvilke konsekvenser de har for jordskorpa og jordoverflaten",
+    "gjøre rede for ulike naturfarer knyttet til geosfæren og hydrosfæren, og vurdere hvordan mennesker kan forebygge og tilpasse seg disse farene",
+    "utforske en naturfare knyttet til geosfæren eller hydrosfæren i et bestemt geografisk område og vurdere risiko ved hjelp av modellering",
+    "gjennomføre geofaglig feltarbeid knyttet til geosfæren eller hydrosfæren, bearbeide og tolke de innsamlede dataene og presentere resultatene"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 42,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Vulkaner har vært aktive på jordoverflaten i minst fire milliarder år. Den første jordskorpa og de første landområdene besto av magmatiske bergarter. Selv om forholdene er mer stabile i dag enn tidlig i jordas historie, fortsetter vulkanske utbrudd å danne ny jordskorpe både på kontinentene og på havbunnen."
+        },
+        {
+          "t": "p",
+          "tekst": "En vulkan kan selv varsle et utbrudd. Før store vulkanutbrudd kommer det ofte mindre jordskjelv, lavautbrudd og askeutslipp, og noen ganger er det mulig å se vulkanene vokse. En vulkan i utbrudd spyr ut lava, aske og gasser. Lavaens sammensetning er avgjørende for hvordan vulkanen blir seende ut, og for hvordan utbruddet arter seg."
+        },
+        {
+          "t": "p",
+          "tekst": "Vulkanutbrudd kan være ødeleggende for landområder nær vulkanen, samtidig som vulkanske gasser kan påvirke klimaet på hele kloden."
+        }
+      ]
+    },
+    {
+      "tittel": "En vulkansk røyksky med gnister",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "4.1",
+          "tekst": "Vulkanutbrudd på Eyjafjallajökull på Island i mai 2010"
+        }
+      ]
+    },
+    {
+      "tittel": "Lava i ferd med å forsteine seg brer seg utover et akedekket landområde",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Magma, lava og vulkantyper"
+        },
+        {
+          "t": "figur",
+          "nr": "4.2",
+          "tekst": "Bildet viser to lavastrømmer. Den øverste lavastrømmen er en tyktflytende lava (felsisk lava). Den størkner og sprekker opp gjentatte ganger mens den beveger seg framover. Overflaten er ofte ujevn og oppsprukket. Den underste lavastrømmen har en glatt overflate, noe som er typisk for lettflytende lavaer (mafisk lava). Bildet er fra vulkanen Kilauea på Hawaii."
+        },
+        {
+          "t": "p",
+          "tekst": "Magma er smeltet stein under jordoverflaten. Lava er magma som har størknet oppå jordoverflaten (figur 4.2). Vi skiller mellom tyktflytende og lettflytende lavastrømmer."
+        },
+        {
+          "t": "p",
+          "tekst": "Tyktflytende lavastrømmer beveger seg langsomt og ikke så langt bort fra vulkanen. Lettflytende lavastrømmer beveger seg raskt og kan strømme flere hundre kilometer av gårde. Det skal være observert lavastrømmer med hastigheter på opp mot 100 km/t, selv om noen få kilometer per time er mer vanlig."
+        },
+        {
+          "t": "p",
+          "tekst": "Tyktflytende og lettflytende lavaer danner ulike typer vulkaner, og vi skiller mellom skjoldvulkaner og stratovulkaner."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor har den tyktflytende lavaen en oppsprukket og ujevn overflate (figur 4.2), mens den lettflytende lavaen har en glatt overflate?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Felsisk og mafisk magma",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Tyktflytende lavastrømmer omtales også som felsiske lavastrømmer. De kommer fra et felsisk magma med lyse mineraler som inneholder mye av grunnstoffet silisium. Det gjør at felsiske lavastrømmer er tyktflytende."
+        },
+        {
+          "t": "p",
+          "tekst": "Lettflytende lavastrømmer er det samme som mafiske lavastrømmer. Mafisk magma består av mørke mineraler og har et lavere innhold av silisium. Det gjør at de mafiske lavastrømmene er lettflytende."
+        }
+      ]
+    },
+    {
+      "tittel": "En vei strekker seg langs grønne jorder mot et snekledd fjell",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "4.3",
+          "tekst": "Skjoldvulkan, Mauna Loa på Hawaii"
+        }
+      ]
+    },
+    {
+      "tittel": "Skjoldvulkaner",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Tverrsnitt av en skjoldvulkan"
+        },
+        {
+          "t": "bilde",
+          "tekst": "Tegning av en skjoldvulkan"
+        },
+        {
+          "t": "p",
+          "tekst": "Som navnet antyder, har skjoldvulkanene en form som minner om et skjold. Sidene er slake, og vulkanene kan dekke store arealer. Skjoldvulkaner er bygd opp av lava som har størknet fra et lettflytende magma."
+        },
+        {
+          "t": "p",
+          "tekst": "Når en skjoldvulkan har utbrudd, strømmer lava ut fra et sentralt krater eller fra åpninger og sprekker på sidene av vulkanen. Større eksplosjoner er ikke vanlige. Lavastrømmene beveger seg som rødglødende elver nedover vulkansidene."
+        },
+        {
+          "t": "p",
+          "tekst": "Vulkanen Mauna Loa på Hawaii er en skjoldvulkan (figur 4.3). Den rager hele 10 km over havbunnen, og det har tatt over 1 million år å nå den høyden vulkanen har i dag. Skjoldet på toppen er som hatten på en sopp. «Stilken» ned mot havbunnen er mye tynnere. I enkelte tilfeller vokser slike skjoldvulkaner seg så store at deler av skjoldet kan gli ut til siden. Det kan føre til undersjøiske skred og tsunamier."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor er sidene på skjoldvulkaner slake?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Stratovulkaner",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Stratovulkaner er bygd opp av vekslende lag med størknet lava, vulkansk stein og aske (stratum = lag). I tillegg har ofte lava størknet i vulkanganger, som «armerer» vulkanen på innsiden. Lavaen som har dannet stratovulkaner, er tyktflytende. Stratovulkanene har derfor en tydeligere kjegleform og mye brattere sider enn skjoldvulkanene (figur 4.4)."
+        }
+      ]
+    },
+    {
+      "tittel": "En snekledd vulkan",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "4.4",
+          "tekst": "Stratovulkan, Mount Fuji på øya Honshu i Japan"
+        }
+      ]
+    },
+    {
+      "tittel": "Tegning av en stratovulkan",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Tverrsnitt av en stratovulkan"
+        },
+        {
+          "t": "p",
+          "tekst": "Et fjell i horisonten med skyer rundt En vukan med et voldsomt røykutbrudd En vukan med et voldsomt røykutbrudd"
+        },
+        {
+          "t": "figur",
+          "nr": "4.5",
+          "tekst": "Vulkanen Mount St. Helens i USA eksploderte 18. mai 1980. Fjellet ble 418 meter lavere etter eksplosjonen."
+        }
+      ]
+    },
+    {
+      "tittel": "Verdenskart der Mount St. Helens er merket av",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Skisse over hvordan vulkanen Mount St. Helens i USA eksploderte i 1980"
+        },
+        {
+          "t": "bilde",
+          "tekst": "Tegning av utbruddet"
+        },
+        {
+          "t": "p",
+          "tekst": "Utbrudd fra stratovulkaner er til vanlig mer eksplosive enn utbrudd fra skjoldvulkaner. Tyktflytende magma samler seg i et magmakammer like under vulkanen. Jo mer magma som kommer til, desto høyere blir trykket i magmakammeret. Når det oppstår en eller flere sprekker opp til jordoverflaten, «punkterer» magmakammeret. Når trykket i magmakammeret plutselig faller, synker kokepunktet for magmaet, og det begynner å koke."
+        },
+        {
+          "t": "p",
+          "tekst": "Bobler med vanndamp og magmaskum presses opp gjennom sprekkene mot overflaten. Sprekkene blir større, og trykket synker raskt i hele magmakammeret. Kokingen sprer seg eksplosivt, og store mengder magma presses opp gjennom sprekkene mot jordoverflaten. Et stort og eksplosivt utbrudd kan føre til at hele toppen av vulkanen sprenges bort (figur 4.5)."
+        }
+      ]
+    },
+    {
+      "tittel": "Skisse over utbredelsen av vulkaner på jordoverflaten",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "4.6",
+          "tekst": "Platetektonikk og søylestrømmer forklarer utbredelsen av vulkaner på jordoverflaten."
+        }
+      ]
+    },
+    {
+      "tittel": "Vulkaner og platetektonikk",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "De fleste vulkanene på jordoverflaten ligger langs plategrensene – i kollisjonssoner eller langs spredningsakser. Resten ligger over hotspoter inne på litosfæreplatene (figur 4.6)."
+        }
+      ]
+    },
+    {
+      "tittel": "Spredningsakser",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Langs midthavsryggene strømmer det opp mafisk magma som følge av at havbunnsplatene på hver side glir fra hverandre. De undersjøiske vulkanene ligger langs en revne på havbunnen som kan være 10–15 km bred. Selv om magmaet er mafisk og lettflytende, hindrer det kalde havvannet at det dannes lange lavastrømmer på havbunnen."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er beregnet at det strømmer ut ca. 3 km3 lava per år langs spredningsaksene, og det er mer enn noe annet sted på jordoverflaten. Til sammenligning strømmer det ut «bare» ca. 1 km3 lava per år fra vulkanene som ligger i kollisjonssonene mellom platene."
+        },
+        {
+          "t": "p",
+          "tekst": "Varmestrømmen fra jordas indre er derfor stor langs midthavsryggene. Nesten to tredeler av jordvarmen som når opp til jordoverflaten fra jordas indre, kommer ut her. Havstrømmer fører varmen videre ut i verdenshavene."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilke forskjeller er det på en vulkan og en «black smoker»?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "en undersjøisk steinsøyle som lekker grått støv"
+        },
+        {
+          "t": "figur",
+          "nr": "4.7",
+          "tekst": "«Black smoker» (svart skorstein) på midthavsryggen i Atlanterhavet"
+        },
+        {
+          "t": "p",
+          "tekst": "Det er ikke bare magma som strømmer opp av havbunnen langs spredningsaksene. Fra sprekker og skorsteinslignende formasjoner på havbunnen, såkalte «black smokers», spys det ut store mengder varmt vann (figur 4.7). Det er oppvarmet havvann som har sirkulert gjennom sprekker i jordskorpa og den øverste delen av mantelen."
+        },
+        {
+          "t": "p",
+          "tekst": "På sin vei gjennom jordskorpa løser vannet opp mineraler i bergartene. Vannet som strømmer ut gjennom en «black smoker», inneholder derfor store konsentrasjoner av ulike grunnstoffer. «Black smokers» påvirker på den måten i stor grad havvannets kjemiske sammensetning og livet i havet. I tillegg felles det ut verdifulle mineraler og metaller som blir avsatt på havbunnen."
+        }
+      ]
+    },
+    {
+      "tittel": "Kollisjonssoner",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I kollisjonssoner, der havbunnsplater kolliderer med andre litosfæreplater, dannes det vulkanske øybuer eller vulkanske fjellkjeder. Øybuer blir til der en havbunnsplate synker inn under en annen havbunnsplate. Tongaøyene i Stillehavet er et eksempel."
+        },
+        {
+          "t": "p",
+          "tekst": "Kollisjonen gjør at mantelbergartene over den synkende havbunnsplata smelter (se figur 4.6). Magmaet som dannes, er mafisk, men betydelige mengder blir til felsisk magma når magmaet beveger seg opp mot jordoverflaten. Mineralinnholdet forandrer seg underveis (delvis krystallisasjon, se kapittel 6). Det felsiske magmaet gir tyktflytende lavastrømmer som bygger stratovulkaner på overflaten."
+        }
+      ]
+    },
+    {
+      "tittel": "Hotspoter",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Fra dypet av mantelen strømmer det noen steder varme, faste mantelbergarter langsomt mot jordoverflaten i form av søylestrømmer (se side 23). Underveis minker trykket, og det gjør at smeltetemperaturen for mantelbergartene synker."
+        },
+        {
+          "t": "p",
+          "tekst": "Øverst i mantelen, like under litosfæreplata, smelter de til magma. Smelteområdet kalles en hotspot. Her samler magmaet seg i magmakamre før det strømmer videre til vulkaner på jordoverflaten."
+        },
+        {
+          "t": "p",
+          "tekst": "De vulkanske Hawaii-øyene er dannet over en søylestrøm midt inne på Stillehavsplata (figur 4.8 og figur 4.9). Selve øya Hawaii er bygd opp av fire store, aktive vulkaner. Vulkanen Kilauea produserer mer lava enn noen annen vulkan på jorda. Vulkanen har vært aktiv og i utbrudd siden 1984."
+        },
+        {
+          "t": "p",
+          "tekst": "Hawaii er den yngste i en lang øyrekke der alle øyene er dannet på samme måte. Stillehavsplata glir mot nordvest med en fart på 7–8 cm per år, mens søylestrømmen under havbunnsplata ligger omtrent på samme sted hele tiden. På den måten blir øyrekken dannet."
+        },
+        {
+          "t": "p",
+          "tekst": "Island ligger på den atlantiske midthavsryggen, samtidig som øya ligger over en søylestrøm. Vulkaner på midthavsryggen og over søylestrømmen produserer til sammen store mengder magma. Det er grunnen til at Island har bygd seg opp over havnivået. Havet rundt Island er dessuten det grunneste «midthavsområdet» på jorda, og forskerne tror også at søylestrømmen under Island er den største søylestrømmen på kloden."
+        },
+        {
+          "t": "p",
+          "tekst": "Kart som viser hvordan en hotspot etterlater seg vulkanøyer på havbunnsplata som glir over den."
+        },
+        {
+          "t": "figur",
+          "nr": "4.8",
+          "tekst": "En hotspot etterlater seg vulkanøyer på havbunnsplata som glir over den."
+        }
+      ]
+    },
+    {
+      "tittel": "En søylestrøm under Hawaii forklarer dannelsen av Hawaii-øyrekken",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "4.9",
+          "tekst": "En søylestrøm under Hawaii forklarer dannelsen av Hawaii-øyrekken."
+        },
+        {
+          "t": "p",
+          "tekst": "Det går en plategrense, en midthavsrygg, fra sørvest til nordøst over Island (se figur 2.3). Riftsonen, eller revnen, er 40–50 km bred, med to til fire parallelle vulkansystemer i bredden. Hyppige vulkanutbrudd gir ofte lange og tyntflytende lavastrømmer, men samtidig kan utbruddet være spektakulært med et ildsprutende teppe av lava, aske og gass (se figur 6.11)."
+        },
+        {
+          "t": "p",
+          "tekst": "Over en søylestrøm i Yellowstone nasjonalpark langt inne på Den nordamerikanske plata sover en supervulkan. En supervulkan i utbrudd spyr ut enorme mengder aske og stein, men vanligvis lite lava. De aller kraftigste og mest eksplosjonsartede utbruddene i supervulkaner kan tømme dyptliggende magmakamre under vulkanen. Det fører til at jordskorpa over kollapser og danner en innsynkning som kalles kaldera (betyr «gryte» på spansk)."
+        }
+      ]
+    },
+    {
+      "tittel": "Verdenskart der Yellowstone er merket av",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Geologene finner tydelige spor etter tidligere vulkanutbrudd i Yellowstone. Vulkanen har hatt tre store utbrudd med 600 000–700 000 års mellomrom, og nå er det 640 000 år siden sist! Varme kilder og geysirer vitner om at det fortsatt finnes magma under jordoverflaten i Yellowstone. En geysir er en naturlig kilde som med jevne mellomrom sender ut varmt vann eller damp. Geysiren Old Faithful i Yellowstone sender for eksempel ut en 60 meter høy vann- og dampstråle hvert 65. minutt."
+        }
+      ]
+    },
+    {
+      "tittel": "Mount St. Helens",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Søk med «Mount St. Helens» på Google Earth. Zoom, skråstill bildet og snu litt rundt. Sammenlign med figur 4.5. Hvilke spor ser du etter utbruddet i 1980? Ta gjerne en videoreise med reiseguiden rundt vulkankrateret."
+        }
+      ]
+    },
+    {
+      "tittel": "Vulkaner langs den midtatlantiske ryggen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Bruk Internett til å lage en presentasjon av vulkanen Beerenberg på Jan Mayen. Søk på «Beerenberg»; det gir deg mange treff og mange bilder."
+        },
+        {
+          "t": "p",
+          "tekst": "I 1963 dukket vulkanøya Surtsey opp av havet like sør for Island. Finn ut hva som skjedde, og presenter resultatet."
+        }
+      ]
+    },
+    {
+      "tittel": "Hotspot Hawaii",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Studer figurene 4.8 og 4.9."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er en hotspot?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva kalles de mantelstrømmene som danner en hotspot?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor oppstår disse mantelstrømmene?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva slags magma (mafisk, felsisk) er det som gir opphav til vulkanene over en hotspot?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er det som gjør at det dannes øyrekker på havbunnen over en hotspot?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "På kartskissen i figur 4.8 ser du at det er en tydelig retningsforandring på øyrekkene over flere hotspoter i Stillehavet. Hva har skjedd?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Et hus begravd i støvmasser etter et vulkanutbrudd",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "4.10",
+          "tekst": "Askenedfall på Kanariøyene (La Palma) høsten 2021"
+        }
+      ]
+    },
+    {
+      "tittel": "Vulkanske trusler",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Vulkaner som har hatt utbrudd de siste tre–fire hundreårene, regner vi som aktive. De som er sovende, har ikke hatt utbrudd på mange hundre eller tusen år, men platebevegelser tilsier at de fortsatt kan få det. I døde vulkaner er det ikke noe som tyder på at de vil våkne til liv igjen. I dag er det 500–600 aktive vulkaner på jordoverflaten, og av dem er ca. en tidel i utbrudd i løpet av ett år."
+        }
+      ]
+    },
+    {
+      "tittel": "Lava, stein og aske",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Et vulkanutbrudd kan påvirke omgivelsene på flere måter. På bakken truer lavaen. Tyntflytende lavastrømmer kan bevege seg raskt og nå langt. De fleste lavastrømmer er det nok mulig å løpe fra, men de kan ødelegge bebyggelse og annen infrastruktur."
+        },
+        {
+          "t": "p",
+          "tekst": "Fra lufta truer lavastein som slynges ut fra krateråpningen og kan treffe folk og fe flere kilometer unna. De kalles vulkanske bomber. I Japan er det ikke uvanlig at folk som bor i nærheten av aktive vulkaner, bruker harde hatter for å beskytte seg mot det som måtte komme luftveien."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Afrika og Sør-Europa der La Plama er merket av",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Høsten 2021 startet et langvarig vulkanutbrudd på øya La Palma på Kanariøyene langt unna noen plategrenser. La Palma ligger over en søylestrøm som var årsaken til vulkanutbruddet. Utbruddet varte i tre måneder, og lavastrømmer ødela hus og landområder, og store områder ble dekket av tykke askelag (figur 4.10)."
+        },
+        {
+          "t": "p",
+          "tekst": "Pyroklastiske strømmer består av en glohet blanding av aske, støv og gass som raser nedover vulkansidene med en fart på opp mot 100–200 km/t. Dem er det umulig å løpe fra. Strømmen er så kraftig, så varm og så giftig at den ødelegger alt som kommer i veien for den. Dette er den dødeligste av alle vulkanske trusler."
+        }
+      ]
+    },
+    {
+      "tittel": "Europakart der Eyjafjallajökull er merket av",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Bildet i figur 4.11 viser et vulkanutbrudd ved Eyjafjallajökull på Island i 2010. Askeskyer fra utbruddet drev inn over Europa og lammet store deler av flytrafikken. Passasjerene ble sittende «askefast» i flere dager. Det er ikke ufarlig å fly gjennom askeskyer. Det kan du lese mer om, under bildet."
+        }
+      ]
+    },
+    {
+      "tittel": "En eksplosiv røyksky brer seg over skylaget",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "4.11",
+          "tekst": "Eyjafjallajökull på Island i 2010"
+        }
+      ]
+    },
+    {
+      "tittel": "Motorene døde, ikke passasjerene",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Det er natt over Det indiske hav, 24. juni 1982. I 12 000 meters høyde er en Boeing 747–200 jumbojet, «City of Edinburgh» fra British Airways, på vei fra London til Auckland på New Zealand. På vei mot Perth i Australia oppdager flyverne små lysende prikker som i mørket farer mot cockpitvinduet. Snart ser det ut som om motorene er innhyllet i et merkelig lys. Kapteinen Eric Moody slår både på anti-isingssystemet og kabinskiltet for sikkerhetsbelte på."
+        },
+        {
+          "t": "p",
+          "tekst": "Plutselig stanser en av motorene. Ett minutt senere slukner nok en motor, og like etter stopper de to siste. På kort tid er jumbojeten med 248 passasjerer og en besetning på 15 blitt forvandlet til verdens største glidefly."
+        },
+        {
+          "t": "p",
+          "tekst": "Uten å vite det har besetningen fløyet inn i askeskyen etter et utbrudd fra vulkanen Galunggung samme dag, sørøst for Jakarta. Asken har kvalt alle motorene. Moody setter øyeblikkelig flyet i stup for å få det ned i en høyde med mer oksygen og endrer kurs mot Jakarta. Like etterpå sier han over høyttaleranlegget (gjengitt på originalspråket, som et av flyhistoriens mest berømte sitater):"
+        },
+        {
+          "t": "p",
+          "tekst": "«Ladies and Gentlemen, this is your Captain speaking. We have a small problem. All four engines have stopped. We are doing our damnedest to get them going again. I trust you are not in too much distress.»"
+        },
+        {
+          "t": "p",
+          "tekst": "Noen av passasjerene resignerte, andre begynte å skrive brev. En av dem fortalte siden: «Atmosfæren i kabinen var veldig anspent og stille. Til å begynne med var det redsel og vantro. Etter en stund snudde det seg mot aksept. Vi visste vi alle kom til å dø.»"
+        },
+        {
+          "t": "p",
+          "tekst": "Flyverne forsøker desperat å gjenopplive motorene. Først i en høyde av litt over 4000 meter lykkes de med en motor. Snart får de liv i alle fire motorene, og nødlandingen på Jakarta flyplass er vellykket."
+        },
+        {
+          "t": "p",
+          "tekst": "Flybesetningen ble overøst med utmerkelser. Siden ble to av passasjerene gift. Alle om bord på flyet, både besetning og passasjerer, etablerte også en venneforening: The Galunggung Gliding Club. 747-flyet kom for øvrig tilbake i trafikk, fikk kallenavnet «Askebegeret» av andre British Airwaysflyvere og ble først tatt ut av tjeneste i 2006."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Er det mulig å varsle et vulkanutbrudd?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Det er nok litt enklere å varsle vulkanutbrudd enn å varsle jordskjelv. Noen vulkaner varsler selv et utbrudd uker eller måneder før det skjer. Varslene kan bli tydelige de siste dagene før et utbrudd. En tidel av jordas befolkning bor så nær aktive vulkaner at de kan være utsatt ved et utbrudd."
+        },
+        {
+          "t": "p",
+          "tekst": "Det oppstår ofte svermer av mindre jordskjelv når magma stiger opp mot vulkankrateret. Ofte kan folk høre rumlingen fra magma på vei opp mot jordoverflaten. Et annet tegn på at magmaet er på vei, er økte utslipp av vanndamp fra vulkanen. Det varme magmaet varmer opp grunnvannet, som fordamper."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er også observert at selve vulkanen kan «vokse». Like før utbruddet på Mount St. Helens i 1980 hevet fjellet seg med hele 1,5 meter per døgn. Til sammen ble fjellet 100 meter høyere før det smalt (se figur 4.5). Slike observasjoner gjør det mulig å varsle utbrudd, i alle fall i dagene og timene før utbruddet kommer."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er også mulig å overvåke vulkaner fra satellitter. Temperaturmålinger og analyser av gassene som kommer fra vulkanen, kan varsle et forestående utbrudd."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er ikke mulig å stanse et vulkanutbrudd, men det er mulig å sørge for noen forebyggende tiltak for å redusere skadene fra utbruddet. I første omgang er det viktig å kartlegge aktive vulkanområder, slik at man unngår å bygge og bo for nær. Det mest effektive forebyggende tiltaket er å unngå faresonene. Videre kan informasjon til befolkningen, evakueringsplaner og varslingsopplegg bidra til å redusere skadene når utbruddet kommer."
+        },
+        {
+          "t": "p",
+          "tekst": "Når vulkanutbruddet er i gang, kan det en sjelden gang være mulig å lede lavastrømmene i ønsket retning. Under et vulkanutbrudd på Heimaey på Island i 1973 ble lavastrømmer spylt med kaldt sjøvann. Det førte til at lavafronten størknet, og lavastrømmen bak fant andre veier."
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 50,
+      "del": "Verdenskart der Yellowstone er merket av",
+      "poster": [
+        {
+          "q": "Hva kommer ut av krateret på en vulkan når den har utbrudd?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken lavatype er mest lettflytende – felsisk eller mafisk?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen på skjoldvulkaner og stratovulkaner?",
+          "f": ""
+        },
+        {
+          "q": "Hva er en kaldera?",
+          "f": ""
+        },
+        {
+          "q": "Hvor på jordoverflaten ligger de fleste synlige vulkanene?",
+          "f": ""
+        },
+        {
+          "q": "Hvor på jordoverflaten strømmer det ut mest lava?",
+          "f": ""
+        },
+        {
+          "q": "Hva er en «black smoker»?",
+          "f": ""
+        },
+        {
+          "q": "Hvor på jordoverflaten dannes vulkanske øybuer og vulkanske fjellkjeder?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Verdenskart der Yellowstone er merket av",
+      "poster": [
+        {
+          "q": "Hvordan vil du forklare at det kan komme både felsiske og mafiske lavastrømmer fra en og samme vulkan (se figur 4.2)?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan vil du forklare at bare en seksdel av verdens synlige vulkaner ligger langs spredningsakser, samtidig som det strømmer ut tre ganger mer lava langs spredningsaksene enn i kollisjonssonene?",
+          "f": ""
+        },
+        {
+          "q": "Forklar hvorfor det ikke er aktive vulkaner på alle øyene i Hawaii-øyrekken.",
+          "f": ""
+        },
+        {
+          "q": "Kystene rundt Stillehavet blir ofte omtalt som «The Ring of Fire». Hva kan grunnen være?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "oppgave",
+      "overskrift": "OPPGAVER",
+      "side": null,
+      "del": "Verdenskart der Yellowstone er merket av",
+      "poster": [
+        {
+          "q": "Hvor dannes det vulkaner?",
+          "f": ""
+        },
+        {
+          "q": "Se på figur 4.6.",
+          "f": ""
+        },
+        {
+          "q": "Finn fram til fire steder der det dannes vulkaner, og bruk platetektonikken til å forklare hvordan vulkanene oppstår i hvert enkelt tilfelle.",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er magmaet dannet, og hva slags magma er det i hvert av tilfellene?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Motorene døde, ikke passasjerene",
+      "poster": [
+        {
+          "q": "Hvor mange aktive vulkaner regner vi med at det er på jordoverflaten?",
+          "f": ""
+        },
+        {
+          "q": "Hva er en pyroklastisk strøm?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke skader kan oppstå som følge av et vulkanutbrudd?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan vulkaner påvirke klimaet?",
+          "f": ""
+        },
+        {
+          "q": "Hva legger vi i begrepet aktiv vulkan?",
+          "f": ""
+        },
+        {
+          "q": "Er det mulig å varsle et vulkanutbrudd? Hvilke tegn kan komme like før et utbrudd?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Motorene døde, ikke passasjerene",
+      "poster": [
+        {
+          "q": "Hva er vanskeligst å varsle – jordskjelv eller vulkanutbrudd?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": null,
+      "del": "Motorene døde, ikke passasjerene",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "Her er noen faguttrykk, samlet i grupper på tre, som du har møtt i dette kapitlet. Finn et faguttrykk eller ord fra hver gruppe som ikke passer inn – du skal finne ett som skal ut. Og det er viktig å begrunne valget! Noen ganger kan det være flere mulige løsninger – med ulike begrunnelser!",
+          "f": ""
+        },
+        {
+          "q": "Prøv så å lage noen «én skal ut»-oppgaver selv. Test dem på noen rundt deg.",
+          "f": ""
+        },
+        {
+          "q": "subduksjonssone – midthavsrygg – dyphavsgrop",
+          "f": ""
+        },
+        {
+          "q": "black smoker – hotspot – midthavsrygg",
+          "f": ""
+        },
+        {
+          "q": "tyntflytende lava – stratovulkan – skjoldvulkan",
+          "f": ""
+        },
+        {
+          "q": "magmakammer – kaldera – hotspot",
+          "f": ""
+        },
+        {
+          "q": "pyroklastisk strøm – lava – vulkanske bomber",
+          "f": ""
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "Det er flest synlige vulkaner der litosfæreplater kolliderer.",
+          "f": ""
+        },
+        {
+          "q": "Det kommer opp mest lava i kollisjonssoner mellom litosfæreplatene.",
+          "f": ""
+        },
+        {
+          "q": "Hele vulkaner kan kollapse i et vulkanutbrudd.",
+          "f": ""
+        },
+        {
+          "q": "Skyer av gass og støv kan både gå til værs og strømme nedover vulkansidene i et vulkanutbrudd.",
+          "f": ""
+        },
+        {
+          "q": "En mafisk lava er en tyktflytende lava.",
+          "f": ""
+        },
+        {
+          "q": "Skjoldvulkaner er vulkaner med bratte vulkansider.",
+          "f": ""
+        },
+        {
+          "q": "Du kan løpe fra en pyroklastisk strøm.",
+          "f": ""
+        },
+        {
+          "q": "Gass- og askeskyer fra vulkanutbrudd kan senke temperaturen over store deler av jordoverflaten.",
+          "f": ""
+        },
+        {
+          "q": "En aktiv vulkan må ha hatt utbrudd det siste året.",
+          "f": ""
+        },
+        {
+          "q": "Det er mulig å forandre retningen på en lavastrøm.",
+          "f": ""
+        },
+        {
+          "q": "Finn fram et «ferskt» vulkanutbrudd – kanskje et utbrudd som er i gang?",
+          "f": ""
+        },
+        {
+          "q": "En oversikt over de ferskeste vulkanutbruddene finner du på nettstedene nedenfor.",
+          "f": ""
+        },
+        {
+          "q": "Hvor og når startet vulkanutbruddet?",
+          "f": ""
+        },
+        {
+          "q": "Beskriv vulkanutbruddet (vulkantype, forløp) og følgene av det.",
+          "f": ""
+        },
+        {
+          "q": "Hvorfor skjedde vulkanutbruddet akkurat der? Bruk platetektonikken til å forklare.",
+          "f": ""
+        },
+        {
+          "q": "U.S. Geological Survey sine nettsider (https://www.usgs.gov/)",
+          "f": ""
+        },
+        {
+          "q": "Oregon State University - Volcano World (https://volcano.oregonstate.edu/)",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "De fleste vulkaner ligger, som jordskjelv, langs plategrenser.",
+    "Felsisk magma gir tyktflytende lavastrømmer som danner stratovulkaner med bratte vulkansider. Skjoldvulkaner har slake sider, de er dannet av lettflytende mafiske lavaer.",
+    "Varmestrømmen fra jordas indre er størst langs spredningsaksene.",
+    "Langs midthavsryggene dannes det noen steder såkalte «black smokers».",
+    "Vulkanske øybuer og fjellkjeder finner vi der havbunnsplater kolliderer med kontinentplater eller andre havbunnsplater.",
+    "Søylestrømmer danner et smelteområde, en hotspot, like under litosfæreplata. Smelta som trenger seg gjennom platene, danner vulkaner noen steder på jordoverflaten.",
+    "Pyroklastiske strømmer består av en glohet blanding av aske, støv og gass som raser nedover vulkansidene med en fart på opp mot 100–200 km/t.",
+    "Lava, pyroklastiske strømmer, vulkanske bomber, aske og gasser kan forekomme i varierende grad når vulkanen har utbrudd.",
+    "Vulkanutbrudd på havbunnen kan utløse en tsunami.",
+    "Det er vanskelig å varsle vulkanutbrudd, selv om vulkanen noen ganger selv sier fra om at et utbrudd er nær forestående. Det kan skje ved svermer av små jordskjelv eller røyk fra krateret forut for utbruddet.Kapittel 5"
+  ]
+}

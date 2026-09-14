@@ -1,0 +1,200 @@
+{
+  "nr": 1,
+  "tittel": "Jorda og de fem sfærene",
+  "forsteside": 8,
+  "sisteside": 13,
+  "laereplan": [],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 8,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Kloden vår er en verden full av liv. Vi mennesker har utviklet oss og lært å leve på planeten i titusener av år. Opp gjennom alle disse årene har vi fått kunnskap både om naturfarer som truer, og naturressurser som gir muligheter. Vi mennesker blir små på denne kloden, og vi utnytter kun en liten del av jordklodens ressurser. Likevel påvirker vi store og viktige deler av den ved måten vi lever på. Ingen annen art har muligheten til å ødelegge naturen eller til å «reparere» den slik vi mennesker kan."
+        },
+        {
+          "t": "p",
+          "tekst": "Geofag handler om alle delene av denne fantastiske planeten. Faget inndeler jordkloden i de ulike jordsystemene som vi kaller forskjellige sfærer. Hele jorda sett som ett samlet system består av atmosfæren, geosfæren, hydrosfæren, kryosfæren og biosfæren."
+        }
+      ]
+    },
+    {
+      "tittel": "Jordkloden svever i det mørke verdensrommet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "1.1",
+          "tekst": "«The blue marble», jorda vår, fotografert av mannskapet på Apollo 17 på vei mot månen."
+        }
+      ]
+    },
+    {
+      "tittel": "Vulkanutttbrudd med gnistrende røde flammer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Geosfæren"
+        },
+        {
+          "t": "figur",
+          "nr": "1.2",
+          "tekst": "Vulkanen Anak Krakatoa i fullt utbrudd"
+        },
+        {
+          "t": "p",
+          "tekst": "Den faste delen av jorda, fra den indre kjernen og ut til jordoverflaten, kaller vi geosfæren. Den inneholder stein og steinsmelte med temperaturer på opptil flere tusen grader. Innerst i kjernen er trykket svært høyt, og temperaturen er ca. 5000 °C. Det skyldes trykket og omdanning av radioaktive grunnstoffer som frigir varme."
+        },
+        {
+          "t": "p",
+          "tekst": "Utenfor kjernen ligger mantelen. Varme fra kjernen sørger for at massene i mantelen sirkulerer og skaper mantelstrømmer. De fører igjen til bevegelse i den faste jordskorpa. Jordskorpeplater med kontinenter og havbunn drifter rundt oppå de flytende massene. De kolliderer og glir fra hverandre, noe vi merker som jordskjelv og vulkanisme. Når platene kolliderer, kan det dannes vulkaner og store fjellkjeder. Dette er de aller sterkeste naturkreftene på jorda og kan – over millioner av år – flytte fjell. Kreftene i jordas indre former på den måten jordoverflaten. Vi kaller dem de indre kreftene."
+        },
+        {
+          "t": "p",
+          "tekst": "Fjellkjeder og vulkaner dannes som en direkte konsekvens av de indre kreftene i jordkloden. Men jordoverflaten formes også av ytre krefter som skurer, sliper ned og forvitrer landoverflaten. Det dannes daler, fjorder, sletter og åser. Isbreer, rennende vann og frost står bak slike landformer. Det pågår er evig kamp mellom de indre og de ytre kreftene, en kamp om å bygge opp og å bryte ned landjorda."
+        },
+        {
+          "t": "p",
+          "tekst": "Disse prosessene er også årsak til den unike sammensetningen av stoffer i jordskorpa, stoffer som danner mineraler og bergarter. De fleste av oss ser bare en grå stein når vi er ute på tur, men hver bergart har sin historie. Den kan være dannet av løsmasser eller av lava eller ha vært utsatt for så høyt trykk og temperatur at den har endret form og egenskaper fullstendig."
+        },
+        {
+          "t": "p",
+          "tekst": "Kunnskap om bergartene og mineralene er viktig. Det gjør at vi kan finne energiressurser som olje og gass flere kilometer nede i havbunnen. Slik kunnskap har skapt enorm rikdom for landet vårt, men det har også ført til utfordringer i form av klimaendringer. Vi trenger også kunnskap om utvinning av metaller og mineraler for å kunne utnytte fornybare energikilder, som for eksempel vindkraft, og for å utvikle nye produkter innen informasjonsteknologi. Det trengs for eksempel mange mineraler og metaller for å bygge vindmøller, spesielt rotorbladene må være både spenstige og sterke. Og det trengs titalls sjeldne metaller for å produsere mobiltelefoner og elbiler. Slik er ressurser i geosfæren viktige for at vi skal kunne gjennomføre det grønne skiftet."
+        }
+      ]
+    },
+    {
+      "tittel": "Majestetiske havbølger",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Hydrosfæren"
+        },
+        {
+          "t": "figur",
+          "nr": "1.3",
+          "tekst": "Verdenshavene dekker over 70 % av jordas overflate og er en sentral del av vannets kretsløp."
+        },
+        {
+          "t": "p",
+          "tekst": "Vannet på jorda utgjør det vi kaller hydrosfæren. Over 70 prosent av jordoverflaten er dekket av hav, som utgjør den suverent største delen av hydrosfæren, men også elver, innsjøer og grunnvann inngår. Vann finnes dessuten i form av skyer og vanndamp i atmosfæren. Likevel – havvann utgjør hele 97 prosent av alt vann på jorda. Noe av vannet er i fast form som is og snø, den delen av hydrosfæren kaller vi kryosfæren."
+        },
+        {
+          "t": "p",
+          "tekst": "Vann er svært viktig for klima og fordelingen av varme på jorda. Vannet sirkulerer og endrer form hele tiden. Noen steder går endringene raskt, andre steder svært langsomt. Hver dag fordamper det enorme mengder vann fra jordoverflaten og opp i atmosfæren. Da endrer vannet egenskaper fra å være flytende til å bli gass. Vanndampen, som er vann i gassform, vil kondensere og bli til bitte små vanndråper som danner skyer. I skyene dannes det nedbør i form av regn, snø og hagl, som igjen faller ned på jordoverflaten. Kort sagt flyttes vannet fra havet, via atmosfæren og inn på landjorda. Her gir det liv til både mennesker, dyr og planter. Vannet finner veien tilbake til hav og innsjøer via bekker og elver. Sirkulasjonen av vann mellom alle de ulike sfærene kaller vi det hydrologiske kretsløpet. Livet på jorda er helt avhengig av vann i alle former. Det er også vann vi leter etter på andre planeter når vi undersøker om det kan være liv der."
+        },
+        {
+          "t": "p",
+          "tekst": "Vi mennesker har lært å utnytte energien som ligger i rennende vann. I Norge bruker vi denne energien til miljøvennlig produksjon av elektrisitet. I denne produksjonen spiller smeltevann fra snø og isbreer en viktig rolle."
+        }
+      ]
+    },
+    {
+      "tittel": "Isfjell langs vannet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Kryosfæren"
+        },
+        {
+          "t": "figur",
+          "nr": "1.4",
+          "tekst": "Perito Moreno breen i Argentina viser et brutalt landskap av is, men også et vakkert fargespill."
+        },
+        {
+          "t": "p",
+          "tekst": "All is og snø på jorda utgjør kryosfæren, og det meste finner vi i de store innlandsisene på Grønland og i Antarktis og i resten av verdens isbreer. Mengden av is på jorda har variert mye de siste 2,6 millioner årene med gjentatte istider og mellomistider. I istidene har store deler av jordoverflaten vært dekket av tykke lag med breis. Isen på jorda spiller en viktig rolle når det gjelder klimaet. Is og snø reflekterer betydelige mengder solstråling tilbake til verdensrommet og påvirker balansen mellom stråling fra sola og strålingen jorda selv sender ut. Spesielt gjelder dette havisen i Arktis og innlandsisen på Grønland og i Antarktis. Når mengden is og snø på jorda minker, vil dette føre til at en mørkere jordoverflate fanger opp mer solstråling, som igjen øker temperaturen i hav og atmosfære. Vi har skapt en selvforsterkende effekt som kan gi en eksplosiv temperaturøkning og med galopperende klimaendringer som resultat."
+        },
+        {
+          "t": "p",
+          "tekst": "En rekke landformer som U-daler, alpine fjell og morener er noen av de landformene som er resultatet av isbreer. Det er svært få naturkrefter som kan måle seg med isbreenes evne til å skure og forme landskapet. Dette ser vi tydelig blant annet i Norge."
+        }
+      ]
+    },
+    {
+      "tittel": "Atmosfæren",
+      "side": 12,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Satelittfoto av kloden med et blålig atmosferisk lag over skyene."
+        },
+        {
+          "t": "figur",
+          "nr": "1.5",
+          "tekst": "Atmosfæren, den tynne barrieren mellom jorda og verdensrommet"
+        },
+        {
+          "t": "p",
+          "tekst": "Luftlaget som beskytter jorda mot det iskalde og ugjestmilde verdensrommet, kaller vi atmosfæren. Den består av flere lag, der det underste er troposfæren, som strekker seg opp til ca. 8–15 km over jordoverflaten. Troposfæren inneholder hele 90 prosent av all luft. Her finner vi alt av «vær», med skyer, nedbør og vind. Været er i konstant endring, og gjennomsnittsværet over tidsrom på flere tiår kaller vi klima."
+        },
+        {
+          "t": "p",
+          "tekst": "Klimaet er også i endring, men endringene skjer over lengre tid. I dag opplever vi imidlertid endringer i et tempo vi ikke har sett tidligere. Forskerne har funnet ut at vi mennesker har endret sammensetningen av gasser i atmosfæren. Spesielt gjelder dette for karbondioksid og metan, noe som fører til at temperaturen stiger i lufta, i havet og på landjorda. Endringene går altså raskere enn noen gang tidligere. Den globale oppvarmingen har ført til klimaendringer som på sikt vil kunne føre til vanskelige leveforhold for både mennesker og dyr."
+        }
+      ]
+    },
+    {
+      "tittel": "En tåkete grønn skog",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Biosfæren"
+        },
+        {
+          "t": "figur",
+          "nr": "1.6",
+          "tekst": "Skogen utgjør en stor del av biosfæren."
+        },
+        {
+          "t": "p",
+          "tekst": "I en liten avgrenset del av havet, jordoverflaten og atmosfæren finner vi livet på jorda. Alt liv på jorda går under samlebetegnelsen biosfæren. Livet har utviklet seg gjennom hundrevis av millioner av år – fra enkle organismer til dinosaurer og pattedyr. Alle arter er tilpasset omgivelsene de lever i. Når omgivelsene endres av oss mennesker eller av andre årsaker, trues ikke bare menneskene, men mange andre arter også."
+        },
+        {
+          "t": "p",
+          "tekst": "Biologisk mangfold er avgjørende for at biosfæren skal fungere. Uttrykket henspiller både på antall arter og eksistensen av et stort genetisk mangfold innenfor hver enkelt art. Begge deler er viktige for at artene skal overleve, og for muligheten vi mennesker har til å høste av naturen. Alt i biosfæren er et samspill der arter er avhengige av hverandre."
+        }
+      ]
+    },
+    {
+      "tittel": "Samspillet mellom sfærene",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "For å forstå hvordan de enkelte sfærene fungerer, kan vi ikke bare se på hva som foregår i hver enkelt av dem. Vi må se på hvordan de virker sammen, og hvordan de gjensidig påvirker hverandre. Slik gjensidig påvirkning kalles vekselvirkninger. Vi må kort sagt se på sfærene som en helhet."
+        },
+        {
+          "t": "p",
+          "tekst": "Den måten å tenke på kan hjelpe oss til å løse store utfordringer, slik som klimaendringer. Klimaendringer er et problem som involverer alle sfærene, og vi må forstå samspillet mellom dem for å finne løsninger. Derfor er det så viktig med forskning, observasjoner og målinger av prosessene som foregår i og mellom sfærene. Slike undersøkelser er krevende siden det dreier seg om enormt kompliserte systemer."
+        },
+        {
+          "t": "p",
+          "tekst": "Forskerne har utviklet metoder som kan gjøre målinger over store avstander uten at vi mennesker selv må være til stede. Vi har i dag satellitter for å overvåke naturmiljøet, som å måle temperaturer på jordoverflaten og registrere strålingen som sendes ut fra jorda. Andre hjelper oss med å måle forflytningen mellom jordskorpeplatene slik at vi en dag kanskje kan forutsi jordskjelv."
+        },
+        {
+          "t": "p",
+          "tekst": "Selv om vi i dag har gode hjelpemidler, er forskerne ofte nødt til å dra ut i felt for å gjøre fysiske undersøkelser. Det kan være i nære omgivelser eller under mer fjerne himmelstrøk – hele verden er derfor et laboratorium for geofag. Undersøkelser ute i felt er en viktig arbeidsmåte. Vi kaller det feltarbeid. I geofag er kort sagt hele verden «laboratoriet»."
+        }
+      ]
+    },
+    {
+      "tittel": "Bildekollasj av bildene i kapitlet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "1.7",
+          "tekst": "De fem sfæreneKapittel 3"
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [],
+  "sammendrag": []
+}

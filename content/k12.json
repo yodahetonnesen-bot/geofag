@@ -1,0 +1,2111 @@
+{
+  "nr": 12,
+  "tittel": "Hydrologi",
+  "forsteside": 188,
+  "sisteside": 223,
+  "laereplan": [
+    "gjøre rede for det hydrologiske kretsløpet med vekt på ferskvann og utforske og presentere hvordan det påvirkes av menneskelig aktivitet",
+    "utforske en naturfare knyttet til geosfæren eller hydrosfæren i et bestemt geografisk område og vurdere risiko ved hjelp av modellering",
+    "gjennomføre geofaglig feltarbeid knyttet til geosfæren eller hydrosfæren, bearbeide og tolke de innsamlede dataene og resultatene"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 188,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Hydrologi er læren om vannforekomstene på jorda – det vi kaller hydrosfæren. Det meste av vannet på jorda er samlet i havene. Fra havet fordamper det vann som tilføres atmosfæren. Det meste faller ned igjen som nedbør over havet, resten føres med vinder inn over land. Noe av vannet som faller på landoverflaten, fordamper tilbake til atmosfæren, resten renner før eller senere tilbake til havet. Dette er vannets kretsløp."
+        },
+        {
+          "t": "p",
+          "tekst": "en flott foss bugner seg ned mellom grønngledde fjellpartier"
+        },
+        {
+          "t": "figur",
+          "nr": "12.1",
+          "tekst": "Skarsfoss ved Låtefoss ved Odda i Hordaland"
+        }
+      ]
+    },
+    {
+      "tittel": "Vannets kretsløp",
+      "side": 190,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Det er solenergien som holder vannets kretsløp i gang. På sin vei gjennom kretsløpet oppholder vannet seg i kortere eller lengre tid i ulike vannmagasin."
+        },
+        {
+          "t": "p",
+          "tekst": "Illustrerende figur av en jordklode som viser andelen vann i forhold til faste stoffer på jorda"
+        },
+        {
+          "t": "figur",
+          "nr": "12.2",
+          "tekst": "Vannet på jorda. Selv om mer enn to tredeler av jordoverflaten er dekket av vann, ville alt vannet få plass i en kule med en diameter på ca. 1380 km. Det er den store blå kula på figuren. Ferskvannet på jorda får plass i den mellomstore blå kula, og ferskvann som er lett tilgjengelig, får plass i den minste."
+        }
+      ]
+    },
+    {
+      "tittel": "Oppholdstid",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Den tiden vannet oppholder seg i et vannmagasin, kaller vi oppholdstiden. For eksempel er den gjennomsnittlige oppholdstiden for vannet i Mjøsa 5–6 år. Oppholdstiden beregnes ved å dividere vannmengden i innsjøen med det årlige avløpet."
+        }
+      ]
+    },
+    {
+      "tittel": "Vannmagasin",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Havet er det største vannmagasinet i vannets kretsløp. Det meste av ferskvannet er lagret i de store innlandsisene på Grønland og i Antarktis. Innsjøer, elver og grunnvann er blant de viktigste ferskvannskildene (figur 12.2)."
+        }
+      ]
+    },
+    {
+      "tittel": "De største vannmagasinene er",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "havet (96,55 %)"
+        },
+        {
+          "t": "p",
+          "tekst": "vannet i atmosfæren (0,001 %)"
+        },
+        {
+          "t": "p",
+          "tekst": "grunnvann (vann i jordlag og sprekker i berggrunnen) (1,69 %)"
+        },
+        {
+          "t": "p",
+          "tekst": "innsjøer og elver (0,014 %)"
+        },
+        {
+          "t": "p",
+          "tekst": "snø og isbreer (1,74 %)"
+        }
+      ]
+    },
+    {
+      "tittel": "Kretsløpet – fra magasin til magasin",
+      "side": null,
+      "blokker": [
+        {
+          "t": "tenk",
+          "tekst": "Hvilke vannmagasiner kan du se på figur 12.3?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Havet er det aller største vannmagasinet på jorda, men det er bare en mindre del av havvannet som til enhver tid deltar i kretsløpet utenfor havet (figur 12.3). Det gjør at den gjennomsnittlige oppholdstiden for havvann er stor, om lag 3200 år."
+        },
+        {
+          "t": "p",
+          "tekst": "Vannet som fordamper fra havoverflaten, tilføres atmosfæren. Der finner vi det igjen som vanndamp, vanndråper og/eller iskrystaller. Vannet i atmosfæren skiftes fort ut, og den gjennomsnittlige oppholdstiden der er bare om lag 10 døgn."
+        },
+        {
+          "t": "p",
+          "tekst": "En stor del av vannet som fordamper fra havoverflaten, blir ikke lenge i atmosfæren. I løpet av kort tid faller mer enn tre firedeler av vannet ned over havområder. Resten blir ført med vindene inn over land og faller som nedbør der."
+        }
+      ]
+    },
+    {
+      "tittel": "Skisse over vannets kretsløp",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.3",
+          "tekst": "Vannets kretsløp. Tallene viser hvor mange kubikkilometer vann som i løpet av ett år flytter seg mellom ulike magasiner i kretsløpet. Nedbør og fordampning er de prosessene som flytter på mest vann. Evapotranspirasjon omfatter all fordampning fra land."
+        },
+        {
+          "t": "p",
+          "tekst": "Nedbør som faller på landoverflaten, tar ulike veier videre gjennom kretsløpet. Mye av vannet samler seg i innsjøer og elver og renner tilbake til havet. Noe av nedbøren trenger ned i jordlag og sprekker i berggrunnen – til grunnvannsmagasinet. Grunnvannet siger langsomt ut i vassdragene eller direkte ut havet. Oppholdstiden for dette vannet varierer mye, helt opp til tusenvis av år."
+        },
+        {
+          "t": "p",
+          "tekst": "Noe av vannet som faller ned på landoverflaten, vender raskt tilbake til atmosfæren. Det skjer når vannet fordamper fra åpent vann, våtmarker og vegetasjon (se figur 12.3)."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er forskjellen på fordampning og transpirasjon?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Det aller meste av det vannet plantene tar opp fra jordlaget, fordamper fra bladoverflaten. Denne fordampningen kaller vi transpirasjon. På en varm dag kan et tre transpirere flere hundre liter vann. En hel skog kan med andre ord transpirere millioner av liter!"
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilken sammenheng er det mellom nedbørsmengden over land, evapotranspirasjonen fra landoverflaten og avrenningen til havet (se figur 12.3)?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Dersom nedbøren faller som snø, kan vannet bli magasinert for lang tid. Hvis snøen faller på isbreer og blir til breis, kan det ta flere hundre år før isen smelter og vannet fortsetter i kretsløpet."
+        }
+      ]
+    },
+    {
+      "tittel": "Nedbørsfelt og vannbalanse",
+      "side": 192,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "All nedbør som faller i ett og samme nedbørsfelt, samler seg i den samme hovedelva. Vannskillet er grensen mot andre nedbørsfelt (figur 12.4)."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Kan elver eller bekker krysse vannskillet?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Vannbalanseligningen viser sammenhengen mellom nedbør, avrenning, evapotranspirasjon og endringer i vannmagasinene i et nedbørsfelt i en kortere eller lengre periode:"
+        }
+      ]
+    },
+    {
+      "tittel": "Nedbør = avrenning + evapotranspirasjon +/– endring i vannmagasinene",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "tegning av nedbørsfelt med hovedelv og sideelver"
+        },
+        {
+          "t": "figur",
+          "nr": "12.4",
+          "tekst": "Nedbørsfelt med hovedelv og sideelver"
+        },
+        {
+          "t": "p",
+          "tekst": "Med avrenning menes den samlede vannmengden som renner ut av nedbørsfeltet. Evapotranspirasjon er som nevnt summen av fordampning fra landoverflaten og transpirasjon fra vegetasjonen. Dersom vannstanden i en innsjø er forskjellig ved begynnelse og slutt av perioden, betyr det at det har skjedd en endring i dette vannmagasinet."
+        },
+        {
+          "t": "p",
+          "tekst": "Figur 12.5 viser den gjennomsnittlige årlige vannbalansen i Norge for perioden 1961–1990. Norge er et «vannland». Når for eksempel den midlere årsnedbøren er 1486 mm, betyr det at det ville ha ligget et 1486 mm høyt vannlag på bakken dersom nedbøren verken hadde rent bort eller fordampet."
+        },
+        {
+          "t": "p",
+          "tekst": "Nedbøren varierer mye fra sted til sted og fra år til år. Det er målt årsnedbør på over 5000 mm enkelte steder på Vestlandet, mens det kan være en årsnedbør på under 300 mm øverst i Gudbrandsdalen."
+        },
+        {
+          "t": "p",
+          "tekst": "Det meste av nedbøren vender tilbake til havet som avrenning i elver. Avrenningen tilsvarer et vannlag på 1140 mm jevnt fordelt over landoverflaten. Evapotranspirasjonen tilsvarer 346 mm."
+        },
+        {
+          "t": "p",
+          "tekst": "Siden noen av elvene krysser landegrensene, «importerer og eksporterer» vi vann. Figur 12.5 viser at det renner omtrent like mye vann inn i landet som det renner ut."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er ikke mange land som har like mye ferskvann per innbygger som Norge. Drikkevannet her i landet kommer fra både overflatevann og grunnvann. Overflatevannet er mest utsatt for forurensninger. Grunnvannet har til vanlig god kvalitet fordi det ligger godt beskyttet under bakken. Dessuten er selvrensingseffekten ofte stor. Når vannet siger gjennom sandholdige jordarter, blir urenheter i vannet i stor grad borte."
+        }
+      ]
+    },
+    {
+      "tittel": "Illustrerende figur av den gjennomsnittlige årlige vannbalansen i Norge for 1961–1990",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.5",
+          "tekst": "Den gjennomsnittlige årlige vannbalansen i Norge for perioden 1961–90"
+        }
+      ]
+    },
+    {
+      "tittel": "Nedbørsfelt og vannføring for de største norske vassdragene",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.6",
+          "tekst": "Nedbørsfeltet og vannføring for de største norske vassdragene"
+        }
+      ]
+    },
+    {
+      "tittel": "Hydrogram",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.7",
+          "tekst": "Hydrogram. I nedbørsperioder består vannføringen i elvene både av grunnvann og vann som renner bort på markoverflaten (flomavrenning). I tørkeperioder er det tilsiget av grunnvann som bestemmer vannføringen (tørrværsavrenning)."
+        }
+      ]
+    },
+    {
+      "tittel": "Vassdragene",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Fordi de høyeste delene av landet ligger langt mot vest, finner vi de største nedbørsfeltene på Østlandet og i Finnmark. På Vestlandet og nordover langs kysten er nedbørsfeltene mindre og elveløpene brattere."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor ligger ikke de største nedbørsfeltene på Vestlandet – der er jo nedbøren størst?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Dette illustreres godt av de to elvene som renner ut av Lesjaskogsvatnet, som ligger på vannskillet mellom Vestlandet og Østlandet, øverst i Romsdalen/Gudbrandsdalen (se i et atlas). Rauma renner vestover og har et nedbørsfelt på 1200 km2, mens Gudbrandsdalslågen, som renner østover, har et nedbørsfelt på hele 41 500 km2."
+        },
+        {
+          "t": "p",
+          "tekst": "Glomma har det største nedbørsfeltet her i landet. Det strekker seg fra Røros i nord til Fredrikstad i sør og er nesten like stort som Danmark. En oversikt over de største norske vassdragene er vist i figur 12.6."
+        }
+      ]
+    },
+    {
+      "tittel": "Vannføring og avrenning",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Vannføringen i en elv er den vannmengden som passerer et bestemt tverrsnitt av elva per sekund. Vannføring oppgis i m3/s (1 m3 = 1000 liter). En flomvannføring på 2000 m3/s, eller 2 000 000 L/s, er ikke uvanlig i de største norske elvene (se figur 12.6)."
+        },
+        {
+          "t": "p",
+          "tekst": "Hva menes med et tverrsnitt av elveløpet? Lag en figur."
+        },
+        {
+          "t": "p",
+          "tekst": "Avrenningen er den totale vannmengden elva har ført med seg gjennom en periode. For å beregne avrenningen et bestemt sted i elva over en lengre periode må vi skaffe en oversikt over vannføringen i perioden."
+        },
+        {
+          "t": "p",
+          "tekst": "Ved hjelp av en limnigraf (vannstandsmåler) blir vannstanden registrert kontinuerlig gjennom hele døgnet. Vannstandsmålingene kan vi bruke til å tegne en kurve som viser hvordan vannføringen varierer i løpet av et år. En slik kurve kalles et hydrogram (figur 12.7). Fra hydrogrammet er det mulig å beregne avrenningen i løpet av året. Middelvannføringen finner vi ved å fordele årsavrenningen jevnt over hele året."
+        },
+        {
+          "t": "p",
+          "tekst": "Dersom vi fordeler vannføringen på nedbørsfeltets areal, får vi den spesifikke avrenningen. Den blir til vanlig oppgitt i L/(s · km2). Den midlere spesifikke avrenningen per år i Norge (for perioden) er vist i figur 12.8."
+        }
+      ]
+    },
+    {
+      "tittel": "Noen hydrologiske begreper",
+      "side": 195,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Vannføringen i en elv er den vannmengden som passerer en bestemt målestasjon i elva per sekund. Den måles i m3/s. Husk at 1 m3 er det samme som 1000 liter."
+        },
+        {
+          "t": "p",
+          "tekst": "Avrenningen er den samlede vannmengden som passerer en målestasjon i løpet av et kortere eller lengre tidsrom, for eksempel et år. Den måles i m3."
+        },
+        {
+          "t": "p",
+          "tekst": "Gjør en utregning som viser at 1 L/(s · km2) = 31,5 mm/år."
+        },
+        {
+          "t": "p",
+          "tekst": "Middelvannføringen for en målestasjon gjennom en periode beregnes ved å dividere avrenningen med lengden av perioden. Den oppgis i m3/s."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilken praktisk nytte tror du kjennskap til den midlere spesifikke avrenningen i et nedbørsfelt har?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Spesifikk avrenning beregnes ved å dividere vannføringen med arealet av nedbørsfeltet oppstrøms for målestasjonen. Den oppgis til vanlig i L/(s · km2) og forteller hvor stor avrenningen er i liter per sekund fra hver kvadratkilometer (L/s)/km2 = L/(s · km2)."
+        },
+        {
+          "t": "p",
+          "tekst": "Den midlere spesifikke avrenningen i en periode beregnes ved å dividere middelvannføringen med arealet av nedbørsfeltet oppstrøms for målestasjonen. Den oppgis i L/(s · km2)."
+        }
+      ]
+    },
+    {
+      "tittel": "Den midlere spesifikke avrenningen i Norge oppgitt i mm/år for perioden 1961–1990",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.8",
+          "tekst": "Den midlere spesifikke avrenningen i Norge oppgitt i mm/år (se boksen ovenfor) for perioden 1961–1990"
+        }
+      ]
+    },
+    {
+      "tittel": "Vannets kretsløp",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Bruk figur 12.3. og gi en muntlig beskrivelse av vannets kretsløp."
+        },
+        {
+          "t": "p",
+          "tekst": "Studer figuren og finn ut hvilke ord som skal stå til høyre for likhetstegnene her:"
+        }
+      ]
+    },
+    {
+      "tittel": "Bruk figur 12.6 til å lage tabeller som ordner elvene etter",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Avrenning til hav + nedbør over hav ="
+        },
+        {
+          "t": "bilde",
+          "tekst": "Fordampning fra hav – nedbør over hav ="
+        },
+        {
+          "t": "bilde",
+          "tekst": "Nedbør over land – evapotranspirasjon fra land ="
+        },
+        {
+          "t": "bilde",
+          "tekst": "Nedbør over land – avrenning til hav ="
+        },
+        {
+          "t": "bilde",
+          "tekst": "De største norske vassdragene"
+        },
+        {
+          "t": "p",
+          "tekst": "størrelsen på nedbørsfeltet"
+        },
+        {
+          "t": "p",
+          "tekst": "størrelsen på middelvannføringen"
+        },
+        {
+          "t": "p",
+          "tekst": "størrelsen på maksimal flom"
+        }
+      ]
+    },
+    {
+      "tittel": "Spesifikk avrenning",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Nedbørsfeltet til elva Vefsna i Nordland fylke er 4109 km2, og middelvannføringen er 161 m3/s."
+        },
+        {
+          "t": "p",
+          "tekst": "Regn ut avrenningen gjennom ett år i Vefsna."
+        },
+        {
+          "t": "p",
+          "tekst": "Regn ut den spesifikke avrenningen ved en vannføring på 100 m3/s."
+        },
+        {
+          "t": "p",
+          "tekst": "Regn ut den midlere spesifikke avrenningen i nedbørsfeltet – både i L/(s · km2) og i mm/år."
+        }
+      ]
+    },
+    {
+      "tittel": "Flom",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Flom er en naturlig del av avrenningen i elvene, og oversvømmelser er naturens egen måte å ta seg av vannmassene på. Når kan vi si at elva er i flom? Hydrologene sammenligner med «middelflommen», som er den gjennomsnittlige årsflommen gjennom en periode på 20–30 år. Årsflommen er den største vannføringen for hvert enkelt år. Elva er først i flom når vannføringen er større enn «middelflommen»."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Er årsflommen en flom, slik hydrologene bruker flombegrepet, hvert eneste år?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Naturens egen flomdemping",
+      "side": null,
+      "blokker": [
+        {
+          "t": "tenk",
+          "tekst": "Hva legger du i begrepet flomtopp?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "I perioder med mye regn vil vannføringen i elvene øke. Hvor lang tid det tar før elvene når flomtoppen, varierer. Det avhenger av størrelsen på nedbørsfeltet, værsituasjonen og avrenningsforholdene (figur 12.9)."
+        }
+      ]
+    },
+    {
+      "tittel": "Avrenningsforholdene for elvene Leira og Risa på Romerike",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.9",
+          "tekst": "Avrenningsforholdene er forskjellige for elvene Leira og Risa på Romerike. Risa renner i sand, Leira renner i leire."
+        },
+        {
+          "t": "p",
+          "tekst": "Avrenningsforholdene bestemmes av flere forhold. Tette leiravsetninger, tynne jordlag uten magasineringsmuligheter og bart fjell gir rask avrenning på jordoverflaten. Markerte flomtopper kommer kort tid etter nedbøren. Flommene kan bli store under slike forhold."
+        },
+        {
+          "t": "p",
+          "tekst": "Sjøer, myrer, vegetasjon og tykke jordlag er med på å dempe flommer (figur 12.10). Sjøer og myrer forsinker vannmassene, og vannet som infiltrerer jordlagene, bruker lang tid på å komme ut i elva. Vegetasjonen fanger opp en del av nedbøren direkte, men enda større betydning har det at vegetasjonen fører til økt infiltrasjon i jordlaget."
+        }
+      ]
+    },
+    {
+      "tittel": "Flomtyper",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Avrenningsmønsteret i elvene varierer fra landsdel til landsdel (figur 12.11). Det som gir flom i norske elver, er store mengder regn, sterk snøsmelting og/eller smelting på isbreer."
+        }
+      ]
+    },
+    {
+      "tittel": "Tilløp og avrenning fra Mjøsa under storflommen i 1938",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.10",
+          "tekst": "Tilløp og avrenning fra Mjøsa under storflommen i 1938"
+        },
+        {
+          "t": "p",
+          "tekst": "kart som viser avrenningsmønsteret i ulike deler av landet"
+        },
+        {
+          "t": "figur",
+          "nr": "12.11",
+          "tekst": "Avrenningsmønsteret i ulike deler av landet"
+        }
+      ]
+    },
+    {
+      "tittel": "Regnflom",
+      "side": 199,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "På vestkysten av landet er regnflommer vanlige i høst- og vintermånedene. Frontnedbør langs polarfronten kan da gi flom i elvene på kysten."
+        },
+        {
+          "t": "p",
+          "tekst": "På Østlandet og på Finnmarksvidda er ikke regnflommer så vanlige. Det regner mindre her, og regnet kommer oftest i form av byger og berører ofte bare deler av nedbørsfeltet."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan påvirker fjellene langs kysten frontnedbøren?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Men det finnes unntak. Noen bygeskyer kan gi fra seg store nedbørsmengder i løpet av kort tid og føre til at vannføringen i bekker og elver øker raskt, særlig i bratt terreng. Det kan føre til plutselige lokale flommer som kan gjøre stor skade."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilken type nedbør er vanligst på Østlandet og i Finnmark om sommeren?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Snøsmelting gir vårflom",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "En stor del av nedbøren her i landet faller som snø om vinteren, og snøsmeltingen fører til vårflom i mange elver. Tidspunktet for snøsmeltingen varierer. Den kommer tidligere i Sør-Norge enn i Nord-Norge og tidligere langs kysten enn i innlandet og høyfjellet."
+        },
+        {
+          "t": "p",
+          "tekst": "Vårflommer som følge av snøsmelting er sjelden store i de kystnære vassdragene. Det skyldes at mye av snøen ved kysten smelter i løpet av vinteren, og det samler seg ikke store snømengder som kan gi flom om våren."
+        },
+        {
+          "t": "p",
+          "tekst": "I innlandet, både på Østlandet, i Troms og i Finnmark, kan snømengdene være store. I disse områdene er vårflommen ofte den største flommen i året. I nedbørsfelt som strekker seg inn i fjellområder, kan snøsmeltingen være slutt i de lavereliggende områdene før den kommer i gang i høyfjellet. Den såkalte Otta-flommen i Gudbrandsdalslågen er et slikt eksempel. Den er et resultat av snøsmeltingen i høyfjellet i Jotunheimen og kommer i juni – det vil si etter at snøsmeltingen i nedre deler av nedbørsfeltet er over."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor kommer de største nedbørsmengdene langs kysten om høsten?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Kun et hustak stikker opp av en flom der skrotrester av tømmer ligger tett om overflaten",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.12",
+          "tekst": "Slik kan det ha sett ut i Mjøsa like etter Storofsen."
+        },
+        {
+          "t": "p",
+          "tekst": "En bred elv har flommet over med brunlig vann slik at kun noen hus, en kirke og gralunden stikker opp i dalen"
+        },
+        {
+          "t": "figur",
+          "nr": "12.13",
+          "tekst": "Flommen Vesleofsen i Glomma på Rena i Østerdalen i juni 1995"
+        },
+        {
+          "t": "p",
+          "tekst": "Størrelsen på vårflommen avhenger av snømengdene, om snøsmeltingen er sen eller tidlig, og av værforholdene mens snøsmeltingen pågår. Store, vannmettede snømengder og tele i jorda øker faren for storflom. Det øverste opptinte jordlaget er da mettet med vann, og smeltevannet kan i liten grad infiltrere jordlaget. Dersom et kaldt værlag i tillegg har utsatt snøsmeltingen og det plutselig setter inn med varme og regnvær, er flommen uunngåelig."
+        }
+      ]
+    },
+    {
+      "tittel": "Flom i breelver",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Breelvene har et karakteristisk avrenningsmønster med stor og jevn vannføring om sommeren. Grunnen er bresmeltingen, som er sterk i sommerhalvåret. Særlig sent på sommeren, når mye av vinterens snø er smeltet og store deler av breoverflaten er snøfri, kan varmt vær med mye regn føre til sterk bresmelting og flom i breelvene."
+        }
+      ]
+    },
+    {
+      "tittel": "Storofsen og Vesleofsen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "De største flommene her til lands er kombinerte regn- og snøsmeltingsflommer. Storofsen og Vesleofsen er to slike eksempler (ofse = storm, uvær, naturkatastrofe som kommer brått på)."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser elvene Glomma og Gudbrandsdalslågen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Den største kjente flommen her i landet er Storofsen (figur 12.12), som herjet i Gudbrandsdalslågen og Glomma i slutten av juli 1789, samtidig som revolusjonen rullet inn over Frankrike. Særlig ble Gudbrandsdalen hardt rammet. En lang periode med mye regn, kombinert med sterk snøsmelting i høyfjellet, førte til Storofsen. Flommen tok 72 menneskeliv."
+        },
+        {
+          "t": "p",
+          "tekst": "Da flommen var på sitt største, dekket flomvannet dalbunnen, og i dalsidene gikk det hele tiden jordskred som følge av de store nedbørsmengdene. Mange av skredgropene er ennå tydelige i landskapet."
+        },
+        {
+          "t": "p",
+          "tekst": "I juni 1995 var det igjen sen snøsmelting og store snømengder i fjellet i Hedmark og Oppland. Mye regn og plutselig varme i månedsskiftet mai/juni førte til sterk snøsmelting i fjellet. Store vannmengder førte til at elvene vokste, og Glomma og deler av Gudbrandsdalslågen fikk den største flommen på over 200 år. Store arealer ble satt under vann, og flomvannet rev med seg gård og grunn. Flommen fikk navnet Vesleofsen (figur 12.13)."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er Meteorologisk institutt som har ansvaret for å sende ut varsler om ekstreme værforhold som kan føre til flom. Varslet går først til Norges vassdrags- og energidirektorat (NVE), som utarbeider flomvarsler for de aktuelle vassdragene."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor lenge er det mellom storflommene?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "I forbindelse med flomkatastrofer hører vi ofte om «hundreårsflommen» eller «tohundreårsflommen», kanskje til og med «tusenårsflommen». Hundreårsflommen er en flom som i gjennomsnitt gjentar seg med 100 års mellomrom. Sannsynligheten for at en slik flom skal komme et bestemt år, er 1 prosent. Det betyr selvsagt ikke at det må gå 100 år mellom to slike flommer. Det kan godt komme hundreårsflommer to år på rad!"
+        },
+        {
+          "t": "p",
+          "tekst": "Flomvannføringen avhenger først og fremst av nedbørsfeltets areal og mengden snø eller nedbør. De største nedbørsfeltene har ofte de største flomvannføringene. Men «graden av flom», oversvømmelsene, kan godt være større i mindre nedbørsfelt selv om flomvannføringen der er mindre."
+        },
+        {
+          "t": "p",
+          "tekst": "Vannføringen er derfor lite egnet til å sammenligne flommer i nedbørsfelt av forskjellig størrelse. Oversvømmelser og skadeomfang kommer bedre til uttrykk ved å sammenligne den spesifikke avrenningen i feltet."
+        },
+        {
+          "t": "p",
+          "tekst": "Under Storofsen i 1789 var for eksempel vannføringen ved utløpet av Øyeren ca. 5000 m3/s; det svarer til en spesifikk avrenning på 120 L/(s · km2). Storofsen var kanskje en tusenårsflom."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva kan være grunnene til høy spesifikk avrenning i små nedbørsfelt og i byområder?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "På Vestlandet er det eksempler på små nedbørsfelt som har en spesifikk avrenning på hele 2000–3000 L/(s · km2). I urbane områder, der overflaten er bebygd eller asfaltert, kan den spesifikke avrenningen komme opp i over 10 000 L/(s · km2)."
+        },
+        {
+          "t": "p",
+          "tekst": "DSB (Direktoratet for samfunnsberedskap og sikkerhet) har gjort risikoanalyser av alvorlige hendelser som kan ramme det norske samfunnet siden 2011."
+        }
+      ]
+    },
+    {
+      "tittel": "Hendelsesforløp",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Flom i Lågen og Glomma"
+        },
+        {
+          "t": "p",
+          "tekst": "Etter en snørik vinter på Østlandet blir det en kjølig vår med forsinket snøsmelting. I slutten av mai kommer en varmluftsfront fra sørøst inn over Østlandet og fører til kraftig snøsmelting i fjellet i hele regionen. Varmluftsfronten fører også med seg store nedbørmengder med lokalt ekstremt høye nedbørintensiteter i tre dager. Kombinasjonen av smeltevann og store nedbørmengder fører til flom både i Gudbrandsdalen og Østerdalen, som igjen fører til stor flom i Mjøsa og Øyeren. I tillegg flommer sidevassdrag, og bekker oppstår der det vanligvis ikke renner vann. Det går hundrevis av jordskred i de mest skredutsatte dalene, og ett av skredene rammer tettbygde områder."
+        }
+      ]
+    },
+    {
+      "tittel": "Lignende hendelser",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Tidspunkt"
+        },
+        {
+          "t": "bilde",
+          "tekst": "Omfang"
+        },
+        {
+          "t": "p",
+          "tekst": "Tre døgn i mai med ekstremt mye nedbør. Unormalt høy vannføring i fire uker."
+        },
+        {
+          "t": "p",
+          "tekst": "150–200 mm nedbør på tre døgn."
+        },
+        {
+          "t": "p",
+          "tekst": "3000–5000 m3 vannføring per sekund."
+        }
+      ]
+    },
+    {
+      "tittel": "To forskjellige hydrogram",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Storofsen i 1789"
+        },
+        {
+          "t": "bilde",
+          "tekst": "Vesleofsen i 1995"
+        },
+        {
+          "t": "p",
+          "tekst": "Se på hydrogrammene for elvene Leira og Risa i figur 12.9. Risa renner i grusmassene på Gardermosletta. Under Gardermoen ligger landets største grunnvannsforekomst. Leira renner i leire."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Forklar forskjellene på de to hydrogrammene. Hvorfor er det bare Leira som har tydelige flomtopper?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er årsakene til flomtoppene i Leira?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Avrenningsmønstre",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Figur 12.14 viser hydrogrammer fra noen norske elver."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilke forskjeller er det på avrenningsmønstrene?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Forklar forskjellene."
+        },
+        {
+          "t": "p",
+          "tekst": "Hvilket avrenningsmønster har elvene i ditt nærområde (se figur 12.11)? Forklar hvorfor det er slik."
+        },
+        {
+          "t": "p",
+          "tekst": "kart over Norge og stolpediagrammer for avrenningsmønstere i ulike vassdrag og elver"
+        },
+        {
+          "t": "figur",
+          "nr": "12.14",
+          "tekst": "Hydrogrammer i noen norske vassdrag"
+        }
+      ]
+    },
+    {
+      "tittel": "Et flomskred drar med seg hus og trær i et dalsøkk",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Flomskader"
+        },
+        {
+          "t": "figur",
+          "nr": "12.15",
+          "tekst": "Store nedbørsmengder førte i mai 2013 til flom og store ødeleggelser flere steder på Østlandet, som her på Kvam i Gudbrandsdalen. Elvene Storåa og Veiklea ødela flere hus, jernbanelinja ble ødelagt, og E6 ble oversvømt av flomvann."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser Tynset, Kvam og Gudbrandsdalen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "En elv i flom har enorm erosjonsevne. Ofte blir elvebredden undergravd slik at den raser ut i elva. Veier og jernbane er utsatt. Store trær kan havne i elva og skape problemer lenger nede i vassdraget, for eksempel ved bruer."
+        },
+        {
+          "t": "p",
+          "tekst": "Når elva går over sine bredder, kan den erodere dyrket mark og ta med seg matjord. Veier og bygninger kan bli tatt av flommen. Flommen kan også avsette tykke lag av grus, sand eller leire på åkre og ødelegge avlinger."
+        },
+        {
+          "t": "p",
+          "tekst": "I tillegg blir ofte bebyggelsen på elvesletter og i områder nær elva hardt rammet når vannmassene kommer (figur 12.15). Flomvann trenger inn i kjellere og kan nå langt over stuegulvet. Hele bygninger kan bli tatt av vannmassene"
+        },
+        {
+          "t": "p",
+          "tekst": "Det er ikke mulig å unngå flom, men det er mulig å begrense skadene. Langs flomutsatte elver bygger man forbygninger som skal hindre vannet i å erodere elvebreddene og oversvømme områder nær elva (figur 12.16). Slike inngrep i elveløpet kan imidlertid forandre avrenningsforholdene. Kanskje renner vannet raskere unna, og en flom kan dermed gjøre større skader lenger nede i vassdraget enn den ellers ville gjort."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er en forbygning?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Elv bygget inn med betongforskalinger for flomsikring",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.16",
+          "tekst": "Forbygning langs et elveløp"
+        },
+        {
+          "t": "p",
+          "tekst": "I forbindelse med vannkraftutbygging er det bygd store vannmagasiner. Her blir smeltevann og regn samlet til bruk i kraftproduksjonen. Vannmagasinene kan være med på å dempe flommer så lenge magasinene ikke er fulle. Dersom det varsles mye regn eller sterk snøsmelting, kan kraftselskapene tappe ut vann av magasinene."
+        },
+        {
+          "t": "p",
+          "tekst": "Flomfaren kan øke ved endret arealbruk i nedbørsfeltet. Hogst, oppdyrking og nedbygging i deler av nedbørsfeltet gjør at nedbøren, eller smeltevannet, kommer raskere ut i elveløpene. Vannet infiltrerer ikke jordlaget, men renner i stedet raskt bort på landoverflaten – og flomfaren øker."
+        }
+      ]
+    },
+    {
+      "tittel": "Klimaendringene fører til mer ekstremvær",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Den globale oppvarmingen har ført til klimaendringer. Et varmere klima vil påvirke det hydrologiske kretsløpet. Både flom og tørke kan bli mer vanlig. De siste to–tre tiårene har det vært gjentatte perioder med tørke både i Europa og andre verdensdeler, noe som har skapt store problemer. I andre perioder har stor flom og store oversvømmelser vært et problem."
+        },
+        {
+          "t": "p",
+          "tekst": "Ekstremvær kan bety at det kommer mye nedbør i løpet av kort tid. Den globale oppvarmingen har tilført atmosfæren mer energi, det betyr kraftigere vinder, større nedbørsmengder og mer styrtregn. Følgene er blant annet flere og større flommer."
+        },
+        {
+          "t": "p",
+          "tekst": "Flommer i norske vassdrag skyldes enten mye regn og/eller mye og rask snøsmelting. Kortere vintre, større nedbørsmengder og hyppigere styrtregn vil føre til at det oftere blir regnflom – ikke minst i mindre elver og bekker. Mye vann kommer raskt ut i elvene. Urbane områder vil være særlig utsatt for oversvømmelser. I byområder har vannet liten mulighet til å trenge ned i bakken, og avløpsnettet klarer ikke alltid å ta seg av de økte vannmengdene."
+        },
+        {
+          "t": "p",
+          "tekst": "Snøsmelteflommer vil fortsette å komme stadig tidligere. Mot slutten av århundret vil sannsynligvis en mindre del av nedbøren komme som snø, noe som vil føre til at smelteflommene blir mindre. Det blir nok særlig merkbart i de store elvene i indre deler av Østlandet og Finnmark."
+        },
+        {
+          "t": "p",
+          "tekst": "I de delene av landet der den største flommen i dag er en regnflom, vil flommene bli større fordi det vil regne både mer og tettere i framtiden. Faren for ødeleggende katastrofeflommer kan komme til å øke betraktelig."
+        }
+      ]
+    },
+    {
+      "tittel": "Vann under jordoverflaten",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Noe av vannet som trenger ned i bakken, blir holdt igjen i det øverste jordlaget, mens noe siger ned mot grunnvannet. Grunnvann finner vi også i sprekker og porer i berggrunnen."
+        }
+      ]
+    },
+    {
+      "tittel": "Markvann",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Markvann er en fellesbetegnelse for det vannet som blir holdt igjen i det øverste jordlaget, og fritt sigevann som er på vei ut av markvannssonen. Hvor stor del av nedbøren som infiltrerer (infiltrere = trenge inn) jordlaget, avhenger både av jordart, vegetasjon og vanninnhold i jorda. Grove jordarter slipper vannet lettere gjennom enn fine jordarter."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er forskjellen på grove og fine jordarter?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Nedbøren infiltrerer lettere sandjord enn leirjord. Og det skjer raskere i tørr enn i fuktig jord (figur 12.17). Dette kan ha stor innvirkning på elvenes dreneringsnett (se figur 12.19)."
+        }
+      ]
+    },
+    {
+      "tittel": "Infiltrasjonshastighet i ulike jordarter",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.17",
+          "tekst": "Infiltrasjonshastighet i ulike jordarter"
+        },
+        {
+          "t": "p",
+          "tekst": "Markvannssonen ligger over grunnvannsspeilet."
+        },
+        {
+          "t": "figur",
+          "nr": "12.18",
+          "tekst": "Markvannssonen ligger over grunnvannsspeilet."
+        },
+        {
+          "t": "p",
+          "tekst": "Planter og trær skjermer jordoverflaten mot regndråper og holder åpningene ned i jordlaget åpne. Vegetasjon kan på den måten bidra til at infiltrasjonen i jordlaget er god også ved store nedbørsmengder. Uten et beskyttende plantedekke vil plaskregn føre til at åpningene ned i jordlaget raskere blir tettet igjen, og at en større del av nedbøren renner bort på overflaten. Det øker faren for erosjonsskader."
+        }
+      ]
+    },
+    {
+      "tittel": "Rotsonen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I markvannssonen er ikke jordlaget mettet med vann, det finnes både luft og vann mellom de enkelte jordpartiklene. I figur 12.18 er markvannssonen delt i tre. Den delen av jordlaget der planter og trær har sine røtter, kalles rotsonen. Herfra henter plantene vannet de trenger. Vanninnholdet i rotsonen kan variere mye."
+        },
+        {
+          "t": "p",
+          "tekst": "På dyrket mark har de vanligste årsvekstene sjelden røtter som går dypere enn 40–50 cm, selv om poteter kan utvikle røtter helt ned til 2,5 meter. Poteter kan derfor utnytte en større del av markvannssonen og kan dyrkes på jord der andre planter tørker ut. Jo dypere røttene når, desto større del av markvannet kan plantene utnytte."
+        },
+        {
+          "t": "p",
+          "tekst": "Trær har røtter som når enda dypere. Furua kan nå 5–7 meter under jordoverflaten og kan derfor vokse på tørre steder. Bjørka har røtter ned til ca. 3 meter, men de brer seg ofte langt ut fra stammen. Bjørk forbruker mye vann, opptil 60–70 L/døgn, og den gjør nytte for seg på vannsyk jord. Grana har det meste av rotsystemet i de øverste 0,5 meter av jordlaget. Den foretrekker derfor fuktig jord."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva tror du menes med vannsyk jord?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Romerike",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.19",
+          "tekst": "Det er ikke like tett med elver og bekker overalt på Romerike. Gardermosletta i nordøst består av sand- og grusmasser. I sørvest på kartutsnittet består grunnen av leire. Sidene i hver rute er 1 km."
+        }
+      ]
+    },
+    {
+      "tittel": "Mellomsonen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Under rotsonen ligger mellomsonen. Planterøttene når ikke ned hit, og det er små variasjoner i vanninnholdet. Mellomsonen er best utviklet der grunnvannet ligger dypt. I mange deler av landet vårt er jordlaget så tynt at det ikke finnes noen mellomsone. Da kan røttene nå helt ned til kapillærsonen, som ligger like over grunnvannsspeilet."
+        }
+      ]
+    },
+    {
+      "tittel": "Kapillærsonen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Kapillærsonen (kapillar = hårrør) ligger nederst i markvannssonen. Kapillarkrefter (et tynt rørs evne til å trekke vann oppover) gjør at vannet stiger opp fra grunnvannet under. Kapillarkreftene er størst i jordarter med små porerom. I finsand og leire kan vannet stige flere meter opp fra grunnvannsspeilet. I grove jordarter, som grus og sand, når kapillærsonen bare noen centimeter opp fra grunnvannsspeilet. Der grunnvannet ligger høyt og mellomsonen mangler, kan det kapillære stigevannet nå planterøttene og være en avgjørende vannreserve i tørkeperioder."
+        }
+      ]
+    },
+    {
+      "tittel": "Feltkapasitet og visnegrense",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Når regnvann eller smeltevann trenger ned i jordlaget, fyller det først opp markvannsmagasinet. Det er imidlertid en grense for hvor mye vann jorda kan holde på, denne vannmengden kaller vi feltkapasiteten. Dersom tilgangen på vann er større enn feltkapasiteten, vil vannet fortsette som sigevann gjennom markvannssonen og ned til grunnvannet. Feltkapasiteten er den vannmengden som er tilbake i markvannssonen når sigevannet er ute."
+        },
+        {
+          "t": "p",
+          "tekst": "Det meste av det vannet planterøttene tar opp fra jorda, transporteres gjennom planten og til spalteåpningene på bladene, der det transpirerer. Planterøttene klarer ikke å trekke ut alt markvannet. Etter hvert som vanninnholdet minker, blir det resterende vannet stadig sterkere bundet til jordpartiklene. Derfor er alltid en del av markvannet bundet vann. Dette vannet kalles visnegrensen (figur 12.20). Det vannet som er tilgjengelig for plantene, er lik forskjellen mellom feltkapasiteten og visnegrensen:"
+        }
+      ]
+    },
+    {
+      "tittel": "Tilgjengelig vann = feltkapasitet – visnegrense",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Feltkapasitet og visnegrense varierer med jordartene (figur 12.21). Jo større porer det er i jorda, desto mindre vann kan jorda holde på. I sand kan for eksempel feltkapasiteten bare være 15 prosent av jordvolumet, mens visnegrensen kan tilsvare 5 prosent. Det betyr at den vannmengden som er tilgjengelig for plantene, tilsvarer 10 prosent av jordvolumet."
+        },
+        {
+          "t": "p",
+          "tekst": "Vanninnholdet i jordlaget kan sammenlignes med vanninnholdet i en svamp."
+        },
+        {
+          "t": "figur",
+          "nr": "12.20",
+          "tekst": "Vanninnholdet i jordlaget kan sammenlignes med vanninnholdet i en svamp. Når svampen er helt neddykket, er den fullstendig mettet med vann, slik jorda er under grunnvannsspeilet. Dersom vi tar opp svampen, renner noe vann ut med en gang. Det svarer til sigevannet i markvannssonen. Når det ikke renner ut mer vann, er den vannmengden som er tilbake i svampen, lik feltkapasiteten. Om vi så vrir svampen til vi ikke får ut mer vann, kan vannmengden som er tilbake, sammenlignes med jordartenes visnegrense."
+        },
+        {
+          "t": "p",
+          "tekst": "I leirholdig jord, der porene er mindre, kan feltkapasiteten være 45 prosent og visnegrensen 25 prosent av jordvolumet. Denne jorda kan holde på mer vann, men den holder også igjen en større del. Likevel svarer den vannmengden plantene kan utnytte, til 20 prosent av jordvolumet for leirjorda. Det betyr at leirjord tåler tørke bedre enn sandholdige jordarter."
+        }
+      ]
+    },
+    {
+      "tittel": "Grunnvann",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Grunnvannet er den største ferskvannsressursen på jorda, om vi ser bort fra vannet som er lagret i de store innlandsisene."
+        }
+      ]
+    },
+    {
+      "tittel": "Grunnvannsspeil og permeabilitet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Grunnvannet ligger under markvannssonen (se figur 12.18). I grunnvannssonen er alle porerom i jordlaget fylt med vann. Vi sier at jorda er mettet med vann. Det er særlig porøse (porøs = rik på porer) smeltevanns- og elveavsetninger (grus og grov sand) som kan inneholde mye grunnvann."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor kommer smeltevannsavsetningene fra?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Vannet kan bevege seg forholdsvis raskt gjennom de store porene i disse løsmassene. Vi sier at de porøse løsmassene har stor permeabilitet eller gjennomtrengelighet, og de er derfor de beste grunnvannskildene. Grunnvannet beveger seg til vanlig fra noen centimeter til et par meter per døgn, avhengig av jordarten og fallet på grunnvannsspeilet."
+        }
+      ]
+    },
+    {
+      "tittel": "Feltkapasiteten og visnegrensen i ulike jordarter",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.21",
+          "tekst": "Feltkapasiteten og visnegrensen i ulike jordarter. En jordfuktighet på 20 prosent betyr at et jordlag som er 100 mm tykt, inneholder 20 mm vann."
+        },
+        {
+          "t": "p",
+          "tekst": "Grunnvannsspeilet er grenseflaten mellom markvannssonen og grunnvannssonen og følger høydeforskjellene i terrenget. Grunnvannet ligger dypest under åser og høydedrag og dukker opp i dagen i forsenkninger i terrenget. Der renner grunnvannet ut i myrer, sjøer og elver."
+        }
+      ]
+    },
+    {
+      "tittel": "Grunnvannsbrønner",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "De beste grunnvannsbrønnene i løsmasser kan gi opptil 50 000–60 000 L/min og forsyne flere tusen husstander med vann. Det største grunnvannsmagasinet her i landet ligger i smeltevannsavsetningene på Romerike, sør for Mjøsa. Det er beregnet at det kan forsyne en befolkning på 250 000–300 000 personer med vann."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Når ble smeltevannsavsetningene på Romerike avsatt?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Fjell kan også inneholde grunnvann. Det meste av berggrunnen her i landet består av eruptive og metamorfe bergarter som ikke er porøse. Her er grunnvannet knyttet til sprekker i berggrunnen, og det er ikke noe sammenhengende grunnvannsspeil slik som i løsmasser. En god vanntilgang i fjellbrønner er derfor helt avhengig av at det finnes sprekker i bergartene, og at brønnboreren treffer en slik vannførende sprekk (figur 12.22)."
+        },
+        {
+          "t": "p",
+          "tekst": "Brønner i fast fjell gir likevel langt mindre vann enn brønner i løsmasser, kanskje 5000–6000 l/time, avhengig av hvor omfattende sprekkesystemene er. Men ikke i noe fall er slike brønner egnet til å forsyne særlig mange husstander. Ofte er det nødvendig med vannbasseng der vannet kan samles opp i perioder med lite vannbruk."
+        },
+        {
+          "t": "p",
+          "tekst": "Her i landet blir grunnvannsmagasinene fylt opp av nedbør om høsten og snøsmelting om våren – dersom det ikke er tele i bakken. Gjennom vinteren synker grunnvannsspeilet. Langvarige tørkeperioder om sommeren, med sterk transpirasjon fra planter og trær, kan også føre til at grunnvannsspeilet synker. Men forholdene kan endre seg raskt dersom det kommer mye regn."
+        },
+        {
+          "t": "p",
+          "tekst": "Grunnvann inneholder mer oppløste mineraler enn overflatevann. Enkelte grunnvannskilder inneholder så mye at de kalles mineralkilder. Farris-kilden ved Larvik er et eksempel."
+        },
+        {
+          "t": "p",
+          "tekst": "Andre steder kan innholdet av kalk i vannet bli så stort at det danner seg kalkavsetninger på gryter og kar. Vi sier at vannet er hardt, men det er fortsatt fullt brukbart som drikkevann. Noen steder kan grunnvannet inneholde for mye av mineraler som mangan og jern, og det kan gjøre vannet uegnet som drikkevann."
+        },
+        {
+          "t": "p",
+          "tekst": "Norges geologiske undersøkelse (NGU) har ansvar for kartlegging og overvåking av grunnvannsressursene her i landet. Det er etablert et nett av grunnvannsbrønner der grunnvannets kvalitet og mengde blir registrert."
+        }
+      ]
+    },
+    {
+      "tittel": "Vann pipler ut i en bergsprekk",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.22",
+          "tekst": "Grunnvann strømmer ut av en fjellsprekk ved Bogen i Ofoten i Nordland."
+        }
+      ]
+    },
+    {
+      "tittel": "Infiltrasjonshastighet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Se på grafene i figur 12.17 og kartet i figur 12.19."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva betyr det at vannet infiltrerer en jordart?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva menes med infiltrasjonshastighet?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilken forskjell er det på infiltrasjonshastigheten i tørr og i fuktig jord?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilken jordart har størst infiltrasjonshastighet?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor høy er den på det meste?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva skjer med infiltrasjonshastigheten etter at det har regnet en stund?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Tallet på elver og bekker (dreneringstettheten) varierer mye på kartutsnittet i figur 12.19. Hvilken sammenheng er det mellom forskjellene i dreneringstetthet på kartet og det figur 12.17 forteller oss?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Vanninnholdet i ulike jordarter",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Se på figur 12.21."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilken jordart inneholder mest vann, og hvilken inneholder minst? Hvorfor er det slik?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor stor prosent (omtrentlig) av vannet er bundet i hver av jordartene på figuren?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilken av jordartene tåler tørke dårligst?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Grunnvannsborehull (GRANADA) (mini-feltarbeid)"
+        },
+        {
+          "t": "p",
+          "tekst": "Bruk NGUs grunnvannsdatabase på nett, https://geo.ngu.no/kart/granada_mobil/."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor finner du grunnvannsborehull i ditt nærområde?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "(Du kan også se her: https://geo.ngu.no/kart/minkommune, klikk på «Løsmasser, infiltrasjonspotensiale» og deretter på «Mer kartfunksjonalitet» nederst i høyre kant av skjermbildet for tegnforklaring til kartet.)"
+        },
+        {
+          "t": "p",
+          "tekst": "Er borehullene laget i berggrunn eller løsmasser? Du kan se borehullene plassert både på topografiske kart og flybilder."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor dypt er det ned til fast fjell?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Kan du finne ut hva slags bergarter og/eller løsmasser borehullene er laget i? Er det noe sammenheng mellom grunnvannsmengde og løsmassetype?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Oppsøk ett eller flere borehull. Kanskje kan dere få en orientering av noen som kjenner til GRANADA?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Isbreen som vannmagasin",
+      "side": 212,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Isbreene er et av vannmagasinene i vannets kretsløp. Det er enorme vannmengder lagret i dem. Dersom all is på jorda hadde smeltet, ville det gitt like mye vann som avrenningen fra alle vassdragene på jorda i over 800 år."
+        },
+        {
+          "t": "p",
+          "tekst": "Det aller meste av isen finner vi i de to store innlandsisene på Grønland og i Antarktis. Dersom de skulle smelte, ville verdenshavene stige med 64 meter. Grønland ville bidra med 7 og Antarktis med 57 meter."
+        }
+      ]
+    },
+    {
+      "tittel": "Massebalanse",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Om vinteren faller det meste av nedbøren som snø på isbreene, og det skjer en pålagring av snø på hele breoverflaten. Vinterbalansen er netto pålagring i løpet av vinteren. Sommerbalansen er netto smelting på breen i løpet av sommeren."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor er effekten av solstrålingen størst om sommeren – øverst eller nederst på breen? Begrunn svaret?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor har vinden betydning for issmeltingen?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "I sommersesongen er det flere smelteprosesser som gjør at breen minker. Betydningen av hver enkelt smelteprosess varierer gjennom året og fra bre til bre. Solstrålingen er som regel den viktigste årsaken. Varm luft som blåser inn over breen, smelter også snø og is på breoverflaten. Jo høyere temperatur og vindstyrke, desto sterkere blir smeltingen. Dersom lufta i tillegg er fuktig, vil noe av vanndampen i lufta kondensere på breen. Kondensasjonsvarmen som blir frigjort, smelter is."
+        },
+        {
+          "t": "p",
+          "tekst": "Ved å måle vinterbalansen og sommerbalansen i løpet av et år kan vi beregne breens årlige balanse, eller massebalanse (figur 12.23). Massebalansen forteller om breen har vokst eller minket. Dersom massebalansen er positiv, har pålagringen vært større enn avsmeltingen, og breen har vokst. Dersom den er negativ, betyr det at pålagringen har vært mindre enn avsmeltingen, og breen har blitt mindre. Det tar vanligvis flere år før forandringer i breens massebalanse blir synlig som endringer i brefrontens posisjon."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Når på året tror du det er mulig å observere likevektslinjen på breoverflaten?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "I næringsområdet øverst på breen er massebalansen positiv, i avsmeltingsområdet nederst på breen er den negativ (figur 12.25). Likevektslinjen på breen er skillet mellom næringsområdet og avsmeltingsområdet (figur 12.26). Her er det likevekt mellom pålagring og avsmelting."
+        },
+        {
+          "t": "p",
+          "tekst": "Likevektslinjen ligger høyere inne i landet enn ved kysten (figur 12.27). Det har med forskjeller i kyst- og innlandsklima å gjøre. På Ålfotbreen ligger den på ca. 1200 moh., mens den i Øst-Jotunheimen ligger på om lag 2100 moh."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilke klimatiske forskjeller gjør at likevektslinjen ligger høyere inne i landet enn ved kysten?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Måling av massebalanse",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I 2020 var det om lag 2200 norske isbreer, og til sammen dekket de et areal på ca. 2300 km2, eller ca. 1 prosent av fastlandslandarealet. Dette året ble det utført massebalansemålinger på 13 norske breer. På flere av breene har målingene pågått sammenhengende i mer enn 40 år. Storbreen i Jotunheimen har den lengste måleserien – snart over 70 år (se 12.23)."
+        }
+      ]
+    },
+    {
+      "tittel": "Massebalansen på Storbreen i Jotunheimen (1949–2019) målt i meter vannekvivalent",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.23",
+          "tekst": "Massebalansen på Storbreen i Jotunheimen (1949–2019) målt i meter. Det betyr at snø og is er omregnet til et vannlag jevnt fordelt over hele breoverflaten. Se bilde av Storbreen nedenfor (figur 12.24)"
+        }
+      ]
+    },
+    {
+      "tittel": "Høye fjell med snø og isbre",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.24",
+          "tekst": "Storbreen i Jotunheimen"
+        }
+      ]
+    },
+    {
+      "tittel": "Skisse over breoverflaten og isens bevegelse",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.25",
+          "tekst": "Breoverflaten og isens bevegelse"
+        }
+      ]
+    },
+    {
+      "tittel": "Skarelag over fjellvidde som sprekker opp med en skitten kontur",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.26",
+          "tekst": "Spørteggbreen. Skillet mellom avsmeltingsområdet og næringsområdet like før vintersesongen starter. Likevektslinjen er tydelig på bildet."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart som viser likevektslinjens høyde over havet på Vestlandet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.27",
+          "tekst": "Likevektslinjens høyde over havet på Vestlandet"
+        },
+        {
+          "t": "p",
+          "tekst": "De første undersøkelsene av massebalansen startet i forbindelse med vannkraftutbygging. Avrenningsmønsteret i brevassdragene er særlig gunstig for kraftproduksjonen. Vannføringen er høy i tørre og varme perioder – nettopp når de andre vassdragene har lav vannføring."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan måles massebalansen?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "De første undersøkelsene av breenes massebalanse var basert på gjentatte observasjoner av brefrontens posisjon. Dersom breen rykket fram, hadde den lagt på seg. Dersom brefronten smeltet tilbake, minket den. Slike indirekte målinger gir likevel bare en antydning om massebalansen."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor er det misvisende å si at breen «trekker seg tilbake»?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "I dag beregnes massebalansen ved direkte målinger av pålagring og smelting i et nettverk av punkter på breoverflaten. I tillegg er satellittbilder med høy oppløsning blitt et vanlig verktøy for å måle endringer i massebalanse. Da kan høydeendringer – og dermed volumendringer – måles med god nøyaktighet over store områder som ikke kan dekkes av direkte målinger."
+        },
+        {
+          "t": "p",
+          "tekst": "Vinterbalansen beregnes ved å måle snødybden i begynnelsen og på slutten av vintersesongen. Det skjer med lange metallstaker som er boret ned i breoverflaten, eller ved at man bruker tynne sonderingsstaker for å finne tykkelsen på snølaget som har kommet i løpet av vinteren."
+        },
+        {
+          "t": "p",
+          "tekst": "Sommerbalansen beregnes ved å måle smeltingen av snø og is fra starten til slutten av sommersesongen med stakene som er boret ned i isen. I avsmeltingsområdet smelter først vinterens snø, deretter en del av breisen. I næringsområdet er nettosmeltingen lik smeltingen av snødekket i løpet av sommersesongen."
+        },
+        {
+          "t": "p",
+          "tekst": "Målinger av massebalansen er tidkrevende, og man har derfor forsøkt å komme fram til enklere metoder. Det har vist seg at det er en nær sammenheng mellom massebalanse og høyden av likevektslinjen på en bre. Dersom denne sammenhengen er kjent, vil det være tilstrekkelig å fastlegge høyden av likevektslinjen for å kunne beregne massebalansen. Metoden er imidlertid ikke så nøyaktig."
+        },
+        {
+          "t": "p",
+          "tekst": "Massebalansen på seks breer i Norge i 2020."
+        },
+        {
+          "t": "figur",
+          "nr": "12.28",
+          "tekst": "Massebalansen på seks breer i Norge i 2020."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hver bre har sin søyle som består av tre deler med ulike farger på figur 12.28. To av delene er alltid like lange. Hvilke farger har de, og hvorfor er det slik?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Massebalansen på norske breer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Figur 12.28 viser massebalansen på seks norske breer i 2020. Alle breene ble mindre."
+        },
+        {
+          "t": "p",
+          "tekst": "Graf. Kumulativ årlig massebalanse (massebalanse summert gjennom hele perioden) på utvalgte norske breer i Norge i perioden 1989-2020"
+        },
+        {
+          "t": "figur",
+          "nr": "12.29",
+          "tekst": "Kumulativ årlig massebalanse (massebalanse summert gjennom hele perioden) på utvalgte norske breer i Norge i perioden 1989–2020"
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva betyr det at grafene i figur 12.29 stiger – og synker?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Figur 12.29 på side 215 viser at i perioden fra 1989 til 1995 var massebalansen positiv på de fleste av de målte breene i Norge, men senere har massebalansen i hovedsak vært negativ. Dette skyldes mindre vinternedbør og sterk smelting de siste årene. De to breene som har hatt størst underskudd på massebalansen, er Langfjordjøkelen i Finnmark og Hansebreen i Nordfjord."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan kommer det fram i figur 12.29 at de fleste breene ikke har vokst etter år 2000?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva forteller de to figurene 12.28 og 12.29 om Nigardsbreen?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "For noen breer i Nord-Norge og på Vestlandet, for eksempel Engabreen og Nigardsbreen, er underskuddet i perioden betydelig mindre. Grunnen til det er enkelte år med store overskudd på massebalansen, som for eksempel i 2012 og 2015. Nigardsbreen er den eneste breen med et masseoverskudd i hele perioden 1989–2020."
+        }
+      ]
+    },
+    {
+      "tittel": "Avrenningen fra isbreene",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Vannet som er magasinert i norske breer, svarer til fem ganger vannmengden i Mjøsa. Smeltevannet fra breen søker seg ned i isen og følger sprekker og tunnelsystemer fram mot brefronten. Der munner breelva ut i en breport."
+        },
+        {
+          "t": "p",
+          "tekst": "I et brefritt nedbørsfelt er det til vanlig meget godt samsvar mellom avrenning, evapotranspirasjon og årsnedbør. I brevassdragene er ikke forholdet så enkelt. Dersom sommeren er kald, kan en del av nedbøren bli liggende igjen som snø på breen. Er derimot sommeren varm, kan smeltingen føre til at breelvene fører mer vann enn det nedbøren skulle tilsi."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Søk med «Rembesdalskåka» på Google Earth. Zoom, skråstill og snurr rundt! Hva ser du?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Det betyr at vi kan beregne massebalansen på breene ved å sammenligne nedbør, avrenning og evapotranspirasjon. Når vi kjenner nedbøren (P), avrenningen (Q) og evapotranspirasjonen (E), er massebalansen (B) gitt ved uttrykket"
+        }
+      ]
+    },
+    {
+      "tittel": "B = P – Q – E",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Massebalansen tilsvarer da den vannmengden som er magasinert på breen – eller frigjort fra den."
+        },
+        {
+          "t": "p",
+          "tekst": "Noen ganger kan isen selv demme opp smeltevann fra breen. Disse bredemte sjøene vil før eller senere bli tappet (figur 12.30). Ofte skjer det plutselig, og da blir det uventede flommer (jøkelløp) i breelvene."
+        }
+      ]
+    },
+    {
+      "tittel": "En isbre ligger over et sandete og grusfylt dalområde",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.30",
+          "tekst": "Bredemt sjø ved Rundvassbreen (Blåmannsisen) – nesten tømt etter at 10 millioner kubikkmeter vann rant under breen mellom 9. og 10. september i 2019."
+        }
+      ]
+    },
+    {
+      "tittel": "Massebalansen på noen norske breer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Figur 12.28 viser massebalansen, sommerbalansen og vinterbalansen på noen norske breer i 2020, målt i «meter vannekvivalent». Da er snø og is omregnet til et vannlag jevnt fordelt over hele breen."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Var massebalansen for de undersøkte breene positiv eller negativ i 2020? Vokste de, eller smeltet de tilbake?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Hvor stor var vinterbalansen og sommerbalansen på Engabreen i 2019? Bruk vinter- og sommerbalansen til å vise at massebalansen var ca. –1,0 meter vannekvivalent i 2020."
+        }
+      ]
+    },
+    {
+      "tittel": "En isbre ligger over et sandete og grusfylt dalområde",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.31",
+          "tekst": "Hellstugubreen i Jotunheimen har smeltet tilbake litt over en kilometer siden 1900."
+        }
+      ]
+    },
+    {
+      "tittel": "Illustrasjoner: massebalansen på en isbre",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.32",
+          "tekst": "Massebalansen, og dermed høyden på likevektslinjen, har betydning for brefrontens framrykking eller tilbakesmelting."
+        }
+      ]
+    },
+    {
+      "tittel": "Isbreen som klimaindikator",
+      "side": 219,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Et klima med kjølige somre og nedbørsrike vintre er gunstig for breens vekst."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor er kjølige somre og nedbørsrike vintre gunstig for at en bre vokser?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Mye vinternedbør kan gjøre at breen vokser selv om sommeren er varm og smeltingen stor. Men dersom vinternedbøren er liten eller kommer som regn på breen, samtidig som somrene er varme, vil breen langsomt smelte. Forandringer i breens størrelse kan derfor være et uttrykk for klimaendringer. Vi sier at breen er en klimaindikator."
+        },
+        {
+          "t": "p",
+          "tekst": "Søk med «Hellstugubreen» i Google Earth. Zoom. Skråstill og snurr rundt! Når på året tror du satellittbildene er tatt? Begrunn svaret. Benytt reiseguiden i Google Earth til en liten videotur rundt Galdhøpiggen!"
+        }
+      ]
+    },
+    {
+      "tittel": "Frontmålinger",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Dersom breen minker, kan vi etter noen år (på små breer etter 3–5 år, på større breer etter flere tiår) se at brefronten blir slakere og smelter tilbake (figur 12.31). En bre som vokser, har oftest en bratt brefront (figur 12.32)."
+        },
+        {
+          "t": "p",
+          "tekst": "Figur 12.33 viser forandringer i brefrontens posisjon for fire norske breer i perioden 1975–2020. Avstanden til brefronten måles fra et fast punkt foran breen. Selv om massebalansen er positiv eller negativ i en lengre periode, kan det likevel ta flere tiår før det har innvirkning på brefrontens posisjon."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Søk med «Briksdalsbreen» på Google Earth. Zoom, skråstill og snurr rundt til du får samme vinkel inn mot breen som på bildene i figur 12.34. Hva har skjedd siden det første bildet ble tatt?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Graf. Kumulative frontendringer på Nigardsbreen, Engabreen, Storbreen og Rembesdalskåka fra 1975 til 2020."
+        },
+        {
+          "t": "figur",
+          "nr": "12.33",
+          "tekst": "Kumulative frontendringer på Nigardsbreen (foto), Engabreen, Storbreen og Rembesdalskåka fra 1975 til 2020"
+        }
+      ]
+    },
+    {
+      "tittel": "Fotoserie av Briksdalsbreen som trekker seg tilbake. Fra 1997–2022",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "12.34",
+          "tekst": "Bildene viser Briksdalsbreen, som ligger i Nordfjord i Sogn og Fjordane fylke. Breen, som er en utløper fra Jostedalsbreen, kommer fra 1800 moh. og kalver i et vann som ligger 346 moh. Bildene er tatt i perioden 1997 til 2022. Brefronten har i denne perioden smeltet tilbake 534 meter. Sidene målingene startet i 1900, har brefronten smeltet tilbake hele 1200 meter, avbrutt av kortere perioder med framrykking."
+        },
+        {
+          "t": "p",
+          "tekst": "Siden 1900 har brefrontene på de norske innlandsbreene stort sett smeltet tilbake. Fram mot 1930 vekslet de kystnære breene mellom å rykke fram og å smelte tilbake, men i perioden 1930–1990 smeltet også de tilbake. I 1990-årene begynte de imidlertid på nytt å rykke fram, og grunnen var flere nedbørsrike vintre. Men det varte ikke lenge, på 2000-tallet smelter brefrontene igjen tilbake."
+        },
+        {
+          "t": "p",
+          "tekst": "De fleste fjellbreene i verden har negativ massebalanse som følge av høyere sommertemperatur, mindre vinternedbør eller begge deler. Den globale oppvarmingen kan føre til at fjellbreer over hele verden forsvinner de neste hundre årene. Dersom den gjennomsnittlige sommertemperaturen øker med 1,5–2 grader her i landet, kan det sammenlignes med forholdene like etter siste istid, for 6000–8000 år siden. I løpet av den perioden forsvant alle breene i Norge. Forskerne tror det kan gå raskere nå."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser plasseringen av Rena, Hallingskarvet, Hardangerjøkulen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Breer som har stor høydeforskjell mellom høyeste og laveste punkt, vil nok klare seg lengst. Dersom høydeforskjellen er liten, er breen mer utsatt for temperaturstigning. I løpet av kort tid kan hele breens næringsområde forsvinne, og den vil raskt smelte. Platåbreer, som for eksempel Hardangerjøkulen, er derfor sårbare."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Værprognosene i våre områder forteller om mer nedbør og høyere temperatur i årene som kommer. Mer vinternedbør som snø kan kompensere for høyere temperatur. Det betyr kanskje at det er de kystnære breene som vil klare seg best?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Brefronten som klimaindikator",
+      "side": 222,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Studer figur 12.32."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan kan du se på formen på brefronten om breen ligger rolig, om den smelter tilbake, eller om den rykker fram?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Studer figur 12.33."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan har brefronten på de fire breene flyttet på seg i perioden 1978–2018? Hva tror du er grunnen til forflytningene?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilke av breene som er undersøkt, rykket fram i perioden 1994–1998? Forklar hvordan du fant fram til svaret. Hvilke gikk tilbake? Har det noen sammenheng med hvor breene ligger?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Svar på de samme spørsmålene som i oppgave c, men for perioden 2002–2014."
+        }
+      ]
+    },
+    {
+      "tittel": "En norsk isbre",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Gå inn på NVEs breapplikasjon http://glacier.nve.no/glacier/viewer/ci/no – eller søk med «Klimaprodukter bre» på nettet. Velg en av breene som du vil studere nærmere. Dersom du ikke har et eget forslag, kan du se på Storbreen i Jotunheimen (se figur 12.24)."
+        },
+        {
+          "t": "p",
+          "tekst": "Sett opp en disposisjon for hva du vil ta med. Det finnes også tidsserier av brebilder som viser fotografier av utvalgte breer i Norge. Bildeseriene viser hvordan et utvalg av norske breer har endret seg de siste 10–140 årene: glacier.nve.no/Glacier/viewer/gpp/no"
+        },
+        {
+          "t": "p",
+          "tekst": "Du kan også søke på Internett etter bilder eller annen informasjon om breen du har valgt."
+        },
+        {
+          "t": "p",
+          "tekst": "Lag en presentasjon av breen med kart, bilder, figurer og tabeller."
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 196,
+      "del": "Den midlere spesifikke avrenningen i Norge oppgitt i mm/år for perioden 1961–1990",
+      "poster": [
+        {
+          "q": "Hva er hydrologi?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke vannmagasiner inngår i vannets kretsløp?",
+          "f": ""
+        },
+        {
+          "q": "Hva menes med vannets oppholdstid i et vannmagasin?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen på transpirasjon og evapotranspirasjon?",
+          "f": ""
+        },
+        {
+          "q": "Hva er nedbørsfeltet for et vassdrag?",
+          "f": ""
+        },
+        {
+          "q": "Hva menes med vannbalansen i et nedbørsfelt?",
+          "f": ""
+        },
+        {
+          "q": "Hvorfor finner vi de største nedbørsfeltene på Østlandet og i Finnmark?",
+          "f": ""
+        },
+        {
+          "q": "Hva menes med begrepene vannføring og avrenning i en elv?",
+          "f": ""
+        },
+        {
+          "q": "Hva er et hydrogram?",
+          "f": ""
+        },
+        {
+          "q": "Forklar hvordan man beregner middelvannføring og midlere spesifikk avrenning per år.",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Den midlere spesifikke avrenningen i Norge oppgitt i mm/år for perioden 1961–1990",
+      "poster": [
+        {
+          "q": "Hva er størst av fordampning (fra havene), transpirasjon og evapotranspirasjon?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen på spesifikk avrenning og midlere spesifikk avrenning?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 202,
+      "del": "Vesleofsen i 1995",
+      "poster": [
+        {
+          "q": "Hva mener hydrologene med at en elv er i flom?",
+          "f": ""
+        },
+        {
+          "q": "Hva menes med flomtopp?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken betydning har avrenningsforholdene for hvor raskt flomtoppen kommer, og hvor stor den blir?",
+          "f": ""
+        },
+        {
+          "q": "Hva menes med at hvert vassdrag har sitt avrenningsmønster?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke flomtyper skiller vi mellom?",
+          "f": ""
+        },
+        {
+          "q": "Hva er spesielt med avrenningen i et brevassdrag?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke forhold avgjør hvor stor betydning snøsmeltingen får på vårflommen?",
+          "f": ""
+        },
+        {
+          "q": "Hva menes med en hundreårsflom?",
+          "f": ""
+        },
+        {
+          "q": "Hva var Storofsen?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Klimaendringene fører til mer ekstremvær",
+      "poster": [
+        {
+          "q": "Hvordan kan vår areal- og ressursbruk påvirke størrelsen på flommene?",
+          "f": ""
+        },
+        {
+          "q": "Hva er de vanligste skadene etter en flom?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan vi beskytte oss mot flom?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Klimaendringene fører til mer ekstremvær",
+      "poster": [
+        {
+          "q": "Hva tror du det er lettest å forholde seg til – flom eller tørke?",
+          "f": ""
+        },
+        {
+          "q": "Hva er sannsynligheten for at to hundreårsflommer skal komme to påfølgende år?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 211,
+      "del": "Vann pipler ut i en bergsprekk",
+      "poster": [
+        {
+          "q": "Hvilke forhold har betydning for hvor lett vann infiltrerer jorda?",
+          "f": ""
+        },
+        {
+          "q": "Hva er markvann?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke deler kan markvannssonen inndeles i?",
+          "f": ""
+        },
+        {
+          "q": "Hva menes med feltkapasitet og visnegrense?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken forskjell er det på leirjord og sandjord når det gjelder feltkapasitet og visnegrense?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke løsmasser inneholder mest grunnvann?",
+          "f": ""
+        },
+        {
+          "q": "Hva er grunnvannsspeilet?",
+          "f": ""
+        },
+        {
+          "q": "Hvor mye vann kan grunnvannsbrønner gi?",
+          "f": ""
+        },
+        {
+          "q": "Er det løsmasser eller bergarter som har størst permeabilitet?",
+          "f": ""
+        },
+        {
+          "q": "Hva er betingelsen for at bergarter skal inneholde mye grunnvann?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan varierer høyden på grunnvannsspeilet i løpet av et år?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Vann pipler ut i en bergsprekk",
+      "poster": [
+        {
+          "q": "Hva slags løsmasser egner seg til uttak av grunnvann? Begrunn svaret.",
+          "f": ""
+        },
+        {
+          "q": "Hva kan skje om vi pumper opp mye grunnvann?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "En isbre ligger over et sandete og grusfylt dalområde",
+      "poster": [
+        {
+          "q": "Hvor mye ville verdenshavene stige dersom innlandsisene på Grønland og i Antarktis smeltet?",
+          "f": ""
+        },
+        {
+          "q": "Hva menes med begrepene vinterbalanse, sommerbalanse, årlig balanse og massebalanse?",
+          "f": ""
+        },
+        {
+          "q": "Hvor på breen ligger likevektslinjen?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken hensikt har massebalansemålinger?",
+          "f": ""
+        },
+        {
+          "q": "Hvilke smelteprosesser er viktigst på breene?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er det mulig å beregne massebalansen på en bre?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken betydning har breene for avrenningen i vassdragene?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "En isbre ligger over et sandete og grusfylt dalområde",
+      "poster": [
+        {
+          "q": "Hvorfor ligger likevektslinjen høyere på kontinentale breer enn på kystnære breer?",
+          "f": ""
+        },
+        {
+          "q": "Anta at brefronten et år smelter tilbake. Forteller det noe om breens massebalanse det året?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Kart over Sør-Norge som viser plasseringen av Rena, Hallingskarvet, Hardangerjøkulen",
+      "poster": [
+        {
+          "q": "Hva menes med at breen er en klimaindikator?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan du se på brefronten om en bre rykker fram eller smelter tilbake?",
+          "f": ""
+        },
+        {
+          "q": "Hva skjer med de fleste fjellbreene i verden på begynnelsen av 2000-tallet?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Kart over Sør-Norge som viser plasseringen av Rena, Hallingskarvet, Hardangerjøkulen",
+      "poster": [
+        {
+          "q": "Vil et kaldt klima uten videre føre til at det dannes breer?",
+          "f": ""
+        },
+        {
+          "q": "Hva kan være grunnen til at massebalansen er forskjellig på kystnære og kontinentale breer?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan vil du forklare at en mild vinter kan være mer gunstig for breens vekst enn en kald vinter?",
+          "f": ""
+        },
+        {
+          "q": "Hvorfor tror du at tiden det tar før endringer i massebalansen blir synlig på brefronten (responstiden), er avhengig av breens størrelse?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "oppgave",
+      "overskrift": "OPPGAVER",
+      "side": null,
+      "del": "Kart over Sør-Norge som viser plasseringen av Rena, Hallingskarvet, Hardangerjøkulen",
+      "poster": [
+        {
+          "q": "Hva forteller bildet?",
+          "f": ""
+        },
+        {
+          "q": "Når på året må bildet være tatt for at det skal være likevektslinjen du ser på bildet i figur 12.26?",
+          "f": ""
+        },
+        {
+          "q": "Studer brefronten på hvert av bildene i figur 12.34. Hvordan har brefronten forandret seg i perioden? Hva er årsaken til det?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": null,
+      "del": "En norsk isbre",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "Her er noen faguttrykk samlet i grupper på tre, som du har lest om i dette kapitlet:",
+          "f": ""
+        },
+        {
+          "q": "fordampning – isbreer – grunnvann",
+          "f": ""
+        },
+        {
+          "q": "nedbørsfelt – vassdrag – flom",
+          "f": ""
+        },
+        {
+          "q": "vannføring – årlig avrenning – spesifikk avrenning",
+          "f": ""
+        },
+        {
+          "q": "limnigraf – hydrogram – flom",
+          "f": ""
+        },
+        {
+          "q": "flomtype – avrenningsmønster – jøkulhlaup",
+          "f": ""
+        },
+        {
+          "q": "vårflom – regnflom – snøsmelting",
+          "f": ""
+        },
+        {
+          "q": "diker – flomskader – forbygninger",
+          "f": ""
+        },
+        {
+          "q": "markvannssonen – rotsonen – grunnvannsspeil",
+          "f": ""
+        },
+        {
+          "q": "feltkapasitet – visnegrense – plantedød",
+          "f": ""
+        },
+        {
+          "q": "løsmasser – bergarter – stor permeabilitet",
+          "f": ""
+        },
+        {
+          "q": "vinterbalanse – årlig balanse – massebalanse",
+          "f": ""
+        },
+        {
+          "q": "pålagring – vinterbalanse – sommerbalanse",
+          "f": ""
+        },
+        {
+          "q": "tilbakesmelting – positiv sommerbalanse – negativ massebalanse",
+          "f": ""
+        },
+        {
+          "q": "likevektslinje – bredemt sjø – jøkulhlaup",
+          "f": ""
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "Verdens isbreer er det største av vannmagasinene i vannets kretsløp.",
+          "f": ""
+        },
+        {
+          "q": "Markvann ligger oppå bakken.",
+          "f": ""
+        },
+        {
+          "q": "På et hydrogram kan vi lese av vannføringen i en elv på et gitt tidspunkt.",
+          "f": ""
+        },
+        {
+          "q": "Regnvannet renner raskt ut i elvene der det er bart fjell i dagen, mens det blir holdt igjen i områder der grunnen består av leire.",
+          "f": ""
+        },
+        {
+          "q": "Breelvene har størst vannføring om vinteren, da det faller mest snø på breen.",
+          "f": ""
+        },
+        {
+          "q": "Det er mulig å varsle flom.",
+          "f": ""
+        },
+        {
+          "q": "Hundreårsflommer kan ikke komme to år på rad.",
+          "f": ""
+        },
+        {
+          "q": "Tørke forekommer bare i tørre klimasoner.",
+          "f": ""
+        },
+        {
+          "q": "Det er ikke mulig å varsle en tørkeperiode.",
+          "f": ""
+        },
+        {
+          "q": "Grunnvannet siger gjennom markvannssonen.",
+          "f": ""
+        },
+        {
+          "q": "Grunnvannsspeilet synker i tørkeperioder.",
+          "f": ""
+        },
+        {
+          "q": "Dersom havisen i Arktis smelter, vil havnivået i verdenshavene stige.",
+          "f": ""
+        },
+        {
+          "q": "Breens massebalanse er det samme som «breens materialhusholdning».",
+          "f": ""
+        },
+        {
+          "q": "Pålagring har ikke noe med sommerbalansen å gjøre.",
+          "f": ""
+        },
+        {
+          "q": "Brefronten kan smelte tilbake selv om massebalansen er positiv.",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "Evapotranspirasjon er summen av fordampning og transpirasjon.",
+    "Avrenningen er den samlede vannmengden som renner bort i en elv i en gitt periode.",
+    "Over en lengre periode er det balanse mellom nedbør, avrenning og evapotranspirasjon i et nedbørsfelt.",
+    "Et hydrogram viser hvordan vannføringen har variert gjennom en periode.",
+    "Den spesifikke avrenningen er avrenningen i liter per sekund per kvadratkilometer i et nedbørsfelt.",
+    "Naturen har sin egen flomdemping. Tykke jordlag, myrer og innsjøer bidrar til å gjøre flomtoppene mindre.",
+    "Regn og snøsmelting er de vanligste årsakene til flom i norske elver.",
+    "Det er mulig å varsle flommer; de har vanligvis med værforhold å gjøre.",
+    "Det er mulig å beskytte seg mot flommer, for eksempel ved å forbygge, eller forsterke, elvebredden.",
+    "Nedbygging av landoverflaten påvirker flomrisikoen. Når vi hindrer vannet i å trenge ned i jordlaget, kommer det raskere ut i elvene.",
+    "En del av nedbøren infiltrerer jordlaget og blir til markvann eller grunnvann.",
+    "Feltkapasiteten forteller hvor mye vann en jordart kan inneholde. Visnegrensen er den vannmengden som er bundet i jorda.",
+    "Grunnvannsspeilet er skillet mellom markvannssonen og grunnvannssonen.",
+    "Grunnvannet inneholder ofte mineraler fra de løsmassene eller den berggrunnen det strømmer gjennom.",
+    "Det meste av breisen på jorda finner vi i innlandsisene på Grønland og i Antarktis.",
+    "Massebalansen forteller oss om breen vokser eller minker, Den er lik summen av sommer- og vinterbalansen på en bre.",
+    "Likevektslinjen er skillet mellom breens næringsområde og breens avsmeltingsområde.",
+    "Forandringer i brefrontens posisjon kan gi en antydning om breens massebalanse.",
+    "Massebalansen på en bre beregnes ved at man måler sommer- og vinterbalansen ved avlesning på staker som er boret ned i isen, og ved at man måler snødybden på breen.",
+    "I dag har de fleste norske breene en negativ massebalanse, noe som betyr at de smelter tilbake.",
+    "I et nedbørsfelt med breer kan nedbøren bli magasinert i flere år.",
+    "Brefrontens posisjon flytter seg i takt med klimaendringer. Breen er en klimaindikator.Kapittel 13"
+  ]
+}

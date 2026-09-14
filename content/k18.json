@@ -1,0 +1,853 @@
+{
+  "nr": 18,
+  "tittel": "Elver – prosesser og landformer",
+  "forsteside": 320,
+  "sisteside": 335,
+  "laereplan": [
+    "sammenligne ulike landformer og gjøre rede for hvordan de dannes og endres under påvirkning av jordsystemene og menneskelig aktivitet",
+    "utforske en naturfare knyttet til geosfæren eller hydrosfæren i et bestemt geografisk område og vurdere risiko ved hjelp av modellering",
+    "gjennomføre geofaglig feltarbeid knyttet til geosfæren eller hydrosfæren, bearbeide og tolke de innsamlede dataene og presentere resultatene"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 320,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I et globalt perspektiv har elveerosjon vært den viktigste erosjonsprosessen i jordas historie. Breerosjonen er nok mer effektiv, men store deler av jordoverflaten har bare vært nediset i korte perioder."
+        },
+        {
+          "t": "p",
+          "tekst": "Elvene setter tydelige spor etter seg når de eroderer jordoverflaten, men også når de avsetter løsmaterialet. V-dalene er elveeroderte daler, mens et delta er dannet av elveavsetninger. Elvene er samtidig «naturens transportbånd» og kan flytte løsmasser over lange avstander."
+        },
+        {
+          "t": "p",
+          "tekst": "Meanderløpets store buktninger og de stadige forandringene i et forgrenet løpsmønster vitner om aktive elver som former landskapet. Materialtransporten er ofte stor i slike elver."
+        },
+        {
+          "t": "p",
+          "tekst": "elvelandskap med grønne skoger langs slyngete svinger"
+        },
+        {
+          "t": "figur",
+          "nr": "18.1",
+          "tekst": "Glomma med et forgrenet løpsmønster nord for Koppang i Østerdalen. Elva har avsatt store mengder sand og grus i dalbunnen. Når elva er flomstor, flytter løsmassene seg nedstrøms."
+        }
+      ]
+    },
+    {
+      "tittel": "Elveerosjon",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "En elv i et skogholt med en nedrast sandete rygg med vegetasjon på."
+        },
+        {
+          "t": "figur",
+          "nr": "18.2",
+          "tekst": "Erosjon i Landåselva ved Randsfjorden"
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor på bildet i figur 18.2 kan du se at det foregår elveerosjon?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Rennende vann alene har liten erosjonsevne i fast fjell. Det er i første rekke løsmassene elva fører med seg, som eroderer bunnen og sidene av elveløpet. Slag og støt fra små og store steiner løsner biter fra elvebunnen, mens sand og leire i vannmassene sliper berggrunnen."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvor stor må vannhastigheten være for at elva skal erodere sand som består av sandkorn med en diameter på 1 mm? Mellom hvilke vannhastigheter transporterer elva slik sand, og når blir sanden avsatt?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Elva eroderer mest når den er flomstor. Da er vannføringen, vannhastigheten og materialtransporten størst. Resten av tiden er erosjonen i elveløpene beskjeden. Elver som renner i områder med løsmasser, eroderer mest effektivt (figur 18.2). Hvor grovt eller hvor fint materiale elva kan erodere, avhenger av vannhastigheten (figur 18.3)."
+        }
+      ]
+    },
+    {
+      "tittel": "Materialtransport",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Elva transporterer løsmassene langs bunnen av elva (bunntransport) eller svevende i vannmassene (slamtransport). Det meste av materialtransporten skjer som nevnt når elva er flomstor."
+        },
+        {
+          "t": "p",
+          "tekst": "Graf som viser sammenhengen mellom vannhastighet og hvilke kornstørrelser elva kan erodere, transportere eller avsette."
+        },
+        {
+          "t": "figur",
+          "nr": "18.3",
+          "tekst": "Hjulströms kurve er en graf som vis sammenhengen mellom vannhastighet og hvilke kornstørrelser elva kan erodere, transportere eller avsette. Løsmasser med kornstørrelse på 10 mm vil for eksempel eroderes når vannhastigheten blir større enn ca. 140 cm/s, transporteres videre og avsettes når vannhastigheten synker til 30 cm/s."
+        }
+      ]
+    },
+    {
+      "tittel": "Bunntransport",
+      "side": 323,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Elvene transporterer grov sand, stein og grus som bunntransport. Stein og sandkorn trekkes med strømmen i små og store hopp nedover elvebunnen. I enkelte elver kan vi se hvordan de runde elvesteinene er samlet i elvebanker (figur 18.4). Når det er flom og elvevannet dekker elvebankene, blir materialet i elvebankene skiftet ut. Noe blir erodert og ført videre nedover elva, samtidig som nytt materiale blir tilført."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvilken form har steiner som er transportert med elver? Hvorfor er det slik?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Elvebankene får altså nytt materiale tilført, men de blir liggende på samme sted. Slik blir de mellomstasjoner for det bunntransporterte materialet. På bunnen av mer stilleflytende elver kan det utvikle seg sandrifler eller sanddyner som flytter seg med strømmen – slik vinden flytter på sand i ørkenområder."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva betyr det at elvebankene er «mellomstasjoner» for det bunntransporterte materialet?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Slamtransport",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Den fineste delen av løsmassene, leire og sand, holder seg svevende i elvevannet – vi kaller det slam. I Norge er det breelver og elver i leirområder som er mest slamførende (figur 18.5). Slammet setter ofte farge på vannet. Flomstore elver fra leirområder og breer er ofte grått. Ved lavere vannføringer har breelvene ofte en blågrønn farge. Fargen skyldes at brevannet alltid inneholder små leirpartikler, og i dem brytes og reflekteres lyset."
+        }
+      ]
+    },
+    {
+      "tittel": "Smeltevann fra breer renner nedover i steinete grunn mellom høye spisse fjell",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "18.4",
+          "tekst": "Bunntransport i elva Visa i Jotunheimen"
+        }
+      ]
+    },
+    {
+      "tittel": "Flyfoto en en elv med en langsgående vei i en V-formet dal",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "18.5",
+          "tekst": "Slamtransport med Bøvra ved Lom utgjør over 100 000 tonn per år."
+        }
+      ]
+    },
+    {
+      "tittel": "Løpsmønstre",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Når vi snakker om et løpsmønster, handler det til vanlig om elveløp som elva selv har formet i løsmasser."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva kan grunnen være til at mange elver ikke har utviklet noe bestemt løpsmønster?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Løpsmønsteret er bestemt av elvas fall, vannføring og materialtransport og av hva slags løsmasser elva fører med seg. Den kan svinge fra side til side i et meanderløp, eller den kan dele seg i stadig flere elveløp."
+        },
+        {
+          "t": "p",
+          "tekst": "Mange elveløp følger bare forsenkninger i terrenget, uten at elva selv har påvirket elveløpet i særlig grad."
+        }
+      ]
+    },
+    {
+      "tittel": "Meanderløp",
+      "side": null,
+      "blokker": [
+        {
+          "t": "tenk",
+          "tekst": "Hva er grunnen til at elva graver i yttersvingene og avsetter materiale i innersvingene?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "På strekninger med fint materiale og lite fall kan elva utvikle meandre (figur 18.6). Meander er navnet på en elv i Tyrkia som renner i store slynger. I meanderløp eroderer elva i yttersvingene og avsetter materiale i innersvingene. På den måten svinger elveløpet fra side til side i dalbunnen. Elvesvingene utvikler seg stadig til større og mer langstrakte buktninger. Til slutt kan buktningen «ta igjen seg selv» og bli liggende som en kroksjø. En kroksjø vil med tiden bli fylt igjen av flomavsetninger og gro til (figur 18.7)."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Bruk Google Earth og søk på Kvelde (Numedalslågen), Lillestrøm (Leira) eller Rundhaug (Målselva) for å se ulike eksempler på meandermønster. Kan du finne igjen de to bildene på neste side?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Flyfoto av meander i Numedalslågen. Elven bukter seg i flere svinger gjennom et jordbrukslandskap."
+        },
+        {
+          "t": "figur",
+          "nr": "18.6",
+          "tekst": "Meanderløp i Numedalslågen"
+        },
+        {
+          "t": "p",
+          "tekst": "Flyfoto av en tidligere meandersving, som har blitt til en delvis gjengrodd kroksjø."
+        },
+        {
+          "t": "figur",
+          "nr": "18.7",
+          "tekst": "Slik kan meandersvingen på bildet i figur 18.6 se ut om noen tiår. Bildet er fra Leira på Romerike."
+        }
+      ]
+    },
+    {
+      "tittel": "Flyfoto av slyngete sideelver bukter seg ut gjennom et krøllete jordbrukslandskap",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser plassering av Leira og Numedalslågen"
+        },
+        {
+          "t": "figur",
+          "nr": "18.8",
+          "tekst": "Flyfotoet viser en sideelv til Barduelva (nederst til venstre på bildet) i Troms."
+        }
+      ]
+    },
+    {
+      "tittel": "Forgrenet løpsmønster",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Breelv slynger seg over elvedelta med svart lavasand. Fjellområdene i det indre av Island."
+        },
+        {
+          "t": "figur",
+          "nr": "18.9",
+          "tekst": "Forgrenet løpsmønster i svart lavasand, breelv på Island."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor tror du elva på bildet i figur 18.9 har et forgrenet løpsmønster?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Dersom en elvestrekning blir tilført mer materiale enn elva klarer å transportere, vil elva legge igjen materiale i elveløpet. Elvebunnen blir bygd opp, og elva deler seg etter hvert i flere løp. Det utvikler seg et forgrenet løpsmønster, som er typisk for elver med stor bunntransport (figur 18.9). Når elva legger igjen materiale, vil også elvebunnen etter hvert komme høyere. Til slutt blir kanskje fallet stort nok til at elva blir i stand til transportere det tilførte materialet videre nedover."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvordan kan fallet på en slak elvestrekning øke ved at elva avsetter materiale på elvebunnen?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Landformer i fast fjell",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Dalbunnen i elvedaler er ikke så bred som i iseroderte U- daler. Det er fordi breen har erodert hele dalen – både dalbunn og dalsider «samtidig» mens elva bare eroderer i elveløpet og dermed danner V-daler (figur 18.10)."
+        }
+      ]
+    },
+    {
+      "tittel": "V-daler",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Elvedaler i fast fjell finner vi her i landet bare på steder som har vært skjermet mot iserosjon under istidene. Elvene kan ikke ha gravd ut V- daler i fast fjell i løpet av den korte tiden etter siste istid. V-daler som elva har dannet i løsmasser, er imidlertid dannet etter den siste istiden."
+        },
+        {
+          "t": "p",
+          "tekst": "en V-formet grønnkledd dal med en isblå elv lands dalbunnen slynger seg gjennom et fjellområde"
+        },
+        {
+          "t": "figur",
+          "nr": "18.10",
+          "tekst": "Utladalen i Jotunheimen er en typisk V-dal. Bildet viser elva Utla mellom Vetti og Vettisfossen."
+        }
+      ]
+    },
+    {
+      "tittel": "Canyon",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "En elvedal i fast fjell, med svært bratte fjellsider, kaller vi et elvegjel eller en canyon (figur 18.11). Slike daler har elva erodert i hengende sidedaler og gjennom bergterskler i iseroderte daler."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hvorfor dannes ikke en canyon i løsmasser?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "En elv renner nedover en trang dal med bratte rette fjellkanter",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "18.11",
+          "tekst": "Canyon i Børselva i Finnmark"
+        }
+      ]
+    },
+    {
+      "tittel": "Jettegryter",
+      "side": 328,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Ujevnheter i elveløpet gjør at det kan oppstå stasjonære strømvirvler i elva. Stein og grus som følger med vannet kan grave seg ned i berggrunnen og danne jettegryter (figur 18.12). De er fra noen centimeter til flere titalls meter i diameter. De største jettegrytene er dannet av smeltevannet fra de store innlandsisene."
+        }
+      ]
+    },
+    {
+      "tittel": "Steinformasjoner med jettegryter i en iskald klar blåhvit foss",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "18.12",
+          "tekst": "Jettegryter i Marmorslottet (metamorf kalkstein) i Glomåga i Nordland"
+        }
+      ]
+    },
+    {
+      "tittel": "Elveavsetninger",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Elva avsetter løsmasser når vannhastigheten avtar. Det kan skje på slakere elvestrekninger i eller til siden for selve elveløpet eller der elva renner ut i en innsjø eller i havet."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Sør-Norge som viser plassering av Kvam og Ringebu",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Elvevifter"
+        },
+        {
+          "t": "p",
+          "tekst": "Når for eksempel bratte sideelver kommer ned til den flate dalbunnen i hoveddalen, blir stein og grus liggende igjen i elveløpet når vannhastigheten avtar. Det fører til at elveløpet deler seg. Nye løp blir dannet igjen og igjen. Etter hvert som avsetningene blir bygd opp, skifter elva løp fram og tilbake og danner en grusvifte – en elvevifte (figur 18.13)."
+        }
+      ]
+    },
+    {
+      "tittel": "Flyfoto av en turkis elv langs bebygd område med mange jordlapper",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "18.13",
+          "tekst": "Vålas elvevifte i Ringebu i Gudbrandsdalen"
+        },
+        {
+          "t": "p",
+          "tekst": "Elvevifter er vanlige i det norske naturlandskapet der breerosjonen har skapt store høydeforskjeller mellom sidedal og hoveddal. Sidedalene er ofte hengende (se 18.14) i forhold til hoveddalen, og de bratte sideelvene legger igjen løsmasser når de kommer ned i dalbunnen. I de største dalene våre er tettstedene ofte lokalisert på elvevifter."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Kan elver uten bunntransport danne en elvevifte?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Elvevifte i Gudbrandsdalen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Se på bildet (figur 18.13) og kartutsnittet i (figur 18.14) nedenfor."
+        },
+        {
+          "t": "p",
+          "tekst": "Du ser to store elvevifter på kartutsnittet. Hvor ligger de? En av dem kan du se på bildet."
+        },
+        {
+          "t": "p",
+          "tekst": "Beskriv sidedalene der elvene Frya og Våla renner. Er dalene is- eller elveerodert) Hva med hoveddalen, Gudbrandsdalen? Begrunn svarene."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva kan være grunnen til at det er dannet store grusøyer ute i Gudbrandsdalslågen?",
+          "f": ""
+        },
+        {
+          "t": "tenk",
+          "tekst": "Er det mulig at sidedalene til Gudbrandsdalen kan ha unngått iserosjon?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Prøv å gi en sammenhengende framstilling (kronologisk) av hvordan landformene på kartutsnittet er blitt til. Stikkord er vidde, istider, elve- og iseroderte daler, elveavsetninger."
+        }
+      ]
+    },
+    {
+      "tittel": "Kartutsnitt fra kartbladet Ringebu",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "18.14",
+          "tekst": "Kartutsnitt fra kartbladet 1818 III Ringebu. Målestokken er 1 : 66 600, og ekvidistansen er 20 meter."
+        }
+      ]
+    },
+    {
+      "tittel": "Forbygning stopper bunntransporten",
+      "side": 331,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Tettstedet Kvam i Gudbrandsdalen ligger på en elvevifte som er dannet av sideelva Veikleåa like før den renner ut i Gudbrandsdalslågen. I flere hundre år har befolkningen på Kvam levd med den årvisse frykten for vårflommen. Under flom kan elva Veikleåa føre med seg mye løsmasser og store steiner ned den bratte Veikledalen. Veikledalen er i tillegg utsatt for jord- og flomskred som går ut i elva."
+        },
+        {
+          "t": "p",
+          "tekst": "Nede i Kvam sentrum flater terrenget og elva ut. Derfor blir massene liggende på elvebunnen der. På kort tid kan elvebunnen bygge seg opp med flere meter og elva finne nye løp gjennom Kvam. Det skjedde i 2012 og 2013 og førte til store skader og evakuering av beboere."
+        },
+        {
+          "t": "p",
+          "tekst": "Etter det ble kravet om flomvern ytterligere forsterket. I 2017 ble det så bygd en såkalt bunnlastsperre (bunnlast = bunntransport) som vil holde tilbake opptil 100 000 m3 bunntransportert materiale (18.15). Kvam sentrum er nå sikret mot flommer opp mot en 200-årsflom."
+        },
+        {
+          "t": "p",
+          "tekst": "Bunnlastsperra er den største i Norge. Den vil sikre 160 boliger, jernbanen, veier og annen infrastruktur. Nå vil flomvannet renne trygt gjennom Kvam sentrum og ut i Gudbrandsdalslågen, forteller vassdrags- og energidirektør i NVE, Per Sanderud."
+        }
+      ]
+    },
+    {
+      "tittel": "I en dal er en elv bygget inn i betongkummer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "18.15",
+          "tekst": "Bunnlastsperre i Veikleåa i Kvam i Gudbrandsdalen. Tettstedet er nå flomsikret mot en 200-årsflom. «Demningen» på bildet er den første bunnlastsperra i landet og skal holde tilbake vanntransportert bunnlast (bunntransport), mens elvevannet slipper forbi gjennom en renne. Vannet renner mot fotografen på begge bildene."
+        }
+      ]
+    },
+    {
+      "tittel": "Elvesletter",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Bekk lagt i kummer med store steiner på hver side"
+        },
+        {
+          "t": "p",
+          "tekst": "Kart over Nord-Norge som viser plassering av Reisadalen, øst for TromsøEn elveslette med grønne trær mellom dype fjell"
+        },
+        {
+          "t": "figur",
+          "nr": "18.16",
+          "tekst": "Elveslette i Reisadalen i Troms"
+        },
+        {
+          "t": "p",
+          "tekst": "Når flomstore elver går over sine bredder, avtar vannhastigheten brått, og elva avsetter materiale. Sand og grus blir avsatt like til siden for elveløpet og bygger opp elvevoller. Leire og finsand blir ført lenger ned i elva og avsatt på elvesletter (figur 18.16)."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er forskjellen på en elvevoll og en elveslette?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Elvedeltaer",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Der elva renner ut i en innsjø eller i havet, kan den avsette løsmasser i et delta. Norges største innlandsdelta finner vi der Glomma renner ut i Øyeren (figur 18.17). Ellers er store og små deltaer vanlige der elvene munner ut i innsjøer eller innerst i fjordene langs hele kysten."
+        },
+        {
+          "t": "tenk",
+          "tekst": "Hva er forskjellen på en elvevifte og et delta?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "tittel": "Elveterrasser",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Like etter den siste istiden avsatte elver deltaer i havet, som den gangen sto høyere enn i dag. Landhevingen etter den siste istiden har imidlertid gjort at havnivået har kommet lavere, og elvene har dermed erodert tidligere elvesletter og deltaflater og dannet elveterrasser (figur 18.19)."
+        }
+      ]
+    },
+    {
+      "tittel": "Flyfoto av Blått hav med sandbunn langs perforert kystlandskap",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "18.17",
+          "tekst": "Glommas delta i Øyeren er Nord-Europas største innlandsdelta."
+        }
+      ]
+    },
+    {
+      "tittel": "Kart over Glommas delta",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "18.18",
+          "tekst": "Glommas delta. Sidene i rutenettet er 1 km i terrenget, ekvidistansen er 20 meter."
+        }
+      ]
+    },
+    {
+      "tittel": "Flyfoto av eveleie",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "18.19",
+          "tekst": "Elveterrasser Dil’ajokka i Finnmark"
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Flyfoto en en elv med en langsgående vei i en V-formet dal",
+      "poster": [
+        {
+          "q": "Hvordan eroderer rennende vann i fast fjell?",
+          "f": ""
+        },
+        {
+          "q": "Når er elveerosjonen størst?",
+          "f": ""
+        },
+        {
+          "q": "På hvilken måte kan elvene transportere (føre med seg) løsmasser?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Flyfoto en en elv med en langsgående vei i en V-formet dal",
+      "poster": [
+        {
+          "q": "Hva viser Hjulströms kurve?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "oppgave",
+      "overskrift": "OPPGAVE",
+      "side": null,
+      "del": "Flyfoto av slyngete sideelver bukter seg ut gjennom et krøllete jordbrukslandskap",
+      "poster": [
+        {
+          "q": "Flyfotoet i figur 18.8 viser en sideelv til Barduelva i Troms.",
+          "f": ""
+        },
+        {
+          "q": "Hva kalles det løpsmønsteret denne sideelva har?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan du se at elva har flyttet på seg?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan du se på bildet at elva eroderer i yttersvingene og avsetter materiale i innersvingene?",
+          "f": ""
+        },
+        {
+          "q": "Hvorfor er det fargeforskjell på vannet i kroksjøene og vannet i elva?",
+          "f": ""
+        },
+        {
+          "q": "Kan du finne steder hvor det er like før det blir dannet en kroksjø?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Steinformasjoner med jettegryter i en iskald klar blåhvit foss",
+      "poster": [
+        {
+          "q": "Forklar hva du legger i begrepet «elveløpsmønster».",
+          "f": ""
+        },
+        {
+          "q": "Hvilke to løpsmønstre kjenner du til?",
+          "f": ""
+        },
+        {
+          "q": "Hva er en meander, og hva er en kroksjø?",
+          "f": ""
+        },
+        {
+          "q": "Hvorfor er V-daler forskjellige fra U-daler?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Steinformasjoner med jettegryter i en iskald klar blåhvit foss",
+      "poster": [
+        {
+          "q": "Forklar hvordan en kroksjø blir dannet.",
+          "f": ""
+        },
+        {
+          "q": "Hva er grunnen til et forgrenet løpsmønster?",
+          "f": ""
+        },
+        {
+          "q": "Hvilken forskjell er det på V-daler i fast fjell og i løsmasser?",
+          "f": ""
+        },
+        {
+          "q": "Hvor graver sideelvene ofte en canyon like før de møter hoveddalen?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Flyfoto av eveleie",
+      "poster": [
+        {
+          "q": "Hva er grunnen til at elver noen steder legger igjen (avsetter) løsmasser?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan dannes en elveslette?",
+          "f": ""
+        },
+        {
+          "q": "Hva er et delta?",
+          "f": ""
+        },
+        {
+          "q": "Forklar begrepet erosjonsbasis for en elv.",
+          "f": ""
+        },
+        {
+          "q": "Hva er elveterrasser?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Flyfoto av eveleie",
+      "poster": [
+        {
+          "q": "Hvorfor har elver på elvevifter ofte et forgrenet løpsmønster?",
+          "f": ""
+        },
+        {
+          "q": "Hva er forskjellen på en elveslette og et delta?",
+          "f": ""
+        },
+        {
+          "q": "Hva er en lokal erosjonsbasis?",
+          "f": ""
+        },
+        {
+          "q": "Hva skjer dersom en erosjonsbasis for en elv forandrer seg?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan kan elveterrasser være dannet?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "kapitteloppgave",
+      "overskrift": "KAPITTELOPPGAVER",
+      "side": 334,
+      "del": "Flyfoto av eveleie",
+      "poster": [
+        {
+          "gruppe": "Én skal ut"
+        },
+        {
+          "q": "elver – breer – Hjulströms kurve",
+          "f": ""
+        },
+        {
+          "q": "slamtransport – elvebanker – bunntransport",
+          "f": ""
+        },
+        {
+          "q": "flomstore breelver – grått vann – blågrønt vann",
+          "f": ""
+        },
+        {
+          "q": "forgrenet elveløp – meanderløp – kroksjø",
+          "f": ""
+        },
+        {
+          "gruppe": "V-dal – canyon – U-dal"
+        },
+        {
+          "q": "elveerosjon – breerosjon – canyon",
+          "f": ""
+        },
+        {
+          "q": "jettegryte – delta – elveslette",
+          "f": ""
+        },
+        {
+          "q": "elvevifte – elveavsetning – skredavsetning",
+          "f": ""
+        },
+        {
+          "q": "meanderløp – forgrenet løp – elvevifte",
+          "f": ""
+        },
+        {
+          "q": "elveslette – avsatt på land – avsatt i havet",
+          "f": ""
+        },
+        {
+          "q": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "q": "Elveerosjon berører større deler av jordoverflaten enn breerosjon.",
+          "f": ""
+        },
+        {
+          "q": "Hjulströms kurve handler om elvers erosjon, transport og avsetning av løsmasser.",
+          "f": ""
+        },
+        {
+          "q": "Et forgrenet elveløp vitner om stor bunntransport.",
+          "f": ""
+        },
+        {
+          "q": "Elvedaler i fast fjell er dannet etter siste istid.",
+          "f": ""
+        },
+        {
+          "q": "Jettegryter er dannet ved forvitring.",
+          "f": ""
+        },
+        {
+          "q": "Hoveddalen er ofte hengende i forhold til en sidedal.",
+          "f": ""
+        },
+        {
+          "q": "Et delta ligger under vann.",
+          "f": ""
+        },
+        {
+          "q": "Elvevoller er laget av mennesker og ikke elver.",
+          "f": ""
+        },
+        {
+          "q": "Dersom erosjonsbasis for en elv forandrer seg, kan elva erodere sine tidligere avsetninger.",
+          "f": ""
+        },
+        {
+          "q": "Elveterrasser er rester av tidligere elveavsetninger.",
+          "f": ""
+        },
+        {
+          "gruppe": "Landformer dannet av elva"
+        },
+        {
+          "q": "En oversikt over landformer som er dannet av elva, er vist nedenfor (figur 18.20).",
+          "f": ""
+        },
+        {
+          "q": "Små og store landformer i det norske landskapet som er et resultat av elvenes erosjon og avsetning, er (i en vilkårlig rekkefølge):",
+          "f": ""
+        },
+        {
+          "q": "V-daler, canyon (elvegjel), meanderløp, elveslette, elvevoll, elvevifte, elvebanker og delta.",
+          "f": ""
+        },
+        {
+          "q": "Beskriv hvordan landformene ser ut. Du finner nok bilder av dem i læreboka.",
+          "f": ""
+        },
+        {
+          "q": "I hvilken rekkefølge er landformene dannet i forhold til hverandre, og når kan det ha skjedd?",
+          "f": ""
+        },
+        {
+          "q": "Bruk Google Earth og se om du kan finne landformer som elva har laget i nærområdet ditt.",
+          "f": ""
+        },
+        {
+          "q": "Studer løsmassekartet på NGU nasjonal løsmassedatabase og undersøk om det er elveavsetninger som synes tydelig i landskapet. Hvordan er de dannet?",
+          "f": ""
+        },
+        {
+          "q": "Hva slags typer kornstørrelser (leire, silt, sand, grus, stein, blokk og organisk materiale) kan du forvente å finne i elveavsetningene på kartet?",
+          "f": ""
+        },
+        {
+          "gruppe": "Snitttegning over landformer som er dannet av elva"
+        },
+        {
+          "gruppe": "18.20 Landformer dannet av elva"
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "Elva eroderer mest når vannføring og materialtransport er størst.",
+    "Elva transporterer stein, grus og grov sand langs bunnen som bunntransport. Finere materiale som leire og fin sand transporteres svevende i vannmassene som slamtransport.",
+    "I et meanderløp svinger elveløpet fram og tilbake i store slynger.",
+    "En kroksjø er en avsnørt meandersving.",
+    "I et forgrenet løpsmønster deler løpene seg stadig fordi det avsettes løsmasser i elveløpet.",
+    "Elver eroderer landformer som V-daler og canyons.",
+    "Jettegryter er dannet av stasjonære strømvirvler som fører med seg stein og grus.",
+    "Elvevifter dannes der bratte sideelver kommer ned til den flate dalbunnen i hoveddalen. Farten på vannet avtar, det blir avsatt løsmasser, og elveløpet deler seg. Nye løp blir dannet, og det samme gjentar seg igjen og igjen. Etter hvert som avsetningene blir bygd opp, skifter elva løp fram og tilbake og danner en grusvifte – en elvevifte.",
+    "Når flomstore elver går over sine bredder, avsetter elva materiale. Sand og grus blir avsatt like til siden for elveløpet og bygger opp elvevoller. Leire og finsand blir ført lenger av sted med flomvannet og avsatt på elvesletter.",
+    "Der elva renner ut i en innsjø eller i havet, kan den danne et delta.",
+    "Når elva eroderer tidligere elvesletter og deltaflater, dannes det elveterrasser.Kapittel 19"
+  ]
+}

@@ -1,0 +1,640 @@
+{
+  "nr": 10,
+  "tittel": "Den geologiske historien på kontinentalsokkelen",
+  "forsteside": 150,
+  "sisteside": 163,
+  "laereplan": [
+    "gjøre rede for danning, kartlegging og utvinning av geologiske ressurser nasjonalt og globalt og drøfte konsekvenser av å utvinne og utnytte disse i et bærekraftsperspektiv",
+    "utforske berggrunn, løsmasser og jordarter lokalt, og tolke observasjonene for å beskrive områdets geologiske historie og betydning for lokale ressurser"
+  ],
+  "deler": [
+    {
+      "tittel": "Innledning",
+      "side": 150,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Sokkelen er det området som ligger mellom kysten og dyphavet og er den undersjøiske forlengelsen av Norges landmasser. Sokkelen er dekket av et grunt hav og består av en flat kontinentalhylle og en bratt kontinentalskråning. Utenfor kontinentalskråningen finner vi dyphavet. Det er den norske stat som har rettighetene til å utnytte alle ressurser på og under sokkelens havbunn."
+        },
+        {
+          "t": "p",
+          "tekst": "vakkert fjordlandskap med kalrt vann som viser sandbunnen"
+        },
+        {
+          "t": "figur",
+          "nr": "10.1",
+          "tekst": "Vakkert fjordlandskap med klart vann som viser sandbunnen"
+        }
+      ]
+    },
+    {
+      "tittel": "Overgang fra kontinentalskorpe til havbunnsskorpe, sedimentære bergarter og løsmasser",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Den norske sokkelen"
+        },
+        {
+          "t": "figur",
+          "nr": "10.2",
+          "tekst": "Overgangen fra kontinentalskorpe til havbunnsskorpe (lysere brun). Oppå skorpa ligger sedimentære bergarter og løsmasser (gult)."
+        },
+        {
+          "t": "p",
+          "tekst": "Den norske sokkelen kan deles i tre: Barentshavet, Norskehavet og Nordsjøen. Det er i disse havområdene vi finner våre olje- og gassressurser (petroleumsressurser)."
+        },
+        {
+          "t": "p",
+          "tekst": "Begrepet petroleum omfatter råolje og naturgass. De er blandinger av forskjellige typer hydrokarboner som kan finnes i geologiske formasjoner i fast form, flytende og i gassform. I flytende form (væske) regnes olje, kondensat og NGL (natural gas liquefied = kondensert gass)."
+        },
+        {
+          "t": "p",
+          "tekst": "Når vi snakker om petroleumsressurser, brukes begrepet oljeekvivalenter (o.e.). Det er for å kunne sammenligne energimengdene i væske og gass. En standardkubikkmeter oljeekvivalent tilsvarer den energien som frigjøres ved forbrenning av en kubikkmeter råolje."
+        },
+        {
+          "t": "p",
+          "tekst": "Hele havområdet mellom Norge, Storbritannia og det europeiske kontinentet regnes som ett sokkelområde. Det har havdyp mindre enn 100 meter, men noen grunne havområder, som Doggerbank, er ikke dypere enn 40 meter."
+        }
+      ]
+    },
+    {
+      "tittel": "Norges tre sokkelområder til havs, aktuelle for utvinning av olje og gass",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "10.3",
+          "tekst": "Barentshavet, Norskehavet, og Nordsjøen delt inn i den nordlige, den midtre og den sørlige Nordsjøen."
+        },
+        {
+          "t": "p",
+          "tekst": "Nordsjøen er havområdet mellom Sør-Norge og Storbritannia og er delt inn i en norsk, britisk og dansk sektor (se figur 10.3). Den norske delen er igjen delt inn i den sørlige, den midtre og den nordlige Nordsjøen. De nordlige delene av Nordsjøen er dypere enn de sentrale og sørlige delene. Her finner vi dybder ned mot 300 meter. Men de aller største dypene ligger i øst helt inn mot kysten. Der går Norskerenna som en smal fordypning."
+        },
+        {
+          "t": "p",
+          "tekst": "Nord for Nordsjøen, i Norskehavet, er kontinentalsokkelen smalere. Aller smalest er den utenfor Lofoten, Vesterålen og Senja der den bare er noen titalls kilometer med et sokkeldyp omtrent som Norskerenna. Utenfor ligger dyphavet med dybder helt ned mot 4000 meter."
+        },
+        {
+          "t": "p",
+          "tekst": "Barentshavet har dybder på mellom 200 og 500 meter, men med grunnere områder som Spitsbergenbanken på 50 meter dybde."
+        }
+      ]
+    },
+    {
+      "tittel": "Sokkelens geologiske historie",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Mye av det viktigste grunnlaget for oljen og gassen på norsk sokkel ble lagt for 200–150 millioner år siden i perioden jura. Det er i bergarter fra den tiden vi finner de største petroleumsressursene. I de neste avsnittene skal vi gå gjennom prosessene som la grunnlag for disse ressursene."
+        }
+      ]
+    },
+    {
+      "tittel": "Det prekambriske grunnfjellet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Grunnfjellet på sokkelen ble dannet en gang i prekambrium. Over grunnfjellet ligger tykke lag sedimentære bergarter. Grunnfjellet var en del av kontinentale landmasser fram til perm. Da sprakk landmassene opp. Det skjedde i forbindelse med oppsplittingen av superkontinentet Pangea (kontinental rifting) – tilsvarende det man ser i dagens østlige Afrika."
+        }
+      ]
+    },
+    {
+      "tittel": "Paleogeografi og paleoklima",
+      "side": 153,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Studiet av tidlige tiders fordeling av kontinenter og hav på jordoverflaten kalles paleogeografi (paleo = gammel). Det er platedriften som flytter på jordskorpeplatene (se kapittel 2). «Norge» befant seg for eksempel nær dagens Antarktis i prekambrium, for så å drive nordover mot ekvator i perioden devon og videre mot dagens breddegrader i paleogen."
+        },
+        {
+          "t": "p",
+          "tekst": "Innstrålingen fra sola er sterkere ved ekvator enn mot polene. Derfor har «Norges» klima endret seg avhengig av hvilken breddegrad «Norge» har befunnet seg på. Læren om tidlige tiders klima kalles paleoklima. De geologiske prosessene påvirkes i stor grad av klima. I polare klima vil breprosesser være sentrale, mens det i tropiske og subtropiske klima er varme og nedbør – eller fravær av nedbør – som er viktige faktorer i de geologiske prosessene."
+        }
+      ]
+    },
+    {
+      "tittel": "Majestetiske skarpe fjell med sne og skylag rundt rager mot himmelen i rødt sollys",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Silur og devon – gamle fjell gir opphav til reservoarer"
+        },
+        {
+          "t": "figur",
+          "nr": "10.4",
+          "tekst": "Slik kan den kaledonske fjellkjeden ha sett ut i devon."
+        },
+        {
+          "t": "p",
+          "tekst": "I overgangen silur/devon for ca. 400 millioner år siden legges grunnlaget for noe av det som senere skal bli gode olje- og gassreservoarer på norsk sokkel. Den kontinentale plata som Grønland og deler av Nord-Amerika er del av (Laurentia), kolliderte med våre deler av dagens Eurasia (Baltika), og den enorme kaledonske fjellkjeden reiste seg. Forvitrede rester av disse fjellene finnes i dag langt under havbunnen, som sandkorn i bergarter som inneholder petroleum."
+        },
+        {
+          "t": "p",
+          "tekst": "Som nevnt tidligere har jordskorpeplatene opp gjennom jordhistorien beveget seg over enorme områder. I perioden devon lå dagens Nordsjøen i et tørt og varmt område like sør for ekvator. I det tørre ørkenlandet ble det avsatt store mengder sedimenter som var erodert fra den kaledonske fjellkjeden."
+        },
+        {
+          "t": "p",
+          "tekst": "Lenger mot nord i mer tropiske og fuktige områder levde de første insekter og virveldyr i jordas tidligste skoger av trær."
+        }
+      ]
+    },
+    {
+      "tittel": "Karbon – kull, en kilde til gass",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I perioden karbon (359–299 millioner år siden) kolliderte kontinentet vårt med det enda større kontinentet Gondwana (se figur 8.9), og det reiste seg en ny fjellkjede. Nord for den fjellkjeden sank landområdene inn, og der ble det avsatt store mengder sedimenter."
+        },
+        {
+          "t": "p",
+          "tekst": "I løpet av kollisjonen beveget «våre» sokkelområder seg videre nordover mot ekvator. Det tropiske klimaet endret seg fra varmt og tørt til varmt og fuktig. Landområdene ble dekket av sumper og regnskog. Der fløy insekter med vingespenn på opptil en meter rundt mellom store bregnetrær."
+        },
+        {
+          "t": "p",
+          "tekst": "Senere ble sumpene oversvømt og tykke lag med plantemateriale begravd. Disse finner vi i dag som opptil tre kilometer tykke sandsteinslag med kull. De er viktige kildebergarter (sedimentære bergarter som inneholder store mengder organisk materiale som kan bli omdannet til petroleum) for gassen i sørlige deler av Nordsjøen og på land i Nederland. Det var funn av gass i Groningen i 1959 som først satte geologene på sporet av at det kanskje kunne være olje og gass også på norsk sokkel. Det er også disse lagene man bryter kull fra i Storbritannia, Tyskland, Polen og Russland."
+        },
+        {
+          "t": "p",
+          "tekst": "illustrasjon av eksotiske trær med vann rundt røttene og ulike krypdyr som svermer rundt"
+        },
+        {
+          "t": "figur",
+          "nr": "10.5",
+          "tekst": "Sumpskoger i karbon så kanskje slik ut."
+        }
+      ]
+    },
+    {
+      "tittel": "Perm – da sokkelen var ørken",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I perioden perm for ca. 250 millioner år siden ble det tørrere og kaldere etter som «vårt» område beveget seg inn i den subtropiske høytrykksonen på den nordlige halvkula. Stepper og ørkener erstattet sumper. «Norge og havområdene rundt» lå da på 20–30 grader nordlig bredde, omtrent der Sahara ligger i dag."
+        },
+        {
+          "t": "p",
+          "tekst": "Så godt som alle jordas kontinenter var på denne tiden samlet i superkontinentet Pangea, og store områder var preget av kontinentalt innlandsklima. Det vil si at det var tørt hele året og store temperaturforskjeller mellom sommer og vinter."
+        },
+        {
+          "t": "p",
+          "tekst": "Senere i perm begynte Pangea å sprekke opp, og en periode med kontinental rifting (oppsprekking av et kontinent) førte til at store deler av det som senere ble vår sokkel, sprakk opp og sank inn i store blokker. Langs de mange sprekkene og forkastningene i riftsystemet strømmet det opp magma, og her var det aktiv vulkanisme tilsvarende den man ser spor etter i Oslofeltet fra perm."
+        },
+        {
+          "t": "p",
+          "tekst": "et vulkankrater med glødende omriss og flammer som kommer ut av sprekkene"
+        },
+        {
+          "t": "figur",
+          "nr": "10.6",
+          "tekst": "Vulkanisme i den kontinentale afrikanske riftdalen"
+        },
+        {
+          "t": "p",
+          "tekst": "kart over Afrika der Riftdalen er tegnet inn"
+        },
+        {
+          "t": "p",
+          "tekst": "Etter hvert roet riftingen seg, og vulkanismen stoppet opp. Det førte til at jordskorpa ble avkjølt og dermed tyngre. Den sank inn til et tørt basseng under havnivå der det ble avsatt store mengder ørkensand. Det ga opphav til bergarter med gode reservoaregenskaper (reservoar = oppsamlingssted), og det er i disse man fant de store gassforekomstene i Nederland."
+        }
+      ]
+    },
+    {
+      "tittel": "Ørkendyner mot en sort kantete fjellformasjon",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "10.7",
+          "tekst": "Deler av norsk sokkel kan i trias ha sett ut omtrent som Death Valley i USA."
+        },
+        {
+          "t": "p",
+          "tekst": "Mot slutten av perm strømmet havet innover det lavtliggende bassenget, og det ble dannet store, grunne havområder. Den globale temperaturen var høy, og etter hvert som havvannet fordampet, ble det avsatt kilometertykke lag med steinsalt. Når steinsaltet begraves dypt nok, blir det plastisk. Da kan det «strømme» mot overflaten og danne olje- og gassfeller (se kapittel 11), slik man finner i den sørlige delen av Nordsjøen (for eksempel på Ekofiskfeltet)."
+        },
+        {
+          "t": "p",
+          "tekst": "Overgangen perm/trias markerer den største massedøden som har skjedd på kloden. Nesten alt liv i havet og mesteparten av livet på land døde ut. Man antar at årsaken var store mengder giftige gasser som ble tilført atmosfæren på grunn av voldsomme vulkanske utbrudd i dagens Russland. «Norge» befant seg da på 30–40 grader nordlig bredde. Klimaet var først subtropisk med varmt og tørt ørkenklima, men ble siden fuktigere med mer nedbør etter hvert som jordskorpeplata som «Norge» lå på, drev nordover og inn i tempererte klimasoner."
+        },
+        {
+          "t": "p",
+          "tekst": "Deler av dagens sokkel var i perioden trias en ørkenslette med store elver som periodevis var tørrlagte. I dette landskapet vandret klodens første dinosaurer og pattedyr rundt. I søndre deler av Nordsjøen finner vi i dag tykke lag med ørkensandstein fra den tiden."
+        },
+        {
+          "t": "p",
+          "tekst": "I nord, i dagens Barentshavet, var det fuktigere klima. Platekollisjoner i sentrale deler av dagens Russland førte til dannelsen av Uralfjellene. Disse fjellene i øst og det norske fastlandet i sør ble utsatt for kraftig erosjon. Elver transporterte enorme mengder sand ut i store deltaer som etter hvert bygde kystlinjen helt ut mot Svalbard."
+        }
+      ]
+    },
+    {
+      "tittel": "Jura – olje og gass dannes på norsk sokkel",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "«Norge» med sine havområder beveget seg i perioden jura enda lenger mot nord, der klimaet var preget av vestavinder med vått, stadig varmere temperert klima – omtrent som i Storbritannia i dag. Det globale havnivået steg, og havet trengte inn også fra nord. Området ble et lavtliggende øyrike med grunne havstrekninger og flate landområder med elvesletter, sumper og deltaer (figur 10.8). Her hersket dinosaurene, og de første fuglene svevde over sumplandet. Det er elveavsetninger fra tidlig jura som er opphav til reservoarene på Statfjord- og Snorrefeltet."
+        }
+      ]
+    },
+    {
+      "tittel": "Illustrasjon av skog med en diger grå elv og øglefugler som flyr på himmelen",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "10.8",
+          "tekst": "Elver bygget ut store deltaavsetninger midt i jura."
+        },
+        {
+          "t": "p",
+          "tekst": "I midtre deler av jura heves sokkelområdene, og det ble dannet vulkaner i sentrale deler av dagens Nordsjøen. Hevingen og vulkanismen var en forløper til den marine riftingen (oppsprekking av landmasser som siden synker inn og blir oversvømt av hav) som kom senere. Utviklingen stoppet etter hvert, men hadde likevel åpnet opp et stort sedimentasjonsbasseng som senere la grunnlaget for de store petroleumsforekomstene i Nordsjøen."
+        },
+        {
+          "t": "p",
+          "tekst": "Lavlandet som reiste seg, ble utsatt for kraftig erosjon i det regntunge klimaet. Store deltaer med strandområder som dekket hele den nordlige delen av Nordsjøen, ble avsatt. Disse avsetningene ble senere noen av de viktigste reservoarene i Nordsjøen, og det er her vi finner oljen i felt som Gullfaks og Oseberg og Brentfeltet på britisk sokkel."
+        },
+        {
+          "t": "p",
+          "tekst": "Sent i jura startet en aktiv marin riftperiode i dagens Nordsjøen og Norskehavet i forbindelse med dannelsen av Atlanterhavet. På sokkelen var riftingen begrenset til en smal sone med en så dyp innsynkning at havet trengte inn nordfra og druknet deltaene der. I Nordsjøen kalles denne riftstrukturen Vikinggraben i nord og Sentralgraben i sør (se figur 10.9). Barentshavet ble knapt påvirket av riftingen."
+        },
+        {
+          "t": "p",
+          "tekst": "Da temperaturen og CO2-nivået steg i sen jura, ble det en voldsom oppblomstring av alger og plankton i havet. Disse organismene ble ikke brutt ned ettersom det var liten sirkulasjon i havet. Dermed bygde det seg opp mektige lag med leire som hadde høyt innhold av organisk materiale. Denne leirskiferen ble siden den viktigste kilden til petroleum på norsk sokkel, og den har fått navnet Draupneformasjonen. Så mye som 99 prosent av all oljen og det meste av gassen man finner på sokkelen, har sitt opphav herfra."
+        }
+      ]
+    },
+    {
+      "tittel": "Detaljert Nordsjø-kart med diverse graben",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "10.9",
+          "tekst": "Nordsjøens sokkelgeografi"
+        }
+      ]
+    },
+    {
+      "tittel": "Kritt – sokkelen druknes i et subtropisk hav",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I overgangen mellom periodene kritt og paleogen skjedde det en ny masseutryddelse, dinosaurene døde ut, og pattedyrenes tidsalder startet. Man antar at det skyldtes et stort meteornedslag i dagens Mexico."
+        },
+        {
+          "t": "p",
+          "tekst": "I perioden kritt befant «Nordsjøen» seg på ca. 50 grader nord, og klimaet var tørt og varmt. Havnivået steg kraftig og med flere graders høyere vanntemperaturer enn i dag ble det en kraftig oppblomstring av livet i det forholdsvis grunne havet som druknet norsk sokkel. Enorme mengder kalkholdige skall og skjelettrester ble avsatt. Det er disse krittaktige sedimentene som har gitt navn til denne geologiske perioden."
+        },
+        {
+          "t": "p",
+          "tekst": "Den marine riftfasen som startet i sen jura, var aktiv også i begynnelsen av kritt, og den førte til en kraftig fortynning av jordskorpa i «Nordsjøen» og «Norskehavet». Det førte igjen til en innsynkning. Dermed ble det dannet et sedimentasjonsbasseng som kunne ta imot et opptil 7 km tykt sedimentlag, slik vi ser i Vøringbassenget i Norskehavet."
+        },
+        {
+          "t": "p",
+          "tekst": "Kildebergartene fra jura ble da presset ned på et stort dyp. De ble dermed utsatt for et trykk og en temperatur som var tilstrekkelig høye til at det organiske materialet ble omdannet til petroleum. Olje og gass strømmet så opp fra kildebergarten gjennom sprekker og forkastninger og endte opp i reservoarer der vi finner petroleumen i dag."
+        }
+      ]
+    },
+    {
+      "tittel": "Seismisk tolkning fra sokkelen i Norskehavet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "10.10",
+          "tekst": "En seismisk tolkning fra sokkelen i Norskehavet. (Kenozoikum = paleogen + neogen + kvartær)."
+        }
+      ]
+    },
+    {
+      "tittel": "Ekofiskfeltet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Det norske oljeeventyret begynte med funnet av oljen på Ekofiskfeltet i sørlige deler av Nordsjøen i 1969. Dette skulle vise seg å være verdens største oljefelt til havs. Her fant man olje i kalkstein fra sen kritt."
+        },
+        {
+          "t": "p",
+          "tekst": "Kalkstein har ofte mange porerom, men fordi de ikke er i forbindelse med hverandre, finner man sjelden olje eller gass i kalkstein. Likevel – de store forekomstene på Ekofisk henger sammen med at de permiske saltsteinsavsetningene presset seg inn i lagene over, og dermed sprakk kalksteinen opp. Det er hovedsakelig i disse sprekkene vi finner oljen her."
+        },
+        {
+          "t": "p",
+          "tekst": "Etter hvert som de tykke sedimentpakkene i kritt presset saltet ned mot store dyp, førte det høye trykket og temperaturen til at saltet begynte å oppføre seg plastisk. I og med at saltet var lettere enn bergartene rundt, fikk det en oppdrift. Oppdriften førte til at bergartslagene over ble foldet og fanget petroleum i bergartene rundt saltpluggen."
+        }
+      ]
+    },
+    {
+      "tittel": "Sorthvittfotografi av en oljeplattform under bygginge",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "10.11",
+          "tekst": "Oljeplattform under bygging"
+        }
+      ]
+    },
+    {
+      "tittel": "Paleogen til kvartær – petroleum dannes i kildebergartene",
+      "side": 160,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "I paleogen for ca. 50 millioner år siden åpnet vår del av Atlanterhavet seg, og i de sedimentære lagpakkene finner vi vulkanske lag som vitner om en aktiv havbunnsspredning i havområdene vest for norsk sokkel. De høyereliggende områdene langs Norskekysten i øst og Storbritannia i vest var utsatt for kraftig erosjon, og store mengder løsmasser i form av leire og sand ble avsatt i havet som åpnet seg på sokkelen. Slik ble kildebergartene i et enda større område begravd så dypt at også de ble modne."
+        },
+        {
+          "t": "p",
+          "tekst": "Det ble avsatt store mengder sand på havbunnen, som et resultat av at strand- og deltaavsetninger raste ut. Disse rasavsetningene finner vi i dag som reservoarer i Nordsjøen i oljefelt som Balder, Jotun og Johan Sverdrup og i Norskehavet i gassfeltet Ormen Lange (se boks nedenfor)."
+        },
+        {
+          "t": "p",
+          "tekst": "Landhevingen i paleogen og neogen (tidligere kalt den tertiære landhevingen) var spesielt kraftig i Barentsområdet. Det førte til kraftig erosjon, enkelte steder helt ned til lag av jura-alder. Etter hvert som erosjon fjernet de tette bergartene som holdt oljen «lukket inne», strømmet oljen ut av reservoarene og opp i dagen (se kapittel 11 om takbergarter og migrasjon)."
+        },
+        {
+          "t": "p",
+          "tekst": "I kvartær har store deler av Skandinavia og Storbritannia vært dekket av is gjennom mer enn 40 istider. Isen har formet landet vårt mer effektivt enn noen andre erosjonsformer. Når isen smeltet bort etter hver istid, ble enorme mengder løsmasser fraktet ut på sokkelen av store breelver. Disse løsmassene bidro til å begrave kildebergartene så dypt at det organiske innholdet ble omdannet til petroleumen vi finner i flere av feltene på sokkelen."
+        }
+      ]
+    },
+    {
+      "tittel": "En seismisk tolkning fra sokkelen i Barentshavet",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "10.12",
+          "tekst": "En seismisk tolkning fra sokkelen i Barentshavet"
+        }
+      ]
+    },
+    {
+      "tittel": "En industriell øy i et stormfullt hav",
+      "side": null,
+      "blokker": [
+        {
+          "t": "figur",
+          "nr": "10.13",
+          "tekst": "Melkøya ved Hammerfest. Her kjøles naturgassen fra Snøhvit-feltet ned og gjøres om til LNG."
+        }
+      ]
+    },
+    {
+      "tittel": "Ormen Lange og Storeggaraset",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "Gassfeltet Ormen Lange ble funnet på snaut 900 meters dyp i en stor rasgrop i Mørebassenget. Denne gropa er et resultat av et enormt undersjøisk ras – Storeggaraset. Se kapitlet om løsmasseskred på side 368."
+        },
+        {
+          "t": "p",
+          "tekst": "De store mengdene med morene- og breelvavsetninger som ble avsatt etter siste istid, var mettet med vann og ble ustabile der de lå på kanten av sokkelen. Etter at isen så brått forsvant, begynte landet som hadde vært presset ned av de store ismassene, å heve seg. Det førte til jordskjelvaktivitet som for 8000 år siden gjorde at deler av sokkelen med de ustabile løsmassene på, kollapset og raste ut i dyphavet. Kraftige tsunamier slo inn over kysten der de første menneskene hadde slått seg ned. På Rennesøy i Rogaland er det funnet spor etter en slik tsunami i en 8000 år gammel steinalderboplass."
+        },
+        {
+          "t": "p",
+          "tekst": "Før man kunne starte arbeidet med produksjon på feltet, måtte man undersøke grundig om rasgropa var trygg å bygge installasjonene i. Det har den vist seg å være."
+        }
+      ]
+    },
+    {
+      "tittel": "Én skal ut",
+      "side": null,
+      "blokker": [
+        {
+          "t": "p",
+          "tekst": "dyphav – kontinentalskråning – kontinentalhylle"
+        }
+      ]
+    },
+    {
+      "tittel": "Doggerbank – dyphav – fiskeområde",
+      "side": null,
+      "blokker": [
+        {
+          "t": "bilde",
+          "tekst": "Norskerenna – Vikinggraben – Sentralgraben"
+        },
+        {
+          "t": "p",
+          "tekst": "grunt havområde – Norskerenna – Doggerbank"
+        },
+        {
+          "t": "p",
+          "tekst": "karbon – ørken – sumpskog"
+        },
+        {
+          "t": "p",
+          "tekst": "perm – steinsalt – kaldt klima"
+        },
+        {
+          "t": "p",
+          "tekst": "sen jura – kontinental rifting – Sentralgraben"
+        },
+        {
+          "t": "p",
+          "tekst": "kalkstein – kritt – perm"
+        },
+        {
+          "t": "p",
+          "tekst": "paleogen – erosjon av sokkelen – avsetning av løsmasser på sokkelen"
+        },
+        {
+          "t": "tenk",
+          "tekst": "Fleip eller fakta?",
+          "f": ""
+        },
+        {
+          "t": "p",
+          "tekst": "Kontinentalsokkelen er det samme som kontinentalhylla."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er tre områder på norsk sokkel man leter etter petroleum."
+        },
+        {
+          "t": "p",
+          "tekst": "Norskerenna og Vikinggraben er dannet på samme måte."
+        },
+        {
+          "t": "p",
+          "tekst": "Det er ingen naturressurser rundt Doggerbank."
+        },
+        {
+          "t": "p",
+          "tekst": "Paleografi og paleoklima handler om den samme perioden i jordhistorien."
+        },
+        {
+          "t": "p",
+          "tekst": "Oppsplitting av et kontinent er ikke det samme som maritim rifting."
+        },
+        {
+          "t": "p",
+          "tekst": "Baltika er ikke det samme kontinentet som Laurentia."
+        },
+        {
+          "t": "p",
+          "tekst": "Nordsjøområdet har aldri vært tørt land."
+        },
+        {
+          "t": "p",
+          "tekst": "Det brytes kull på bunnen av Nordsjøen."
+        },
+        {
+          "t": "p",
+          "tekst": "De samme bergartene finnes både på land og på sokkelen."
+        },
+        {
+          "t": "p",
+          "tekst": "På sokkelen er det bare sedimentære bergarter."
+        }
+      ]
+    }
+  ],
+  "oppgaveblokker": [
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": null,
+      "del": "Majestetiske skarpe fjell med sne og skylag rundt rager mot himmelen i rødt sollys",
+      "poster": [
+        {
+          "q": "Hva menes med begrepet kontinentalsokkel?",
+          "f": ""
+        },
+        {
+          "q": "Hva er kontinentalskråningen?",
+          "f": ""
+        },
+        {
+          "q": "I hvilke tre områder på norsk sokkel drives det olje- og gassvirksomhet?",
+          "f": ""
+        },
+        {
+          "q": "Hva skiller kontinentalsokkelen fra dyphavet?",
+          "f": ""
+        },
+        {
+          "q": "Hvor finner vi de grunneste og de dypeste områdene i Nordsjøen?",
+          "f": ""
+        },
+        {
+          "q": "En av de tre hovedgruppene av bergarter dominerer på sokkelen – hvilken er det?",
+          "f": ""
+        },
+        {
+          "q": "Hvor på jordoverflaten lå «Nordsjøen» i devon?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Majestetiske skarpe fjell med sne og skylag rundt rager mot himmelen i rødt sollys",
+      "poster": [
+        {
+          "q": "På hvilke måter er begrepene kontinentalsokkel, kontinentalskråning og kontinentalhylle forskjellige fra hverandre?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan er det mulig at klimaet var mer tropisk nord for «Nordsjø-området» i devon?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "sporsmal",
+      "overskrift": "SPØRSMÅL",
+      "side": 162,
+      "del": "Ormen Lange og Storeggaraset",
+      "poster": [
+        {
+          "q": "Hvor fra og hvor til har «Nordsjøområdet» flyttet seg siden prekambrium?",
+          "f": ""
+        },
+        {
+          "q": "Hva er rifting? Hva er det norske ordet?",
+          "f": ""
+        },
+        {
+          "q": "Hva skjedde i Nordsjøområdet i perm?",
+          "f": ""
+        },
+        {
+          "q": "Hva betyr det at en bergart blir plastisk?",
+          "f": ""
+        },
+        {
+          "q": "Hva er den viktigste kildebergarten på norsk sokkel?",
+          "f": ""
+        },
+        {
+          "q": "Hva skjedde på den norske sokkelen i perioden jura?",
+          "f": ""
+        },
+        {
+          "q": "Hvordan oppstår en fortynning av jordskorpa?",
+          "f": ""
+        },
+        {
+          "q": "Hva skjedde på den norske sokkelen i perioden kritt?",
+          "f": ""
+        },
+        {
+          "q": "Hva skjedde på den norske sokkelen i periodene paleogen og neogen?",
+          "f": ""
+        }
+      ]
+    },
+    {
+      "art": "hvatrordu",
+      "overskrift": "HVA TROR DU?",
+      "side": null,
+      "del": "Ormen Lange og Storeggaraset",
+      "poster": [
+        {
+          "q": "Hvilke to andre begreper blir brukt om olje og gass?",
+          "f": ""
+        },
+        {
+          "q": "Er det slik at olje og gass utvinnes fra den bergarten de er dannet i? Begrunn svaret.",
+          "f": ""
+        },
+        {
+          "q": "Hva tror du er forskjellen på kontinental og maritim rifting?",
+          "f": ""
+        },
+        {
+          "q": "Hva er Vikinggraben og Sentralgraben? Hvordan er de dannet, og hvorfor er de så viktige for produksjonen av olje og gass på sokkelen?",
+          "f": ""
+        },
+        {
+          "q": "Hvorfor har avsetningen av løsmasser på sokkelen i paleogen og neogen også vært viktig for dannelsen av olje og gass der?",
+          "f": ""
+        }
+      ]
+    }
+  ],
+  "sammendrag": [
+    "Kontinentalsokkelen er de grunne havområdene utenfor kysten vår og består av en flat kontinentalhylle og en bratt kontinentalskråning ut mot dyphavet.",
+    "Området som i dag er den norske kontinentalsokkelen, har siden prekambrium flyttet seg fra sør for ekvator og til dagens posisjon.",
+    "I karbon lå «Norge» nær ekvator og store deler av landoverflaten var dekket av tropisk regnskog. Store mengder organisk materiale ble begravd og herdet til kullførende bergarter som siden ga opphav til naturgass. Dette er kullet som la grunnlaget for den industrielle revolusjon.",
+    "I et tørrere og kaldere subtropisk klima dannet det seg for ca. 250 mill. år siden et innsynkningsområde på landområdet som senere utviklet seg til dagens «Nordsjøen». Mot slutten av perm strømmet havet inn og dannet store, grunne havområder. Da det igjen ble varmere, fordampet havvannet og det ble avsatt kilometertykke lag med steinsalt.",
+    "Tidlig i jura beveget «Norge» seg nordover mot våte og tempererte vestavinder. Det globale havnivået steg, og havet trengte igjen inn over sokkelområdet. Elver førte med seg store mengder sand ut i havet og denne sanden ble senere viktige reservoarer.",
+    "Sent i jura startet en aktiv marin riftperiode. I Nordsjøen kalles denne riftstrukturen Vikinggraben i nord og Sentralgraben i sør.",
+    "Temperaturen steg og førte til en voldsom oppblomstring av alger og plankton i havet. På havbunnen ble det avsatt mektige lag av leire, rik på organisk materiale. Avsetningene ble siden herdet til leirskifer, den viktigste kilden til petroleum på norsk sokkel. En slik bergart kalles en kildebergart.",
+    "Den marine riftfasen var også aktiv i begynnelsen av kritt, og førte til store innsynkinger av havbunnen. Dermed ble det skapt sedimentasjonsbasseng som etter hvert tok imot et opptil 7 km tykt sedimentlag.",
+    "I kritt var klimaet tørt og varmt. En kraftig oppblomstring av liv førte til at kalkholdige skall og skjelettrester ble avsatt på havbunnen.",
+    "For ca. 50 millioner år siden åpner vår del av Atlanterhavet seg. Det førte til uro i jordskorpa og den vestlige delen av det baltiske skjold ble hevet. Hevningene førte til en kraftig erosjon, og store mengder leire og sand ble avsatt på sokkelen.",
+    "Kildebergartene fra jura ble presset ned på store dyp. Der ble de utsatt for så høyt trykk og temperatur at det organiske materialet ble omdannet til petroleum. Kildebergarten ble modnet.",
+    "I kvartær har store områder vært dekket av is. I mellomistidene ble enorme mengder løsmasser fraktet ut på sokkelen av store breelver.Kapittel 11"
+  ]
+}
