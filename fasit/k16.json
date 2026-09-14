@@ -36,6 +36,12 @@
   "f": ""
  },
  {
+  "id": "5a26f85c1a",
+  "art": "oppgave-i-tekst",
+  "q": "Studer figur 16.5.",
+  "f": ""
+ },
+ {
   "id": "8709ea5939",
   "art": "tenk",
   "q": "Hvorfor er det ikke sprekker som går dypere enn 30–40 meter?",
@@ -66,6 +72,24 @@
   "f": ""
  },
  {
+  "id": "c3253023d5",
+  "art": "oppgave-i-tekst",
+  "q": "Lag en lengdeprofil av en elveerodert og en breerodert dal!",
+  "f": ""
+ },
+ {
+  "id": "62acf0ac41",
+  "art": "oppgave-i-tekst",
+  "q": "Søk med «Trollstigen» på Google Earth. Zoom, skråstill og snurr rundt. I figur 16.18 er det tegnet inn en «dalende». Undersøk om det er en dalende i Isterdalen (figur 16.20). Begrunn svaret.",
+  "f": ""
+ },
+ {
+  "id": "af7543c60c",
+  "art": "oppgave-i-tekst",
+  "q": "Søk med «Grønland» på Google Earth. Zoom inn på østkysten av Grønland til du finner et landskap som ligner på norskekysten mot slutten av siste istid. Begrunn valget.",
+  "f": ""
+ },
+ {
   "id": "bfc9271d8d",
   "art": "tenk",
   "q": "Kjenner du noen bergarter som er spesielle for Oslofeltet?",
@@ -78,15 +102,51 @@
   "f": ""
  },
  {
+  "id": "13130986f9",
+  "art": "oppgave-i-tekst",
+  "q": "Se på kartet fra Jotunheimen i figur 16.22.",
+  "f": ""
+ },
+ {
   "id": "756d1a3747",
   "art": "tenk",
   "q": "Hva heter landskapstypen du ser på kartet?",
   "f": ""
  },
  {
+  "id": "64b6f00965",
+  "art": "oppgave-i-tekst",
+  "q": "Finn noen eksempler på botnsjøer, og forklar hvordan de er dannet.",
+  "f": ""
+ },
+ {
   "id": "26ca681827",
   "art": "tenk",
   "q": "Ser du noen U-daler på kartutsnittet? Hva er typisk for dem?",
+  "f": ""
+ },
+ {
+  "id": "47925baa6b",
+  "art": "oppgave-i-tekst",
+  "q": "Søk på nettet og finn bilder fra det området kartet dekker. Sammenlign kart og bilder.",
+  "f": ""
+ },
+ {
+  "id": "9d603ec5fb",
+  "art": "oppgave-i-tekst",
+  "q": "Søk etter Nigardsbreen med Google Maps, https://earth.google.com/.",
+  "f": ""
+ },
+ {
+  "id": "172994a35f",
+  "art": "oppgave-i-tekst",
+  "q": "Regn ut den gjennomsnittlige årlige erosjonen (i mm) under breen. Vi regner med at alt det materialet breelva fører med seg, er erodert av breen, og at bergartene har en tetthet på 2,7 tonn/m3.",
+  "f": ""
+ },
+ {
+  "id": "4f9582deb5",
+  "art": "oppgave-i-tekst",
+  "q": "Finn ut hvor mange istider en isstrøm som eroderer berggrunnen med 1,5 mm per år, trenger for å grave ut Sognefjorden. Sognefjorden er erodert ca. 2000 meter ned i landoverflaten. Regn med at en istid varer 100 000 år.",
   "f": ""
  },
  {

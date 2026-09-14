@@ -24,8 +24,9 @@ def samle_sporsmal(kap: dict) -> list[dict]:
     ut = []
     for d in kap["deler"]:
         for b in d["blokker"]:
-            if b["t"] == "tenk":
-                ut.append({"id": nokkel(b["tekst"]), "art": "tenk", "q": b["tekst"], "f": ""})
+            if b["t"] in ("tenk", "oppg"):
+                art = "tenk" if b["t"] == "tenk" else "oppgave-i-tekst"
+                ut.append({"id": nokkel(b["tekst"]), "art": art, "q": b["tekst"], "f": ""})
     for blokk in kap["oppgaveblokker"]:
         for post in blokk["poster"]:
             if "q" not in post:

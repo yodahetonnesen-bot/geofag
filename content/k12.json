@@ -334,12 +334,14 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Bruk figur 12.3. og gi en muntlig beskrivelse av vannets kretsløp."
+          "t": "oppg",
+          "tekst": "Bruk figur 12.3. og gi en muntlig beskrivelse av vannets kretsløp.",
+          "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Studer figuren og finn ut hvilke ord som skal stå til høyre for likhetstegnene her:"
+          "t": "oppg",
+          "tekst": "Studer figuren og finn ut hvilke ord som skal stå til høyre for likhetstegnene her:",
+          "f": ""
         }
       ]
     },
@@ -394,16 +396,19 @@
           "tekst": "Nedbørsfeltet til elva Vefsna i Nordland fylke er 4109 km2, og middelvannføringen er 161 m3/s."
         },
         {
-          "t": "p",
-          "tekst": "Regn ut avrenningen gjennom ett år i Vefsna."
+          "t": "oppg",
+          "tekst": "Regn ut avrenningen gjennom ett år i Vefsna.",
+          "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Regn ut den spesifikke avrenningen ved en vannføring på 100 m3/s."
+          "t": "oppg",
+          "tekst": "Regn ut den spesifikke avrenningen ved en vannføring på 100 m3/s.",
+          "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Regn ut den midlere spesifikke avrenningen i nedbørsfeltet – både i L/(s · km2) og i mm/år."
+          "t": "oppg",
+          "tekst": "Regn ut den midlere spesifikke avrenningen i nedbørsfeltet – både i L/(s · km2) og i mm/år.",
+          "f": ""
         }
       ]
     },
@@ -688,8 +693,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Se på hydrogrammene for elvene Leira og Risa i figur 12.9. Risa renner i grusmassene på Gardermosletta. Under Gardermoen ligger landets største grunnvannsforekomst. Leira renner i leire."
+          "t": "oppg",
+          "tekst": "Se på hydrogrammene for elvene Leira og Risa i figur 12.9. Risa renner i grusmassene på Gardermosletta. Under Gardermoen ligger landets største grunnvannsforekomst. Leira renner i leire.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -717,8 +723,9 @@
           "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Forklar forskjellene."
+          "t": "oppg",
+          "tekst": "Forklar forskjellene.",
+          "f": ""
         },
         {
           "t": "p",
@@ -1055,8 +1062,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Se på grafene i figur 12.17 og kartet i figur 12.19."
+          "t": "oppg",
+          "tekst": "Se på grafene i figur 12.17 og kartet i figur 12.19.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -1100,8 +1108,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Se på figur 12.21."
+          "t": "oppg",
+          "tekst": "Se på figur 12.21.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -1123,8 +1132,9 @@
           "tekst": "Grunnvannsborehull (GRANADA) (mini-feltarbeid)"
         },
         {
-          "t": "p",
-          "tekst": "Bruk NGUs grunnvannsdatabase på nett, https://geo.ngu.no/kart/granada_mobil/."
+          "t": "oppg",
+          "tekst": "Bruk NGUs grunnvannsdatabase på nett, https://geo.ngu.no/kart/granada_mobil/.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -1462,8 +1472,9 @@
           "tekst": "Mye vinternedbør kan gjøre at breen vokser selv om sommeren er varm og smeltingen stor. Men dersom vinternedbøren er liten eller kommer som regn på breen, samtidig som somrene er varme, vil breen langsomt smelte. Forandringer i breens størrelse kan derfor være et uttrykk for klimaendringer. Vi sier at breen er en klimaindikator."
         },
         {
-          "t": "p",
-          "tekst": "Søk med «Hellstugubreen» i Google Earth. Zoom. Skråstill og snurr rundt! Når på året tror du satellittbildene er tatt? Begrunn svaret. Benytt reiseguiden i Google Earth til en liten videotur rundt Galdhøpiggen!"
+          "t": "oppg",
+          "tekst": "Søk med «Hellstugubreen» i Google Earth. Zoom. Skråstill og snurr rundt! Når på året tror du satellittbildene er tatt? Begrunn svaret. Benytt reiseguiden i Google Earth til en liten videotur rundt Galdhøpiggen!",
+          "f": ""
         }
       ]
     },
@@ -1532,8 +1543,9 @@
       "side": 222,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Studer figur 12.32."
+          "t": "oppg",
+          "tekst": "Studer figur 12.32.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -1541,8 +1553,9 @@
           "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Studer figur 12.33."
+          "t": "oppg",
+          "tekst": "Studer figur 12.33.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -1565,8 +1578,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Gå inn på NVEs breapplikasjon http://glacier.nve.no/glacier/viewer/ci/no – eller søk med «Klimaprodukter bre» på nettet. Velg en av breene som du vil studere nærmere. Dersom du ikke har et eget forslag, kan du se på Storbreen i Jotunheimen (se figur 12.24)."
+          "t": "oppg",
+          "tekst": "Gå inn på NVEs breapplikasjon http://glacier.nve.no/glacier/viewer/ci/no – eller søk med «Klimaprodukter bre» på nettet. Velg en av breene som du vil studere nærmere. Dersom du ikke har et eget forslag, kan du se på Storbreen i Jotunheimen (se figur 12.24).",
+          "f": ""
         },
         {
           "t": "p",
@@ -1577,8 +1591,9 @@
           "tekst": "Du kan også søke på Internett etter bilder eller annen informasjon om breen du har valgt."
         },
         {
-          "t": "p",
-          "tekst": "Lag en presentasjon av breen med kart, bilder, figurer og tabeller."
+          "t": "oppg",
+          "tekst": "Lag en presentasjon av breen med kart, bilder, figurer og tabeller.",
+          "f": ""
         }
       ]
     }

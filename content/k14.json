@@ -201,8 +201,9 @@
           "tekst": "Innsjøen Iešjávri på Finnmarksvidda. Gaisser i horisonten."
         },
         {
-          "t": "p",
-          "tekst": "Finn fjellområdene som er nevnt i avsnittet ovenfor, på det geologisk kartet over Norge (figur 6.24)."
+          "t": "oppg",
+          "tekst": "Finn fjellområdene som er nevnt i avsnittet ovenfor, på det geologisk kartet over Norge (figur 6.24).",
+          "f": ""
         },
         {
           "t": "p",
@@ -374,8 +375,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Finn Sandvika, Semsvannet og Nesøya på kartutsnittet og på satellittbildet i figur 14.10. Bruk også Google Earth, søk med «Sandvika» og zoom inn mot det området som er vist på satellittbildet i boka."
+          "t": "oppg",
+          "tekst": "Finn Sandvika, Semsvannet og Nesøya på kartutsnittet og på satellittbildet i figur 14.10. Bruk også Google Earth, søk med «Sandvika» og zoom inn mot det området som er vist på satellittbildet i boka.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -398,8 +400,9 @@
           "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Bruk Google Earth for å se på områdene utenfor satellittbildet i boka."
+          "t": "oppg",
+          "tekst": "Bruk Google Earth for å se på områdene utenfor satellittbildet i boka.",
+          "f": ""
         }
       ]
     }

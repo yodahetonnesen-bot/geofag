@@ -370,8 +370,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Studer figur 6.2 som viser bergartenes geologiske kretsløp."
+          "t": "oppg",
+          "tekst": "Studer figur 6.2 som viser bergartenes geologiske kretsløp.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -399,8 +400,9 @@
           "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Bruk figuren som viser det geologiske kretsløpet, til å forklare hvordan et magma først kan bli til en magmatisk bergart, så bli en metamorf bergart og deretter løsmasser som kan bli til en sedimentær bergart."
+          "t": "oppg",
+          "tekst": "Bruk figuren som viser det geologiske kretsløpet, til å forklare hvordan et magma først kan bli til en magmatisk bergart, så bli en metamorf bergart og deretter løsmasser som kan bli til en sedimentær bergart.",
+          "f": ""
         }
       ]
     },
@@ -946,8 +948,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Bruk ulike hjelpemidler til å bestemme fem–seks ukjente bergarter du har fått utdelt. Alle er sedimentære bergarter. Forklar hvordan du gikk fram, og presenter resultatet."
+          "t": "oppg",
+          "tekst": "Bruk ulike hjelpemidler til å bestemme fem–seks ukjente bergarter du har fått utdelt. Alle er sedimentære bergarter. Forklar hvordan du gikk fram, og presenter resultatet.",
+          "f": ""
         },
         {
           "t": "p",
@@ -1214,8 +1217,9 @@
           "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Studer figur 6.20. Nedenfor er det et spørsmål til hver av figurene a–e. Begrunn svarene."
+          "t": "oppg",
+          "tekst": "Studer figur 6.20. Nedenfor er det et spørsmål til hver av figurene a–e. Begrunn svarene.",
+          "f": ""
         },
         {
           "t": "tenk",

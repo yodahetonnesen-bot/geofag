@@ -36,6 +36,36 @@
   "f": ""
  },
  {
+  "id": "a5ea8b8682",
+  "art": "oppgave-i-tekst",
+  "q": "Bruk figur 12.3. og gi en muntlig beskrivelse av vannets kretsløp.",
+  "f": ""
+ },
+ {
+  "id": "068771bf33",
+  "art": "oppgave-i-tekst",
+  "q": "Studer figuren og finn ut hvilke ord som skal stå til høyre for likhetstegnene her:",
+  "f": ""
+ },
+ {
+  "id": "a9215762bd",
+  "art": "oppgave-i-tekst",
+  "q": "Regn ut avrenningen gjennom ett år i Vefsna.",
+  "f": ""
+ },
+ {
+  "id": "613939e1d2",
+  "art": "oppgave-i-tekst",
+  "q": "Regn ut den spesifikke avrenningen ved en vannføring på 100 m3/s.",
+  "f": ""
+ },
+ {
+  "id": "49757b8201",
+  "art": "oppgave-i-tekst",
+  "q": "Regn ut den midlere spesifikke avrenningen i nedbørsfeltet – både i L/(s · km2) og i mm/år.",
+  "f": ""
+ },
+ {
   "id": "40872fb3eb",
   "art": "tenk",
   "q": "Er årsflommen en flom, slik hydrologene bruker flombegrepet, hvert eneste år?",
@@ -78,6 +108,12 @@
   "f": ""
  },
  {
+  "id": "29ef35f4fd",
+  "art": "oppgave-i-tekst",
+  "q": "Se på hydrogrammene for elvene Leira og Risa i figur 12.9. Risa renner i grusmassene på Gardermosletta. Under Gardermoen ligger landets største grunnvannsforekomst. Leira renner i leire.",
+  "f": ""
+ },
+ {
   "id": "eac2a0a2af",
   "art": "tenk",
   "q": "Forklar forskjellene på de to hydrogrammene. Hvorfor er det bare Leira som har tydelige flomtopper?",
@@ -93,6 +129,12 @@
   "id": "e952d5b5b6",
   "art": "tenk",
   "q": "Hvilke forskjeller er det på avrenningsmønstrene?",
+  "f": ""
+ },
+ {
+  "id": "370c0b9f2c",
+  "art": "oppgave-i-tekst",
+  "q": "Forklar forskjellene.",
   "f": ""
  },
  {
@@ -123,6 +165,12 @@
   "id": "7c3d3f662b",
   "art": "tenk",
   "q": "Når ble smeltevannsavsetningene på Romerike avsatt?",
+  "f": ""
+ },
+ {
+  "id": "88dd7b4947",
+  "art": "oppgave-i-tekst",
+  "q": "Se på grafene i figur 12.17 og kartet i figur 12.19.",
   "f": ""
  },
  {
@@ -168,6 +216,12 @@
   "f": ""
  },
  {
+  "id": "1ed59a92b0",
+  "art": "oppgave-i-tekst",
+  "q": "Se på figur 12.21.",
+  "f": ""
+ },
+ {
   "id": "5870781c6b",
   "art": "tenk",
   "q": "Hvilken jordart inneholder mest vann, og hvilken inneholder minst? Hvorfor er det slik?",
@@ -183,6 +237,12 @@
   "id": "6a1f139215",
   "art": "tenk",
   "q": "Hvilken av jordartene tåler tørke dårligst?",
+  "f": ""
+ },
+ {
+  "id": "655287d306",
+  "art": "oppgave-i-tekst",
+  "q": "Bruk NGUs grunnvannsdatabase på nett, https://geo.ngu.no/kart/granada_mobil/.",
   "f": ""
  },
  {
@@ -288,6 +348,12 @@
   "f": ""
  },
  {
+  "id": "ee1cc75e9d",
+  "art": "oppgave-i-tekst",
+  "q": "Søk med «Hellstugubreen» i Google Earth. Zoom. Skråstill og snurr rundt! Når på året tror du satellittbildene er tatt? Begrunn svaret. Benytt reiseguiden i Google Earth til en liten videotur rundt Galdhøpiggen!",
+  "f": ""
+ },
+ {
   "id": "7e0785d1c9",
   "art": "tenk",
   "q": "Søk med «Briksdalsbreen» på Google Earth. Zoom, skråstill og snurr rundt til du får samme vinkel inn mot breen som på bildene i figur 12.34. Hva har skjedd siden det første bildet ble tatt?",
@@ -300,9 +366,21 @@
   "f": ""
  },
  {
+  "id": "0cba3a70b4",
+  "art": "oppgave-i-tekst",
+  "q": "Studer figur 12.32.",
+  "f": ""
+ },
+ {
   "id": "fed22d1a4b",
   "art": "tenk",
   "q": "Hvordan kan du se på formen på brefronten om breen ligger rolig, om den smelter tilbake, eller om den rykker fram?",
+  "f": ""
+ },
+ {
+  "id": "f188f0f8da",
+  "art": "oppgave-i-tekst",
+  "q": "Studer figur 12.33.",
   "f": ""
  },
  {
@@ -315,6 +393,18 @@
   "id": "1955345ca6",
   "art": "tenk",
   "q": "Hvilke av breene som er undersøkt, rykket fram i perioden 1994–1998? Forklar hvordan du fant fram til svaret. Hvilke gikk tilbake? Har det noen sammenheng med hvor breene ligger?",
+  "f": ""
+ },
+ {
+  "id": "696884d0c2",
+  "art": "oppgave-i-tekst",
+  "q": "Gå inn på NVEs breapplikasjon http://glacier.nve.no/glacier/viewer/ci/no – eller søk med «Klimaprodukter bre» på nettet. Velg en av breene som du vil studere nærmere. Dersom du ikke har et eget forslag, kan du se på Storbreen i Jotunheimen (se figur 12.24).",
+  "f": ""
+ },
+ {
+  "id": "53559683a8",
+  "art": "oppgave-i-tekst",
+  "q": "Lag en presentasjon av breen med kart, bilder, figurer og tabeller.",
   "f": ""
  },
  {

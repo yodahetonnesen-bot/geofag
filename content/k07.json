@@ -355,8 +355,9 @@
           "tekst": "Du får opp en tegnforklaring når du klikker på «Mer kartfunksjonalitet» nederst til høyre i skjermbildet – når målestokken er stor nok."
         },
         {
-          "t": "p",
-          "tekst": "Lag en enkel kartskisse som viser fordelingen av løsmasser i fylket."
+          "t": "oppg",
+          "tekst": "Lag en enkel kartskisse som viser fordelingen av løsmasser i fylket.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -370,8 +371,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Forklar hvordan det er mulig å bestemme alderen på en beinrest ved å måle forholdet mellom de to karbonisotopene karbon-14 og karbon-12."
+          "t": "oppg",
+          "tekst": "Forklar hvordan det er mulig å bestemme alderen på en beinrest ved å måle forholdet mellom de to karbonisotopene karbon-14 og karbon-12.",
+          "f": ""
         },
         {
           "t": "p",

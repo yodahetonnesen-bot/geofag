@@ -24,6 +24,12 @@
   "f": ""
  },
  {
+  "id": "94f3a9c51f",
+  "art": "oppgave-i-tekst",
+  "q": "Studer figur 6.2 som viser bergartenes geologiske kretsløp.",
+  "f": ""
+ },
+ {
   "id": "9e50a94abf",
   "art": "tenk",
   "q": "Hvilket bilde viser en magmatisk bergart?",
@@ -51,6 +57,12 @@
   "id": "1285e7d460",
   "art": "tenk",
   "q": "Ikke alle bergarter fullfører et helt kretsløp. Hva skjer langs de blå pilene på figur 6.2?",
+  "f": ""
+ },
+ {
+  "id": "24d08debb9",
+  "art": "oppgave-i-tekst",
+  "q": "Bruk figuren som viser det geologiske kretsløpet, til å forklare hvordan et magma først kan bli til en magmatisk bergart, så bli en metamorf bergart og deretter løsmasser som kan bli til en sedimentær bergart.",
   "f": ""
  },
  {
@@ -120,6 +132,12 @@
   "f": ""
  },
  {
+  "id": "481910a736",
+  "art": "oppgave-i-tekst",
+  "q": "Bruk ulike hjelpemidler til å bestemme fem–seks ukjente bergarter du har fått utdelt. Alle er sedimentære bergarter. Forklar hvordan du gikk fram, og presenter resultatet.",
+  "f": ""
+ },
+ {
   "id": "e253bbed3e",
   "art": "tenk",
   "q": "Hvilken type gneis ser du på bildet i figur 6.19c?",
@@ -159,6 +177,12 @@
   "id": "85c331fa7b",
   "art": "tenk",
   "q": "Hva menes med «lag på lag, prikkete og stripete» bergarter? Hva er hensikten med å bruke slike begreper?",
+  "f": ""
+ },
+ {
+  "id": "a75d54f19f",
+  "art": "oppgave-i-tekst",
+  "q": "Studer figur 6.20. Nedenfor er det et spørsmål til hver av figurene a–e. Begrunn svarene.",
   "f": ""
  },
  {

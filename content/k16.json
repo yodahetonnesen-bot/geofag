@@ -326,8 +326,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Studer figur 16.5."
+          "t": "oppg",
+          "tekst": "Studer figur 16.5.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -471,8 +472,9 @@
           "tekst": "Den spektakulære Aurlandsfjorden sett fra stølen Hovdungo, bildet er tatt mot øst. Det høyeste fjellet i bakgrunnen er Blåskavlen."
         },
         {
-          "t": "p",
-          "tekst": "Lag en lengdeprofil av en elveerodert og en breerodert dal!"
+          "t": "oppg",
+          "tekst": "Lag en lengdeprofil av en elveerodert og en breerodert dal!",
+          "f": ""
         },
         {
           "t": "p",
@@ -536,16 +538,18 @@
           "tekst": "Utsikt mot Isterdalen og Åndalsnes. Isterdalen er en typisk U-dal. Turister nyter utsikten på luftige utsiktsplattformer i Trollstigen."
         },
         {
-          "t": "p",
-          "tekst": "Søk med «Trollstigen» på Google Earth. Zoom, skråstill og snurr rundt. I figur 16.18 er det tegnet inn en «dalende». Undersøk om det er en dalende i Isterdalen (figur 16.20). Begrunn svaret."
+          "t": "oppg",
+          "tekst": "Søk med «Trollstigen» på Google Earth. Zoom, skråstill og snurr rundt. I figur 16.18 er det tegnet inn en «dalende». Undersøk om det er en dalende i Isterdalen (figur 16.20). Begrunn svaret.",
+          "f": ""
         },
         {
           "t": "p",
           "tekst": "Det er dette som skjer i Antarktis og på Grønland i dag. Isstrømmer følger dalene under breen. Der er breen tykkest, og temperaturen langs bunnen av breen er ved trykksmeltepunktet. Isstrømmen glir på underlaget og eroderer fjelloverflaten."
         },
         {
-          "t": "p",
-          "tekst": "Søk med «Grønland» på Google Earth. Zoom inn på østkysten av Grønland til du finner et landskap som ligner på norskekysten mot slutten av siste istid. Begrunn valget."
+          "t": "oppg",
+          "tekst": "Søk med «Grønland» på Google Earth. Zoom inn på østkysten av Grønland til du finner et landskap som ligner på norskekysten mot slutten av siste istid. Begrunn valget.",
+          "f": ""
         },
         {
           "t": "p",
@@ -612,8 +616,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Se på kartet fra Jotunheimen i figur 16.22."
+          "t": "oppg",
+          "tekst": "Se på kartet fra Jotunheimen i figur 16.22.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -621,8 +626,9 @@
           "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Finn noen eksempler på botnsjøer, og forklar hvordan de er dannet."
+          "t": "oppg",
+          "tekst": "Finn noen eksempler på botnsjøer, og forklar hvordan de er dannet.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -638,8 +644,9 @@
           "tekst": "Hva er en «tind». Gi noen eksempler fra kartet, og forklar hvordan de er dannet."
         },
         {
-          "t": "p",
-          "tekst": "Søk på nettet og finn bilder fra det området kartet dekker. Sammenlign kart og bilder."
+          "t": "oppg",
+          "tekst": "Søk på nettet og finn bilder fra det området kartet dekker. Sammenlign kart og bilder.",
+          "f": ""
         }
       ]
     },
@@ -652,20 +659,23 @@
           "tekst": "Breelva fra Nigardsbreen bygger ut et delta i Nigardsvatnet. Nigardsbreen er en utløper fra Jostedalsbreen og dekker et areal på 47 km2. Breelva fører med seg ca. 20 000 tonn leire, sand og grus per år."
         },
         {
-          "t": "p",
-          "tekst": "Søk etter Nigardsbreen med Google Maps, https://earth.google.com/."
+          "t": "oppg",
+          "tekst": "Søk etter Nigardsbreen med Google Maps, https://earth.google.com/.",
+          "f": ""
         },
         {
           "t": "p",
           "tekst": "Du kan se både isbreen, breelva, deltaet og Nigardsvatnet."
         },
         {
-          "t": "p",
-          "tekst": "Regn ut den gjennomsnittlige årlige erosjonen (i mm) under breen. Vi regner med at alt det materialet breelva fører med seg, er erodert av breen, og at bergartene har en tetthet på 2,7 tonn/m3."
+          "t": "oppg",
+          "tekst": "Regn ut den gjennomsnittlige årlige erosjonen (i mm) under breen. Vi regner med at alt det materialet breelva fører med seg, er erodert av breen, og at bergartene har en tetthet på 2,7 tonn/m3.",
+          "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Finn ut hvor mange istider en isstrøm som eroderer berggrunnen med 1,5 mm per år, trenger for å grave ut Sognefjorden. Sognefjorden er erodert ca. 2000 meter ned i landoverflaten. Regn med at en istid varer 100 000 år."
+          "t": "oppg",
+          "tekst": "Finn ut hvor mange istider en isstrøm som eroderer berggrunnen med 1,5 mm per år, trenger for å grave ut Sognefjorden. Sognefjorden er erodert ca. 2000 meter ned i landoverflaten. Regn med at en istid varer 100 000 år.",
+          "f": ""
         }
       ]
     }

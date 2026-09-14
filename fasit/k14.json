@@ -1,5 +1,11 @@
 [
  {
+  "id": "629dbaf876",
+  "art": "oppgave-i-tekst",
+  "q": "Finn fjellområdene som er nevnt i avsnittet ovenfor, på det geologisk kartet over Norge (figur 6.24).",
+  "f": ""
+ },
+ {
   "id": "698b7b0b53",
   "art": "tenk",
   "q": "Langs grensen mellom Gaissene og vidda er det markert en smal sone på det geologiske kartet i figur 6.24. Hva forteller det deg? Hva er likheten mellom geologien i Gaissene og Jotunheimen?",
@@ -54,6 +60,12 @@
   "f": ""
  },
  {
+  "id": "7228a649fb",
+  "art": "oppgave-i-tekst",
+  "q": "Finn Sandvika, Semsvannet og Nesøya på kartutsnittet og på satellittbildet i figur 14.10. Bruk også Google Earth, søk med «Sandvika» og zoom inn mot det området som er vist på satellittbildet i boka.",
+  "f": ""
+ },
+ {
   "id": "eac9e5965d",
   "art": "tenk",
   "q": "Se på satellittbildet i figur 14.10 og det geologiske kartet i figur 14.8. Hva slags bergarter er det i området som er vist på kartutsnittet?",
@@ -75,6 +87,12 @@
   "id": "f337fc045d",
   "art": "tenk",
   "q": "Hvordan påvirker bergartene landformene på satellittbildet og kartutsnittet?",
+  "f": ""
+ },
+ {
+  "id": "7a94bbadb3",
+  "art": "oppgave-i-tekst",
+  "q": "Bruk Google Earth for å se på områdene utenfor satellittbildet i boka.",
   "f": ""
  },
  {

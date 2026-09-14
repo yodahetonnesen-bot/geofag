@@ -3,121 +3,133 @@
   "id": "5466904053",
   "art": "tenk",
   "q": "Hvilke jordarter finner du i nærområdet ditt?",
-  "f": ""
+  "f": "Dette avhenger av hvor du bor, men bruk figur 7.2 og NGUs løsmassekart på geo.ngu.no.\nDe vanligste jordartene i Norge er morene, smeltevannsavsetninger, havavsetninger, elveavsetninger og myrjord.\nHovedregelen er at morene er vanligst over hele landet, havavsetninger (leire) finnes under den marine grensen — særlig rundt Oslofjorden og Trondheimsfjorden — og elve- og smeltevannsavsetninger følger dalbunner og vassdrag. Myr finner du der grunnen er vannmettet."
  },
  {
   "id": "4f0328c45c",
   "art": "tenk",
   "q": "Er det noe på bildet i figur 7.5 som forteller hva slags avsetninger dette er?",
-  "f": ""
+  "f": "Ja. Se etter lagdeling og runding.\nSmeltevannsavsetninger er lagdelt, med tydelige lag av ulik kornstørrelse, og steinene er avrundet fordi de er transportert med rennende vann.\nMorenejord ville sett helt annerledes ut: ingen lagdeling, alle kornstørrelser om hverandre, og bare kantene avrundet."
  },
  {
   "id": "21c65f0f36",
   "art": "tenk",
   "q": "Hva tror du kan være fordelene ved å bruke grunnvann i stedet for overflatevann (elver og innsjøer) som drikkevannskilde?",
-  "f": ""
+  "f": "Grunnvann er som regel renere. Det har blitt filtrert gjennom sand og grus på vei ned, slik at partikler og mange bakterier holdes tilbake.\nDet har dessuten jevn temperatur året rundt, det fryser ikke om vinteren, og det er mindre utsatt for forurensning fra overflaten, for algeoppblomstring og for uttørking i tørre perioder.\nPorøse løsmasser som sand og grus gir både god lagringsplass og rask vanngjennomstrømming, og derfor er grunnvann i smeltevannsavsetninger en vanlig drikkevannskilde her i landet."
  },
  {
   "id": "e6791d0b41",
   "art": "tenk",
   "q": "Hva er finsand?",
-  "f": ""
+  "f": "Finsand er det samme som silt — kornstørrelsen mellom leire og sand.\nDu skiller silt fra leire med «tyggetesten»: knaser prøven mellom tennene, er det silt; knaser den ikke, er det leire. Silt skilles fra sand med «rulleprøven»: kan du rulle materialet til en pølse, er det silt."
  },
  {
   "id": "08b9305126",
   "art": "tenk",
   "q": "Leire, silt eller sand?",
-  "f": ""
+  "f": "Bruk to enkle tester.\nTyggetesten skiller leire fra silt: tygg litt på prøven. Kjenner du ingen knasing, er det leire. Knaser det, er det silt (finsand).\nRulleprøven skiller silt fra sand: klarer du å rulle materialet til en pølse, er det silt. Klarer du det ikke, er det mest sand.\nHusk at prøver sjelden er rene — som regel er det en blanding."
  },
  {
   "id": "46931df60c",
   "art": "tenk",
   "q": "Hva er vannmettet jord?",
-  "f": ""
+  "f": "Vannmettet jord er jord der alle porene mellom kornene er fylt med vann, slik at det ikke er luft igjen.\nDa kommer det ikke oksygen ned i jorda. Det er nettopp derfor myr dannes: bakteriene og soppene som normalt bryter ned planterester, kan ikke leve uten oksygen, og planterestene hoper seg opp i stedet for å råtne bort."
  },
  {
   "id": "62121bf35e",
   "art": "tenk",
   "q": "Hvor lang tid, sånn omtrent, tar det før tallet på karbon-14-isotoper i figur 7.10 er redusert til 12,5 prosent av det opprinnelige?",
+  "f": "12,5 prosent er det samme som 1/8, altså tre halveringer: 100 → 50 → 25 → 12,5 prosent.\nTre halveringstider gir 3 · 5730 år = 17 190 år, altså i underkant av 17 000 år."
+ },
+ {
+  "id": "b3fc6f1044",
+  "art": "oppgave-i-tekst",
+  "q": "Lag en enkel kartskisse som viser fordelingen av løsmasser i fylket.",
   "f": ""
  },
  {
   "id": "a87714c80b",
   "art": "tenk",
   "q": "Kanskje er det mulig å hente inn løsmasseprøver i forbindelse med en ekskursjon eller et feltarbeid?",
+  "f": "Ja, og det er en fin feltoppgave. Slik gjør du det:\nGrav et lite snitt i en skråning, en veiskjæring eller en elvebrink, og se etter lagdeling. Ta prøver fra hvert lag.\nBestem så kornstørrelse, sortering, lagdeling og rundingsgrad — det er de fire kjennetegnene boka bruker. Bruk tyggetesten og rulleprøven på det fine materialet.\nUsortert, ulagdelt materiale med kantete stein er morene. Lagdelt, avrundet sand og grus er smeltevannsavsetning. Godt sortert leire under den marine grensen er havavsetning.\nSammenlign til slutt med løsmassekartet på geo.ngu.no, og husk å be om lov før du graver på annen manns grunn."
+ },
+ {
+  "id": "630fb066f1",
+  "art": "oppgave-i-tekst",
+  "q": "Forklar hvordan det er mulig å bestemme alderen på en beinrest ved å måle forholdet mellom de to karbonisotopene karbon-14 og karbon-12.",
   "f": ""
  },
  {
   "id": "7e075c3ee6",
   "art": "tenk",
   "q": "Hva forteller et slikt funn om klimaet den gangen furua vokste på Hardangervidda?",
-  "f": ""
+  "f": "At det var varmere enn i dag. Furu vokser ikke på Hardangervidda nå — skoggrensa ligger lavere.\nAt det står furustubber der, viser at skoggrensa har ligget høyere, og at klimaet altså var mildere den gangen. Slike funn er et av de viktigste holdepunktene vi har for å rekonstruere klimaet etter siste istid."
  },
  {
   "id": "ef5a282a81",
   "art": "tenk",
   "q": "I Gudbrandsdalen er det gjort 18 funn av tann- og beinrester fra mammut. I en av beinrestene er forholdet mellom de to karbonisotopene målt til 1/256 av tilsvarende forhold i atmosfæren. Hvor gammel er beinresten?",
-  "f": ""
+  "f": "1/256 er det samme som 1/2⁸, altså åtte halveringer.\nÅtte halveringstider gir 8 · 5730 år = 45 840 år, altså rundt 46 000 år.\nLegg merke til at dette er helt i grenseland for metoden: karbon-14 kan bare datere materiale opptil ca. 50 000 år."
  },
  {
   "id": "b8f8162c48",
   "art": "sporsmal",
   "q": "Hva menes med begrepene løsmasser, jord, jordart og jordsmonn?",
-  "f": ""
+  "f": "Løsmasser er alt løst materiale som ligger oppå berggrunnen — det vi til daglig kaller jord. De to ordene betyr altså det samme.\nEn jordart er en type løsmasse, inndelt etter hvordan den er dannet: morene, smeltevannsavsetning, havavsetning, elveavsetning, myrjord.\nJordsmonnet er bare den øverste delen av løsmassene — den som er påvirket av klima og levende organismer, og der plantene har røttene sine."
  },
  {
   "id": "52a12a4544",
   "art": "sporsmal",
   "q": "Hva er forskjellen på organisk jord og mineraljord?",
-  "f": ""
+  "f": "Mineraljord er dannet ved forvitring eller erosjon av berggrunnen, altså av oppsmuldret stein. Den har langt større utbredelse enn organisk jord.\nOrganisk jord består av plante- og dyrerester. Myrjord (torv), som er delvis nedbrutte planterester, er eksempelet."
  },
  {
   "id": "85253f9112",
   "art": "sporsmal",
   "q": "Hva er torv?",
-  "f": ""
+  "f": "Torv er det samme som myrjord: delvis nedbrutte planterester som er presset sammen.\nDen dannes i vannmettet jord der det er underskudd på oksygen, slik at de vanlige nedbryterne ikke kan leve. Planterestene hoper seg opp, og andre bakterier omdanner dem til torv.\nTorv har tidligere vært brukt som energikilde, men brukes i dag mest som jordforbedringsmiddel i hager og gartnerier."
  },
  {
   "id": "a9ee82b31e",
   "art": "sporsmal",
   "q": "Hvilke jordarter er vanligst i Norge? Hvordan er de dannet?",
-  "f": ""
+  "f": "De vanligste er morene, smeltevannsavsetninger, havavsetninger, elveavsetninger og myrjord.\n- Morene er dannet ved breerosjon og ble liggende igjen da innlandsisen smeltet bort.\n- Smeltevannsavsetninger ble avsatt av smeltevannselvene etter siste istid, på elvesletter og i deltaer.\n- Havavsetninger er leire avsatt på havbunnen den gang landet lå lavere, under den marine grensen.\n- Elveavsetninger er grus, sand og leire som elvene har avsatt etter istiden.\n- Myrjord er dannet ved at planterester hoper seg opp i vannmettet, oksygenfattig jord.\nGlobalt er forvitringsjord, elveavsetninger og vindavsetninger de viktigste."
  },
  {
   "id": "7fa01a923b",
   "art": "sporsmal",
   "q": "Hvilke kjennetegn bruker vi for å skille jordartene fra hverandre?",
-  "f": ""
+  "f": "Fire kjennetegn: kornstørrelse, sortering, lagdeling og rundingsgrad.\nKornstørrelsene går fra leire og finsand (silt) via sand, grus og stein til blokk. En jordart med bare én kornstørrelse er sortert. Lagdelte løsmasser består av lag med ulik kornstørrelse. Jo mindre kantete kornene er, desto større er rundheten.\nMorene er for eksempel usortert, ulagdelt og lite avrundet. Smeltevannsavsetninger er lagdelte og avrundede."
  },
  {
   "id": "2917202f79",
   "art": "hvatrordu",
   "q": "Smeltevannsavsetninger består av sand og grus. Hva er det som har smeltet?",
-  "f": ""
+  "f": "Innlandsisen. Smeltevannsavsetningene ble avsatt da isen smeltet bort etter siste istid.\nSmeltevannet samlet seg i elver som eroderte moreneavsetninger og førte løsmassene videre, til de ble avsatt på elvesletter eller i deltaer. Det er altså isen som har smeltet — ikke sanden og grusen."
  },
  {
   "id": "293b6b9f13",
   "art": "hvatrordu",
   "q": "Hvilket samlebegrep bruker vi for løsmassene i elvevifter, elvesletter og deltaer?",
-  "f": ""
+  "f": "Elveavsetninger — også kalt fluviale avsetninger."
  },
  {
   "id": "7e4c8f5d66",
   "art": "hvatrordu",
   "q": "Hvordan er elveavsetninger og smeltevannsavsetninger forskjellige?",
-  "f": ""
+  "f": "De ligner mye, for begge er avsatt av rennende vann, begge er ofte lagdelt og begge har avrundede korn.\nForskjellen er hvem som la dem der og når. Smeltevannsavsetninger ble avsatt av smeltevannselvene fra innlandsisen da den trakk seg tilbake, og består mest av stein, grus og sand.\nElveavsetninger er avsatt av vanlige elver etter siste istid, og inneholder ofte mer finstoff — grus, sand og leire. Er finstoffinnholdet stort nok, gir de god dyrkingsjord."
  },
  {
   "id": "56573350ab",
   "art": "hvatrordu",
   "q": "Myrene er karbonlagre. Oppdyrking, hyttebygging og veibygging på myrer kan påvirke klimaet – på hvilken måte?",
-  "f": ""
+  "f": "Myrene inneholder store mengder karbon, bundet i planterester som aldri har rukket å råtne fordi jorda er vannmettet og oksygenfri.\nGrøfter, drenerer eller graver man opp myra, kommer lufta til. Da råtner plantematerialet, karbonet slipper ut som CO₂, og karbonlageret ødelegges.\nDet er grunnen til at nydyrking i myrområder ikke lenger er lov i Norge — selv om en femdel av dyrkingsjorda vår faktisk består av myrjord."
  },
  {
   "id": "4286e70ca6",
   "art": "oppgave",
   "q": "Løsmasser i ditt nærområde (mini-feltarbeid)",
-  "f": ""
+  "f": "Dette er en feltoppgave, så resultatet blir ditt eget. Slik kan du legge den opp:\n1. Finn et snitt der løsmassene er synlige — en veiskjæring, en elvebrink, et grustak eller en skrent. Be om lov hvis det er privat grunn.\n2. Beskriv snittet: er det lagdelt, eller ligger alt om hverandre?\n3. Bestem kornstørrelse, sortering og rundingsgrad. Bruk tyggetesten for å skille leire fra silt, og rulleprøven for å skille silt fra sand.\n4. Slutt deg til jordarten: usortert og ulagdelt med kantet stein = morene; lagdelt og avrundet sand og grus = smeltevannsavsetning; godt sortert leire = havavsetning; organisk materiale = myrjord.\n5. Sjekk mot løsmassekartet på geo.ngu.no, og se om du kan forklare avviket hvis kartet sier noe annet enn du fant.\nTa bilder og mål tykkelsen på lagene, så får du en rapport du kan bruke videre."
  },
  {
   "id": "252c162364",
@@ -129,54 +141,54 @@
   "id": "cd5a209dad",
   "art": "kapitteloppgave",
   "q": "Det kan være flere mulige løsninger – med ulike begrunnelser! Prøv å lage noen «én skal ut»-oppgaver selv. Test dem på noen rundt deg.",
-  "f": ""
+  "f": "Dette er en egenproduksjonsoppgave uten fasit.\nSlik lager du en god «én skal ut»: velg tre faguttrykk der to henger tett sammen på én bestemt måte, og det tredje bryter med akkurat det. Sjekk at du selv klarer å begrunne valget med én setning.\nEksempler fra dette kapitlet: «morene – smeltevannsavsetning – elveavsetning» (morene er ikke avsatt av vann), «leire – silt – torv» (torv er organisk), «marin grense – skoggrense – tregrense» (bare den første handler om havnivå).\nDe beste oppgavene er de der flere svar kan forsvares — da blir begrunnelsen det viktige."
  },
  {
   "id": "0d0adbe26e",
   "art": "kapitteloppgave",
   "q": "Jord, løsmasser og jordsmonn er det samme.",
-  "f": ""
+  "f": "Delvis fleip.\nJord og løsmasser er det samme: alt løst materiale oppå berggrunnen. Men jordsmonnet er bare den øverste delen — den som er påvirket av klima og levende organismer, og der plantene har røttene."
  },
  {
   "id": "1e2914423b",
   "art": "kapitteloppgave",
   "q": "Myrjord er en organisk jordart.",
-  "f": ""
+  "f": "Fakta.\nMyrjord består av delvis nedbrutte planterester, altså organisk materiale. Det skiller den fra alle de andre jordartene, som er mineraljord."
  },
  {
   "id": "630ae0226d",
   "art": "kapitteloppgave",
   "q": "Myrjord og torv er det samme.",
-  "f": ""
+  "f": "Fakta.\nTorv er bare et annet navn på myrjord."
  },
  {
   "id": "5e11b1cb8d",
   "art": "kapitteloppgave",
   "q": "Det finnes ikke morene langs kysten.",
-  "f": ""
+  "f": "Fleip.\nMorene finnes over hele landet, også langs kysten. Innlandsisen dekket hele Norge, og den la igjen morenemateriale overalt der den lå."
  },
  {
   "id": "3c8a026bd6",
   "art": "kapitteloppgave",
   "q": "Morenejord er sortert materiale.",
-  "f": ""
+  "f": "Fleip.\nMorenejord er usortert — den inneholder alle kornstørrelser om hverandre, fra leire til blokk, og den er ikke lagdelt. Det er nettopp dette som kjennetegner den."
  },
  {
   "id": "f984d4fe43",
   "art": "kapitteloppgave",
   "q": "Smeltevannsavsetninger inneholder kantete steiner.",
-  "f": ""
+  "f": "Fleip.\nSteinene i smeltevannsavsetninger er avrundet, fordi de er slipt under transporten med smeltevannet. Kantete stein er derimot typisk for morene."
  },
  {
   "id": "80bd84f915",
   "art": "kapitteloppgave",
   "q": "Havavsetninger består av dårlig sortert leire.",
-  "f": ""
+  "f": "Fleip.\nHavavsetninger er oftest godt sortert leirjord, med små og jevne kornstørrelser. Det er nettopp den gode sorteringen som kjennetegner dem: de fine partiklene sank sakte til bunns i rolig vann."
  },
  {
   "id": "e9787922cc",
   "art": "kapitteloppgave",
   "q": "Næringsrikt grunnvann kan gi artsrike myrer.",
-  "f": ""
+  "f": "Fakta.\nGrunnvann inneholder mer næringsstoffer enn regnvann. Derfor er grunnvannsmyrer både vanligst og oftest mest artsrike, og flere av dem er vernet eller fredet."
  }
 ]

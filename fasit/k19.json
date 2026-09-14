@@ -1,5 +1,11 @@
 [
  {
+  "id": "5c1c5ffb58",
+  "art": "oppgave-i-tekst",
+  "q": "Se på bildet i figur 19.2 og les figurteksten.",
+  "f": ""
+ },
+ {
   "id": "b95e6fd9c7",
   "art": "tenk",
   "q": "Hva består øya Jomfruland av?",
@@ -66,6 +72,12 @@
   "f": ""
  },
  {
+  "id": "1446675541",
+  "art": "oppgave-i-tekst",
+  "q": "Finn temakartet som viser den marine grensen langs norskekysten, og zoom inn på området er vist på det vertikale flybildet i figur 19.13.",
+  "f": ""
+ },
+ {
   "id": "dee76f950c",
   "art": "tenk",
   "q": "Hvordan tror du landskapet så ut like etter at innlandsisen var smeltet bort fra området?",
@@ -75,6 +87,12 @@
   "id": "22cddc591f",
   "art": "tenk",
   "q": "Hvilke jordarter kan du vente å finne henholdsvis over og under marin grense?",
+  "f": ""
+ },
+ {
+  "id": "275aab109c",
+  "art": "oppgave-i-tekst",
+  "q": "Se på bildet og kartet i figurene 19.14 og 19.15. Det meste av området som er vist på kartet, ligger under marin grense, se kartet i figur 19.11. Finn det samme området på Google Earth og studer satellittbildene.",
   "f": ""
  },
  {

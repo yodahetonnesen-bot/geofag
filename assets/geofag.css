@@ -584,3 +584,4 @@ tr:last-child td{border-bottom:none;}
   font-family:var(--mono); font-size:.78rem; color:var(--text-2);
   padding:4px 0; border-bottom:1px solid var(--border);
 }
+.opgblokk--itekst .opgblokk__art{color:var(--tenk);}

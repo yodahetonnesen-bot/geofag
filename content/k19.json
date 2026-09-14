@@ -71,8 +71,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Se på bildet i figur 19.2 og les figurteksten."
+          "t": "oppg",
+          "tekst": "Se på bildet i figur 19.2 og les figurteksten.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -406,8 +407,9 @@
           "tekst": "Marine leiravsetninger, ravinelandskap og fare for kvikkleireskred finnes bare under marin grense. Dette er viktig informasjon i kommunens arealplanlegging."
         },
         {
-          "t": "p",
-          "tekst": "Finn temakartet som viser den marine grensen langs norskekysten, og zoom inn på området er vist på det vertikale flybildet i figur 19.13."
+          "t": "oppg",
+          "tekst": "Finn temakartet som viser den marine grensen langs norskekysten, og zoom inn på området er vist på det vertikale flybildet i figur 19.13.",
+          "f": ""
         },
         {
           "t": "p",
@@ -439,8 +441,9 @@
       "side": 346,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Se på bildet og kartet i figurene 19.14 og 19.15. Det meste av området som er vist på kartet, ligger under marin grense, se kartet i figur 19.11. Finn det samme området på Google Earth og studer satellittbildene."
+          "t": "oppg",
+          "tekst": "Se på bildet og kartet i figurene 19.14 og 19.15. Det meste av området som er vist på kartet, ligger under marin grense, se kartet i figur 19.11. Finn det samme området på Google Earth og studer satellittbildene.",
+          "f": ""
         },
         {
           "t": "tenk",

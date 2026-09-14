@@ -327,8 +327,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Søk med «Mount St. Helens» på Google Earth. Zoom, skråstill bildet og snu litt rundt. Sammenlign med figur 4.5. Hvilke spor ser du etter utbruddet i 1980? Ta gjerne en videoreise med reiseguiden rundt vulkankrateret."
+          "t": "oppg",
+          "tekst": "Søk med «Mount St. Helens» på Google Earth. Zoom, skråstill bildet og snu litt rundt. Sammenlign med figur 4.5. Hvilke spor ser du etter utbruddet i 1980? Ta gjerne en videoreise med reiseguiden rundt vulkankrateret.",
+          "f": ""
         }
       ]
     },
@@ -337,8 +338,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Bruk Internett til å lage en presentasjon av vulkanen Beerenberg på Jan Mayen. Søk på «Beerenberg»; det gir deg mange treff og mange bilder."
+          "t": "oppg",
+          "tekst": "Bruk Internett til å lage en presentasjon av vulkanen Beerenberg på Jan Mayen. Søk på «Beerenberg»; det gir deg mange treff og mange bilder.",
+          "f": ""
         },
         {
           "t": "p",
@@ -351,8 +353,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Studer figurene 4.8 og 4.9."
+          "t": "oppg",
+          "tekst": "Studer figurene 4.8 og 4.9.",
+          "f": ""
         },
         {
           "t": "tenk",

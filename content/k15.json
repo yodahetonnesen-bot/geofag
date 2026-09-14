@@ -300,8 +300,9 @@
           "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Finn til slutt ut hvilke bergarter som ligger under der igjen."
+          "t": "oppg",
+          "tekst": "Finn til slutt ut hvilke bergarter som ligger under der igjen.",
+          "f": ""
         },
         {
           "t": "p",
@@ -335,12 +336,14 @@
           "tekst": "Kartskissen nedenfor viser Rauma- og Aura-vassdragene i Møre og Romsdal fylke (figur 15.11). Som en følge av den skrå hevningen av den norske landblokken i jordas nytid ble vannskillet i dette området flyttet mot sørøst. Vannskillet slik det er i dag, er tegnet inn på figuren under."
         },
         {
-          "t": "p",
-          "tekst": "Undersøk retningen på sideelvene, og bruk en farge til å markere agnordalene i de to vassdragene."
+          "t": "oppg",
+          "tekst": "Undersøk retningen på sideelvene, og bruk en farge til å markere agnordalene i de to vassdragene.",
+          "f": ""
         },
         {
-          "t": "p",
-          "tekst": "Studer agnordalene og forsøk å tegne inn det opprinnelige vannskillet."
+          "t": "oppg",
+          "tekst": "Studer agnordalene og forsøk å tegne inn det opprinnelige vannskillet.",
+          "f": ""
         },
         {
           "t": "bilde",

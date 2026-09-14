@@ -119,8 +119,9 @@
           "tekst": "Da Nordøst-Atlanteren åpnet seg tidlig i jordas nytid, ble landet hevet og stilt på skrå. Det skjedde i flere omganger og førte til de høydeforholdene vi ser i dag, med høye fjell langs vestkysten av landet."
         },
         {
-          "t": "p",
-          "tekst": "Studer det geologiske kartet side 92 (figur 6.24). Den norske berggrunnen på land består av"
+          "t": "oppg",
+          "tekst": "Studer det geologiske kartet side 92 (figur 6.24). Den norske berggrunnen på land består av",
+          "f": ""
         },
         {
           "t": "p",
@@ -608,8 +609,9 @@
           "tekst": "Lavadekke øst for Tyrifjorden"
         },
         {
-          "t": "p",
-          "tekst": "Søk på Google Earth med «Heggedalsvannet, Krokkleiva». Zoom, skråstill og roter bildet til du tydelig ser kanten av et lavadekke."
+          "t": "oppg",
+          "tekst": "Søk på Google Earth med «Heggedalsvannet, Krokkleiva». Zoom, skråstill og roter bildet til du tydelig ser kanten av et lavadekke.",
+          "f": ""
         },
         {
           "t": "p",
@@ -620,8 +622,9 @@
           "tekst": "Enkelte steder i Oslofeltet ser vi rester etter tilførselsgangene til de permiske vulkanene. Ofte er bergartene så motstandsdyktige at de står opp over mindre motstandsdyktige bergarter omkring. Et slikt eksempel er Brandbukampen (figur 8.20)."
         },
         {
-          "t": "p",
-          "tekst": "Søk på Google Earth med «Brandbukampen». Zoom, skråstill og roter bildet til du får et godt bilde av vulkanresten."
+          "t": "oppg",
+          "tekst": "Søk på Google Earth med «Brandbukampen». Zoom, skråstill og roter bildet til du får et godt bilde av vulkanresten.",
+          "f": ""
         },
         {
           "t": "p",
@@ -643,8 +646,9 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Lag på lag av kalkstein og leirskifer ved Fornebu. Bergartene har vært utsatt for sterk forvitring, og da får vi knudrete oppsrukne bergartstriper, som er vonde å tråkke på."
+          "t": "oppg",
+          "tekst": "Lag på lag av kalkstein og leirskifer ved Fornebu. Bergartene har vært utsatt for sterk forvitring, og da får vi knudrete oppsrukne bergartstriper, som er vonde å tråkke på.",
+          "f": ""
         },
         {
           "t": "figur",

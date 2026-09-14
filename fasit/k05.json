@@ -3,91 +3,97 @@
   "id": "190f395424",
   "art": "tenk",
   "q": "Hvordan oppstår tsunamier?",
-  "f": ""
+  "f": "En tsunami oppstår som følge av jordskjelv, vulkanutbrudd eller skred på havbunnen.\nDen vanligste årsaken er megaskjelv med størrelse 8–9 under havbunnen. Forutsetningen er at forkastningen når helt opp til havbunnen, slik at havbunnen heves på den ene siden og senkes på den andre. Da settes hele vannsøylen over i bevegelse, og på havoverflaten oppstår en bølge som brer seg utover."
  },
  {
   "id": "1e8b0137f2",
   "art": "tenk",
   "q": "Hva er vanligst i Norge – tsunamier eller flodbølger?",
-  "f": ""
+  "f": "Flodbølger. Når et fjellskred raser ned i en fjord eller innsjø, blir det en flodbølge — ikke en tsunami.\nNorge kan likevel rammes av ekte tsunamier fra skred på havbunnen. Storeggaraset for 8100 år siden ga bølger på 10–15 meter inn over kysten av Vestlandet og Skottland."
  },
  {
   "id": "2683a715c4",
   "art": "tenk",
   "q": "Hvilken type plategrense tror du er «fødested» for de største tsunamiene?",
-  "f": ""
+  "f": "Kollisjonssoner. Det er der hele litosfæreplater kan henge fast i hverandre, bygge opp spenninger gjennom hundrevis av år og til slutt forskyve seg flere meter på sekunder.\nLangs spredningsakser går platene fra hverandre, spenningene blir aldri like store, og skjelvene blir for svake til å gi store tsunamier."
  },
  {
   "id": "c54e11ecbb",
   "art": "tenk",
   "q": "Hva heter dyphavsgropa i kollisjonssonen?",
-  "f": ""
+  "f": "Sundagropa (også kalt Javagropa), dyphavsgropa som følger utsiden av Sumatra og Java."
  },
  {
   "id": "fabae407f1",
   "art": "tenk",
   "q": "Hvordan kan du se av figur 5.2 at havet vil trekke seg tilbake på Sumatra – før den første bølgen kommer?",
-  "f": ""
+  "f": "Se på hvilken vei havbunnen beveger seg på hver side av forkastningen (de hvite pilene).\nPå Sumatra-siden senker havbunnen seg. Når bunnen synker, synker vannflaten over med, og havet trekker seg derfor tilbake fra stranda før bølgen kommer.\nPå den andre siden av forkastningen heves havbunnen, og der kommer bølgetoppen først."
  },
  {
   "id": "45d658a722",
   "art": "tenk",
   "q": "Store jordskjelv i Norge kan ha en størrelse på 5. Hvor mye mer energi frigjøres i et skjelv med størrelse 9?",
-  "f": ""
+  "f": "Fire trinn på skalaen, og hvert trinn er ca. 32 ganger mer energi.\n32⁴ = 32 · 32 · 32 · 32 ≈ 1 million.\nEt skjelv med størrelse 9 frigjør altså rundt en million ganger så mye energi som et norsk skjelv med størrelse 5."
  },
  {
   "id": "4b7c331316",
   "art": "tenk",
   "q": "Er det mulig å varsle tsunamier?",
+  "f": "Ja — tsunamier er langt lettere å varsle enn både jordskjelv og vulkanutbrudd.\nGrunnen er farten. Tsunamibølger går med opptil 800 km/t på åpent hav, men jordskjelvbølger og radiosignaler går mye raskere. Skjelvet registreres altså lenge før bølgen kommer, og varselet kan sendes ut i mellomtiden.\nRundt Stillehavet finnes et godt utbygd varslingssystem, og etter 2004 ble det bygd et tilsvarende for Indiahavet. Fortsatt mangler mange kyststrekninger slike systemer."
+ },
+ {
+  "id": "41f5840d61",
+  "art": "oppgave-i-tekst",
+  "q": "Lag en presentasjon av Storeggaraset, som gikk på kontinentalskråningen for 8100 år siden, og tsunamien som fulgte etter raset. Søk etter «Storeggaraset» på Internett og YouTube.",
   "f": ""
  },
  {
   "id": "990c2f48ec",
   "art": "sporsmal",
   "q": "Hva betyr ordet tsunami?",
-  "f": ""
+  "f": "Tsunami er japansk og betyr «plutselig bølge i havn»."
  },
  {
   "id": "761bd9766e",
   "art": "sporsmal",
   "q": "Hva er årsakene til at det oppstår tsunamier?",
-  "f": ""
+  "f": "Jordskjelv under havbunnen, vulkanutbrudd og skred på havbunnen.\nMegaskjelv med størrelse 8–9 er den vanligste årsaken til de store tsunamiene. Vulkanutbrudd gir tsunamier særlig når vulkanøyer eksploderer og kollapser, slik Krakatau gjorde i 1883. Storeggaraset er et eksempel på et skred på havbunnen som ga tsunami."
  },
  {
   "id": "5129317d73",
   "art": "sporsmal",
   "q": "Hvorfor er det mulig å varsle tsunamier?",
-  "f": ""
+  "f": "Fordi tsunamien er en følge av noe annet som skjer først, og som registreres raskere.\nJordskjelvbølgene går gjennom berggrunnen med flere kilometer i sekundet, og radiobølger og SMS går med 300 000 km/s. Tsunamibølgen går «bare» opptil 800 km/t gjennom vann.\nSelve skjelvet er derfor kjent lenge før bølgen når land, og varselet kan sendes ut i mellomtiden."
  },
  {
   "id": "4aa416b100",
   "art": "sporsmal",
   "q": "Hva må til for at et tsunamivarsel skal gjøre nytte?",
-  "f": ""
+  "f": "Tre ting må være på plass.\nFor det første et varslingssystem som fanger opp skjelvet og sender varselet videre, døgnet rundt.\nFor det andre må varselet faktisk nå fram til folk — over høyttalere, radio, SMS eller sirener.\nFor det tredje må folk vite hva de skal gjøre: komme seg opp i høyden, og få båter ut på dypt vann der tsunamien er ufarlig.\nEksempelet med Vijayakumar Gunasekaran i 2004 viser dette: han hørte om tsunamien på radio, ringte hjem, og alle 3630 innbyggerne i landsbyen kom seg i sikkerhet."
  },
  {
   "id": "b6330f3318",
   "art": "hvatrordu",
   "q": "Fører alle megaskjelv under havbunnen til tsunamier? Begrunn svaret.",
-  "f": ""
+  "f": "Nei. Det er ikke nok at skjelvet er stort — havbunnen må faktisk flytte seg vertikalt.\nForutsetningen er at forkastningen når helt opp til havbunnen, slik at bunnen heves på den ene siden og senkes på den andre. Da settes vannmassene over i bevegelse.\nSkjer forskyvningen sidelengs, eller ligger bruddet så dypt at havbunnen ikke endrer form, blir det ingen tsunami — uansett hvor kraftig skjelvet er."
  },
  {
   "id": "177901cce9",
   "art": "hvatrordu",
   "q": "Kan etterskjelvene (etter et jordskjelv som har utløst en tsunami) føre til at det oppstår nye tsunamier?",
-  "f": ""
+  "f": "Ja, i prinsippet. Etterskjelv kan bli kraftige, og er de sterke nok og forskyver havbunnen vertikalt, kan de gi nye tsunamier.\nI praksis er etterskjelvene som regel svakere enn hovedskjelvet, så tsunamiene blir mindre. Men faren er reell, og det er en av grunnene til at man ikke skal vende tilbake til stranda like etter den første bølgen."
  },
  {
   "id": "69a01adb78",
   "art": "hvatrordu",
   "q": "Hvordan kan en strandkant som trekker seg utover, være det første tegnet på en tsunami som er på vei inn?",
-  "f": ""
+  "f": "Fordi en tsunami er en hel bølge med både bølgetopp og bølgedal, og noen ganger kommer bølgedalen først.\nDet avhenger av hvilken vei havbunnen beveget seg: der havbunnen senket seg, kommer bølgedalen først, og da suges vannet ut fra stranda.\nEn strandkant som plutselig trekker seg langt utover, og legger havbunnen tørr, er derfor et alvorlig faresignal. Bølgetoppen kommer like etter. Mange som gikk ut for å se på i 2004, rakk ikke tilbake."
  },
  {
   "id": "1c44c84170",
   "art": "hvatrordu",
   "q": "Hvorfor er det flere tsunamier i Stillehavet enn i Atlanterhavet?",
-  "f": ""
+  "f": "Fordi Stillehavet er omkranset av kollisjonssoner, mens Atlanterhavet i hovedsak har en spredningsakse.\nI en kollisjonssone kan plater henge fast i hverandre og forskyve seg flere meter på sekunder — det er der megaskjelvene og de store tsunamiene kommer.\nLangs en spredningsakse glir platene fra hverandre, spenningene blir aldri like store, og skjelvene blir svakere og for grunne til å gi store tsunamier."
  },
  {
   "id": "252c162364",
@@ -99,54 +105,54 @@
   "id": "cd5a209dad",
   "art": "kapitteloppgave",
   "q": "Det kan være flere mulige løsninger – med ulike begrunnelser! Prøv å lage noen «én skal ut»-oppgaver selv. Test dem på noen rundt deg.",
-  "f": ""
+  "f": "Dette er en egenproduksjonsoppgave uten fasit.\nSlik lager du en god «én skal ut»: velg tre faguttrykk der to henger tett sammen på én bestemt måte, og det tredje bryter med akkurat det. Sjekk at du selv klarer å begrunne valget med én setning.\nEksempler fra dette kapitlet: «Krakatau – Storegga – Loen» (Loen ga flodbølge, ikke tsunami), «bølgehøyde – bølgefart – magnitude» (magnitude beskriver skjelvet, ikke bølgen), «Sri Lanka – Sumatra – Japan» (Japan ble rammet i 2011, de to andre i 2004).\nDe beste oppgavene er de der flere svar kan forsvares — da blir begrunnelsen det viktige."
  },
  {
   "id": "5dc7381572",
   "art": "kapitteloppgave",
   "q": "tsunami – jordskjelv – vulkanutbrudd",
-  "f": ""
+  "f": "Tsunami skal ut.\nJordskjelv og vulkanutbrudd er årsaker — det er de som utløser noe. Tsunamien er virkningen, følgen av dem."
  },
  {
   "id": "7448519b09",
   "art": "kapitteloppgave",
   "q": "fjellskred – tsunami – skred på havbunnen",
-  "f": ""
+  "f": "Tsunami skal ut, med samme begrunnelse: fjellskred og skred på havbunnen er årsaker, tsunamien er følgen.\nDu kan også argumentere for fjellskred: skred på havbunnen gir ekte tsunami, mens et fjellskred ned i en fjord gir flodbølge — ikke tsunami."
  },
  {
   "id": "46904054a4",
   "art": "kapitteloppgave",
   "q": "innsjø – tsunami – hav",
-  "f": ""
+  "f": "Innsjø skal ut.\nEn tsunami hører hjemme i havet. I en innsjø kan et skred gi flodbølge, men ikke tsunami."
  },
  {
   "id": "628dcbcb5c",
   "art": "kapitteloppgave",
   "q": "En tsunami er dannet som andre store havbølger.",
-  "f": ""
+  "f": "Fleip.\nVanlige havbølger lages av vind og beveger bare det øverste vannlaget. En tsunami skapes av at hele havbunnen flytter seg, og den setter hele vannsøylen i bevegelse — helt fra bunnen til overflaten. Derfor kan den oppstå i vindstille og bære enorme energimengder over tusenvis av kilometer."
  },
  {
   "id": "265c414902",
   "art": "kapitteloppgave",
   "q": "Fjellskred i norske fjorder lager ikke tsunamier.",
-  "f": ""
+  "f": "Fakta.\nBølger som oppstår når fjellskred raser ned i fjorder og innsjøer, kalles flodbølger, ikke tsunamier. De kan være svært ødeleggende, men de er lokale."
  },
  {
   "id": "0ea8968eb2",
   "art": "kapitteloppgave",
   "q": "Norge ligger godt beskyttet mot tsunamier.",
-  "f": ""
+  "f": "Fleip.\nStoreggaraset på kontinentalsokkelen for 8100 år siden ga bølger på 10–15 meter inn over kysten av Vestlandet og Skottland, og enda høyere inne i fjordene. Skred på havbunnen kan altså gi tsunami også hos oss.\nI tillegg kommer flodbølger etter fjellskred i fjordene, som i Loen og Tafjord."
  },
  {
   "id": "5bcc4433c5",
   "art": "kapitteloppgave",
   "q": "Handler det om jordskjelv eller vulkaner?",
-  "f": ""
+  "f": "Dette er overskriften på en sorteringsoppgave. Bruk denne huskeregelen når du plasserer påstandene:\nJordskjelv: forkastning, seismograf, P- og S-bølger, magnitude, etterskjelv, glidegrense, megaskjelv, vanskelig å korttidsvarsle.\nVulkan: magma og lava, krater, aske og gass, pyroklastisk strøm, kaldera, skjoldvulkan og stratovulkan, varsler seg ofte selv.\nBegge: henger sammen med plategrenser og platetektonikk, kan utløse tsunami, kan gi jordskjelvsvermer, finnes både i kollisjonssoner og langs spredningsakser, og kan kreve evakuering."
  },
  {
   "id": "127b775bde",
   "art": "kapitteloppgave",
   "q": "Påstandene nedenfor har enten med jordskjelv eller vulkaner å gjøre. Plasser dem i grupper (jordskjelv eller vulkan) etter hvor de mest sannsynlig hører hjemme. Kanskje noen påstander kan plasseres i begge gruppene?",
-  "f": ""
+  "f": "Selve lista med påstander mangler i teksten som er lagt inn her, så du må hente den fra boka. Framgangsmåten er uansett den samme: se etter hvilke faguttrykk påstanden bruker.\nJordskjelv: forkastning, bruddsone, seismograf og seismogram, P- og S-bølger, magnitude, episenter, etterskjelv, glidegrense, megaskjelv — og at det er svært vanskelig å korttidsvarsle.\nVulkan: magma og lava, krater og magmakammer, aske og gass, vulkanske bomber, pyroklastisk strøm, kaldera, skjoldvulkan og stratovulkan — og at vulkanen ofte varsler seg selv i dagene før.\nBegge: henger sammen med plategrenser og platetektonikk, opptrer i kollisjonssoner og langs spredningsakser, kan utløse tsunami, gir ofte svermer av små jordskjelv, og kan kreve evakuering.\nDet er nettopp påstandene som passer i begge gruppene, som er verdt å diskutere — der teller begrunnelsen mest."
  }
 ]

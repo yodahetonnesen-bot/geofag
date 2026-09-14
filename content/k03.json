@@ -101,8 +101,9 @@
           "tekst": "Etter et jordskjelv er det P-bølgene som kommer først fram til jordoverflaten (figur 3.4) og gir de første utslagene på seismografene. P-bølgene beveger seg gjennom jordskorpa med en fart på 6–7 km/s, eller ca. 20 ganger så fort som lyd går gjennom luft. Seismogrammet i figur 3.5 viser hvordan P-bølgene blir registrert først, deretter S-bølgene og til slutt overflatebølgene. Ankomsttidene for P- og S-bølgene kan vi bruke til å bestemme beliggenheten av jordskjelvets episenter."
         },
         {
-          "t": "p",
-          "tekst": "Studer seismogrammet i figur 3.5 og finn ut hvor lenge etter P-bølgene de to andre bølgetypene kommer fram til målestasjonen."
+          "t": "oppg",
+          "tekst": "Studer seismogrammet i figur 3.5 og finn ut hvor lenge etter P-bølgene de to andre bølgetypene kommer fram til målestasjonen.",
+          "f": ""
         }
       ]
     },
@@ -412,16 +413,18 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Se på figurene 3.8 og 2.3."
+          "t": "oppg",
+          "tekst": "Se på figurene 3.8 og 2.3.",
+          "f": ""
         },
         {
           "t": "p",
           "tekst": "Hvilken sammenheng er det mellom det du ser på de to kartene i figur 3.8 og figur 2.3? Forklar."
         },
         {
-          "t": "p",
-          "tekst": "Bruk figur 3.9 til å forklare utbredelsen av dype jordskjelv på figur 3.8."
+          "t": "oppg",
+          "tekst": "Bruk figur 3.9 til å forklare utbredelsen av dype jordskjelv på figur 3.8.",
+          "f": ""
         },
         {
           "t": "tenk",
@@ -477,8 +480,9 @@
           "tekst": "Få bygninger er bygd for å tåle jordskjelv, og svake konstruksjoner kan føre til at de kollapser. I Norge skal nye bygg som er satt opp etter 2005, tåle jordskjelv opp til størrelse 6,5."
         },
         {
-          "t": "p",
-          "tekst": "Finn ut om jordskjelv har krevd menneskeliv i Norge."
+          "t": "oppg",
+          "tekst": "Finn ut om jordskjelv har krevd menneskeliv i Norge.",
+          "f": ""
         }
       ]
     },

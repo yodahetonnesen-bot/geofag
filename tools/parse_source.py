@@ -46,6 +46,14 @@ LAEREPLANVERB = re.compile(
 )
 SLUTTTEGN = tuple(".?!:;»)")
 
+# Mange oppgaver i boka er formulert som imperativ og ender med punktum. Uten
+# en OPPGAVE-markor foran seg ville de blitt lest som vanlig brodtekst.
+IMPERATIV = re.compile(
+    r"^(Lag |Forklar |Finn |Bruk |Studer |Beskriv |Søk |Gå inn på |Gå til "
+    r"|Diskuter |Velg |Undersøk |Vurder |Tegn |Skriv |Regn |Klikk |Se på "
+    r"|Sammenlign |Marker |Noter |Drøft |Presenter |Zoom )"
+)
+
 
 def del_opp_sidetall(linje: str) -> tuple[str, int | None]:
     """Skiller ut sidetallet som er limt inntil slutten av linja."""
@@ -224,6 +232,10 @@ def parse_kapittel(linjer: list[str], start: int, slutt: int, nr: int) -> dict:
 
         if tekst.endswith("?") and len(tekst) < 240:
             gjeldende_del["blokker"].append({"t": "tenk", "tekst": tekst, "f": ""})
+            continue
+
+        if IMPERATIV.match(tekst) and len(tekst) < 400:
+            gjeldende_del["blokker"].append({"t": "oppg", "tekst": tekst, "f": ""})
             continue
 
         gjeldende_del["blokker"].append({"t": "p", "tekst": tekst})

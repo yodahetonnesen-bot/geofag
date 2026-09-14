@@ -24,6 +24,12 @@
   "f": "Lyd i luft er en langsbølge: lufta trykkes sammen og utvides i samme retning som lyden går.\nBølger på et tau du rister opp og ned, er tversbølger. Det samme er bølger på vann og lys.\nEn slinky-fjær er fin til å vise begge deler: dytter du langs fjæra, får du en langsbølge; rister du den sidelengs, får du en tversbølge."
  },
  {
+  "id": "fee40c0c61",
+  "art": "oppgave-i-tekst",
+  "q": "Studer seismogrammet i figur 3.5 og finn ut hvor lenge etter P-bølgene de to andre bølgetypene kommer fram til målestasjonen.",
+  "f": ""
+ },
+ {
   "id": "51d4050f5c",
   "art": "tenk",
   "q": "Hva er forskjellen på en seismograf, en seismolog og et seismogram?",
@@ -72,6 +78,18 @@
   "f": "Ja — elveløpene får en tydelig knekk der de krysser forkastningen. Mange av dem er forskjøvet sidelengs i samme retning.\nGrunnen er at elva graver seg ned tvers over forkastningen, mens platene sakte glir forbi hverandre. Over tusenvis av år blir nedre del av elveløpet dratt med den ene plata, slik at løpet knekker.\nSlike forskjøvne elveløp er et av de tydeligste sporene etter en aktiv glidegrense."
  },
  {
+  "id": "b15c43cfb1",
+  "art": "oppgave-i-tekst",
+  "q": "Se på figurene 3.8 og 2.3.",
+  "f": ""
+ },
+ {
+  "id": "ccdaa982e6",
+  "art": "oppgave-i-tekst",
+  "q": "Bruk figur 3.9 til å forklare utbredelsen av dype jordskjelv på figur 3.8.",
+  "f": ""
+ },
+ {
   "id": "2315c2cb86",
   "art": "tenk",
   "q": "Studer utbredelsen av grunne, middels dype og dype jordskjelv for eksempel i Sør-Amerika og i Japan (se figur 3.8). Hvordan vil du forklare det du ser?",
@@ -82,6 +100,12 @@
   "art": "tenk",
   "q": "Hvilke skader gjør jordskjelv?",
   "f": "Selve rystelsene gjør sjelden skaden alene. De fleste omkommer når bygninger raser sammen eller i branner som oppstår etterpå.\nI bratte skråninger kan det gå skred, dambrudd kan gi flom, og skjelv under havbunnen kan sette i gang tsunamier. Transportnett, strøm og vannforsyning blir slått ut, noe som også gjør hjelpearbeidet vanskelig.\nOljeinstallasjoner på kontinentalsokkelen er særlig utsatt ved slike hendelser."
+ },
+ {
+  "id": "c5012cea99",
+  "art": "oppgave-i-tekst",
+  "q": "Finn ut om jordskjelv har krevd menneskeliv i Norge.",
+  "f": ""
  },
  {
   "id": "dd4f26b0c0",

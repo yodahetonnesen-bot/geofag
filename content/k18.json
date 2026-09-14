@@ -364,16 +364,18 @@
       "side": null,
       "blokker": [
         {
-          "t": "p",
-          "tekst": "Se på bildet (figur 18.13) og kartutsnittet i (figur 18.14) nedenfor."
+          "t": "oppg",
+          "tekst": "Se på bildet (figur 18.13) og kartutsnittet i (figur 18.14) nedenfor.",
+          "f": ""
         },
         {
           "t": "p",
           "tekst": "Du ser to store elvevifter på kartutsnittet. Hvor ligger de? En av dem kan du se på bildet."
         },
         {
-          "t": "p",
-          "tekst": "Beskriv sidedalene der elvene Frya og Våla renner. Er dalene is- eller elveerodert) Hva med hoveddalen, Gudbrandsdalen? Begrunn svarene."
+          "t": "oppg",
+          "tekst": "Beskriv sidedalene der elvene Frya og Våla renner. Er dalene is- eller elveerodert) Hva med hoveddalen, Gudbrandsdalen? Begrunn svarene.",
+          "f": ""
         },
         {
           "t": "tenk",

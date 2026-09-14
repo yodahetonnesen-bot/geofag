@@ -24,6 +24,7 @@ NETTSTED = "Geofag 1"
 UNDERTITTEL = "Naturkatastrofer, geologi og landskap"
 
 ART_NAVN = {
+    "itekst": "Oppgaver underveis i teksten",
     "sporsmal": "Spørsmål",
     "hvatrordu": "Hva tror du?",
     "oppgave": "Oppgaver",
@@ -64,11 +65,11 @@ def flett_fasit(kap: dict) -> None:
     svar = {r["id"]: r["f"] for r in json.loads(sti.read_text(encoding="utf-8")) if r.get("f")}
     for d in kap["deler"]:
         for b in d["blokker"]:
-            if b["t"] == "tenk":
+            if b["t"] in ("tenk", "oppg"):
                 b["f"] = svar.get(nokkel(b["tekst"]), "")
     for blokk in kap["oppgaveblokker"]:
         for post in blokk["poster"]:
-            if "q" in post:
+            if "q" in post and not post.get("f"):
                 post["f"] = svar.get(nokkel(post["q"]), "")
 
 
@@ -91,6 +92,17 @@ def flett_ekstra(kap: dict) -> None:
         if data.get(felt):
             kap[felt] = data[felt]
 
+    # Oppgaver som star som vanlig brodtekst i kilden (de ender med punktum og
+    # har ingen OPPGAVE-markor foran seg) legges inn her, med fasit.
+    for blokk in data.get("tilleggsoppgaver") or []:
+        kap["oppgaveblokker"].append({
+            "art": blokk.get("art", "oppgave"),
+            "overskrift": blokk.get("overskrift", "OPPGAVER"),
+            "side": blokk.get("side"),
+            "del": blokk.get("del"),
+            "poster": blokk["poster"],
+        })
+
     # Noen linjer i KAPITTELOPPGAVER er innledninger eller gruppetitler, ikke
     # oppgaver. De listes opp her og merkes om for visningen.
     intro = set(data.get("intro") or [])
@@ -109,13 +121,24 @@ def flett_ekstra(kap: dict) -> None:
         blokk["poster"] = nye
 
 
+def oppgaver_i_teksten(kap: dict) -> list[dict]:
+    """Refleksjonssporsmal og oppgaver som star inne i selve kapittelteksten."""
+    ut = []
+    for d in kap["deler"]:
+        for b in d["blokker"]:
+            if b["t"] in ("tenk", "oppg"):
+                ut.append({"q": b["tekst"], "f": b.get("f", "")})
+    return ut
+
+
 def tell_oppgaver(kap: dict) -> int:
-    return sum(1 for b in kap["oppgaveblokker"] for p in b["poster"] if "q" in p)
+    n = sum(1 for b in kap["oppgaveblokker"] for p in b["poster"] if "q" in p)
+    return n + len(oppgaver_i_teksten(kap))
 
 
 def tell_fasit(kap: dict) -> int:
     n = sum(1 for b in kap["oppgaveblokker"] for p in b["poster"] if p.get("f"))
-    n += sum(1 for d in kap["deler"] for b in d["blokker"] if b["t"] == "tenk" and b.get("f"))
+    n += sum(1 for p in oppgaver_i_teksten(kap) if p["f"])
     return n
 
 
@@ -240,8 +263,9 @@ def render_blokk(b: dict, teller: list[int]) -> str:
             '<div class="tabellflat"><span class="tabellflat__tit">Tabell fra boka</span>'
             f"<ol>{celler}</ol></div>"
         )
-    if t == "tenk":
+    if t in ("tenk", "oppg"):
         teller[0] += 1
+        merke = "Tenk" if t == "tenk" else "Oppgave"
         fasit = b.get("f")
         svar = (
             f'<div class="opg__body">{avsnitt(fasit)}</div>'
@@ -252,7 +276,7 @@ def render_blokk(b: dict, teller: list[int]) -> str:
         klasse = "opg" if fasit else "opg opg--aapen"
         return (
             f'<details class="{klasse}">'
-            f'<summary><span class="opg__num">Tenk</span>'
+            f'<summary><span class="opg__num">{merke}</span>'
             f'<span class="opg__q">{e(b["tekst"])}</span></summary>'
             f"{svar}</details>"
         )
@@ -327,7 +351,18 @@ def panel_oppgaver(kap: dict) -> str:
     )
 
     nr = 0
-    for blokk in kap["oppgaveblokker"]:
+    blokker = list(kap["oppgaveblokker"])
+    i_teksten = oppgaver_i_teksten(kap)
+    if i_teksten:
+        blokker.insert(0, {
+            "art": "itekst",
+            "overskrift": "Oppgaver underveis i teksten",
+            "side": None,
+            "del": None,
+            "poster": i_teksten,
+        })
+
+    for blokk in blokker:
         art = blokk["art"]
         kilde = f's. {blokk["side"]}' if blokk.get("side") else ""
         del_navn = blokk.get("del") or ""
