@@ -3,241 +3,241 @@
   "id": "6172ac5fa9",
   "art": "tenk",
   "q": "Hvilke skredtyper er vanligst i ditt hjemfylke?",
-  "f": ""
+  "f": "Dette avhenger av hvor du bor. Bruk skredregistrering.no og NVEs skreddatabase for å finne ut.\nGrove hovedtrekk: Fjellskred og steinskred er vanligst i Troms, Møre og Romsdal, Vestland, Rogaland og Telemark — der det er bratte fjellsider med svakhetssoner.\nKvikkleireskred finnes bare under marin grense, altså på Østlandet rundt Oslofjorden og i Trøndelag rundt Trondheimsfjorden.\nJord- og flomskred er vanligst der det er bratt terreng med løsmasser og mye nedbør, særlig på Vestlandet.\nSnøskred er vanligst i høyfjellet og i Nord-Norge — og det er snøskred som tar flest liv."
  },
  {
   "id": "8a7bb29a39",
   "art": "tenk",
   "q": "Hvordan oppstår fjellskred?",
-  "f": ""
+  "f": "Fjellskred løsner der en bratt fjellside har tydelige svakhetssoner i berggrunnen. Svakhetssonene kan danne et glideplan som fjellmassene kan gli på.\nDen viktigste utløsende årsaken er vann. Regn- og smeltevann trenger ned gjennom sprekkene til glideplanet, og vanntrykket øker — særlig under snøsmelting og i perioder med mye regn. Det økte trykket minker friksjonen langs svakhetssonen, og hele fjellsider kan gli ut.\nJordskjelv kan også utløse fjellskred, og store fjellpartier kan løsne uten at vanntrykket har økt.\nÅpne sprekker på fjelloverflaten viser at fjellet har vært eller er i bevegelse."
  },
  {
   "id": "49d0f6ce4e",
   "art": "tenk",
   "q": "Hvordan dannes svakhetssoner i berggrunnen?",
-  "f": ""
+  "f": "Ved at berget utsettes for påkjenninger som knuser eller sprekker det opp.\nFjellkjedefoldning gir folder, forkastninger og oppknust fjell. Lagdeling i bergarten er i seg selv en svakhet — i Åkneset følger svakhetssonen lagdelingen i gneisen, med biotittrike lag som glir lett.\nEtter istidene kommer to ting til: da isen forsvant, ble fjellsidene avlastet, og berget sprakk opp i retning ut mot dalen. Og frostforvitring utvider sprekkene videre år for år."
  },
  {
   "id": "3a6a84774a",
   "art": "tenk",
   "q": "Hva er et glideplan?",
-  "f": ""
+  "f": "Et glideplan er flaten som fjellmassene kan gli ut langs.\nDet er en svakhetssone — oppsprukket eller knust fjell, eller et bestemt lag i bergarten — som heller ut mot dalen eller fjorden.\nI Åkneset ligger hovedglideplanet omtrent 50–60 meter under fjelloverflaten. Det er en sone med sprekker og knust fjell som følger lagdelingen i gneisen, og lagdelingen skråner ned mot fjorden."
  },
  {
   "id": "ecc44e11f0",
   "art": "tenk",
   "q": "Hvordan vil du forklare at enkelte deler av landet er mer utsatt for fjellskred enn andre?",
-  "f": ""
+  "f": "Det handler om terreng, berggrunn og nedbør.\nDe utsatte fylkene — Troms, Møre og Romsdal, Vestland, Rogaland og Telemark — har alle bratte fjellsider, ofte ned mot dype fjorder. Iserosjonen har gravd dalene dypt og etterlatt stupbratte sider.\nBerggrunnen er mange steder lagdelt eller sterkt oppsprukket etter den kaledonske fjellkjedefoldningen, med lag som heller ut mot dalen. Da finnes glideplanene allerede.\nOg vestlandsklimaet gir mye nedbør og snøsmelting, som øker vanntrykket i sprekkene.\nI tillegg er vestkysten det området i Norge som har mest jordskjelvaktivitet."
  },
  {
   "id": "0d079c3aa6",
   "art": "tenk",
   "q": "Bruk «Me-Åkerneset» (se figur 20.8) og søk i Google Earth for å finne den ustabile fjellsiden du ser i figur 20.7. Hvor på bildet ligger småbruket Me-Åkerneset?",
-  "f": ""
+  "f": "Me-Åkerneset ligger nede ved fjorden, i den bratte lia under det ustabile fjellpartiet — på nordsiden av Sunnylvsfjorden i Stranda kommune.\nPå bildet i figur 20.7 finner du det nederst i fjellsiden, mellom sjøen og den store fjellflaten som beveger seg. Husene ble bygd «inn i» terrenget for å beskytte mot snøskred.\nDet er verdt å merke seg ironien: gården ble sikret mot snøskred, men ligger rett under et fjellparti på over 50 millioner m³ som kan rase ut."
  },
  {
   "id": "4c824ee951",
   "art": "tenk",
   "q": "Vil et skred fra Åkneset føre til en flodbølge eller en tsunami?",
-  "f": ""
+  "f": "En flodbølge.\nBoka skiller klart: en tsunami oppstår i havet, som følge av jordskjelv, vulkanutbrudd eller skred på havbunnen. Bølger som oppstår når fjellskred raser ned i fjorder og innsjøer, kalles flodbølger.\nDet gjør dem ikke mindre farlige — bølgene fra Åkneset kan bli over 80 meter høye — men de er lokale, begrenset til fjordsystemet."
  },
  {
   "id": "24c2dcdb04",
   "art": "oppgave-i-tekst",
   "q": "Se på videoen hva forskerne oppdaget 62,5 meter nede i fjellet! Du forstår tydelig hvorfor Åkneset er så farlig. Borehullet du ser på videoen, går faktisk helt ned til 200 meter. Men hadde seismologene strukket kablene til instrumentene forbi glideplanet, ville de ha blitt kappet av om noen måneder eller år fordi fjellet beveger seg så mye.",
-  "f": ""
+  "f": "Videoen viser selve glideplanet i borehullet på 62,5 meters dyp: en sone med oppsprukket og knust fjell, der berget over allerede har flyttet seg i forhold til berget under.\nDet er dette som gjør Åkneset så farlig — glideplanet er ikke en teori, men noe man faktisk kan se og måle.\nLegg merke til det praktiske poenget i teksten: instrumentkablene stopper over glideplanet, for førte man dem forbi, ville de blitt kappet av i løpet av måneder eller år. Fjellet beveger seg altså målbart hele tiden.\nDe seismiske instrumentene i borehullet registrerer mikrojordskjelv — små brudd inne i fjellet — og forskerne kan dermed kartlegge hvor i fjellet bevegelsene skjer."
  },
  {
   "id": "172e735562",
   "art": "tenk",
   "q": "Hvordan utføres seismiske målinger?",
-  "f": ""
+  "f": "Man sender lydbølger ned i berget og måler hvordan de kommer tilbake.\nEn kunstig rystelse lages på overflaten, og bølgene forplanter seg nedover. Der de treffer en grense mellom ulike bergarter, eller en sprekkesone, reflekteres og brytes de. Geofoner eller seismometre på overflaten registrerer når bølgene kommer tilbake.\nUt fra ankomsttidene kan man beregne hvor grensene ligger, og dermed kartlegge svakhetssoner under fjelloverflaten.\nDet er samme metode som brukes på kontinentalsokkelen for å kartlegge olje og gass."
  },
  {
   "id": "9b1f3a971f",
   "art": "tenk",
   "q": "Kan et fjellskred varsles?",
-  "f": ""
+  "f": "Delvis. Man kan varsle at faren øker, men ikke når skredet kommer.\nGrunnlaget er at bevegelsen akselererer før et skred løsner. Erfaringer fra Alpene og andre fjellområder viser at farten øker gjennom uker eller måneder i forkant, og det er denne sammenhengen varslingen bygger på. Steinsprang og små steinskred er også tegn på at fjellet rører seg.\nDerfor varsler geologene «økt eller mindre farenivå», ikke et tidspunkt. Det er mange forhold vi ikke kan tallfeste, og faktorene varierer fra skred til skred.\nDe sju fjellsidene med døgnkontinuerlig overvåking varsles på dette grunnlaget, og beredskapen bygger på overvåking, varsling og evakuering."
  },
  {
   "id": "69027ac11e",
   "art": "sporsmal",
   "q": "Hvilke typer skred forekommer i Norge?",
-  "f": ""
+  "f": "Fjellskred, kvikkleireskred, jordskred og snøskred er de vanligste. Til fjellskred hører også steinsprang og steinskred, som er mindre utgaver.\nStatistikken tilsier to–tre store fjellskred, to–tre store kvikkleireskred og tre–fire store snøskred i løpet av de neste 100 årene."
  },
  {
   "id": "24d11d95a5",
   "art": "sporsmal",
   "q": "Hvilken type skred tar flest menneskeliv?",
-  "f": ""
+  "f": "Snøskred. NVEs database inneholder mange tusen skred fra historisk tid, der mer enn 4000 mennesker har mistet livet — og snøskred tar flest."
  },
  {
   "id": "93094801e4",
   "art": "sporsmal",
   "q": "Hvordan kan klimaendringer innvirke på skredfaren?",
-  "f": ""
+  "f": "Gjennom nedbøren. Mer regn og mer smeltevann gjør bratte dal- og fjellsider mer rasfarlige.\nMekanismen er vanntrykket: vann som trenger ned i sprekkene, øker trykket mot glideplanet og minker friksjonen. Mer intens nedbør gir også flere jord- og flomskred.\nDette stiller nye krav til arealplanlegging og beredskap i kommunene — områder som har vært trygge, kan bli utsatte."
  },
  {
   "id": "a61253542b",
   "art": "sporsmal",
   "q": "Hva er forskjellene mellom steinsprang, steinskred og fjellskred?",
-  "f": ""
+  "f": "Det er størrelsen som skiller dem.\nSteinsprang: enkeltsteiner som løsner og raser ut.\nSteinskred: større mengder stein som raser ut samtidig.\nFjellskred: mer enn 100 000 m³ stein. De største kan føre med seg flere hundre millioner kubikkmeter.\nFarligst er fjellskred som går ut i fjorder eller innsjøer, fordi de kan gi flere titalls meter høye flodbølger — som ved Lovatnet i 1905 og 1936."
  },
  {
   "id": "9666c1b9a1",
   "art": "sporsmal",
   "q": "Hva kan utløse et fjellskred?",
-  "f": ""
+  "f": "Først og fremst økt vanntrykk i sprekkene. Regn- og smeltevann trenger ned til glideplanet, trykket øker, friksjonen minker, og fjellsiden kan gli ut. Det skjer særlig under snøsmelting og i perioder med mye regn, og geologene regner dette som den viktigste årsaken.\nJordskjelv kan også utløse fjellskred. Dateringer viser at mange gamle fjellskred gikk like etter siste istid, da landhevingen ga hyppige skjelv på størrelse 5–6. Vestkysten er fortsatt jordskjelvutsatt.\nOg noen store fjellpartier løsner uten at vanntrykket har økt."
  },
  {
   "id": "0ce256a8f8",
   "art": "sporsmal",
   "q": "Hvem har ansvaret for skredovervåkingen i Norge?",
-  "f": ""
+  "f": "Norges vassdrags- og energidirektorat (NVE) har ansvaret for geologisk kartlegging, risikovurdering og overvåking av skredfarlige fjellsider. Kartleggingen utføres av Norges geologiske undersøkelse (NGU) på oppdrag fra NVE.\nAndre forebyggende tiltak — evakuering og beredskapsplaner — er kommunenes og politiets ansvar."
  },
  {
   "id": "8564bfa295",
   "art": "sporsmal",
   "q": "Hvordan kan farlige fjellsider overvåkes?",
-  "f": ""
+  "f": "Med et helt batteri av metoder, som utfyller hverandre:\nBakkeradar skanner fjellsiden med jevne mellomrom og viser endringer på skjerm. Laser sveiper over fjellsiden med reflektorer og måler avstanden til enkeltpunkter. GPS bestemmer posisjonen til målepunkter med millimeters nøyaktighet, både i stabile og ustabile deler.\nStrekkstag boltes fast på hver side av en åpen sprekk og registrerer om den utvider seg. Seismografer fanger opp rystelser, og geofoner lytter etter lydbølger når fjellet rører seg.\nNattkameraer, meteorologiske instrumenter og droner supplerer, og satellittradar kan avdekke bevegelser ned til millimeternivå — data fra Copernicus kan lastes ned hver sjette dag.\nSelve berget undersøkes ved boring, borekjerner, kameraer og sensorer i borehull, seismiske målinger og målinger av elektrisk motstand: høy motstand betyr tørt, massivt fjell, lav motstand betyr vannfylte sprekker."
  },
  {
   "id": "90a580538f",
   "art": "sporsmal",
   "q": "Hvordan kan fjellet selv varsle at et skred «er på vei»?",
-  "f": ""
+  "f": "Ved at aktiviteten øker.\nDe siste døgnene eller timene før et skred er det ofte økt bevegelse i fjellsiden, og steinsprang og små steinskred blir vanligere. Det er tegn på at fjellet rører på seg.\nPå lengre sikt er det farten som er signalet: bevegelsene akselererer gjennom uker eller måneder før skredet løsner. Det er nettopp denne sammenhengen figur 20.11 viser, og som farenivåene bygger på."
  },
  {
   "id": "c1a2bf8024",
   "art": "sporsmal",
   "q": "Hvordan kan folk varsles dersom fjellsiden begynner å bevege seg?",
-  "f": ""
+  "f": "Gjennom en beredskapskjede. Geologene vurderer måledataene fortløpende og fastsetter et farenivå. Endres farenivået, meldes det til kommunen, politiet, Statsforvalteren og andre aktuelle aktører.\nKommunene og politiet har ansvaret for evakuering og beredskapsplaner, og varsler befolkningen.\nTiden er knapp, men tilstrekkelig: ved et skred fra Åkneset når bølgene Hellesylt etter fem minutter, Stranda etter seks og Geiranger etter ti. Derfor er poenget at varselet må komme før skredet — basert på overvåkingen, ikke på selve skredet."
  },
  {
   "id": "bfc70d29d2",
   "art": "hvatrordu",
   "q": "Kan du gi noen grunner til at en flodbølge som følger etter et fjellskred, kanskje ikke skal kalles en tsunami?",
-  "f": ""
+  "f": "Fordi de er ulike fenomener, selv om begge er store bølger.\nEn tsunami oppstår ute i havet og skyldes at hele havbunnen flytter seg — ved jordskjelv, vulkanutbrudd eller undersjøisk skred. Da settes hele vannsøylen i bevegelse, bølgen har svært lang bølgelengde og kan gå tusenvis av kilometer med opptil 800 km/t.\nEn flodbølge etter et fjellskred oppstår ved at masser faller ned i vannet fra oven. Det er en overflatebølge, den er lokal, og den dør ut i løpet av fjorden eller innsjøen.\nDet praktiske skillet betyr noe for varsling: en tsunami kan varsles fordi skjelvet registreres lenge før bølgen kommer. En flodbølge fra et fjellskred må varsles før skredet går — det er derfor fjellsidene overvåkes døgnet rundt."
  },
  {
   "id": "cc775c6cdb",
   "art": "kapitteloppgave",
   "q": "steinsprang – steinskred – steinras",
-  "f": ""
+  "f": "Steinras skal ut.\nSteinsprang og steinskred er de presise faguttrykkene, med hver sin definisjon: enkeltsteiner mot større mengder stein. «Steinras» er dagligtale og har ingen bestemt faglig betydning."
  },
  {
   "id": "c88081aa1f",
   "art": "kapitteloppgave",
   "q": "fjellskred – steinskred – steinsprang",
-  "f": ""
+  "f": "Ingen av dem skiller seg ut på innhold — alle tre er samme fenomen i ulik størrelse, og her teller begrunnelsen.\nEn mulighet er fjellskred: det er det eneste med en tallfestet grense (over 100 000 m³), og det eneste som kan gi flodbølger.\nEn annen er steinsprang: det er det eneste som handler om enkeltsteiner, mens de to andre handler om masser."
  },
  {
   "id": "44aebfeea7",
   "art": "kapitteloppgave",
   "q": "vanntrykk i fjellsprekker – jordskjelv – fjellskred",
-  "f": ""
+  "f": "Fjellskred skal ut.\nØkt vanntrykk i fjellsprekker og jordskjelv er begge utløsende årsaker. Fjellskredet er resultatet."
  },
  {
   "id": "4d4fdad481",
   "art": "kapitteloppgave",
   "q": "glideplan – fjellskred – frostforvitring",
-  "f": ""
+  "f": "Frostforvitring skal ut.\nEt glideplan er flaten fjellskredet glir ut på, så de to henger direkte sammen. Frostforvitring bryter ned berg i små biter og gir steinsprang og ur — den lager ikke glideplan for store fjellskred.\n(Den bidrar riktignok til å utvide sprekker over tid, så en begrunnelse den andre veien kan også forsvares.)"
  },
  {
   "id": "5b4a3928f0",
   "art": "kapitteloppgave",
   "q": "radar – laser – strekkstag",
-  "f": ""
+  "f": "Strekkstag skal ut.\nRadar og laser måler på avstand, uten å røre fjellet, og dekker en hel fjellside. Et strekkstag må boltes fast på hver side av én bestemt sprekk og måler bare der."
  },
  {
   "id": "16757a77e1",
   "art": "kapitteloppgave",
   "q": "høyt farenivå – 10 cm/døgn – lavt farenivå",
-  "f": ""
+  "f": "Lavt farenivå skal ut.\nHøyt farenivå og 10 cm/døgn hører sammen: stor fart betyr høy fare. Ved lavt farenivå beveger fjellet seg noen millimeter til centimeter i året — ikke per døgn."
  },
  {
   "id": "dc364932c9",
   "art": "kapitteloppgave",
   "q": "tsunami – fjellskred – skred på havbunnen",
-  "f": ""
+  "f": "Fjellskred skal ut.\nSkred på havbunnen gir tsunami, så de to hører sammen. Et fjellskred ned i en fjord gir flodbølge — ikke tsunami."
  },
  {
   "id": "b26b991172",
   "art": "kapitteloppgave",
   "q": "Skredrisiko og skredfare betyr det samme.",
-  "f": ""
+  "f": "Fleip.\nSkredfare er hvor ofte et skred går: jo kortere tid mellom dem, desto større fare.\nSkredrisiko tar i tillegg hensyn til skadeomfanget. Et hyppig skred i ubebodd terreng har stor fare, men liten risiko. Et sjeldent skred over et tettsted har liten fare, men svært stor risiko."
  },
  {
   "id": "b3598339d2",
   "art": "kapitteloppgave",
   "q": "Mye regn over en lang periode kan øke faren for fjellskred.",
-  "f": ""
+  "f": "Fakta.\nRegnvann trenger ned gjennom sprekkene til glideplanet, og vanntrykket øker. Det minker friksjonen langs svakhetssonen, og fjellsiden kan gli ut. Geologene regner dette som den viktigste utløsende årsaken til fjellskred."
  },
  {
   "id": "009531dd6e",
   "art": "kapitteloppgave",
   "q": "Jordskjelv kan ikke utløse fjellskred.",
-  "f": ""
+  "f": "Fleip.\nJordskjelv kan utløse fjellskred. Dateringer viser at mange gamle fjellskred gikk like etter siste istid, da landhevingen ga hyppige skjelv på størrelse 5–6 eller mer.\nOgså i dag er vestkysten jordskjelvutsatt — i 2007 gikk et skjelv på størrelse 4 med episenter 4 km nordøst for Ålesund."
  },
  {
   "id": "ddcf2a5db1",
   "art": "kapitteloppgave",
   "q": "Det er laget en spillefilm, «Skredet», som handler om et fjellskred fra Åkneset i Stranda kommune.",
-  "f": ""
+  "f": "Fakta.\n«Bølgen» (2015) bygger nettopp på scenarioet med et fjellskred fra Åkneset og flodbølgen inn over Geiranger. Filmen er dramatisert, men bygger på de faktiske beregningene og varslingssystemet."
  },
  {
   "id": "d070e2cd34",
   "art": "kapitteloppgave",
   "q": "Fjellpartiet Veslemannen i Romsdalen har rast ut, men det har ikke Mannen.",
-  "f": ""
+  "f": "Fakta.\nVeslemannen raste ut i september 2019, etter mange års overvåking og gjentatte evakueringer. Det store fjellpartiet Mannen står fortsatt, og overvåkes døgnet rundt.\nEt skred fra Mannen kan bli inntil 20 millioner m³ — langt større enn Veslemannen — og vil kunne krysse Romsdalen og demme opp elva."
  },
  {
   "id": "f02534d079",
   "art": "kapitteloppgave",
   "q": "Veslemannen beveget seg med en fart på 100 cm/døgn like før skredet gikk.",
-  "f": ""
+  "f": "Fakta.\nBevegelsen i Veslemannen akselererte kraftig i timene og døgnene før utrasingen, opp mot meternivå per døgn. Det er nettopp denne akselerasjonen varslingen bygger på, og som gjorde at ingen kom til skade."
  },
  {
   "id": "350ba01a8f",
   "art": "kapitteloppgave",
   "q": "Naturen kan selv varsle at et fjellskred er på vei.",
-  "f": ""
+  "f": "Fakta.\nDe siste døgnene eller timene før et skred er det ofte økt bevegelse i fjellsiden, og steinsprang og små steinskred blir vanligere. På lengre sikt akselererer bevegelsen gjennom uker eller måneder."
  },
  {
   "id": "56216aaf35",
   "art": "kapitteloppgave",
   "q": "Med radar, på bakken eller fra satellitt, er det mulig å måle avstanden til et bestemt punkt på jordoverflaten med jevne mellomrom og beregne farten et fjellparti beveger seg med.",
-  "f": ""
+  "f": "Fakta.\nRadaren sender ut signaler og måler avstanden til punkter i fjellsiden. Gjentar man målingen med jevne mellomrom og sammenligner, ser man om avstanden endrer seg — og dermed farten.\nSatellittradar gjør det samme fra rommet, med millimeters nøyaktighet, og gjennom Copernicus kan data lastes ned hver sjette dag."
  },
  {
   "id": "9d01cf7e21",
   "art": "kapitteloppgave",
   "q": "Alle ustabile fjellpartier som overvåkes i Norge, beveger seg sakte nedover med opptil flere centimeter i året.",
-  "f": ""
+  "f": "Fakta.\nDe overvåkede fjellpartiene beveger seg fra én millimeter til flere centimeter i året. Det er lite dramatikk i det — uten jordskjelv kan en slik bevegelse holde på i århundrer.\nDet er først når farten akselererer at farenivået heves."
  },
  {
   "id": "0cfa04dcb8",
   "art": "kapitteloppgave",
   "q": "Bevegelsen i ustabile fjellsider øker gjennom uker eller måneder før et fjellskred løsner.",
-  "f": ""
+  "f": "Fakta.\nErfaringer fra Alpene og andre fjellområder viser at bevegelsene akselererer gjennom uker eller måneder før et fjellskred løsner. Det er den nære sammenhengen mellom fartsøkning og skredfare som gjør varsling mulig i det hele tatt."
  },
  {
   "id": "bf33401b1a",
   "art": "kapitteloppgave",
   "q": "Finn Åkneset og Mannen på kartet i figur 20.7. Søk opp de to skredutsatte fjellsidene på Google Earth. Snu litt rundt på bildet, zoom inn og skråstill for å få god «utsikt» til fjellsidene. Finn igjen bildemotivet i figur 20.7. I hvilken himmelretning er bildet tatt? Studer landformene og forklar hva som er den grunnleggende årsaken til de ustabile fjellsidene.",
-  "f": ""
+  "f": "Bildet i figur 20.7 er tatt mot nord/nordøst, over Sunnylvsfjorden mot det ustabile fjellpartiet ved Åkneset.\nDen grunnleggende årsaken til de ustabile fjellsidene er iserosjonen.\nIsstrømmene gravde fjordene og dalene langt dypere enn landskapet rundt — Sunnylvsfjorden og Romsdalen er begge overfordypede U-daler. Da isen forsvant, ble fjellsidene stående stupbratte og uten støtte nedenfra.\nBerggrunnen er dessuten lagdelt gneis med lag som heller ut mot dalen, og da isen avlastet fjellsidene, sprakk berget opp langs disse svakhetssonene.\nResultatet er bratte sider med ferdige glideplan — akkurat de to tingene som skal til for et fjellskred."
  },
  {
   "id": "86e50d2004",
   "art": "kapitteloppgave",
   "q": "Gå inn på nettstedet [www.nve.no](https://www.nve.no). Klikk på «Flaum og skred»/ «Fjellskredovervaking», eller bruk søkeordet «Fjellskredovervaking» på en søkemotor. Se etter de siste dags- og ukerapportene fra de fjellsidene som har døgnkontinuerlig overvåking. Hvilket farenivå har fjellsidene akkurat nå? Hva innebærer det?",
-  "f": ""
+  "f": "Farenivået oppdateres fortløpende, så svaret avhenger av når du sjekker. Slik leser du rapportene:\nNVE bruker en firetrinns skala: grønt (normal situasjon), gult (økt bevegelse, følges tett), oransje (høy bevegelse, forberedt evakuering) og rødt (skred ventes, evakuering iverksatt).\nNormalt står alle de sju fjellsidene på grønt. Bevegelsen måles da i millimeter eller få centimeter i året.\nGult eller høyere betyr at farten har økt, ofte i forbindelse med snøsmelting eller kraftig nedbør — og at kommunen og politiet er varslet.\nNoter hvilken fjellside du ser på, hvilket nivå den står på, og hva dags- eller ukerapporten sier om målt bevegelse."
  },
  {
   "id": "5f235e0929",
   "art": "kapitteloppgave",
   "q": "Databasen for ustabile fjellpartier ved Norges geologiske undersøkelse (NGU) inneholder informasjon om alle ustabile fjellpartier som per i dag er kjent i Norge. Ustabile fjellpartier er fjellområder som viser tegn til bevegelse etter siste istid, og der det derfor kan være fare for fjellskred i framtiden. Du finner databasen her: [www.ngu.no](https://www.ngu.no). Klikk på «Kartinnsyn»/«Ustabile fjellparti», eller gå direkte til http://geo.ngu.no/kart/ustabilefjellparti/. Du kan også søke med «Nasjonal database for ustabile fjellparti». Er det noen ustabile fjellpartier i nærheten av der du bor, eller i andre områder du ferdes?",
-  "f": ""
+  "f": "Dette er en lokal oppgave, så svaret avhenger av hvor du bor.\nBruk kartinnsynet og zoom inn på ditt område. Klikk på hvert markert fjellparti — du får opp navn, beregnet volum, målt bevegelse og risikoklasse.\nVær oppmerksom på at de aller fleste av de mange hundre kartlagte fjellpartiene representerer liten fare for mennesker. Bare sju overvåkes døgnkontinuerlig.\nEr det ingen i din kommune, se på fylkesnivå: flest finnes i Troms, Møre og Romsdal, Vestland, Rogaland og Telemark."
  },
  {
   "id": "e18e97b1a9",
