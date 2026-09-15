@@ -238,7 +238,7 @@ def skall(tittel: str, beskrivelse: str, side_id: str, sidemeny: str,
     <footer class="sitefoot">
       <div class="wrap">
         <p>Læringsside for {NETTSTED} — {UNDERTITTEL}. Fagstoff, oppgaver og sammendrag følger kapittelstrukturen i læreverket.</p>
-        <p>Quizresultater lagres lokalt i nettleseren din og sendes ingen steder.</p>
+        <p>Quiz- og flashcardresultater lagres lokalt i nettleseren din og sendes ingen steder.</p>
       </div>
     </footer>
   </div>
@@ -525,7 +525,7 @@ def panel_flashcards(kap: dict) -> str:
   <div class="flashcard" id="flashcard" tabindex="0" role="button" aria-label="Snu kortet">
     <div class="flashcard__inner">
       <div class="flashcard__face flashcard__front">
-        <div class="flashcard__kat" id="fcKat"></div>
+        <div class="flashcard__kat fc-kat" id="fcKat"></div>
         <div class="flashcard__term" id="fcTerm"></div>
         <div class="flashcard__hint">Klikk eller trykk mellomrom for å snu</div>
       </div>
@@ -537,13 +537,13 @@ def panel_flashcards(kap: dict) -> str:
   </div>
 </div>
 <div class="fc-kontroll">
-  <button type="button" class="knapp knapp--lett" id="fcLett">Lett</button>
-  <button type="button" class="knapp knapp--primar" id="fcNeste">Neste kort</button>
-  <button type="button" class="knapp knapp--vanskelig" id="fcVanskelig">Vanskelig</button>
+  <button type="button" class="knapp knapp--lett fc-lett" id="fcLett">Lett</button>
+  <button type="button" class="knapp knapp--primar fc-neste" id="fcNeste">Neste kort</button>
+  <button type="button" class="knapp knapp--vanskelig fc-vanskelig" id="fcVanskelig">Vanskelig</button>
 </div>
 <p class="fc-stat" id="fcStat"></p>
 <div class="opgverktoy" style="justify-content:center">
-  <button type="button" class="knapp" id="fcNullstill">Nullstill statistikken</button>
+  <button type="button" class="knapp fc-nullstill" id="fcNullstill">Nullstill statistikken</button>
 </div>
 """)
     ut.append("</section>")
@@ -562,7 +562,7 @@ def panel_quiz(kap: dict) -> str:
         "Du får en forklaring til hvert svar.</p>"
     )
     ut.append('<p class="quiz-poeng" id="quizPoeng"></p>')
-    ut.append('<div id="quizRot"></div>')
+    ut.append('<div class="quiz-rot" id="quizRot"></div>')
     ut.append("</section>")
     return "\n".join(ut)
 
@@ -752,12 +752,12 @@ HOVED_RE = re.compile(
 )
 
 # Id-er som javascriptet slar opp direkte, og som derfor ma beholde navnet.
+# Quiz- og flashcard-elementene finnes en gang per kapittel, og slas opp pa
+# klasse innenfor det kapitlet som vises. Derfor kan id-ene navnerommes som
+# alt annet, slik at dokumentet ikke far 21 elementer med samme id.
 JS_IDER = {
-    "burger", "fcDef", "fcKat", "fcLett", "fcNeste", "fcNullstill", "fcStat",
-    "fcTerm", "fcVanskelig", "flashcard", "hovedinnhold", "merkeUnder", "noNa",
-    "quizPoeng", "quizRot", "ringFg", "ringPst", "ringTekst", "sidemeny",
-    "skygge", "sokFelt", "sokTreff", "temaBtn", "temaIkon", "tilTopp",
-    "topFyll", "topPst",
+    "burger", "hovedinnhold", "merkeUnder", "noNa", "sidemeny", "skygge",
+    "sokFelt", "sokTreff", "temaBtn", "temaIkon", "tilTopp",
 }
 
 # Id-er som allerede er unike per kapittel (panel-kNN-…, kNN-sN) og
@@ -871,9 +871,14 @@ def bygg_enkeltfil(alle: list[dict]) -> str:
     quiz_alle = {
         f"k{k['nr']:02d}": k["quiz"] for k in alle if k.get("quiz")
     }
+    fc_alle = {
+        f"k{k['nr']:02d}": k["flashcards"] for k in alle if k.get("flashcards")
+    }
     data_js = (
         "<script>window.GEOFAG_QUIZ_ALLE="
         + json.dumps(quiz_alle, ensure_ascii=False)
+        + ";window.GEOFAG_FLASHCARDS_ALLE="
+        + json.dumps(fc_alle, ensure_ascii=False)
         + ";</script>\n"
     )
 

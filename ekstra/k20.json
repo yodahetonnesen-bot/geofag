@@ -125,5 +125,57 @@
       "rett": 0,
       "f": "Tafjord i 1934 og Loen i 1905 og 1936 er de mest kjente. Det er nettopp flodbølgefaren som gjør Åknes så alvorlig."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Skredtyper",
+      "t": "Steinsprang",
+      "d": "Enkeltsteiner som raser ut fra en fjellside."
+    },
+    {
+      "k": "Skredtyper",
+      "t": "Steinskred",
+      "d": "Større mengder stein som raser ut samtidig. Mellom steinsprang og fjellskred i størrelse."
+    },
+    {
+      "k": "Skredtyper",
+      "t": "Fjellskred",
+      "d": "De aller største utrasingene, der en hel fjellside gir etter. Kan utløse flodbølger hvis massene treffer vann."
+    },
+    {
+      "k": "Årsaker",
+      "t": "Hva som øker faren for fjellskred",
+      "d": "Bratte fjellsider og svakhetssoner i berggrunnen — sprekker, forkastninger og lagdeling som bruddet kan gli langs."
+    },
+    {
+      "k": "Årsaker",
+      "t": "Utløsere for fjellskred",
+      "d": "Jordskjelv, kraftig nedbør og frostsprengning. De gir det siste puffet til en fjellside som alt er ustabil."
+    },
+    {
+      "k": "Årsaker",
+      "t": "Klimaendringer og skredfare",
+      "d": "Mer ekstremnedbør, flere fryse- og tinesykluser og tining av permafrost i fjellet svekker fjellsidene."
+    },
+    {
+      "k": "Overvåking",
+      "t": "Hvorfor overvåking framfor sikring",
+      "d": "En hel fjellside lar seg ikke sikre. Strategien er å vite hvor faren er, følge bevegelsen og evakuere i tide."
+    },
+    {
+      "k": "Overvåking",
+      "t": "NVE",
+      "d": "Norges vassdrags- og energidirektorat, som har ansvaret for overvåkingen av skredfarlige fjellsider i Norge."
+    },
+    {
+      "k": "Overvåking",
+      "t": "Overvåkingsmetoder",
+      "d": "Radar, laser, seismografer, geofoner, strekkstag, borehull og GPS. Alle måler det samme: bevegelse."
+    },
+    {
+      "k": "Varsling",
+      "t": "Hvorfor fjellskred kan varsles",
+      "d": "Bevegelsen i fjellsiden akselererer gjerne i timene og dagene før bruddet."
+    }
   ]
 }

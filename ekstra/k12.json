@@ -273,5 +273,112 @@
       "rett": 0,
       "f": "Breen lagrer snøen som is, og kan holde på den i mange år. Det jevner ut vannføringen og gir vann nettopp i tørre, varme somre."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Grunnbegreper",
+      "t": "Evapotranspirasjon",
+      "d": "Summen av fordampning fra bakken og vannflater, og transpirasjon fra plantene."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Avrenning",
+      "d": "Den samlede vannmengden som renner bort i en elv i en gitt periode."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Vannbalansen",
+      "d": "Nedbør = avrenning + evapotranspirasjon, pluss eller minus endring i vannmagasinene. Går opp over lang tid."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Nedbørsfelt",
+      "d": "Området der all nedbør renner mot samme utløp. Avgrenses av vannskillet."
+    },
+    {
+      "k": "Måling",
+      "t": "Hydrogram",
+      "d": "Kurve som viser hvordan vannføringen har variert gjennom en periode. Bratt topp betyr rask avrenning."
+    },
+    {
+      "k": "Måling",
+      "t": "Spesifikk avrenning",
+      "d": "Avrenningen i liter per sekund per kvadratkilometer. Gjør det mulig å sammenlikne felt av ulik størrelse. 1 L/(s·km²) = 31,5 mm/år."
+    },
+    {
+      "k": "Flom",
+      "t": "Naturens egen flomdemping",
+      "d": "Tykke jordlag, myrer og innsjøer tar imot vannet og slipper det ut langsomt, slik at flomtoppene blir mindre."
+    },
+    {
+      "k": "Flom",
+      "t": "Vanligste flomårsaker i Norge",
+      "d": "Regn og snøsmelting — ofte i kombinasjon, som når regn faller på snø."
+    },
+    {
+      "k": "Flom",
+      "t": "Forbygning",
+      "d": "Forsterkning av elvebredden, gjerne med stein, mot erosjon og høy vannføring."
+    },
+    {
+      "k": "Flom",
+      "t": "Hvorfor nedbygging øker flomfaren",
+      "d": "Tette flater hindrer vannet i å trenge ned i jordlaget, så det kommer raskere ut i elvene og flomtoppen blir høyere."
+    },
+    {
+      "k": "Vann i bakken",
+      "t": "Markvann",
+      "d": "Vann i den øvre jordsonen, der porene ikke er helt fylt med vann."
+    },
+    {
+      "k": "Vann i bakken",
+      "t": "Grunnvann",
+      "d": "Vann i sonen der alle hulrom og sprekker er fylt med vann."
+    },
+    {
+      "k": "Vann i bakken",
+      "t": "Grunnvannsspeil",
+      "d": "Skillet mellom markvannssonen og grunnvannssonen. Flytter seg opp og ned med årstidene."
+    },
+    {
+      "k": "Vann i bakken",
+      "t": "Feltkapasitet",
+      "d": "Hvor mye vann en jordart kan holde på etter at overskuddet har rent bort."
+    },
+    {
+      "k": "Vann i bakken",
+      "t": "Visnegrense",
+      "d": "Den vannmengden som er så hardt bundet i jorda at plantene ikke får tak i den. Feltkapasitet minus visnegrense er tilgjengelig vann."
+    },
+    {
+      "k": "Vann i bakken",
+      "t": "Permeabilitet i løsmasser",
+      "d": "Hvor lett vannet strømmer gjennom. Avgjør hvor raskt grunnvannsmagasinet fylles og tømmes."
+    },
+    {
+      "k": "Isbreer",
+      "t": "Massebalanse",
+      "d": "Summen av vinterbalansen (påfyll som snø) og sommerbalansen (tap ved smelting). Positiv betyr vekst, negativ tilbakesmelting."
+    },
+    {
+      "k": "Isbreer",
+      "t": "Likevektslinjen",
+      "d": "Skillet mellom breens næringsområde og avsmeltingsområde. Flytter seg oppover når klimaet blir varmere."
+    },
+    {
+      "k": "Isbreer",
+      "t": "Næringsområde",
+      "d": "Den delen av breen der det legges på mer snø enn som smelter i løpet av året."
+    },
+    {
+      "k": "Isbreer",
+      "t": "Hvordan massebalansen måles",
+      "d": "Staker boret ned i isen viser sommersmeltingen, og snødybdemålinger viser vinterpåfyllet."
+    },
+    {
+      "k": "Isbreer",
+      "t": "Breen som klimaindikator",
+      "d": "Brefrontens posisjon flytter seg i takt med klimaendringer — men med en forsinkelse, siden isen bruker tid på å bevege seg."
+    }
   ]
 }

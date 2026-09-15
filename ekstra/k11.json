@@ -172,5 +172,82 @@
       "rett": 0,
       "f": "Rundt halvparten. Olje og gass er, sammen med kull, ikke-fornybare ressurser som en dag tar slutt, og dagens energibruk er ikke bærekraftig."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Grunnbegreper",
+      "t": "Petroleum",
+      "d": "Samlebetegnelsen for råolje og naturgass — en blanding av forskjellige hydrokarboner."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Modning",
+      "d": "Prosessen der trykk og temperatur omdanner organisk materiale i kildebergarten til petroleum."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Olje- og gassvinduet",
+      "d": "Temperaturintervallene der henholdsvis olje og gass dannes i kildebergarten."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Migrasjon",
+      "d": "Forflytningen av petroleum opp gjennom sprekker i jordskorpa. Petroleum er lettere enn vannet rundt og stiger til den stanses av en takbergart."
+    },
+    {
+      "k": "Feller",
+      "t": "Olje- og gassfelle",
+      "d": "Lomme der tett bergart hindrer petroleumen i å stige videre. De vanligste er forkastningsfeller, foldefeller og saltdomer."
+    },
+    {
+      "k": "Bergarter",
+      "t": "Porøsitet",
+      "d": "Hvor mye hulrom en bergart har — altså hvor mye petroleum det er plass til."
+    },
+    {
+      "k": "Bergarter",
+      "t": "Permeabilitet",
+      "d": "Hvor lett væske strømmer gjennom bergarten. Høy permeabilitet kreves for at oljen skal kunne hentes ut."
+    },
+    {
+      "k": "Bergarter",
+      "t": "Reservoarbergart",
+      "d": "Bergart med stor porøsitet og høy permeabilitet, der petroleumen samler seg. Sandstein er den typiske."
+    },
+    {
+      "k": "Bergarter",
+      "t": "Takbergart",
+      "d": "Tett bergart med lav permeabilitet som hindrer petroleumen i å stige videre. Leirskifer er den typiske."
+    },
+    {
+      "k": "Leting",
+      "t": "Geofysiske letemetoder",
+      "d": "Seismikk, gravimetri og magnetometri. Måler hvordan lydbølger, tyngdefelt og magnetfelt varierer og gir et bilde av lagene under havbunnen."
+    },
+    {
+      "k": "Produksjon",
+      "t": "Naturlig vanndriv",
+      "d": "Vann strømmer til fra sidene og opprettholder trykket i reservoaret etter hvert som olje tappes ut."
+    },
+    {
+      "k": "Produksjon",
+      "t": "Økt utvinningsgrad",
+      "d": "Gass eller vann pumpes ned i reservoaret for å opprettholde trykket, slik at en større andel av oljen kan hentes ut."
+    },
+    {
+      "k": "Norge",
+      "t": "Ekofisk",
+      "d": "Feltet der oljeutvinningen på norsk sokkel startet i 1971, med den første oljen pumpet opp fra Nordsjøen."
+    },
+    {
+      "k": "Norge",
+      "t": "Norges plass i verden",
+      "d": "Blant de sju største gassprodusentene og de tretten største oljeprodusentene i verden (2020)."
+    },
+    {
+      "k": "Bærekraft",
+      "t": "Olje og gass i verdens energiforbruk",
+      "d": "Omtrent 50 prosent av verdens energiforbruk. Ikke-fornybare ressurser som en dag tar slutt — og ikke en bærekraftig energibruk."
+    }
   ]
 }

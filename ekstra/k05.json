@@ -102,5 +102,52 @@
       "rett": 0,
       "f": "Over dypt hav kan en tsunami holde flere hundre kilometer i timen. Farten avhenger av havdypet — jo dypere vann, desto raskere bølge."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Grunnbegreper",
+      "t": "Tsunami",
+      "d": "Bølge utløst av at store vannmasser settes i bevegelse på kort tid — ved jordskjelv under havbunnen, vulkanutbrudd eller skred."
+    },
+    {
+      "k": "Bølgen",
+      "t": "Tsunami på dypt hav",
+      "d": "Svært lang, men bare noen titalls centimeter høy. Skip merker den knapt. Farten kan være flere hundre km/t."
+    },
+    {
+      "k": "Bølgen",
+      "t": "Hvorfor tsunamien vokser ved land",
+      "d": "På grunt vann bremses bølgen opp, og energien går fra fart til høyde. Derfor tårner den seg opp først når den nærmer seg kysten."
+    },
+    {
+      "k": "Varsling",
+      "t": "Hvorfor tsunamier kan varsles",
+      "d": "Jordskjelvbølger beveger seg mye raskere enn tsunamibølger. Registreres et stort skjelv under havbunnen, rekker varselet fram før bølgen."
+    },
+    {
+      "k": "Varsling",
+      "t": "Når havet trekker seg tilbake",
+      "d": "Betyr at bølgedalen treffer først, og at bølgetoppen kommer like etter. Varselet gis bare på den ene siden av bruddsonen."
+    },
+    {
+      "k": "Hendelser",
+      "t": "Tsunamien i Indiahavet 2004",
+      "d": "Utløst av et megaskjelv utenfor Sumatra der to litosfæreplater forskjøv seg. Rammet blant annet Thailand, Sri Lanka og India."
+    },
+    {
+      "k": "Hendelser",
+      "t": "Tsunamien i Japan 2011",
+      "d": "Utløst av et megaskjelv i subduksjonssonen utenfor kysten. Førte også til atomulykken i Fukushima."
+    },
+    {
+      "k": "Norge",
+      "t": "Norske tsunamier",
+      "d": "Utløses av fjellskred som raser ut i fjorder eller innsjøer. Tafjord 1934 og Loen 1905 og 1936 er de mest kjente."
+    },
+    {
+      "k": "Norge",
+      "t": "Åknes",
+      "d": "Ustabil fjellside i Storfjorden på Sunnmøre som overvåkes døgnet rundt, nettopp fordi et skred kan utløse en flodbølge."
+    }
   ]
 }

@@ -38,6 +38,7 @@
         <button class="tab" data-tab="fagstoff" data-tittel="Fagstoff"><span class="tab__dot" aria-hidden="true">FS</span><span class="tab__txt">Fagstoff</span></button>
         <button class="tab" data-tab="oppgaver" data-tittel="Oppgaver og fasit"><span class="tab__dot" aria-hidden="true">OP</span><span class="tab__txt">Oppgaver og fasit</span></button>
         <button class="tab" data-tab="sammendrag" data-tittel="Sammendrag"><span class="tab__dot" aria-hidden="true">SM</span><span class="tab__txt">Sammendrag</span></button>
+        <button class="tab" data-tab="flashcards" data-tittel="Flashcards"><span class="tab__dot" aria-hidden="true">FC</span><span class="tab__txt">Flashcards</span></button>
         <button class="tab" data-tab="quiz" data-tittel="Quiz"><span class="tab__dot" aria-hidden="true">QZ</span><span class="tab__txt">Quiz</span></button>
       </div>
       <div class="navgroup">
@@ -308,12 +309,39 @@
 </section>
 <section class="panel" id="panel-flashcards">
 <h2 style="margin-top:0">Flashcards</h2>
-<p>Det er ikke laget flashcards for dette kapitlet ennå.</p></section>
+<p class="lede">10 begreper fra kapitlet. Klikk på kortet for å snu det, og merk hvert kort som lett eller vanskelig — vanskelige kort kommer oftere igjen.</p>
+
+<div class="fc-scene">
+  <div class="flashcard" id="flashcard" tabindex="0" role="button" aria-label="Snu kortet">
+    <div class="flashcard__inner">
+      <div class="flashcard__face flashcard__front">
+        <div class="flashcard__kat fc-kat" id="fcKat"></div>
+        <div class="flashcard__term" id="fcTerm"></div>
+        <div class="flashcard__hint">Klikk eller trykk mellomrom for å snu</div>
+      </div>
+      <div class="flashcard__face flashcard__back">
+        <div class="flashcard__kat">Forklaring</div>
+        <div class="flashcard__def" id="fcDef"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="fc-kontroll">
+  <button type="button" class="knapp knapp--lett fc-lett" id="fcLett">Lett</button>
+  <button type="button" class="knapp knapp--primar fc-neste" id="fcNeste">Neste kort</button>
+  <button type="button" class="knapp knapp--vanskelig fc-vanskelig" id="fcVanskelig">Vanskelig</button>
+</div>
+<p class="fc-stat" id="fcStat"></p>
+<div class="opgverktoy" style="justify-content:center">
+  <button type="button" class="knapp fc-nullstill" id="fcNullstill">Nullstill statistikken</button>
+</div>
+
+</section>
 <section class="panel" id="panel-quiz">
 <h2 style="margin-top:0">Quiz</h2>
 <p class="lede">10 flervalgsspørsmål fra kapitlet, i tilfeldig rekkefølge. Du får en forklaring til hvert svar.</p>
 <p class="quiz-poeng" id="quizPoeng"></p>
-<div id="quizRot"></div>
+<div class="quiz-rot" id="quizRot"></div>
 </section>
     </main>
     <button id="tilTopp" class="totop" aria-label="Til toppen av siden" title="Til toppen">
@@ -322,12 +350,12 @@
     <footer class="sitefoot">
       <div class="wrap">
         <p>Læringsside for Geofag 1 — Naturkatastrofer, geologi og landskap. Fagstoff, oppgaver og sammendrag følger kapittelstrukturen i læreverket.</p>
-        <p>Quizresultater lagres lokalt i nettleseren din og sendes ingen steder.</p>
+        <p>Quiz- og flashcardresultater lagres lokalt i nettleseren din og sendes ingen steder.</p>
       </div>
     </footer>
   </div>
 </div>
-<script>window.GEOFAG_QUIZ=[{"k": "Skredtyper", "q": "Hvilke er de vanligste skredtypene?", "alt": ["Fjellskred, steinskred, jordskred, kvikkleireskred og snøskred", "Bare fjellskred og snøskred", "Bare jordskred og kvikkleireskred", "Flomskred og isskred"], "rett": 0, "f": "I tillegg forekommer skred på havbunnen — som Storeggaskredet, det største kjente undersjøiske skredet."}, {"k": "Steinsprang", "q": "Hva kalles det når enkeltsteiner raser ut?", "alt": ["Steinsprang", "Steinskred", "Fjellskred", "Jordskred"], "rett": 0, "f": "Steinsprang er enkeltsteiner. Steinskred er større mengder samtidig, og fjellskred er de aller største utrasingene fra en hel fjellside."}, {"k": "Klima", "q": "Hvordan kan klimaendringer påvirke skredfaren?", "alt": ["De kan øke den", "De reduserer skredfaren", "De har ingen betydning", "De påvirker bare snøskred"], "rett": 0, "f": "Mer ekstremnedbør, flere fryse- og tinesykluser og tining av permafrost i fjellet svekker fjellsidene og øker faren."}, {"k": "Fjellskred", "q": "Hva øker faren for fjellskred?", "alt": ["Bratte fjellsider og svakhetssoner i berggrunnen", "Flatt terreng", "Tykke løsmasselag", "Høy grunnvannstand alene"], "rett": 0, "f": "Bratt terreng gir tyngdekraften noe å ta tak i, og svakhetssoner — sprekker, forkastninger, lagdeling — gir bruddet en flate å gli langs."}, {"k": "Utløsere", "q": "Hva kan utløse et fjellskred?", "alt": ["Jordskjelv", "Sterk vind", "Tidevann", "Lav temperatur alene"], "rett": 0, "f": "Jordskjelv kan gi det siste puffet til en fjellside som allerede er ustabil. Kraftig nedbør og frostsprengning virker på samme måte."}, {"k": "Forebygging", "q": "Hvorfor er kartlegging og overvåking så viktig for fjellskred?", "alt": ["Fordi det er vanskelig å hindre selve skredet", "Fordi kartlegging stopper skredet", "Fordi det er billigere enn å bygge sikring, men like effektivt mot skredet", "Fordi fjellskred alltid går på samme sted"], "rett": 0, "f": "En hel fjellside lar seg ikke sikre. Derfor er strategien å vite hvor faren er, følge med på bevegelsen, og evakuere i tide."}, {"k": "Ansvar", "q": "Hvem har ansvaret for overvåkingen av skredfarlige fjellsider i Norge?", "alt": ["NVE", "Mattilsynet", "Statens vegvesen", "Meteorologisk institutt"], "rett": 0, "f": "Norges vassdrags- og energidirektorat har ansvaret. Åknes i Storfjorden er det mest kjente overvåkede objektet."}, {"k": "Overvåking", "q": "Hvilke metoder brukes til å overvåke ustabile fjellsider?", "alt": ["Radar, laser, seismografer, geofoner, strekkstag, borehull og GPS", "Bare visuell inspeksjon", "Bare satellittfoto", "Bare værmeldinger"], "rett": 0, "f": "Alle måler det samme: bevegelse. Til sammen gir de et bilde av om fjellsiden kryper langsomt eller akselererer."}, {"k": "Varsling", "q": "Hvorfor er det mulig å varsle fjellskred, i motsetning til jordskjelv?", "alt": ["Det er ofte økt aktivitet i fjellsiden like før skredet går", "Fordi fjellskred alltid skjer om våren", "Fordi fjellskred utløses av værmeldinger", "Fordi fjellsider aldri beveger seg uventet"], "rett": 0, "f": "Bevegelsen akselererer gjerne i timene og dagene før bruddet. Registreres det, kan området evakueres — som ved Åknes-beredskapen."}, {"k": "Tsunami", "q": "Hvorfor er fjellskred ved fjorder spesielt farlige i Norge?", "alt": ["Massene som raser i sjøen kan utløse flodbølger", "Fordi de utløser jordskjelv", "Fordi de demmer opp fjorden", "Fordi de forurenser drikkevannet"], "rett": 0, "f": "Tafjord i 1934 og Loen i 1905 og 1936 er de mest kjente. Det er nettopp flodbølgefaren som gjør Åknes så alvorlig."}];</script>
+<script>window.GEOFAG_FLASHCARDS=[{"k": "Skredtyper", "t": "Steinsprang", "d": "Enkeltsteiner som raser ut fra en fjellside."}, {"k": "Skredtyper", "t": "Steinskred", "d": "Større mengder stein som raser ut samtidig. Mellom steinsprang og fjellskred i størrelse."}, {"k": "Skredtyper", "t": "Fjellskred", "d": "De aller største utrasingene, der en hel fjellside gir etter. Kan utløse flodbølger hvis massene treffer vann."}, {"k": "Årsaker", "t": "Hva som øker faren for fjellskred", "d": "Bratte fjellsider og svakhetssoner i berggrunnen — sprekker, forkastninger og lagdeling som bruddet kan gli langs."}, {"k": "Årsaker", "t": "Utløsere for fjellskred", "d": "Jordskjelv, kraftig nedbør og frostsprengning. De gir det siste puffet til en fjellside som alt er ustabil."}, {"k": "Årsaker", "t": "Klimaendringer og skredfare", "d": "Mer ekstremnedbør, flere fryse- og tinesykluser og tining av permafrost i fjellet svekker fjellsidene."}, {"k": "Overvåking", "t": "Hvorfor overvåking framfor sikring", "d": "En hel fjellside lar seg ikke sikre. Strategien er å vite hvor faren er, følge bevegelsen og evakuere i tide."}, {"k": "Overvåking", "t": "NVE", "d": "Norges vassdrags- og energidirektorat, som har ansvaret for overvåkingen av skredfarlige fjellsider i Norge."}, {"k": "Overvåking", "t": "Overvåkingsmetoder", "d": "Radar, laser, seismografer, geofoner, strekkstag, borehull og GPS. Alle måler det samme: bevegelse."}, {"k": "Varsling", "t": "Hvorfor fjellskred kan varsles", "d": "Bevegelsen i fjellsiden akselererer gjerne i timene og dagene før bruddet."}];window.GEOFAG_QUIZ=[{"k": "Skredtyper", "q": "Hvilke er de vanligste skredtypene?", "alt": ["Fjellskred, steinskred, jordskred, kvikkleireskred og snøskred", "Bare fjellskred og snøskred", "Bare jordskred og kvikkleireskred", "Flomskred og isskred"], "rett": 0, "f": "I tillegg forekommer skred på havbunnen — som Storeggaskredet, det største kjente undersjøiske skredet."}, {"k": "Steinsprang", "q": "Hva kalles det når enkeltsteiner raser ut?", "alt": ["Steinsprang", "Steinskred", "Fjellskred", "Jordskred"], "rett": 0, "f": "Steinsprang er enkeltsteiner. Steinskred er større mengder samtidig, og fjellskred er de aller største utrasingene fra en hel fjellside."}, {"k": "Klima", "q": "Hvordan kan klimaendringer påvirke skredfaren?", "alt": ["De kan øke den", "De reduserer skredfaren", "De har ingen betydning", "De påvirker bare snøskred"], "rett": 0, "f": "Mer ekstremnedbør, flere fryse- og tinesykluser og tining av permafrost i fjellet svekker fjellsidene og øker faren."}, {"k": "Fjellskred", "q": "Hva øker faren for fjellskred?", "alt": ["Bratte fjellsider og svakhetssoner i berggrunnen", "Flatt terreng", "Tykke løsmasselag", "Høy grunnvannstand alene"], "rett": 0, "f": "Bratt terreng gir tyngdekraften noe å ta tak i, og svakhetssoner — sprekker, forkastninger, lagdeling — gir bruddet en flate å gli langs."}, {"k": "Utløsere", "q": "Hva kan utløse et fjellskred?", "alt": ["Jordskjelv", "Sterk vind", "Tidevann", "Lav temperatur alene"], "rett": 0, "f": "Jordskjelv kan gi det siste puffet til en fjellside som allerede er ustabil. Kraftig nedbør og frostsprengning virker på samme måte."}, {"k": "Forebygging", "q": "Hvorfor er kartlegging og overvåking så viktig for fjellskred?", "alt": ["Fordi det er vanskelig å hindre selve skredet", "Fordi kartlegging stopper skredet", "Fordi det er billigere enn å bygge sikring, men like effektivt mot skredet", "Fordi fjellskred alltid går på samme sted"], "rett": 0, "f": "En hel fjellside lar seg ikke sikre. Derfor er strategien å vite hvor faren er, følge med på bevegelsen, og evakuere i tide."}, {"k": "Ansvar", "q": "Hvem har ansvaret for overvåkingen av skredfarlige fjellsider i Norge?", "alt": ["NVE", "Mattilsynet", "Statens vegvesen", "Meteorologisk institutt"], "rett": 0, "f": "Norges vassdrags- og energidirektorat har ansvaret. Åknes i Storfjorden er det mest kjente overvåkede objektet."}, {"k": "Overvåking", "q": "Hvilke metoder brukes til å overvåke ustabile fjellsider?", "alt": ["Radar, laser, seismografer, geofoner, strekkstag, borehull og GPS", "Bare visuell inspeksjon", "Bare satellittfoto", "Bare værmeldinger"], "rett": 0, "f": "Alle måler det samme: bevegelse. Til sammen gir de et bilde av om fjellsiden kryper langsomt eller akselererer."}, {"k": "Varsling", "q": "Hvorfor er det mulig å varsle fjellskred, i motsetning til jordskjelv?", "alt": ["Det er ofte økt aktivitet i fjellsiden like før skredet går", "Fordi fjellskred alltid skjer om våren", "Fordi fjellskred utløses av værmeldinger", "Fordi fjellsider aldri beveger seg uventet"], "rett": 0, "f": "Bevegelsen akselererer gjerne i timene og dagene før bruddet. Registreres det, kan området evakueres — som ved Åknes-beredskapen."}, {"k": "Tsunami", "q": "Hvorfor er fjellskred ved fjorder spesielt farlige i Norge?", "alt": ["Massene som raser i sjøen kan utløse flodbølger", "Fordi de utløser jordskjelv", "Fordi de demmer opp fjorden", "Fordi de forurenser drikkevannet"], "rett": 0, "f": "Tafjord i 1934 og Loen i 1905 og 1936 er de mest kjente. Det er nettopp flodbølgefaren som gjør Åknes så alvorlig."}];</script>
 <script src="../assets/geofag.js"></script>
 </body>
 </html>

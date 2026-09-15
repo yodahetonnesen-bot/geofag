@@ -144,5 +144,67 @@
       "rett": 0,
       "f": "Indre krefter bygger opp fjellkjeder og vulkaner. Ytre krefter — isbreer, rennende vann og frost — skurer, sliper og forvitrer overflaten. Det pågår en evig kamp mellom dem."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Sfærene",
+      "t": "Geosfæren",
+      "d": "Den faste delen av jorda, fra den indre kjernen og ut til jordoverflaten. Inneholder stein og steinsmelte med temperaturer opp mot 5000 °C innerst."
+    },
+    {
+      "k": "Sfærene",
+      "t": "Hydrosfæren",
+      "d": "Alt vannet på jorda — hav, elver, innsjøer, grunnvann og vanndamp i atmosfæren. Havvann utgjør 97 prosent av det."
+    },
+    {
+      "k": "Sfærene",
+      "t": "Kryosfæren",
+      "d": "All is og snø på jorda. Det meste ligger i innlandsisene på Grønland og i Antarktis. Regnes som en del av hydrosfæren — vann i fast form."
+    },
+    {
+      "k": "Sfærene",
+      "t": "Atmosfæren",
+      "d": "Luftlaget som beskytter jorda mot verdensrommet. Nederste lag er troposfæren, 8–15 km tykk, med 90 prosent av all luft og alt «vær»."
+    },
+    {
+      "k": "Sfærene",
+      "t": "Biosfæren",
+      "d": "Alt liv på jorda, i en tynn sone av havet, jordoverflaten og atmosfæren."
+    },
+    {
+      "k": "Sfærene",
+      "t": "Troposfæren",
+      "d": "Nederste laget i atmosfæren, 8–15 km høyt. Inneholder 90 prosent av all luft, og det er her skyer, nedbør og vind finnes."
+    },
+    {
+      "k": "Samspill",
+      "t": "Vekselvirkning",
+      "d": "Gjensidig påvirkning mellom sfærene. Klimaendringer involverer alle fem, og kan ikke forstås ved å se på én sfære alene."
+    },
+    {
+      "k": "Begreper",
+      "t": "Vær og klima",
+      "d": "Været er i konstant endring fra dag til dag. Klimaet er gjennomsnittsværet over tidsrom på flere tiår."
+    },
+    {
+      "k": "Begreper",
+      "t": "Biologisk mangfold",
+      "d": "Både antall arter og det genetiske mangfoldet innenfor hver art. Begge deler er nødvendig for at artene skal overleve."
+    },
+    {
+      "k": "Krefter",
+      "t": "Indre krefter",
+      "d": "Krefter fra jordas indre. Mantelstrømmer beveger platene, og resultatet er jordskjelv, vulkanisme og fjellkjeder."
+    },
+    {
+      "k": "Krefter",
+      "t": "Ytre krefter",
+      "d": "Krefter som skurer, sliper og forvitrer landoverflaten — isbreer, rennende vann og frost. De danner daler, fjorder, sletter og åser."
+    },
+    {
+      "k": "Arbeidsmåter",
+      "t": "Feltarbeid",
+      "d": "Fysiske undersøkelser ute i naturen. En sentral arbeidsmåte i geofag — hele verden er «laboratoriet»."
+    }
   ]
 }

@@ -144,5 +144,62 @@
       "rett": 0,
       "f": "Landhevningen er ulik langs kysten, og der den er svakest, stiger havet nå raskere enn landet. Netto får disse stedene stigende havnivå."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Kysttyper",
+      "t": "Skjærgårdskyst",
+      "d": "Dannes der et småkupert viddelandskap dukker ned i havet. Toppene blir øyer og skjær, forsenkningene sund og bukter."
+    },
+    {
+      "k": "Kysttyper",
+      "t": "Strandflate",
+      "d": "Brem med lavt land, øyer og grunt hav, med enkelte markerte restfjell som skiller den fra skjærgårdskysten."
+    },
+    {
+      "k": "Kysttyper",
+      "t": "Fjord",
+      "d": "En druknet U-dal. Isstrømmene gravde dalen dypt ned, og havet fylte den da isen forsvant."
+    },
+    {
+      "k": "Kysttyper",
+      "t": "Næringskyst",
+      "d": "Kyst med bratte skråninger, kalt næringer, der et viddelandskap stuper rett i havet uten strandflate imellom."
+    },
+    {
+      "k": "Kysttyper",
+      "t": "Løsmassekyst",
+      "d": "Kyst der strandsonen er utformet i løsmasser, ikke fast fjell. I stadig endring av bølger og strøm."
+    },
+    {
+      "k": "Prosesser",
+      "t": "Hva som former kystlandskapet",
+      "d": "Samspill mellom forvitring i strandsonen, bølgeerosjon og havstrømmer — og hvilke landformer som møter havet."
+    },
+    {
+      "k": "Landhevning",
+      "t": "Landhevning",
+      "d": "«Ettervirkningen» etter isavsmeltingen. Isens vekt presset skorpa ned, og den hever seg fortsatt — i flere tusen år til."
+    },
+    {
+      "k": "Landhevning",
+      "t": "Marin grense",
+      "d": "Den øvre grensen for havnivået i forhold til landmassen like etter siste istid. Under den finnes marin leire, over den ikke."
+    },
+    {
+      "k": "Landhevning",
+      "t": "Spor etter landhevningen",
+      "d": "Gamle strandlinjer og deltaer høyt over dagens havnivå. De ble dannet ved datidens havnivå."
+    },
+    {
+      "k": "Landformer",
+      "t": "Ravinelandskap",
+      "d": "Leirbakkelandskap under marin grense, med bekkedaler (raviner), skredgroper og gammel havbunn."
+    },
+    {
+      "k": "I dag",
+      "t": "Havnivåstigning mot landhevning",
+      "d": "På noen kyststrekninger har den globale havnivåstigningen tatt igjen landhevningen, slik at havet netto stiger."
+    }
   ]
 }

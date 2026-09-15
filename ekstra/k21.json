@@ -114,5 +114,57 @@
       "rett": 0,
       "f": "Kartene styrer hvor det kan bygges og hvilke undersøkelser som kreves først. Uten dem kan et byggeprosjekt utløse et skred ingen visste var mulig."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Skredtyper",
+      "t": "Jordskred",
+      "d": "Skred der løsmasser raser ut — morenejord (flomskred) eller leirjord (kvikkleireskred)."
+    },
+    {
+      "k": "Skredtyper",
+      "t": "Flomskred",
+      "d": "Skred i morenejord, utløst av at store mengder vann metter løsmassene og reduserer friksjonen mellom kornene."
+    },
+    {
+      "k": "Skredtyper",
+      "t": "Kvikkleireskred",
+      "d": "Skred i marin leire under marin grense. Kan bre seg bakover og ta med seg store områder."
+    },
+    {
+      "k": "Kvikkleire",
+      "t": "Kvikkleire",
+      "d": "Ustabil leire der saltet som holdt leirpartiklene sammen, er vasket ut eller redusert av ferskt grunnvann."
+    },
+    {
+      "k": "Kvikkleire",
+      "t": "Hvorfor kvikkleire bare finnes under marin grense",
+      "d": "Leira ble avsatt i saltvann etter istiden. Der havet aldri har vært, finnes den ikke."
+    },
+    {
+      "k": "Kvikkleire",
+      "t": "Korthusstrukturen",
+      "d": "Leirpartiklene står i et skjørt rammeverk som er stabilt til det forstyrres — da kollapser det og leira blir flytende."
+    },
+    {
+      "k": "Forebygging",
+      "t": "Tiltak mot kvikkleireskred",
+      "d": "Forbygninger, steinsettinger eller støping av betongsøyler i leirmassene. Hindrer erosjon nederst, eller armerer massene."
+    },
+    {
+      "k": "Forebygging",
+      "t": "Risiko ved kvikkleireskred",
+      "d": "Både skredfaren og følgene av et skred teller. Fare ganger konsekvens — et skred i ubebygd område gir lav risiko."
+    },
+    {
+      "k": "Utløsere",
+      "t": "Hva som utløser kvikkleireskred",
+      "d": "Både naturen selv, gjennom erosjon i bekker og elver, og menneskers aktivitet med graving og oppfylling."
+    },
+    {
+      "k": "Landskap",
+      "t": "Kvikkleireskred og ravinelandskapet",
+      "d": "Skredene er med på å forme leirbakkelandskapet under marin grense, sammen med bekkene som graver raviner."
+    }
   ]
 }

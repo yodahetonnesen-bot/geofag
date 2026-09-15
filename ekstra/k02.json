@@ -165,5 +165,77 @@
       "rett": 0,
       "f": "Enorme mengder mafisk lava kan strømme ut over kort geologisk tid og danne store basaltprovinser. En hotspot under et kontinent kan også bidra til at kontinentet sprekker opp."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Jordas lagdeling",
+      "t": "Litosfæren",
+      "d": "Jordskorpa pluss den øverste faste delen av mantelen. 80–200 km tykk. Det er litosfæren som er delt opp i plater."
+    },
+    {
+      "k": "Jordas lagdeling",
+      "t": "Astenosfæren",
+      "d": "Laget under litosfæren, der mantelbergartene er nær smeltetemperatur. Bergartene er fortsatt faste, men myke nok til å deformeres."
+    },
+    {
+      "k": "Mantelen",
+      "t": "Mantelstrøm",
+      "d": "Faste mantelbergarter som «strømmer» — beveger seg svært langsomt som en seig masse, drevet av varme fra kjernen."
+    },
+    {
+      "k": "Platetektonikk",
+      "t": "Platetektonikk",
+      "d": "Læren om litosfæreplatene som beveger seg i forhold til hverandre. Forklarer jordskjelv, vulkaner og fjellkjeder."
+    },
+    {
+      "k": "Platetektonikk",
+      "t": "Drivkraften i platetektonikken",
+      "d": "Trekkraften fra havbunnsplater som synker ned i mantelen. Platas egen vekt drar resten med seg."
+    },
+    {
+      "k": "Superkontinenter",
+      "t": "Pangea",
+      "d": "Det yngste superkontinentet, samlet tidlig i perm og strakk seg fra pol til pol. Det har vært flere superkontinenter før det."
+    },
+    {
+      "k": "Superkontinenter",
+      "t": "Rodinia",
+      "d": "Superkontinentet der alt land var samlet mot slutten av prekambrium. Besto derfor bare av grunnfjell."
+    },
+    {
+      "k": "Manteldynamikk",
+      "t": "Manteldynamikk",
+      "d": "Forsøket på å se platetektonikken på jordoverflaten i sammenheng med prosessene nede i mantelen."
+    },
+    {
+      "k": "Manteldynamikk",
+      "t": "Seismisk tomografi",
+      "d": "Metode som avdekker temperaturforholdene i mantelen. Jordskjelvbølger går raskere gjennom kaldt materiale enn gjennom varmt."
+    },
+    {
+      "k": "Søylestrømmer",
+      "t": "Søylestrøm",
+      "d": "Termisk oppstrøm som dannes i utkanten av de to store varme områdene nederst i mantelen, på grensen mot jordkjernen."
+    },
+    {
+      "k": "Søylestrømmer",
+      "t": "Hotspot",
+      "d": "Varmt område like under litosfæren der bergartene i en søylestrøm smelter til magma fordi trykket minker."
+    },
+    {
+      "k": "Søylestrømmer",
+      "t": "Trykkavlastningssmelting",
+      "d": "Bergarter som stiger, møter lavere trykk. Lavere trykk senker smeltepunktet, og bergarten begynner å smelte uten at den blir varmere."
+    },
+    {
+      "k": "Søylestrømmer",
+      "t": "Basaltprovins",
+      "d": "Enorme lavadekker dannet der en søylestrøm når helt opp til jordoverflaten og store mengder mafisk lava strømmer ut."
+    },
+    {
+      "k": "Søylestrømmer",
+      "t": "Vulkansk øyrekke",
+      "d": "Rekke av vulkanøyer dannet når en havbunnsplate glir over en hotspot som står stille. Den eldste øya ligger lengst fra hotspoten."
+    }
   ]
 }

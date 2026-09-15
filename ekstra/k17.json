@@ -105,5 +105,47 @@
       "rett": 0,
       "f": "Isen frakter alt uten å sortere. Rennende vann kan bare frakte korn opp til en viss størrelse og runder dem av på veien. Derfor er sortering og rundingsgrad fasiten på hva som avsatte materialet."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Landformer",
+      "t": "Drumlin",
+      "d": "Ryggformet moreneavsetning avsatt av en bre i bevegelse. Ligger med lengderetningen i isens bevegelsesretning."
+    },
+    {
+      "k": "Landformer",
+      "t": "Esker",
+      "d": "Grusås av glasifluviale avsetninger, avsatt av smeltevann i en tunnel under en dødis. Slynger seg gjennom landskapet."
+    },
+    {
+      "k": "Landformer",
+      "t": "Randavsetning",
+      "d": "Glasiale eller glasifluviale avsetninger avsatt foran breen. Raet på Østlandet er den mest kjente norske."
+    },
+    {
+      "k": "Landformer",
+      "t": "Dødisgrop",
+      "d": "Grop dannet i glasifluviale avsetninger når en begravd isrest smeltet og massene over sank ned. Blir ofte en rund tjern eller myr."
+    },
+    {
+      "k": "Begreper",
+      "t": "Dødis",
+      "d": "Is uten næringsområde, som ikke flytter på seg. Blir liggende i ro og smelter bort på stedet."
+    },
+    {
+      "k": "Begreper",
+      "t": "Bredemt sjø",
+      "d": "Sjø dannet der isen sperret for vannets naturlige utløp. I Sør-Norge lå isskillet sør og øst for vannskillet, så det oppsto slike sjøer øverst i østnorske daler."
+    },
+    {
+      "k": "Skille",
+      "t": "Morene mot glasifluvialt",
+      "d": "Isen sorterer ikke og runder ikke av — morene er usortert med kantete stein. Smeltevann sorterer og runder av — glasifluviale avsetninger er lagdelte med runde korn."
+    },
+    {
+      "k": "Sokkelen",
+      "t": "Avsetningene langs eggakanten",
+      "d": "Enorme mengder glasiale og glasifluviale avsetninger. De er ustabile, og skred i dem — som Storegga — kan utløse tsunami."
+    }
   ]
 }

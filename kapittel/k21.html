@@ -38,6 +38,7 @@
         <button class="tab" data-tab="fagstoff" data-tittel="Fagstoff"><span class="tab__dot" aria-hidden="true">FS</span><span class="tab__txt">Fagstoff</span></button>
         <button class="tab" data-tab="oppgaver" data-tittel="Oppgaver og fasit"><span class="tab__dot" aria-hidden="true">OP</span><span class="tab__txt">Oppgaver og fasit</span></button>
         <button class="tab" data-tab="sammendrag" data-tittel="Sammendrag"><span class="tab__dot" aria-hidden="true">SM</span><span class="tab__txt">Sammendrag</span></button>
+        <button class="tab" data-tab="flashcards" data-tittel="Flashcards"><span class="tab__dot" aria-hidden="true">FC</span><span class="tab__txt">Flashcards</span></button>
         <button class="tab" data-tab="quiz" data-tittel="Quiz"><span class="tab__dot" aria-hidden="true">QZ</span><span class="tab__txt">Quiz</span></button>
       </div>
       <div class="navgroup">
@@ -342,12 +343,39 @@
 </section>
 <section class="panel" id="panel-flashcards">
 <h2 style="margin-top:0">Flashcards</h2>
-<p>Det er ikke laget flashcards for dette kapitlet ennå.</p></section>
+<p class="lede">10 begreper fra kapitlet. Klikk på kortet for å snu det, og merk hvert kort som lett eller vanskelig — vanskelige kort kommer oftere igjen.</p>
+
+<div class="fc-scene">
+  <div class="flashcard" id="flashcard" tabindex="0" role="button" aria-label="Snu kortet">
+    <div class="flashcard__inner">
+      <div class="flashcard__face flashcard__front">
+        <div class="flashcard__kat fc-kat" id="fcKat"></div>
+        <div class="flashcard__term" id="fcTerm"></div>
+        <div class="flashcard__hint">Klikk eller trykk mellomrom for å snu</div>
+      </div>
+      <div class="flashcard__face flashcard__back">
+        <div class="flashcard__kat">Forklaring</div>
+        <div class="flashcard__def" id="fcDef"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="fc-kontroll">
+  <button type="button" class="knapp knapp--lett fc-lett" id="fcLett">Lett</button>
+  <button type="button" class="knapp knapp--primar fc-neste" id="fcNeste">Neste kort</button>
+  <button type="button" class="knapp knapp--vanskelig fc-vanskelig" id="fcVanskelig">Vanskelig</button>
+</div>
+<p class="fc-stat" id="fcStat"></p>
+<div class="opgverktoy" style="justify-content:center">
+  <button type="button" class="knapp fc-nullstill" id="fcNullstill">Nullstill statistikken</button>
+</div>
+
+</section>
 <section class="panel" id="panel-quiz">
 <h2 style="margin-top:0">Quiz</h2>
 <p class="lede">9 flervalgsspørsmål fra kapitlet, i tilfeldig rekkefølge. Du får en forklaring til hvert svar.</p>
 <p class="quiz-poeng" id="quizPoeng"></p>
-<div id="quizRot"></div>
+<div class="quiz-rot" id="quizRot"></div>
 </section>
     </main>
     <button id="tilTopp" class="totop" aria-label="Til toppen av siden" title="Til toppen">
@@ -356,12 +384,12 @@
     <footer class="sitefoot">
       <div class="wrap">
         <p>Læringsside for Geofag 1 — Naturkatastrofer, geologi og landskap. Fagstoff, oppgaver og sammendrag følger kapittelstrukturen i læreverket.</p>
-        <p>Quizresultater lagres lokalt i nettleseren din og sendes ingen steder.</p>
+        <p>Quiz- og flashcardresultater lagres lokalt i nettleseren din og sendes ingen steder.</p>
       </div>
     </footer>
   </div>
 </div>
-<script>window.GEOFAG_QUIZ=[{"k": "Jordskred", "q": "Hva raser ut i et jordskred?", "alt": ["Morenejord (flomskred) eller leirjord (kvikkleireskred)", "Bare fast fjell", "Bare snø", "Bare sand"], "rett": 0, "f": "Jordskred er samlebetegnelsen. Går det i morenejord, gjerne utløst av mye vann, kalles det flomskred. Går det i marin leire, er det kvikkleireskred."}, {"k": "Marin grense", "q": "Hvor kan kvikkleireskred skje?", "alt": ["Under den marine grensen", "Over den marine grensen", "Bare i høyfjellet", "Overalt i landet"], "rett": 0, "f": "Kvikkleire er marin leire, avsatt i havet etter istiden. Der havet aldri har vært — over marin grense — finnes den ikke."}, {"k": "Kvikkleire", "q": "Hva gjør leira kvikk?", "alt": ["Saltet som holdt leirpartiklene sammen, er vasket ut eller redusert", "Leira er tilført salt", "Leira er frosset", "Leira er blandet med sand"], "rett": 0, "f": "Da leira ble avsatt i saltvann, bandt saltet partiklene sammen. Ferskt grunnvann har siden vasket saltet ut, og strukturen står igjen som et korthus — stabilt til det forstyrres, så blir den flytende."}, {"k": "Landskap", "q": "Hvilket landskap er kvikkleireskred med på å forme?", "alt": ["Ravinelandskapet, leirbakkelandskapet", "Det alpine landskapet", "Strandflaten", "Viddelandskapet"], "rett": 0, "f": "Bekkene graver seg ned i leira og lager raviner, og skredene etterlater skredgroper. Sammen gir det det karakteristiske leirbakkelandskapet under marin grense."}, {"k": "Utløsere", "q": "Hva kan utløse et kvikkleireskred?", "alt": ["Både naturen selv og menneskers aktivitet", "Bare naturlige prosesser", "Bare graving og utbygging", "Bare jordskjelv"], "rett": 0, "f": "Naturen graver ved erosjon i bekker og elver. Mennesker graver, fyller opp og bygger. Begge deler kan forstyrre likevekten — derfor er kartlegging så viktig."}, {"k": "Forebygging", "q": "Hvordan kan kvikkleireskred forebygges?", "alt": ["Ved forbygninger, steinsettinger eller støping av betongsøyler i leirmassene", "Ved å drenere bort alt grunnvann", "Ved å tilføre mer ferskvann", "Det er ikke mulig å forebygge"], "rett": 0, "f": "Tiltakene virker på to måter: de hindrer erosjon i bunnen av skråningen, eller de forankrer og armerer selve leirmassene."}, {"k": "Risiko", "q": "Hva inngår i risikoen ved kvikkleireskred?", "alt": ["Både skredfaren og følgene av et skred", "Bare sannsynligheten for skred", "Bare hvor mange som bor der", "Bare hvor dyp leira er"], "rett": 0, "f": "Risiko = fare × konsekvens. Et skred i et ubebygd område har lav risiko selv om faren er høy; i et boligfelt er det motsatt. Gjerdrumskredet i 2020 viste hva konsekvensene kan bli."}, {"k": "Flomskred", "q": "Hva utløser gjerne flomskred i morenejord?", "alt": ["Store mengder vann som metter løsmassene", "Sterk vind", "Lave temperaturer", "Tørke over lang tid"], "rett": 0, "f": "Vann fyller porene i løsmassene og reduserer friksjonen mellom kornene. Kraftig regn og rask snøsmelting er de vanlige utløserne — og begge ventes å bli hyppigere."}, {"k": "Kartlegging", "q": "Hvorfor er kartlegging av kvikkleireområder viktig?", "alt": ["Fordi menneskelig aktivitet kan utløse skred, og fordi man må vite hvor faren er før man bygger", "Fordi kartlegging i seg selv stabiliserer leira", "Fordi kvikkleire flytter seg fra sted til sted", "Fordi leira da kan fjernes helt"], "rett": 0, "f": "Kartene styrer hvor det kan bygges og hvilke undersøkelser som kreves først. Uten dem kan et byggeprosjekt utløse et skred ingen visste var mulig."}];</script>
+<script>window.GEOFAG_FLASHCARDS=[{"k": "Skredtyper", "t": "Jordskred", "d": "Skred der løsmasser raser ut — morenejord (flomskred) eller leirjord (kvikkleireskred)."}, {"k": "Skredtyper", "t": "Flomskred", "d": "Skred i morenejord, utløst av at store mengder vann metter løsmassene og reduserer friksjonen mellom kornene."}, {"k": "Skredtyper", "t": "Kvikkleireskred", "d": "Skred i marin leire under marin grense. Kan bre seg bakover og ta med seg store områder."}, {"k": "Kvikkleire", "t": "Kvikkleire", "d": "Ustabil leire der saltet som holdt leirpartiklene sammen, er vasket ut eller redusert av ferskt grunnvann."}, {"k": "Kvikkleire", "t": "Hvorfor kvikkleire bare finnes under marin grense", "d": "Leira ble avsatt i saltvann etter istiden. Der havet aldri har vært, finnes den ikke."}, {"k": "Kvikkleire", "t": "Korthusstrukturen", "d": "Leirpartiklene står i et skjørt rammeverk som er stabilt til det forstyrres — da kollapser det og leira blir flytende."}, {"k": "Forebygging", "t": "Tiltak mot kvikkleireskred", "d": "Forbygninger, steinsettinger eller støping av betongsøyler i leirmassene. Hindrer erosjon nederst, eller armerer massene."}, {"k": "Forebygging", "t": "Risiko ved kvikkleireskred", "d": "Både skredfaren og følgene av et skred teller. Fare ganger konsekvens — et skred i ubebygd område gir lav risiko."}, {"k": "Utløsere", "t": "Hva som utløser kvikkleireskred", "d": "Både naturen selv, gjennom erosjon i bekker og elver, og menneskers aktivitet med graving og oppfylling."}, {"k": "Landskap", "t": "Kvikkleireskred og ravinelandskapet", "d": "Skredene er med på å forme leirbakkelandskapet under marin grense, sammen med bekkene som graver raviner."}];window.GEOFAG_QUIZ=[{"k": "Jordskred", "q": "Hva raser ut i et jordskred?", "alt": ["Morenejord (flomskred) eller leirjord (kvikkleireskred)", "Bare fast fjell", "Bare snø", "Bare sand"], "rett": 0, "f": "Jordskred er samlebetegnelsen. Går det i morenejord, gjerne utløst av mye vann, kalles det flomskred. Går det i marin leire, er det kvikkleireskred."}, {"k": "Marin grense", "q": "Hvor kan kvikkleireskred skje?", "alt": ["Under den marine grensen", "Over den marine grensen", "Bare i høyfjellet", "Overalt i landet"], "rett": 0, "f": "Kvikkleire er marin leire, avsatt i havet etter istiden. Der havet aldri har vært — over marin grense — finnes den ikke."}, {"k": "Kvikkleire", "q": "Hva gjør leira kvikk?", "alt": ["Saltet som holdt leirpartiklene sammen, er vasket ut eller redusert", "Leira er tilført salt", "Leira er frosset", "Leira er blandet med sand"], "rett": 0, "f": "Da leira ble avsatt i saltvann, bandt saltet partiklene sammen. Ferskt grunnvann har siden vasket saltet ut, og strukturen står igjen som et korthus — stabilt til det forstyrres, så blir den flytende."}, {"k": "Landskap", "q": "Hvilket landskap er kvikkleireskred med på å forme?", "alt": ["Ravinelandskapet, leirbakkelandskapet", "Det alpine landskapet", "Strandflaten", "Viddelandskapet"], "rett": 0, "f": "Bekkene graver seg ned i leira og lager raviner, og skredene etterlater skredgroper. Sammen gir det det karakteristiske leirbakkelandskapet under marin grense."}, {"k": "Utløsere", "q": "Hva kan utløse et kvikkleireskred?", "alt": ["Både naturen selv og menneskers aktivitet", "Bare naturlige prosesser", "Bare graving og utbygging", "Bare jordskjelv"], "rett": 0, "f": "Naturen graver ved erosjon i bekker og elver. Mennesker graver, fyller opp og bygger. Begge deler kan forstyrre likevekten — derfor er kartlegging så viktig."}, {"k": "Forebygging", "q": "Hvordan kan kvikkleireskred forebygges?", "alt": ["Ved forbygninger, steinsettinger eller støping av betongsøyler i leirmassene", "Ved å drenere bort alt grunnvann", "Ved å tilføre mer ferskvann", "Det er ikke mulig å forebygge"], "rett": 0, "f": "Tiltakene virker på to måter: de hindrer erosjon i bunnen av skråningen, eller de forankrer og armerer selve leirmassene."}, {"k": "Risiko", "q": "Hva inngår i risikoen ved kvikkleireskred?", "alt": ["Både skredfaren og følgene av et skred", "Bare sannsynligheten for skred", "Bare hvor mange som bor der", "Bare hvor dyp leira er"], "rett": 0, "f": "Risiko = fare × konsekvens. Et skred i et ubebygd område har lav risiko selv om faren er høy; i et boligfelt er det motsatt. Gjerdrumskredet i 2020 viste hva konsekvensene kan bli."}, {"k": "Flomskred", "q": "Hva utløser gjerne flomskred i morenejord?", "alt": ["Store mengder vann som metter løsmassene", "Sterk vind", "Lave temperaturer", "Tørke over lang tid"], "rett": 0, "f": "Vann fyller porene i løsmassene og reduserer friksjonen mellom kornene. Kraftig regn og rask snøsmelting er de vanlige utløserne — og begge ventes å bli hyppigere."}, {"k": "Kartlegging", "q": "Hvorfor er kartlegging av kvikkleireområder viktig?", "alt": ["Fordi menneskelig aktivitet kan utløse skred, og fordi man må vite hvor faren er før man bygger", "Fordi kartlegging i seg selv stabiliserer leira", "Fordi kvikkleire flytter seg fra sted til sted", "Fordi leira da kan fjernes helt"], "rett": 0, "f": "Kartene styrer hvor det kan bygges og hvilke undersøkelser som kreves først. Uten dem kan et byggeprosjekt utløse et skred ingen visste var mulig."}];</script>
 <script src="../assets/geofag.js"></script>
 </body>
 </html>

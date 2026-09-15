@@ -38,6 +38,7 @@
         <button class="tab" data-tab="fagstoff" data-tittel="Fagstoff"><span class="tab__dot" aria-hidden="true">FS</span><span class="tab__txt">Fagstoff</span></button>
         <button class="tab" data-tab="oppgaver" data-tittel="Oppgaver og fasit"><span class="tab__dot" aria-hidden="true">OP</span><span class="tab__txt">Oppgaver og fasit</span></button>
         <button class="tab" data-tab="sammendrag" data-tittel="Sammendrag"><span class="tab__dot" aria-hidden="true">SM</span><span class="tab__txt">Sammendrag</span></button>
+        <button class="tab" data-tab="flashcards" data-tittel="Flashcards"><span class="tab__dot" aria-hidden="true">FC</span><span class="tab__txt">Flashcards</span></button>
         <button class="tab" data-tab="quiz" data-tittel="Quiz"><span class="tab__dot" aria-hidden="true">QZ</span><span class="tab__txt">Quiz</span></button>
       </div>
       <div class="navgroup">
@@ -304,12 +305,39 @@
 </section>
 <section class="panel" id="panel-flashcards">
 <h2 style="margin-top:0">Flashcards</h2>
-<p>Det er ikke laget flashcards for dette kapitlet ennå.</p></section>
+<p class="lede">8 begreper fra kapitlet. Klikk på kortet for å snu det, og merk hvert kort som lett eller vanskelig — vanskelige kort kommer oftere igjen.</p>
+
+<div class="fc-scene">
+  <div class="flashcard" id="flashcard" tabindex="0" role="button" aria-label="Snu kortet">
+    <div class="flashcard__inner">
+      <div class="flashcard__face flashcard__front">
+        <div class="flashcard__kat fc-kat" id="fcKat"></div>
+        <div class="flashcard__term" id="fcTerm"></div>
+        <div class="flashcard__hint">Klikk eller trykk mellomrom for å snu</div>
+      </div>
+      <div class="flashcard__face flashcard__back">
+        <div class="flashcard__kat">Forklaring</div>
+        <div class="flashcard__def" id="fcDef"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="fc-kontroll">
+  <button type="button" class="knapp knapp--lett fc-lett" id="fcLett">Lett</button>
+  <button type="button" class="knapp knapp--primar fc-neste" id="fcNeste">Neste kort</button>
+  <button type="button" class="knapp knapp--vanskelig fc-vanskelig" id="fcVanskelig">Vanskelig</button>
+</div>
+<p class="fc-stat" id="fcStat"></p>
+<div class="opgverktoy" style="justify-content:center">
+  <button type="button" class="knapp fc-nullstill" id="fcNullstill">Nullstill statistikken</button>
+</div>
+
+</section>
 <section class="panel" id="panel-quiz">
 <h2 style="margin-top:0">Quiz</h2>
 <p class="lede">8 flervalgsspørsmål fra kapitlet, i tilfeldig rekkefølge. Du får en forklaring til hvert svar.</p>
 <p class="quiz-poeng" id="quizPoeng"></p>
-<div id="quizRot"></div>
+<div class="quiz-rot" id="quizRot"></div>
 </section>
     </main>
     <button id="tilTopp" class="totop" aria-label="Til toppen av siden" title="Til toppen">
@@ -318,12 +346,12 @@
     <footer class="sitefoot">
       <div class="wrap">
         <p>Læringsside for Geofag 1 — Naturkatastrofer, geologi og landskap. Fagstoff, oppgaver og sammendrag følger kapittelstrukturen i læreverket.</p>
-        <p>Quizresultater lagres lokalt i nettleseren din og sendes ingen steder.</p>
+        <p>Quiz- og flashcardresultater lagres lokalt i nettleseren din og sendes ingen steder.</p>
       </div>
     </footer>
   </div>
 </div>
-<script>window.GEOFAG_QUIZ=[{"k": "Eggakanten", "q": "Hvor er det avsatt enorme mengder glasiale og glasifluviale avsetninger?", "alt": ["Langs eggakanten og øverst på kontinentalskråningen", "Midt på dyphavsbunnen", "Bare i norske daler", "På toppen av fjellene"], "rett": 0, "f": "Isen og smeltevannet fraktet massene helt ut til kanten av kontinentalsokkelen og dumpet dem der. Slike avsetninger er ustabile — det er her Storeggaskredet gikk."}, {"k": "Drumlin", "q": "Hva er en drumlin?", "alt": ["En ryggformet moreneavsetning avsatt av en bre i bevegelse", "En grusås avsatt av smeltevann", "En grop etter en smeltet isrest", "En rygg avsatt foran brefronten"], "rett": 0, "f": "Drumliner ligger med lengderetningen i isens bevegelsesretning og forteller derfor hvilken vei isen gikk."}, {"k": "Esker", "q": "Hva er en esker?", "alt": ["En grusås av glasifluviale avsetninger, avsatt av smeltevann i en tunnel under en dødis", "En morenerygg foran breen", "En elveslette i en dal", "En forkastning i berggrunnen"], "rett": 0, "f": "Smeltevannet renner i tunneler under isen og fyller dem med sortert grus og sand. Når isen smelter bort, står avsetningen igjen som en slyngete ås."}, {"k": "Dødis", "q": "Hva kjennetegner en dødis?", "alt": ["Den har ikke noe næringsområde og flytter ikke på seg", "Den beveger seg raskere enn andre breer", "Den er alltid polar", "Den ligger under havet"], "rett": 0, "f": "Uten næringsområde får isen ikke påfyll. Den blir liggende i ro og smelter bort på stedet — og former derfor andre landformer enn en bre i bevegelse."}, {"k": "Randavsetninger", "q": "Hva er randavsetninger?", "alt": ["Glasiale eller glasifluviale avsetninger avsatt foran breen", "Avsetninger under breen", "Avsetninger langs kysten", "Avsetninger fra havet"], "rett": 0, "f": "De bygges opp ved brefronten. Raet på Østlandet er den mest kjente norske randavsetningen, dannet under et opphold i isavsmeltingen."}, {"k": "Dødisgroper", "q": "Hvordan dannes dødisgroper?", "alt": ["Mindre isrester begravd i løsmassene smelter, og massene over synker ned", "Ved at elver graver ut hull", "Ved at breen presser ned underlaget", "Ved at havet vasker ut løsmasser"], "rett": 0, "f": "Isbiter blir liggende igjen i de glasifluviale avsetningene. Når de smelter, oppstår en grop — som ofte blir en liten rund tjern eller myr."}, {"k": "Bredemte sjøer", "q": "Hvorfor dannet det seg bredemte sjøer øverst i de største østnorske dalene?", "alt": ["Isskillet lå sør og øst for vannskillet, slik at isen sperret for vannet", "Fordi dalene var for bratte til å drenere", "Fordi havet steg inn i dalene", "Fordi elvene frøs til"], "rett": 0, "f": "Vannet ville renne én vei, men isen lå i veien. Da samlet det seg opp i store sjøer langs iskanten, til det til slutt fant utløp et annet sted."}, {"k": "Sortering", "q": "Hva er hovedforskjellen mellom morene og glasifluviale avsetninger?", "alt": ["Morene er usortert med kantete stein; glasifluviale avsetninger er sortert, lagdelt og med runde korn", "Morene er lagdelt, glasifluviale avsetninger er ikke", "Morene inneholder bare leire", "Det er ingen forskjell"], "rett": 0, "f": "Isen frakter alt uten å sortere. Rennende vann kan bare frakte korn opp til en viss størrelse og runder dem av på veien. Derfor er sortering og rundingsgrad fasiten på hva som avsatte materialet."}];</script>
+<script>window.GEOFAG_FLASHCARDS=[{"k": "Landformer", "t": "Drumlin", "d": "Ryggformet moreneavsetning avsatt av en bre i bevegelse. Ligger med lengderetningen i isens bevegelsesretning."}, {"k": "Landformer", "t": "Esker", "d": "Grusås av glasifluviale avsetninger, avsatt av smeltevann i en tunnel under en dødis. Slynger seg gjennom landskapet."}, {"k": "Landformer", "t": "Randavsetning", "d": "Glasiale eller glasifluviale avsetninger avsatt foran breen. Raet på Østlandet er den mest kjente norske."}, {"k": "Landformer", "t": "Dødisgrop", "d": "Grop dannet i glasifluviale avsetninger når en begravd isrest smeltet og massene over sank ned. Blir ofte en rund tjern eller myr."}, {"k": "Begreper", "t": "Dødis", "d": "Is uten næringsområde, som ikke flytter på seg. Blir liggende i ro og smelter bort på stedet."}, {"k": "Begreper", "t": "Bredemt sjø", "d": "Sjø dannet der isen sperret for vannets naturlige utløp. I Sør-Norge lå isskillet sør og øst for vannskillet, så det oppsto slike sjøer øverst i østnorske daler."}, {"k": "Skille", "t": "Morene mot glasifluvialt", "d": "Isen sorterer ikke og runder ikke av — morene er usortert med kantete stein. Smeltevann sorterer og runder av — glasifluviale avsetninger er lagdelte med runde korn."}, {"k": "Sokkelen", "t": "Avsetningene langs eggakanten", "d": "Enorme mengder glasiale og glasifluviale avsetninger. De er ustabile, og skred i dem — som Storegga — kan utløse tsunami."}];window.GEOFAG_QUIZ=[{"k": "Eggakanten", "q": "Hvor er det avsatt enorme mengder glasiale og glasifluviale avsetninger?", "alt": ["Langs eggakanten og øverst på kontinentalskråningen", "Midt på dyphavsbunnen", "Bare i norske daler", "På toppen av fjellene"], "rett": 0, "f": "Isen og smeltevannet fraktet massene helt ut til kanten av kontinentalsokkelen og dumpet dem der. Slike avsetninger er ustabile — det er her Storeggaskredet gikk."}, {"k": "Drumlin", "q": "Hva er en drumlin?", "alt": ["En ryggformet moreneavsetning avsatt av en bre i bevegelse", "En grusås avsatt av smeltevann", "En grop etter en smeltet isrest", "En rygg avsatt foran brefronten"], "rett": 0, "f": "Drumliner ligger med lengderetningen i isens bevegelsesretning og forteller derfor hvilken vei isen gikk."}, {"k": "Esker", "q": "Hva er en esker?", "alt": ["En grusås av glasifluviale avsetninger, avsatt av smeltevann i en tunnel under en dødis", "En morenerygg foran breen", "En elveslette i en dal", "En forkastning i berggrunnen"], "rett": 0, "f": "Smeltevannet renner i tunneler under isen og fyller dem med sortert grus og sand. Når isen smelter bort, står avsetningen igjen som en slyngete ås."}, {"k": "Dødis", "q": "Hva kjennetegner en dødis?", "alt": ["Den har ikke noe næringsområde og flytter ikke på seg", "Den beveger seg raskere enn andre breer", "Den er alltid polar", "Den ligger under havet"], "rett": 0, "f": "Uten næringsområde får isen ikke påfyll. Den blir liggende i ro og smelter bort på stedet — og former derfor andre landformer enn en bre i bevegelse."}, {"k": "Randavsetninger", "q": "Hva er randavsetninger?", "alt": ["Glasiale eller glasifluviale avsetninger avsatt foran breen", "Avsetninger under breen", "Avsetninger langs kysten", "Avsetninger fra havet"], "rett": 0, "f": "De bygges opp ved brefronten. Raet på Østlandet er den mest kjente norske randavsetningen, dannet under et opphold i isavsmeltingen."}, {"k": "Dødisgroper", "q": "Hvordan dannes dødisgroper?", "alt": ["Mindre isrester begravd i løsmassene smelter, og massene over synker ned", "Ved at elver graver ut hull", "Ved at breen presser ned underlaget", "Ved at havet vasker ut løsmasser"], "rett": 0, "f": "Isbiter blir liggende igjen i de glasifluviale avsetningene. Når de smelter, oppstår en grop — som ofte blir en liten rund tjern eller myr."}, {"k": "Bredemte sjøer", "q": "Hvorfor dannet det seg bredemte sjøer øverst i de største østnorske dalene?", "alt": ["Isskillet lå sør og øst for vannskillet, slik at isen sperret for vannet", "Fordi dalene var for bratte til å drenere", "Fordi havet steg inn i dalene", "Fordi elvene frøs til"], "rett": 0, "f": "Vannet ville renne én vei, men isen lå i veien. Da samlet det seg opp i store sjøer langs iskanten, til det til slutt fant utløp et annet sted."}, {"k": "Sortering", "q": "Hva er hovedforskjellen mellom morene og glasifluviale avsetninger?", "alt": ["Morene er usortert med kantete stein; glasifluviale avsetninger er sortert, lagdelt og med runde korn", "Morene er lagdelt, glasifluviale avsetninger er ikke", "Morene inneholder bare leire", "Det er ingen forskjell"], "rett": 0, "f": "Isen frakter alt uten å sortere. Rennende vann kan bare frakte korn opp til en viss størrelse og runder dem av på veien. Derfor er sortering og rundingsgrad fasiten på hva som avsatte materialet."}];</script>
 <script src="../assets/geofag.js"></script>
 </body>
 </html>

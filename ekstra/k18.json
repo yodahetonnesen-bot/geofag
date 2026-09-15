@@ -150,5 +150,77 @@
       "rett": 0,
       "f": "Har elva mer kraft enn materiale, graver den. Har den mer materiale enn kraft, legger den igjen. Det er derfor samme elv eroderer i øvre løp og avsetter i nedre."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Transport",
+      "t": "Bunntransport",
+      "d": "Stein, grus og grov sand som ruller og hopper langs elvebunnen."
+    },
+    {
+      "k": "Transport",
+      "t": "Slamtransport",
+      "d": "Leire og fin sand som fraktes svevende i vannmassene."
+    },
+    {
+      "k": "Transport",
+      "t": "Når elva eroderer mest",
+      "d": "Når vannføring og materialtransport er størst. En enkelt storflom kan flytte mer enn flere normalår til sammen."
+    },
+    {
+      "k": "Løpsmønstre",
+      "t": "Meanderløp",
+      "d": "Elveløp som svinger fram og tilbake i store slynger. Elva eroderer i yttersvingen og avsetter i innersvingen."
+    },
+    {
+      "k": "Løpsmønstre",
+      "t": "Kroksjø",
+      "d": "Avsnørt meandersving. Oppstår når elva bryter gjennom ved halsen og får et rettere løp."
+    },
+    {
+      "k": "Løpsmønstre",
+      "t": "Forgrenet løp",
+      "d": "Løpene deler seg stadig fordi elva har mer materiale enn den klarer å frakte, og legger det igjen som banker i løpet."
+    },
+    {
+      "k": "Erosjonsformer",
+      "t": "V-dal",
+      "d": "Dal med V-formet tverrprofil, gravd ut av elva. Til forskjell fra isbreens brede U-dal."
+    },
+    {
+      "k": "Erosjonsformer",
+      "t": "Canyon",
+      "d": "Svært dyp og trang elvedal med nesten loddrette sider."
+    },
+    {
+      "k": "Erosjonsformer",
+      "t": "Jettegryte",
+      "d": "Sylindrisk gryte boret ned i fjellet av en stasjonær strømvirvel som bruker stein og grus som slipemiddel."
+    },
+    {
+      "k": "Avsetningsformer",
+      "t": "Elvevifte",
+      "d": "Viftformet avsetning der en bratt sideelv møter den flate dalbunnen. Farten avtar, massene legges igjen, og løpet deler seg og flytter seg."
+    },
+    {
+      "k": "Avsetningsformer",
+      "t": "Elvevoll",
+      "d": "Rygg av sand og grus like ved elveløpet, avsatt når flomvannet går over bredden og mister fart umiddelbart."
+    },
+    {
+      "k": "Avsetningsformer",
+      "t": "Delta",
+      "d": "Avsetning der elva renner ut i en innsjø eller i havet og bremses opp av det stillestående vannet."
+    },
+    {
+      "k": "Avsetningsformer",
+      "t": "Elveterrasse",
+      "d": "Trinn i dalbunnen, dannet når elva eroderer seg ned i tidligere elvesletter og deltaflater. Et arkiv over landhevning og erosjon."
+    },
+    {
+      "k": "Prinsipp",
+      "t": "Erosjon eller avsetning?",
+      "d": "Har elva mer kraft enn materiale, graver den. Har den mer materiale enn kraft, legger den igjen."
+    }
   ]
 }

@@ -148,5 +148,67 @@
       "rett": 0,
       "f": "Vulkaner sier noen ganger fra selv: svermer av små skjelv når magmaen presser seg oppover, eller røyk fra krateret. Likevel er det vanskelig å si nøyaktig når utbruddet kommer — men lettere enn å varsle jordskjelv."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Vulkantyper",
+      "t": "Stratovulkan",
+      "d": "Vulkan med bratte sider, bygd opp av tyktflytende felsisk lava som ikke kommer langt før den stivner."
+    },
+    {
+      "k": "Vulkantyper",
+      "t": "Skjoldvulkan",
+      "d": "Vulkan med slake sider, bygd opp av lettflytende mafisk lava som renner langt utover. Hawaii er eksempelet."
+    },
+    {
+      "k": "Magma",
+      "t": "Felsisk magma",
+      "d": "Kiselrik, tyktflytende magma. Gir eksplosive utbrudd og bratte vulkaner."
+    },
+    {
+      "k": "Magma",
+      "t": "Mafisk magma",
+      "d": "Jern- og magnesiumrik, lettflytende magma fra mantelen. Gir rolige lavastrømmer og slake vulkaner."
+    },
+    {
+      "k": "Plategrenser",
+      "t": "Spredningsakse",
+      "d": "Plategrense der plater glir fra hverandre og ny skorpe dannes. Varmestrømmen fra jordas indre er størst her."
+    },
+    {
+      "k": "Plategrenser",
+      "t": "Black smoker",
+      "d": "Varm kilde på havbunnen langs midthavsryggene, der sjøvann varmes opp av ung skorpe og strømmer ut med oppløste mineraler."
+    },
+    {
+      "k": "Plategrenser",
+      "t": "Vulkansk øybue",
+      "d": "Rekke av vulkanøyer der en havbunnsplate subduseres under en annen havbunnsplate og smelter på dypet."
+    },
+    {
+      "k": "Utbrudd",
+      "t": "Pyroklastisk strøm",
+      "d": "Glohet blanding av aske, støv og gass som raser nedover vulkansiden med 100–200 km/t. Den dødeligste vulkanfaren."
+    },
+    {
+      "k": "Utbrudd",
+      "t": "Vulkanske bomber",
+      "d": "Større klumper av lava som slynges ut av krateret under et utbrudd og stivner i lufta."
+    },
+    {
+      "k": "Utbrudd",
+      "t": "Lava",
+      "d": "Steinsmelte som har nådd jordoverflaten. I dypet heter det samme stoffet magma."
+    },
+    {
+      "k": "Fare",
+      "t": "Vulkanutløst tsunami",
+      "d": "Utbrudd på havbunnen, eller kollaps av en vulkanflanke ned i havet, kan sette store vannmasser i bevegelse."
+    },
+    {
+      "k": "Varsling",
+      "t": "Forvarsler om vulkanutbrudd",
+      "d": "Svermer av små jordskjelv når magmaen presser seg oppover, eller røyk fra krateret. Lettere å varsle enn jordskjelv, men tidspunktet er usikkert."
+    }
   ]
 }

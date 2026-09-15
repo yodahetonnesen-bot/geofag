@@ -161,5 +161,72 @@
       "rett": 0,
       "f": "Karbon-14-metoden virker på dødt organisk materiale. Slike funn i løsmasser er avgjørende for å datere når isen forsvant og hvor høyt havet sto."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Grunnbegreper",
+      "t": "Løsmasser",
+      "d": "Alt løst materiale som ligger oppå berggrunnen, uansett hvordan det er dannet og transportert dit. Kalles også jord."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Jordsmonn",
+      "d": "Den delen av jordlaget som er påvirket av klima og levende organismer. Det er her plantene har røttene sine."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Mineraljord",
+      "d": "Jord som kommer fra forvitret og nedbrutt berggrunn. Den ene av de to hovedgruppene jordarter."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Organisk jord",
+      "d": "Jord bygd opp av planterester, som myrjord. Den andre hovedgruppen jordarter."
+    },
+    {
+      "k": "Egenskaper",
+      "t": "Sortert jordart",
+      "d": "En jordart som inneholder bare én kornstørrelse. Rennende vann sorterer godt; is sorterer ikke i det hele tatt."
+    },
+    {
+      "k": "Egenskaper",
+      "t": "Rundingsgrad",
+      "d": "Hvor avrundede steinene er. Rennende vann runder dem av; isen sliper dem, men rundingsgraden blir liten."
+    },
+    {
+      "k": "Jordarter",
+      "t": "Morene",
+      "d": "Usortert, ikke lagdelt jordart med alle kornstørrelser og kantete stein. Avsatt direkte av isen."
+    },
+    {
+      "k": "Jordarter",
+      "t": "Smeltevannsavsetning",
+      "d": "For det meste stein, grus og sand. Ofte lagdelt, med stor rundingsgrad — fordi smeltevannet sorterer og runder av."
+    },
+    {
+      "k": "Jordarter",
+      "t": "Elveavsetning",
+      "d": "Grus, sand og leire. Grusen er dårligere sortert, mens sand og leire ofte er godt sortert og lagdelt."
+    },
+    {
+      "k": "Jordarter",
+      "t": "Havavsetning",
+      "d": "Godt sortert leirjord av små, fine partikler. Bare de fineste partiklene når ut til rolig sjøvann. Det er slike som kan bli kvikkleire."
+    },
+    {
+      "k": "Jordarter",
+      "t": "Myrjord (torv)",
+      "d": "Organisk materiale dannet ved nedbrytning av planterester. Brytes bare delvis ned fordi det er vått og oksygenfattig."
+    },
+    {
+      "k": "Kornstørrelser",
+      "t": "Kornstørrelser etter størrelse",
+      "d": "Leire, finsand, sand, grus, stein, blokk. Leire er finest, blokk er grovest."
+    },
+    {
+      "k": "Datering",
+      "t": "Datering av løsmasser",
+      "d": "Skall-, bein- og trerester i løsmassene dateres med karbon-14-metoden. Slik vet vi når isen forsvant og hvor høyt havet sto."
+    }
   ]
 }

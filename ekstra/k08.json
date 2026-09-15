@@ -175,5 +175,77 @@
       "rett": 0,
       "f": "Vulkanismen i perm ga et uvanlig mangfold av magmatiske bergarter. Samtidig er de eldre, kambrosiluriske sedimentbergartene bevart i store områder — nettopp fordi de sank ned i riften."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Tidsinndeling",
+      "t": "Prekambrium",
+      "d": "Den eldste tiden, fra jordas dannelse til for 540 millioner år siden. Dekker nesten 90 prosent av jordas historie."
+    },
+    {
+      "k": "Tidsinndeling",
+      "t": "Masseutryddelse",
+      "d": "Periode der svært mange arter dør ut på kort geologisk tid. Det har vært fem etter prekambrium."
+    },
+    {
+      "k": "Bergarter",
+      "t": "Grunnfjell",
+      "d": "Bergarter dannet i prekambrium. Store deler av den norske berggrunnen er grunnfjell."
+    },
+    {
+      "k": "Bergarter",
+      "t": "Kambrosiluriske bergarter",
+      "d": "Leirskifre, sandsteiner og kalksteiner, herdet av avsetningene på bunnen av Iapetushavet gjennom kambrosilur."
+    },
+    {
+      "k": "Bergarter",
+      "t": "Kaledonske bergarter",
+      "d": "Bergarter som ble omdannet, skjøvet og foldet i kollisjonen mellom Baltika og Laurentia."
+    },
+    {
+      "k": "Landformer",
+      "t": "Peneplan",
+      "d": "Jevnt, bølgende sletteland nær havets overflate, slitt ned over svært lang tid. Rodinia endte som et slikt."
+    },
+    {
+      "k": "Kontinenter",
+      "t": "Rodinia",
+      "d": "Superkontinentet mot slutten av prekambrium, der alt land var samlet. Besto bare av grunnfjell."
+    },
+    {
+      "k": "Kontinenter",
+      "t": "Baltika",
+      "d": "Kontinentet Norge lå på etter at Rodinia ble splittet i senprekambrium."
+    },
+    {
+      "k": "Kontinenter",
+      "t": "Laurentia",
+      "d": "Kontinentet som skulle bli Nord-Amerika og Grønland. Kolliderte med Baltika og dannet den kaledonske fjellkjeden."
+    },
+    {
+      "k": "Havet",
+      "t": "Iapetushavet",
+      "d": "Havet som åpnet seg mellom Laurentia og Baltika. Gjennom kambrosilur ble det avsatt tykke lag av leire, sand og kalk på bunnen."
+    },
+    {
+      "k": "Fjellkjeden",
+      "t": "Den kaledonske fjellkjeden",
+      "d": "Dannet da Baltika og Laurentia kolliderte på slutten av silur, midt i oldtiden. Store flak ble skjøvet mange mil innover."
+    },
+    {
+      "k": "Oslofeltet",
+      "t": "Oslofeltet",
+      "d": "Riftdal dannet da Pangea sprakk opp i perm. Jordoverflaten sank inn mellom nordgående sprekker, med intens vulkansk aktivitet."
+    },
+    {
+      "k": "Oslofeltet",
+      "t": "Hvorfor Oslofeltet har så mange bergarter",
+      "d": "Vulkanismen i perm ga et mangfold av magmatiske bergarter, samtidig som de eldre kambrosiluriske bergartene ble bevart fordi de sank ned i riften."
+    },
+    {
+      "k": "Platetektonikk",
+      "t": "Det platetektoniske kretsløpet",
+      "d": "Kontinentene samles til superkontinenter og splittes opp igjen, gang på gang gjennom jordas historie."
+    }
   ]
 }

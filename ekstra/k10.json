@@ -259,5 +259,72 @@
       "rett": 0,
       "f": "Isen dekket store områder, og i mellomistidene fraktet breelvene svære mengder løsmasser ut på sokkelen. Det er disse unge, løse massene som ligger øverst i dag."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Grunnbegreper",
+      "t": "Kontinentalsokkel",
+      "d": "De grunne havområdene utenfor kysten. Består av en flat kontinentalhylle og en bratt kontinentalskråning ut mot dyphavet."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Eggakanten",
+      "d": "Overgangen fra den flate kontinentalhylla til den bratte kontinentalskråningen."
+    },
+    {
+      "k": "Karbon",
+      "t": "Kull på sokkelen",
+      "d": "I karbon lå «Norge» nær ekvator, dekket av tropisk regnskog. Organisk materiale ble begravd og herdet til kullførende bergarter som siden ga naturgass."
+    },
+    {
+      "k": "Perm",
+      "t": "Steinsaltlagene",
+      "d": "Mot slutten av perm strømmet havet inn i grunne havområder. Da klimaet ble varmere, fordampet vannet og la igjen kilometertykke saltlag."
+    },
+    {
+      "k": "Perm",
+      "t": "Hvorfor saltet er viktig",
+      "d": "Salt kan senere presses opp gjennom lagene og danne saltdomer — en av de vanligste olje- og gassfellene."
+    },
+    {
+      "k": "Jura",
+      "t": "Reservoarsanden fra jura",
+      "d": "Tidlig i jura steg havnivået, og elver førte store mengder sand ut i havet. Sanden ble til sandstein — de viktigste reservoarbergartene."
+    },
+    {
+      "k": "Jura",
+      "t": "Vikinggraben og Sentralgraben",
+      "d": "Riftstrukturene i Nordsjøen fra den marine riftperioden sent i jura — Vikinggraben i nord, Sentralgraben i sør."
+    },
+    {
+      "k": "Jura",
+      "t": "Kildebergarten",
+      "d": "Organiskrik leirskifer fra sen jura. Dannet da temperaturstigning ga oppblomstring av alger og plankton. Viktigste petroleumskilde på norsk sokkel."
+    },
+    {
+      "k": "Kritt",
+      "t": "Sedimentasjonsbasseng",
+      "d": "Innsynkinger i havbunnen som tok imot opptil 7 km tykke sedimentlag. Tyngden presset kildebergarten ned på modningsdyp."
+    },
+    {
+      "k": "Kritt",
+      "t": "Kalkavsetningene i kritt",
+      "d": "Tørt og varmt klima ga kraftig oppblomstring av liv. Kalkholdige skall og skjelettrester ble avsatt på havbunnen — Ekofisk produserer fra slike."
+    },
+    {
+      "k": "Nytiden",
+      "t": "Åpningen av Atlanterhavet",
+      "d": "For ca. 50 millioner år siden. Ga uro i jordskorpa, hevet den vestlige delen av det baltiske skjold, og kraftig erosjon avsatte leire og sand på sokkelen."
+    },
+    {
+      "k": "Modning",
+      "t": "Modning av kildebergarten",
+      "d": "Kildebergarten presses ned på store dyp, der trykk og temperatur omdanner det organiske materialet til petroleum."
+    },
+    {
+      "k": "Kvartær",
+      "t": "Løsmassene på sokkelen",
+      "d": "I mellomistidene i kvartær fraktet store breelver enorme mengder løsmasser ut på sokkelen. Det er disse unge massene som ligger øverst."
+    }
   ]
 }

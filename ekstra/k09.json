@@ -156,5 +156,72 @@
       "rett": 0,
       "f": "Metallene som allerede er i omløp — i elektronikk, bygg og kjøretøy — kan hentes ut igjen. Det passer inn i det grønne skiftet fordi det sparer både energi og nye naturinngrep."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Grunnbegreper",
+      "t": "Mineralressurser",
+      "d": "Forekomster av verdifulle mineraler og bergarter."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Bergindustri",
+      "d": "Virksomhet som utvinner mineralressurser."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Reserver",
+      "d": "Kjente forekomster som er i produksjon, eller som det er bestemt å sette i produksjon."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Ressurser",
+      "d": "Forekomster man kjenner til, men der det ikke er besluttet å starte produksjon. Kan bli reserver hvis prisen stiger."
+    },
+    {
+      "k": "Inndeling",
+      "t": "De fem gruppene mineralressurser",
+      "d": "Naturstein, byggeråstoffer, industrimineraler, metalliske malmer og energimineraler. Inndelingen følger bruken."
+    },
+    {
+      "k": "Naturstein",
+      "t": "Naturstein",
+      "d": "Blokkstein, skifer og murestein. Brukes mye som prydstein, og mye går til eksport."
+    },
+    {
+      "k": "Naturstein",
+      "t": "Larvikitt",
+      "d": "Bergarten som dominerer norsk natursteinproduksjon. Magmatisk bergart fra Oslofeltets vulkanisme i perm, og Norges nasjonalbergart."
+    },
+    {
+      "k": "Byggeråstoffer",
+      "t": "Byggeråstoffer",
+      "d": "Pukk, sand og grus. Har størst økonomisk betydning i norsk bergindustri, og går til veibygging, fyllmasse og betong."
+    },
+    {
+      "k": "Industrimineraler",
+      "t": "De viktigste norske industrimineralene",
+      "d": "Kalkstein og olivin. Produksjonen har økt de siste årene, mens metallproduksjonen har minket."
+    },
+    {
+      "k": "Industrimineraler",
+      "t": "Olivin",
+      "d": "Industrimineral som tåler høy temperatur. Brukes som slaggdanner i stålproduksjon, og Norge er blant verdens største produsenter."
+    },
+    {
+      "k": "Miljø",
+      "t": "Miljøvirkninger av bergverksdrift",
+      "d": "Støy, støv, deponier, arealbruk og store sår i landskapet. Overskuddsmasser lagres i land- og sjødeponier."
+    },
+    {
+      "k": "Miljø",
+      "t": "Urban gruvedrift",
+      "d": "Å gjenvinne metaller fra produkter og avfall i stedet for å bryte ny malm. Sparer både energi og nye naturinngrep."
+    },
+    {
+      "k": "Det grønne skiftet",
+      "t": "Hvorfor malmleting er aktuelt igjen",
+      "d": "Prisene på verdensmarkedet har steget, og det grønne skiftet krever store mengder metaller til batterier, vindturbiner og kraftnett."
+    }
   ]
 }

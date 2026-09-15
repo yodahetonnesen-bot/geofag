@@ -284,5 +284,117 @@
       "rett": 0,
       "f": "Klima i Norge 2100 anslår rundt åtte prosent økning ved et middels utslippsscenario. Mengden er ikke problemet — mer ekstremnedbør og dårligere vannkvalitet er."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Ressursen",
+      "t": "Ferskvannets andel",
+      "d": "70 prosent av jordoverflaten er dekket av vann, men bare 3 prosent av vannet er ferskvann — og bare en liten del er lett tilgjengelig."
+    },
+    {
+      "k": "Ressursen",
+      "t": "Akvifer",
+      "d": "Geologisk formasjon med ferskvann dypt under jordoverflaten."
+    },
+    {
+      "k": "Ressursen",
+      "t": "Fossilt grunnvann",
+      "d": "Vann dannet under et annet klima, uten tilførsel av nytt vann. En ikke-fornybar ressurs."
+    },
+    {
+      "k": "Nedbør",
+      "t": "Konvektiv nedbør",
+      "d": "Oppstigende varm, fuktig luft avkjøles i høyden og kondenserer. Gir kraftige byger — typisk ved ekvator."
+    },
+    {
+      "k": "Nedbør",
+      "t": "Frontnedbør",
+      "d": "Varm, fuktig luft møter kald luft og presses opp. Typisk ved polarfronten, med vandrende lavtrykk."
+    },
+    {
+      "k": "Nedbør",
+      "t": "Orografisk forsterkning",
+      "d": "Fuktig luft presses opp over fjell og gir økt nedbør. Forklarer mye av nedbøren på Vestlandet."
+    },
+    {
+      "k": "Nedbør",
+      "t": "Monsunklima",
+      "d": "Regn i den varme årstiden fordi land varmes raskere enn hav. Lavtrykk over land trekker inn fuktig havluft. Sterkest i Sørøst-Asia."
+    },
+    {
+      "k": "Vannbruk",
+      "t": "Global vannbruk etter sektor",
+      "d": "Landbruk 70 prosent, industri 19 prosent, husholdninger 11 prosent."
+    },
+    {
+      "k": "Vannbruk",
+      "t": "Bruk og forbruk av vann",
+      "d": "Ved bruk forsvinner ikke vannet i prosessen. Ved forbruk inngår vannet i produktet, som i bomull eller mat."
+    },
+    {
+      "k": "Vannbruk",
+      "t": "Resipient",
+      "d": "Mottaker av forurenset vann. FN regner med at 80 prosent av verdens avløpsvann slippes ut urenset."
+    },
+    {
+      "k": "Konflikt",
+      "t": "Oppstrømsland",
+      "d": "Land som kontrollerer kildene eller de øvre delene av en elv, og dermed vanntilgangen til land nedenfor."
+    },
+    {
+      "k": "Konflikt",
+      "t": "Nedstrømsland",
+      "d": "Land lenger nede i vassdraget, som bare får det vannet oppstrømslandet slipper videre."
+    },
+    {
+      "k": "Konflikt",
+      "t": "Suverenitetsprinsippet",
+      "d": "En stat har selvråderett over ressursene innenfor eget territorium."
+    },
+    {
+      "k": "Konflikt",
+      "t": "Prinsippet om felles forvaltning",
+      "d": "En stat skal ikke påføre andre stater skade på deres tilgang til delte vannressurser. Hjemlet i FNs vannkonvensjon."
+    },
+    {
+      "k": "Løsninger",
+      "t": "Avsalting",
+      "d": "Ferskvann fra havvann. Stabil kilde, men kostbar og energikrevende. Saudi-Arabia står for 20 prosent av verdensproduksjonen."
+    },
+    {
+      "k": "Løsninger",
+      "t": "Gjenbruk av avløpsvann",
+      "d": "Billigere og mindre energikrevende enn avsalting. Singapore dekker over 40 prosent av vannbehovet med resirkulert kloakk."
+    },
+    {
+      "k": "Løsninger",
+      "t": "Mikroirrigasjon",
+      "d": "Vanning der vannet ledes fram til hver enkelt plante, i stedet for å vanne hele arealet."
+    },
+    {
+      "k": "Norge",
+      "t": "Norges årsavrenning",
+      "d": "380 km³ — nesten sju ganger alt vannet i Mjøsa. NVE har data om 243 000 innsjøer."
+    },
+    {
+      "k": "Norge",
+      "t": "Norsk vannbruk fra vannverkene",
+      "d": "Husholdningene 43,5 prosent, næringslivet 24,5 prosent, jordbruket 3 prosent (2020)."
+    },
+    {
+      "k": "Norge",
+      "t": "Overflatevann i norsk vannforsyning",
+      "d": "Om lag 90 prosent av drikkevannet er overflatevann, bare 10 prosent grunnvann. Et særtrekk ved Norge — og en sårbarhet."
+    },
+    {
+      "k": "Norge",
+      "t": "Lekkasjene i ledningsnettet",
+      "d": "Ledningsnettet er ca. 50 000 km, gjennomsnittsalder 40 år, og en av tre liter forsvinner underveis."
+    },
+    {
+      "k": "Rensing",
+      "t": "Klor, UV og ozon",
+      "d": "Klor tar virus og bakterier, men ikke parasitter. UV tar bakterier og parasitter, men ikke alle virus. Ozon tar mest av alt."
+    }
   ]
 }

@@ -132,5 +132,57 @@
       "rett": 0,
       "f": "Erosjonen virker overalt, men ikke like lett. Det er forskjellen i motstandskraft — og strukturene i berggrunnen — som former landskapet."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Grunnbegreper",
+      "t": "Berggrunnsstruktur",
+      "d": "Oppbygningen av berggrunnen — sprekker, foldeakser og lagdeling. Kan styre erosjonsprosessene og lage mønstre i landskapet."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Hvorfor harde bergarter står fram",
+      "d": "De tåler erosjonen bedre enn bergartene rundt og blir stående igjen som høyder og topper."
+    },
+    {
+      "k": "Landformer",
+      "t": "Skrenter i landskapet",
+      "d": "Oppstår der harde bergarter ligger over løsere. De løse eroderes bort, og den harde bergarten blir stående som en kant."
+    },
+    {
+      "k": "Landformer",
+      "t": "Strøkdal",
+      "d": "Dal gravd ut langs foldenes lengderetning. I Oslofeltet har de foldede kambrosiluriske bergartene styrt erosjonen slik."
+    },
+    {
+      "k": "Landformer",
+      "t": "Landskap av lavadekker",
+      "d": "Lava som flyter utover og størkner i tykke, flate lag gir platålandskap."
+    },
+    {
+      "k": "Landformer",
+      "t": "Landskap av dypbergarter",
+      "d": "Massive bergarter uten lagdeling, som granitt og larvikitt, forvitrer til avrundede koller og åser."
+    },
+    {
+      "k": "Områder",
+      "t": "Gneisregionen",
+      "d": "Område på Nordvestlandet der gneisbergartene er sterkt påvirket av den kaledonske fjellkjedefoldningen — og det synes i landskapet."
+    },
+    {
+      "k": "Områder",
+      "t": "Ålfoten",
+      "d": "Sted der lagdelte, sedimentære bergarter kommer tydelig fram i fjellsidene som «trappetrinn»."
+    },
+    {
+      "k": "Alder",
+      "t": "Landformenes alder",
+      "d": "Landformene er mye yngre enn berggrunnen. De er dannet i den siste delen av jordhistorien — i mellomtiden og nytiden."
+    },
+    {
+      "k": "Krefter",
+      "t": "Skyvedekke",
+      "d": "Flak av bergarter skjøvet mange mil innover under fjellkjedefoldning. Ligger ofte som harde lag over løsere bergarter."
+    }
   ]
 }

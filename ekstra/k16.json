@@ -192,5 +192,92 @@
       "rett": 0,
       "f": "Enorme mengder glasiale og glasifluviale avsetninger er lagt opp langs eggakanten. De er ustabile, og skred i dem — som Storegga — kan utløse tsunami."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Grunnbegreper",
+      "t": "Glasiale landformer",
+      "d": "Landformer dannet av isbreer. Landformer dannet av smeltevann fra breene kalles glasifluviale."
+    },
+    {
+      "k": "Bretyper etter temperatur",
+      "t": "Temperert bre",
+      "d": "Bre med smeltevann ved bunnen, som kan gli på underlaget. Det er bare tempererte breer som eroderer."
+    },
+    {
+      "k": "Bretyper etter temperatur",
+      "t": "Polar bre",
+      "d": "Bre som er frosset fast til underlaget og bare beveger seg ved indre deformasjon. Eroderer ikke underlaget."
+    },
+    {
+      "k": "Bretyper etter form",
+      "t": "Botnbre",
+      "d": "Liten bre i en fjellside. Botnbreer graver seg bakover og innover og danner det alpine landskapet."
+    },
+    {
+      "k": "Bretyper etter form",
+      "t": "Dalbre",
+      "d": "Bre som følger en dal nedover. Større enn en botnbre, mindre enn en platåbre."
+    },
+    {
+      "k": "Bretyper etter form",
+      "t": "Innlandsis",
+      "d": "Den største bretypen, som dekker hele landområder. Grønland og Antarktis har de to som finnes i dag."
+    },
+    {
+      "k": "Bevegelse",
+      "t": "Brebevegelse",
+      "d": "Foregår som indre deformasjon i isen, og ved at breen glir på underlaget der det er smeltevann."
+    },
+    {
+      "k": "Bevegelse",
+      "t": "Brefall",
+      "d": "Der underlaget blir brattere, tåler ikke isen strekket og sprekker opp."
+    },
+    {
+      "k": "Bevegelse",
+      "t": "Snøbru",
+      "d": "Tynt snølag som skjuler en bresprekk. Livsfarlig å gå på."
+    },
+    {
+      "k": "Bevegelse",
+      "t": "Isstrøm",
+      "d": "Stor «iselv» som drenerer innlandsisene. Beveger seg mye raskere enn isen rundt, og har gravd ut de norske fjordene."
+    },
+    {
+      "k": "Erosjonsformer",
+      "t": "Rundsva",
+      "d": "Berg formet av isen: skuringsstriper på støtsiden der isen slipte, og ujevn lesiden der isen plukket løs blokker."
+    },
+    {
+      "k": "Erosjonsformer",
+      "t": "Skuringsstriper",
+      "d": "Riper i berget etter stein som isen dro med seg. Viser hvilken vei isen gikk."
+    },
+    {
+      "k": "Erosjonsformer",
+      "t": "Alpint landskap",
+      "d": "Spisse tinder, fjellegger og botner, dannet av botnbreer i mellomistider og varmere perioder. Må ha «overlevd» flere istider."
+    },
+    {
+      "k": "Erosjonsformer",
+      "t": "U-dal",
+      "d": "Dal med bredt, avrundet tverrprofil, gravd ut av isstrømmer gjennom mange istider — litt dypere hver gang."
+    },
+    {
+      "k": "Avsetninger",
+      "t": "Morene",
+      "d": "Løsmassene en temperert bre eroderer og frakter med seg. Usortert, ikke lagdelt, med kantete stein."
+    },
+    {
+      "k": "Avsetninger",
+      "t": "Endemorene",
+      "d": "Morenerygg bygd opp ved brefronten når breen står stille eller rykker fram. Markerer en bestemt posisjon i klimahistorien."
+    },
+    {
+      "k": "Avsetninger",
+      "t": "Glasifluviale avsetninger",
+      "d": "Løsmasser avsatt av smeltevann fra breene. Sortert, lagdelt og med runde korn — i motsetning til morene."
+    }
   ]
 }

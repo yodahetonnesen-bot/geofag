@@ -152,5 +152,77 @@
       "rett": 0,
       "f": "Jordskjelv kommer plutselig og uten tydelige forvarsler. Man kan si hvor de sannsynligvis vil komme og omtrent hvor ofte, men ikke når. Tsunamier, derimot, lar seg varsle."
     }
+  ],
+  "flashcards": [
+    {
+      "k": "Grunnbegreper",
+      "t": "Forkastning",
+      "d": "Bruddet i jordskorpa der deler av skorpa forskyver seg i forhold til hverandre. Det er her jordskjelv skjer."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Sentrum (hyposenter)",
+      "d": "Stedet nede i jordskorpa der selve bruddet i et jordskjelv skjer."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Episenter",
+      "d": "Punktet på jordoverflaten rett over jordskjelvets sentrum."
+    },
+    {
+      "k": "Grunnbegreper",
+      "t": "Megaskjelv",
+      "d": "De kraftigste jordskjelvene, med størrelse 8–9. Oppstår når hele litosfæreplater forskyver seg i forhold til hverandre."
+    },
+    {
+      "k": "Bølger",
+      "t": "P-bølger",
+      "d": "Primærbølger — de raskeste jordskjelvbølgene. Går gjennom jordas indre og registreres først på seismografen."
+    },
+    {
+      "k": "Bølger",
+      "t": "S-bølger",
+      "d": "Sekundærbølger. Går gjennom jordas indre, men langsommere enn P-bølgene, og registreres etter dem."
+    },
+    {
+      "k": "Bølger",
+      "t": "Overflatebølger",
+      "d": "Jordskjelvbølger som brer seg langs jordoverflaten. Kommer sist, men er ofte de mest ødeleggende."
+    },
+    {
+      "k": "Måling",
+      "t": "Seismograf",
+      "d": "Instrument som registrerer bevegelser i jordskorpa. Rekkefølgen er alltid P-bølger, så S-bølger, så overflatebølger."
+    },
+    {
+      "k": "Måling",
+      "t": "Momentstørrelse",
+      "d": "Målet på energien som blir utløst i et jordskjelv. Sier ikke direkte noe om skadeomfanget."
+    },
+    {
+      "k": "Skader",
+      "t": "Hvorfor grunne skjelv er farligst",
+      "d": "Energien har kort vei til overflaten og rekker ikke å spres ut underveis. Derfor gjør de grunneste skjelvene størst skade."
+    },
+    {
+      "k": "Skader",
+      "t": "Følgeskader ved jordskjelv",
+      "d": "Sammenraste bygninger, branner og skred. Det er følgene, ikke rystelsen selv, som tar flest liv."
+    },
+    {
+      "k": "Etterskjelv",
+      "t": "Etterskjelv",
+      "d": "Skjelv som følger etter et større jordskjelv. Kommer fordi spenningene i jordskorpa fordeler seg på nytt, og det tar tid før alt faller til ro."
+    },
+    {
+      "k": "Varsling",
+      "t": "Hvorfor jordskjelv ikke kan varsles",
+      "d": "De skjer plutselig, uten tydelige forvarsler. Man kan si hvor de sannsynligvis kommer, men ikke når."
+    },
+    {
+      "k": "Norge",
+      "t": "Jordskjelv i Norge",
+      "d": "Sjelden større enn 4–5 i momentstørrelse. Til sammenlikning har megaskjelv 8–9 — og skalaen er logaritmisk."
+    }
   ]
 }

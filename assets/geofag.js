@@ -166,10 +166,19 @@
   }
 
   /* ---------- flashcards ---------- */
-  var fcData = window.GEOFAG_FLASHCARDS;
-  var fcKort = $('#flashcard');
-  if (fcKort && fcData && fcData.length) {
-    var fcNokkel = 'geofag:fc:' + (document.body.dataset.side || 'global');
+  // Som quizen: elementene finnes en gang per kapittel i enkeltfila, sa
+  // oppslaget ma skje inne i kapitlet som vises.
+  function startFlashcards() {
+    var kapFc = rotKap();
+    var rotFc = kapFc || document;
+    var fcKort = $('.flashcard', rotFc);
+    if (!fcKort || fcKort.dataset.klar) return;
+    var fcData = window.GEOFAG_FLASHCARDS_ALLE
+      ? window.GEOFAG_FLASHCARDS_ALLE[kapFc ? kapFc.dataset.kap : '']
+      : window.GEOFAG_FLASHCARDS;
+    if (!fcData || !fcData.length) return;
+    fcKort.dataset.klar = '1';
+    var fcNokkel = 'geofag:fc:' + sideNokkel();
     var kjent = lager.get(fcNokkel, {});
     var koe = [], nr = -1;
 
@@ -191,14 +200,14 @@
       nr = (nr + 1) % koe.length;
       var k = fcData[koe[nr]];
       fcKort.classList.remove('flipped');
-      $('#fcKat').textContent = k.k || 'Begrep';
-      $('#fcTerm').textContent = k.t;
-      $('#fcDef').textContent = k.d;
+      $('.fc-kat', rotFc).textContent = k.k || 'Begrep';
+      $('.flashcard__term', rotFc).textContent = k.t;
+      $('.flashcard__def', rotFc).textContent = k.d;
       var lett = 0, vansk = 0;
       Object.keys(kjent).forEach(function (n) {
         if (kjent[n] === 'lett') lett++; else if (kjent[n] === 'vanskelig') vansk++;
       });
-      var stat = $('#fcStat');
+      var stat = $('.fc-stat', rotFc);
       if (stat) {
         stat.textContent = 'Kort ' + (nr + 1) + ' av ' + koe.length +
           ' · ' + fcData.length + ' begreper · ' + lett + ' lette · ' + vansk + ' vanskelige';
@@ -215,10 +224,10 @@
     fcKort.addEventListener('keydown', function (e) {
       if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); fcKort.classList.toggle('flipped'); }
     });
-    var nesteBtn = $('#fcNeste'); if (nesteBtn) nesteBtn.addEventListener('click', tegnKort);
-    var lettBtn = $('#fcLett'); if (lettBtn) lettBtn.addEventListener('click', function () { merk('lett'); });
-    var vanskBtn = $('#fcVanskelig'); if (vanskBtn) vanskBtn.addEventListener('click', function () { merk('vanskelig'); });
-    var nullBtn = $('#fcNullstill');
+    var nesteBtn = $('.fc-neste', rotFc); if (nesteBtn) nesteBtn.addEventListener('click', tegnKort);
+    var lettBtn = $('.fc-lett', rotFc); if (lettBtn) lettBtn.addEventListener('click', function () { merk('lett'); });
+    var vanskBtn = $('.fc-vanskelig', rotFc); if (vanskBtn) vanskBtn.addEventListener('click', function () { merk('vanskelig'); });
+    var nullBtn = $('.fc-nullstill', rotFc);
     if (nullBtn) {
       nullBtn.addEventListener('click', function () {
         kjent = {}; lager.set(fcNokkel, kjent); byggKoe(); nr = -1; tegnKort();
@@ -232,13 +241,19 @@
   // versjonen ligger dataene for alle kapitlene i ett oppslag; ellers er de
   // lagt inn som window.GEOFAG_QUIZ pa den enkelte kapittelsida.
   function startQuiz() {
-    var qRot = $('#quizRot');
-    if (!qRot) return;
+    // I enkeltfila finnes #quizRot en gang per kapittel. Derfor ma oppslaget
+    // skje inne i det kapitlet som vises — ellers havner quizen i det forste
+    // (skjulte) kapitlet, og fanen ser tom ut.
     var kap = rotKap();
+    var rot = kap || document;
+    var qRot = $('.quiz-rot', rot);
+    if (!qRot || qRot.dataset.klar) return;
     var qData = window.GEOFAG_QUIZ_ALLE
       ? window.GEOFAG_QUIZ_ALLE[kap ? kap.dataset.kap : '']
       : window.GEOFAG_QUIZ;
     if (!qData || !qData.length) return;
+    qRot.dataset.klar = '1';
+    var qPoengEl = $('.quiz-poeng', rot);
     var qNr = 0, qPoeng = 0, qSvart = 0, qRekke = [];
 
     function stokk() {
@@ -346,7 +361,7 @@
     }
 
     function oppdaterPoeng() {
-      var el = $('#quizPoeng');
+      var el = qPoengEl;
       if (!el) return;
       // qNr sier hvilket sporsmal som vises, qSvart hvor mange som er besvart.
       el.textContent = qSvart ? qPoeng + ' av ' + qSvart + ' riktige så langt' : '';
@@ -366,6 +381,7 @@
   if (!kapitler.length) {
     startFane();
     startQuiz();
+    startFlashcards();
   } else {
     var kapmenyer = $$('[data-kapmeny]');
     var merke = $('#merkeUnder');
@@ -395,6 +411,7 @@
 
       startFane();
       startQuiz();
+      startFlashcards();
       lukkMeny();
       if (skrivHistorikk && history.replaceState) {
         history.replaceState(null, '', '#' + id);
