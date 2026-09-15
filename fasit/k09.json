@@ -3,360 +3,360 @@
   "id": "a146027d45",
   "art": "tenk",
   "q": "Er all stein naturstein?",
-  "f": ""
+  "f": "Nei. Naturstein er stein som kan sages, spaltes eller hogges til bruk på utearealer, i bygninger og i monumenter.\nDet er altså en bruksbetegnelse, ikke en bergartsgruppe. Stein som ikke lar seg bearbeide på den måten — for eksempel oppsprukket eller forvitret fjell — er ikke naturstein, selv om det er stein."
  },
  {
   "id": "2fcf157ccd",
   "art": "tenk",
   "q": "Er blokkstein en bestemt bergart?",
-  "f": ""
+  "f": "Nei. Blokkstein er en av tre typer naturstein, sammen med skifer og murestein, og betegner stein som tas ut i store, massive blokker.\nMange ulike bergarter kan gi blokkstein: larvikitt, granitt, marmor og andre. Det avgjørende er ikke hvilken bergart det er, men at den er massiv nok — uten sprekker — til at store blokker kan tas ut hele."
  },
  {
   "id": "349629eeb8",
   "art": "oppgave-i-tekst",
   "q": "Er skifer en bestemt bergart? Begrunn svaret.",
-  "f": ""
+  "f": "Nei.\nSkifer er en bruksbetegnelse på bergarter som lett lar seg spalte i tynne flak eller heller langs naturlige spalteflater.\nMange ulike bergarter gir skifer: pressede sandsteiner (kvartsskifer, som i Oppdal og Alta), fyllitter (Otta), glimmerskifre (Jondalen) — og også granitter og gneiser.\nDet er egenskapen skifrighet som er felles, ikke bergarten. Skifrigheten skyldes gjerne en moderat omdanning av sedimentære bergarter, og derfor ligger skiferbruddene i utkanten av den kaledonske foldesonen, der omdanningen ikke har vært for sterk."
  },
  {
   "id": "b688ecbc1c",
   "art": "tenk",
   "q": "Hva menes med «fossilsamfunnet»?",
-  "f": ""
+  "f": "Samfunnet slik vi har bygd det siden industrialiseringen: bygd på fossil energi — kull, olje og gass — til transport, oppvarming og industri.\nDet grønne skiftet skal avløse fossilsamfunnet, på samme måte som bronsealderen avløste steinalderen. Overgangen går til fornybare energikilder som bioenergi, hydrogen, vann, vind og sol, med batterier og elektrifisering.\nPoenget i kapitlet er at dette skiftet er mineralkrevende: det erstatter avhengighet av fossil energi med avhengighet av mineraler og metaller."
  },
  {
   "id": "3f26769e0f",
   "art": "sporsmal",
   "q": "Hvilke fem typer mineralressurser skiller vi mellom?",
-  "f": ""
+  "f": "Naturstein, byggeråstoffer, industrimineraler, metalliske malmer og energimineraler.\n- Naturstein: larvikitt, granitt, marmor, skifer.\n- Byggeråstoffer: sand, grus, pukk.\n- Industrimineraler: olivin, nefelinsyenitt, kvarts, kalkstein, dolomittstein.\n- Metalliske malmer: jern, nikkel, ilmenitt.\n- Energimineraler: kull, råolje og naturgass."
  },
  {
   "id": "c00ac04941",
   "art": "sporsmal",
   "q": "Er mineralressursene fornybare, betinget fornybare eller ikke-fornybare?",
-  "f": ""
+  "f": "Ikke-fornybare. De kalles også lagerressurser: det finnes en gitt mengde, og det som tas ut, dannes ikke på nytt i menneskelig tidsskala.\nDerfor er gjenbruk og resirkulering — «urban gruvedrift» — så viktig."
  },
  {
   "id": "c95ad5a9a0",
   "art": "sporsmal",
   "q": "Hva er forskjellen på reserver og ressurser?",
-  "f": ""
+  "f": "Mineralreserver er kjente forekomster som er i produksjon, eller som det er besluttet å sette i produksjon.\nMineralressurser omfatter i tillegg kjente forekomster der det ikke er besluttet å starte produksjon.\nDet avgjørende skillet er lønnsomhet: en ressurs blir til en reserve først når det lønner seg å utvinne den. Derfor kan stigende priser gjøre ressurser om til reserver uten at det er funnet noe nytt."
  },
  {
   "id": "4b2910576d",
   "art": "sporsmal",
   "q": "Hvilken gruppe av mineralressurser har størst økonomisk betydning i dag?",
-  "f": ""
+  "f": "Byggeråstoffer — sand, grus og pukk.\nGjennom lang tid var det de metalliske malmene, som jern og kobber, som hadde størst økonomisk betydning. Det varte helt fram mot forrige århundreskifte. I dag er det produksjonen av pukk, grus og sand som gir de største inntektene."
  },
  {
   "id": "3bd77b25dd",
   "art": "sporsmal",
   "q": "Kan du gi noen eksempler på bergindustrier?",
-  "f": ""
+  "f": "Sibelco Nordic på Åheim (olivin, verdens største olivingruve), Titania AS i Sokndal i Rogaland (ilmenitt), Rana Gruber AS i Nordland (jernmalm), Norcem i Brevik (kalkstein til sement), Skaland grafittgruve på Senja (grafitt), og natursteinsbruddene i Larvik-området (larvikitt).\nI tillegg kommer et stort antall pukkverk og sand- og grustak over hele landet."
  },
  {
   "id": "a065c86f77",
   "art": "hvatrordu",
   "q": "Hva er det som gjør at bergindustrien er råvareorientert?",
-  "f": ""
+  "f": "Fordi råvaren er tung og billig, mens transporten er dyr.\nEn bergindustri må ligge der forekomsten er — man kan ikke flytte et fjell. Og siden verdien per tonn er lav, særlig for pukk, sand og grus, blir transportkostnadene raskt større enn verdien av selve steinen.\nDerfor foregår mye av pukkproduksjonen i nærheten av der pukken skal brukes. Det er også grunnen til at bergindustrien skaper bosetting og næringsliv nettopp der ressursen ligger."
  },
  {
   "id": "e17497fda6",
   "art": "hvatrordu",
   "q": "Mye av bergindustrien ligger langs kysten. Hvorfor det, tror du?",
-  "f": ""
+  "f": "På grunn av transporten. Gode havner gjør det mulig å skipe ut store mengder tungt materiale billig, og båt er den eneste økonomiske måten å frakte pukk og blokkstein over lange avstander.\nDerfor ligger pukkverkene langs kysten og eksporterer til Tyskland, Danmark, Nederland, England, Polen, Russland og Baltikum — land som mangler byggeråstoffer av god kvalitet.\nDet samme gjelder larvikitten fra Vestfold og olivinen fra Åheim, som går til stålverk over hele Europa."
  },
  {
   "id": "7d500ff71c",
   "art": "hvatrordu",
   "q": "Hvorfor er tilgangen på spesielle mineraler og metaller viktig i det grønne skiftet?",
-  "f": ""
+  "f": "Fordi grønn teknologi er mineralkrevende.\nFornybar energi og elektrifisering krever store mengder metaller og mineraler: kobber til all strømoverføring, litium og grafitt til batterier, sjeldne jordartsmetaller til elmotorer, vindturbiner, skjermer og LED-lys, ren kvarts til solceller, titan til lette konstruksjoner.\nTallene viser omfanget: en elbil trenger tre ganger så mye kobber som en fossilbil — omtrent 80 kg. Et litiumbatteri inneholder dobbelt så mye grafitt som litium.\nDet grønne skiftet bytter altså ut avhengighet av fossil energi med avhengighet av mineraler — og de er ikke-fornybare."
  },
  {
   "id": "4993397965",
   "art": "hvatrordu",
   "q": "Hva er forskjellen på «dagens steinalder» og steinalderen for 4000–5000 år siden?",
-  "f": ""
+  "f": "Mengden og mangfoldet.\nI steinalderen brukte man noen få bergarter til redskaper og våpen — flint, kvartsitt, grønnstein.\nI dag forbruker hver person i Norge 10–15 tonn mineraler i året, og vi bruker en stadig større del av det periodiske systemet. En mobiltelefon inneholder gull, sølv, kobber, platina, ruthenium, indium og vismut.\nLikheten er at vi fortsatt er helt avhengige av mineraler — et moderne samfunn kan ikke klare seg uten. Vi vil alltid leve i en «steinalder»."
  },
  {
   "id": "ca8d1a42fd",
   "art": "hvatrordu",
   "q": "Hva er forskjellen mellom ressurser, reserver og forekomster av et mineral?",
-  "f": ""
+  "f": "En forekomst er et sted der et mineral finnes i konsentrert form — uansett om det lønner seg å utvinne det eller ikke.\nRessurser er kjente forekomster, både de som er i produksjon og de som ikke er besluttet satt i drift.\nReserver er den delen av ressursene som er i produksjon eller som det er besluttet å produsere — altså det som er lønnsomt å utvinne med dagens priser og teknologi.\nForholdet er altså: forekomster ⊃ ressurser ⊃ reserver. Stiger prisene, kan ressurser bli til reserver uten at noe nytt er funnet."
  },
  {
   "id": "d95c3eead2",
   "art": "sporsmal",
   "q": "Hva er naturstein?",
-  "f": ""
+  "f": "Naturstein er stein som kan sages, spaltes eller hogges til bruk på utearealer, i bygninger og i monumenter.\nDen deles i tre: blokkstein, skifer og murestein.\nNorsk blokkstein har ofte god kvalitet, og grunnen er istidene: innlandsisen høvlet bort det øverste laget med sprekker og forvitret fjell, slik at friskt berg ligger lett tilgjengelig."
  },
  {
   "id": "93f5c8ff4e",
   "art": "sporsmal",
   "q": "Er blokkstein og skifer bestemte bergarter?",
-  "f": ""
+  "f": "Nei, begge er bruksbetegnelser, ikke bergarter.\nBlokkstein er stein som tas ut i store, massive blokker — det kan være larvikitt, granitt, marmor og mer. Det avgjørende er at berget er sprekkfritt nok.\nSkifer er bergarter som lett lar seg spalte i tynne flak — kvartsskifer, fyllitt, glimmerskifer, og også granitt og gneis. Det avgjørende er skifrigheten."
  },
  {
   "id": "bf174a4539",
   "art": "sporsmal",
   "q": "Hva er blokkstein, og hva er skifer?",
-  "f": ""
+  "f": "Blokkstein tas ut i store, massive steinblokker, som larvikitten i Klåstadbruddet i Larvik.\nSkifer produseres fra bergarter som lett lar seg spalte i tynne flak eller heller langs naturlige spalteflater. Skifrigheten skyldes gjerne en moderat omdanning av sedimentære bergarter som sandstein eller leirskifer.\nDen tredje typen naturstein er murestein: uthogd stein fra harde bergarter, brukt til tørrmurer uten mørtel."
  },
  {
   "id": "5a90644815",
   "art": "sporsmal",
   "q": "Hva er byggeråstoffer en samlebetegnelse for?",
-  "f": ""
+  "f": "Sand, grus og pukk.\nDe tas ut fra fjell ved sprengning, eller fra naturlige sand- og grusavsetninger. Om lag halvparten går til veier, rundt 20 prosent til betong, og en tredel til andre formål som fyllmasse, planering og underlag for rørledninger på sokkelen."
  },
  {
   "id": "9ec964cc31",
   "art": "sporsmal",
   "q": "Hvilke prosesser danner sand og grus?",
-  "f": ""
+  "f": "Forvitring, breerosjon og elveerosjon — sand og grus er «naturlig knust stein».\nDe største forekomstene er avsatt av smeltevannet på slutten av siste istid, og noe av elvene etter istiden.\nEtterspørselen er så stor at vi ikke lenger kan regne sand og grus som ubegrensede ressurser i Norge. Likevel bygges gode grusforekomster ofte ned og brukes til andre formål."
  },
  {
   "id": "e4b8a71dff",
   "art": "sporsmal",
   "q": "Hvordan er pukk produsert?",
-  "f": ""
+  "f": "Pukk er maskinknust stein: fast fjell sprenges ut og knuses.\nBergartene som brukes, er blant annet prekambriske grunnfjellsbergarter (gneis og granitt), kambrosiluriske bergarter, permiske lavaer og dypbergarter i Oslofeltet, og devonske sandsteiner i Ålfoten.\nPukk er dyrere å produsere enn sand og grus, men andelen øker — både fordi det er lokal knapphet på sand og grus, og fordi pukk kan produseres med de kvalitetskravene naturlig sand og grus ikke alltid dekker."
  },
  {
   "id": "1821c88282",
   "art": "hvatrordu",
   "q": "Er byggeråstoffer fornybare ressurser? Begrunn svaret.",
-  "f": ""
+  "f": "Nei, de er ikke-fornybare.\nSand og grus ble avsatt av smeltevannet på slutten av siste istid. Det dannes ikke nye slike avsetninger i nevneverdig mengde nå — det ville kreve en ny istid. Derfor kan vi ikke lenger betrakte dem som ubegrensede ressurser her i landet.\nPukk står i en annen stilling i praksis: steinressursene som kan knuses, er så store at de ikke blir oppbrukt i overskuelig framtid. Men også de er en lagerressurs, og uttaket setter varige spor i landskapet."
  },
  {
   "id": "481e6687e3",
   "art": "sporsmal",
   "q": "Hva er et industrimineral?",
-  "f": ""
+  "f": "Et industrimineral er et mineral eller en bergart som på grunn av sine fysiske, kjemiske og ikke-metalliske egenskaper brukes som råstoff eller tilsettingsstoff i industrien.\nDe finnes i en rekke hverdagsprodukter: papir, plast, keramikk, glass og maling.\nDe viktigste norske er kalksteinsprodukter, olivin, nefelinsyenitt og kvartsitt."
  },
  {
   "id": "c0df00ae26",
   "art": "sporsmal",
   "q": "Hva er «det grønne gullet», og hva brukes det til?",
-  "f": ""
+  "f": "Olivin — et olivengrønt mineral med høyt smeltepunkt.\nDet viktigste bruksområdet er som slaggdanner i jern- og stålindustrien: olivin tilsettes i masovnen og binder urenhetene i jernmalmen, slik at råjernet blir renere. Slagglaget flyter oppå smelten og kan fjernes.\nDet brukes også til ildfaste produkter på grunn av det høye smeltepunktet, og i økende grad til å binde tungmetaller i forurenset jord og vann.\nForekomsten ved Åheim på Sunnmøre er kanskje verdens største, og halvparten av all olivin som brukes som slaggdanner i europeiske stålverk, kommer derfra."
  },
  {
   "id": "39f19135e5",
   "art": "sporsmal",
   "q": "Norge er i verdenstoppen når det gjelder produksjon av to industrimineraler. Hvilke?",
-  "f": ""
+  "f": "Olivin og nefelinsyenitt. Norge er blant verdens ledende produsenter av begge."
  },
  {
   "id": "2b8d4218dd",
   "art": "sporsmal",
   "q": "Hva brukes kalkstein til?",
-  "f": ""
+  "f": "Til sement — Norcems sementfabrikk i Brevik bruker kalkstein som råstoff.\nTil kalksteinsslurry, oppmalt kalkstein blandet med vann, som brukes som fyllstoff i papirproduksjon.\nTil brent kalk, miljøkalk og jordbrukskalk.\nStore mengder knust kalkstein og dolomitt brukes til kalking av jord og vann for å motvirke forsuring. Blir jorda for sur, hemmes nedbrytningen av organisk materiale, og plantene får ikke nok fosfor, nitrogen og magnesium."
  },
  {
   "id": "d22c2eecb1",
   "art": "sporsmal",
   "q": "Kvarts kan bli et enda viktigere mineral i framtiden. Hvorfor det?",
-  "f": ""
+  "f": "På grunn av solceller.\nEkstremt ren kvarts er et nødvendig råstoff for solcelleprodusenter. Solcelleindustrien trenger høyt raffinerte råvarer, selv når utgangspunktet allerede er svært ren kvarts, og veien fra forekomst til salgbart materiale er krevende.\nJo mer verden satser på solenergi, desto større blir etterspørselen etter ultraren kvarts."
  },
  {
   "id": "b7525e0d72",
   "art": "sporsmal",
   "q": "Hva er forskjellen på malm og metallisk malm?",
-  "f": ""
+  "f": "Malm er en generell betegnelse på bergarter som inneholder metall.\nFor at det skal være en metallisk malm, må to krav være oppfylt: metallet må ha en tetthet større enn 5 g/cm³, og konsentrasjonen må være så høy at det gir grunnlag for lønnsom gruvedrift.\nDet er altså lønnsomheten som skiller — en bergart kan inneholde metall uten å være en metallisk malm."
  },
  {
   "id": "d366a03173",
   "art": "sporsmal",
   "q": "Hvor mange gruver er det som driver på metallisk malm i Norge i dag?",
-  "f": ""
+  "f": "To: Titania AS i Sokndal i Rogaland (ilmenitt) og Rana Gruber AS i Nordland (jernmalm).\nI løpet av 1900-tallet var det drift i nesten 50 gruver på metallisk malm i Norge. De fleste er nedlagt fordi ressursene tok slutt, eller fordi driften ikke lenger var lønnsom — som på Røros."
  },
  {
   "id": "4c902a4a34",
   "art": "sporsmal",
   "q": "Hva er det som gjør at malmproduksjonen kan få en ny blomstringstid?",
-  "f": ""
+  "f": "Stigende priser på verdensmarkedet, og det grønne skiftet.\nGrønn teknologi krever tilgang på metaller, og jern, nikkel, kobber, titan, molybden, tinn og gull er igjen ettertraktet.\nInteressen for leting er derfor sterkt økende, særlig i Nord-Norge og spesielt i Finnmark. I framtiden kan det også bli aktuelt å utvinne metaller fra mineralressurser på havbunnen, ved den midtatlantiske ryggen og de hydrotermale kildene der."
  },
  {
   "id": "2e18a0020f",
   "art": "sporsmal",
   "q": "Hva er forskjellene på reserver, ressurser og forekomster?",
-  "f": ""
+  "f": "En forekomst er et sted der mineralet finnes konsentrert.\nRessurser er kjente forekomster, uavhengig av om det er besluttet å utvinne dem.\nReserver er de ressursene som er i produksjon eller besluttet satt i produksjon — altså de som er lønnsomme.\nLønnsomheten er nøkkelen: den avgjør om en ressurs blir en reserve, og den kan endre seg med prisene og med teknologien."
  },
  {
   "id": "692829434c",
   "art": "sporsmal",
   "q": "På hvilke måter kan bergindustrien påvirke naturmiljøet?",
-  "f": ""
+  "f": "Gjennom inngrep i landskapet, lagring av overskuddsmasser og forurensning fra driften. Ofte oppstår det også arealkonflikter med andre brukere av området.\nStøv og støy er til sjenanse for naboer og friluftsliv.\nFra noen nedlagte gruver lekker tungmetaller — kobber og sink — og svovel ut i vassdragene. Sigevannet kan utrydde livet i store deler av et vassdrag. Mange titalls kilometer av Gaula, Orkla, Folla og øvre Glomma er sterkt påvirket.\nEt tiltak er å dekke gruveavfallet med tykke jordlag, så regn og sigevann ikke fører tungmetallene videre."
  },
  {
   "id": "66575a7252",
   "art": "sporsmal",
   "q": "Hva er et dagbrudd?",
-  "f": ""
+  "f": "Et dagbrudd er et steinbrudd eller en gruve i åpen dag, der massene tas ut fra overflaten i stedet for gjennom sjakter og tunneler.\nDe fleste norske steinbrudd er i dag dagbrudd. I framtiden kan drift under jorda bli mer aktuelt — det vil redusere både støy, arealkonflikter og størrelsen på synlige naturinngrep."
  },
  {
   "id": "420146a12e",
   "art": "sporsmal",
   "q": "Hva menes med «urban gruvedrift»?",
-  "f": ""
+  "f": "«Urban gruvedrift» er å gjenvinne mineraler og metaller fra avfallet til bedrifter og husholdninger i byer og tettbygde områder.\nAvfallet resirkuleres og blir råvarer for nye produkter. Ett tonn mobiltelefoner inneholder omtrent 300 gram gull, 3 kilo sølv, 100 gram kobber og sjeldne metaller som platina, ruthenium, indium og vismut.\nSlik kan en sirkulær økonomi bidra til det grønne skiftet, som forutsetter stor grad av gjenbruk av mineraler og metaller."
  },
  {
   "id": "5b7be9af99",
   "art": "sporsmal",
   "q": "Hva er forskjellen på et landdeponi og et sjødeponi?",
-  "f": ""
+  "f": "Et landdeponi er et lagringssted på land for overskuddsmassene fra gruvedrift — knust stein og eventuelle tilsettingsstoffer fra produksjonen.\nEt sjødeponi ligger i en innsjø eller fjord, der massene deponeres under vann.\nEn tredje mulighet er tilbakefylling: massene føres tilbake til gruvegangene og deponeres der."
  },
  {
   "id": "5da8b4a1e4",
   "art": "hvatrordu",
   "q": "Hvordan kan land- og sjødeponier påvirke naturmiljøet?",
-  "f": ""
+  "f": "Landdeponier setter varige spor i landskapet, tar areal og kan lekke. Sigevann fra avfallshauger kan føre tungmetaller ut i vassdragene og utrydde livet i lange elvestrekninger — som i Gaula, Orkla, Folla og øvre Glomma. Tildekking med tykke jordlag kan hindre dette.\nSjødeponier påvirker bunnfaunaen i deponiområdet i hele perioden deponeringen pågår. I tillegg er det risiko for spredning av fint materiale, som kan påvirke livet i havet i et større område rundt.\nBergindustrien mener sjødeponier noen steder gir mer stabil og trygg lagring enn på land, særlig i dype norske fjorder. Miljøorganisasjonene er uenige. Førdefjorden og Repparfjorden er de omstridte eksemplene."
  },
  {
   "id": "20be831f2c",
   "art": "hvatrordu",
   "q": "Hva menes med «en bærekraftig forvaltning av mineralressursene»?",
-  "f": ""
+  "f": "At forvaltningen tar hensyn til tre ting samtidig: samfunnets behov for mineralressurser på kort og lang sikt, naturmiljøet, og menneskene som bor der.\nI praksis betyr det å begrense varige naturinngrep — sårene i landskapet skal leges når driften er slutt — å håndtere avfallet gjennom gjenbruk, resirkulering og forsvarlige deponier, og å redusere støv, støy og forurensning.\nOg fordi mineralressursene er ikke-fornybare, hører gjenvinning og «urban gruvedrift» med: det som allerede er utvunnet, bør holdes i omløp."
  },
  {
   "id": "5047982e72",
   "art": "hvatrordu",
   "q": "Hva er det som gjør norske fjorder godt egnet til sjødeponier?",
-  "f": ""
+  "f": "Formen på fjordbunnen.\nNorske fjorder er iseroderte daler der dalbunnen er delt opp i dype bassenger, atskilt av bergterskler. Tersklene begrenser vannutskiftingen mellom bassengene.\nDet virker inn på vannstrømmene og bidrar til at den groveste delen av overskuddsmassene kan bli liggende nokså stabilt i fjordbassenget, i stedet for å spres.\nInnvendingen er at det fine materialet likevel kan spre seg, og at bunnfaunaen i deponiområdet uansett blir ødelagt mens deponeringen pågår."
  },
  {
   "id": "9210d2f8f0",
   "art": "kapitteloppgave",
   "q": "sand – grus – pukk",
-  "f": ""
+  "f": "Pukk skal ut.\nSand og grus er naturlig knust stein, formet av forvitring, bre- og elveerosjon. Pukk er maskinknust stein, produsert ved å sprenge ut og knuse fast fjell."
  },
  {
   "id": "9b9845cf8e",
   "art": "kapitteloppgave",
   "q": "naturstein – granitt – grus",
-  "f": ""
+  "f": "Grus skal ut.\nGranitt er naturstein — den kan sages og hogges til blokkstein. Grus er et byggeråstoff, løsmasse som brukes i mengde, ikke som formet stein."
  },
  {
   "id": "a081677c64",
   "art": "kapitteloppgave",
   "q": "reserver – ressurser – forekomster",
-  "f": ""
+  "f": "Ingen av dem skiller seg klart ut, for de tre er trinn i samme rekke, og her teller begrunnelsen.\nEn mulighet er forekomster: ressurser og reserver er begge kjente og vurderte mengder, mens en forekomst bare er et sted mineralet finnes.\nEn annen er reserver: det er det eneste begrepet som forutsetter at det er besluttet å produsere, altså at lønnsomheten er avklart."
  },
  {
   "id": "aecbe72041",
   "art": "kapitteloppgave",
   "q": "grunnvann – pukk – sand",
-  "f": ""
+  "f": "Pukk skal ut.\nSand- og grusavsetninger er porøse og kan inneholde store mengder grunnvann — de brukes både til vannforsyning og til rensing av avløpsvann. Pukk er knust fast fjell og har ingen slik rolle."
  },
  {
   "id": "1c39c670a0",
   "art": "kapitteloppgave",
   "q": "olivinstein – jernmalm – kalkstein",
-  "f": ""
+  "f": "Jernmalm skal ut.\nOlivinstein og kalkstein er begge industrimineraler — de brukes for sine fysiske og kjemiske, ikke-metalliske egenskaper. Jernmalm er en metallisk malm, der poenget er metallet den inneholder."
  },
  {
   "id": "19fda9efbd",
   "art": "kapitteloppgave",
   "q": "malmreserver – metallisk malm – malmforekomst",
-  "f": ""
+  "f": "Metallisk malm skal ut.\nMalmreserver og malmforekomst handler begge om mengder og hvor lønnsomme de er. Metallisk malm er en definisjon av selve bergarten: metall med tetthet over 5 g/cm³ i høy nok konsentrasjon."
  },
  {
   "id": "5be4e7b4ff",
   "art": "kapitteloppgave",
   "q": "metalliske malmer – industrimineraler – magma",
-  "f": ""
+  "f": "Magma skal ut.\nMetalliske malmer og industrimineraler er to av de fem gruppene mineralressurser. Magma er smeltet stein — en av kildene til at malmene dannes, men ikke en ressursgruppe."
  },
  {
   "id": "bb535f85dd",
   "art": "kapitteloppgave",
   "q": "steinbrudd – gruvedrift – sandtak",
-  "f": ""
+  "f": "Sandtak skal ut.\nI steinbrudd og gruvedrift tas det ut fast fjell, som må sprenges. I et sandtak tas det ut løsmasser, som bare graves.\nDu kan også argumentere for gruvedrift: steinbrudd og sandtak er begge uttak i dagen, mens gruvedrift tradisjonelt går under jorda."
  },
  {
   "id": "3ef8f58c78",
   "art": "kapitteloppgave",
   "q": "landdeponi – sjødeponi – tilbakefylling",
-  "f": ""
+  "f": "Ingen skiller seg klart ut — alle tre er måter å deponere overskuddsmasser på, og begrunnelsen teller mest.\nEn god mulighet er tilbakefylling: land- og sjødeponi legger massene et nytt sted, mens tilbakefylling fører dem tilbake dit de kom fra.\nEn annen er sjødeponi: det er det eneste som skjer under vann."
  },
  {
   "id": "fa41d5b655",
   "art": "kapitteloppgave",
   "q": "Sand, grus og pukk omtales som naturstein.",
-  "f": ""
+  "f": "Fleip.\nSand, grus og pukk er byggeråstoffer. Naturstein er stein som kan sages, spaltes eller hogges — blokkstein, skifer og murestein."
  },
  {
   "id": "ff4686f5c4",
   "art": "kapitteloppgave",
   "q": "Industrimineraler og metalliske malmer er ikke det samme.",
-  "f": ""
+  "f": "Fakta.\nIndustrimineraler brukes for sine fysiske, kjemiske og ikke-metalliske egenskaper — som olivin, kalkstein og kvarts. I metalliske malmer er det metallinnholdet som er poenget, og metallet må ha tetthet over 5 g/cm³ i lønnsom konsentrasjon."
  },
  {
   "id": "57f1d405ea",
   "art": "kapitteloppgave",
   "q": "Industrimineraler blir produsert i industrien.",
-  "f": ""
+  "f": "Fleip.\nIndustrimineraler blir brukt i industrien, ikke produsert av den. De er naturlige mineraler og bergarter som utvinnes fra berggrunnen og brukes som råstoff eller tilsettingsstoff."
  },
  {
   "id": "d576aa0f4b",
   "art": "kapitteloppgave",
   "q": "Mineralressursene er større enn mineralreservene.",
-  "f": ""
+  "f": "Fakta.\nRessurser omfatter alle kjente forekomster, mens reserver bare er den delen som er i produksjon eller besluttet satt i produksjon. Reservene er altså en delmengde av ressursene."
  },
  {
   "id": "7849af9fa0",
   "art": "kapitteloppgave",
   "q": "Sand, grus og pukk har i dag stor økonomisk betydning i bergverksindustrien.",
-  "f": ""
+  "f": "Fakta.\nI dag er det produksjonen av pukk, grus og sand som gir de største inntektene i bergindustrien — større enn de metalliske malmene, som dominerte fram mot forrige århundreskifte."
  },
  {
   "id": "1617f729cc",
   "art": "kapitteloppgave",
   "q": "Det grønne skiftet vil føre til større etterspørsel etter mineraler.",
-  "f": ""
+  "f": "Fakta.\nGrønn teknologi er mineralkrevende: kobber til elektrifisering, litium og grafitt til batterier, sjeldne jordartsmetaller til motorer og vindturbiner, ren kvarts til solceller, titan til lette konstruksjoner.\nEn elbil trenger tre ganger så mye kobber som en fossilbil."
  },
  {
   "id": "8745509aa0",
   "art": "kapitteloppgave",
   "q": "Blokkstein er navn på en bergart.",
-  "f": ""
+  "f": "Fleip.\nBlokkstein er en bruksbetegnelse på naturstein som tas ut i store, massive blokker. Mange ulike bergarter kan gi blokkstein — larvikitt, granitt, marmor."
  },
  {
   "id": "58c9f0f1ad",
   "art": "kapitteloppgave",
   "q": "Skifer er en magmatisk dypbergart.",
-  "f": ""
+  "f": "Fleip.\nSkifer er heller ingen bestemt bergart, men en bruksbetegnelse på bergarter som lett lar seg spalte i flak. Og skifrigheten skyldes gjerne en moderat omdanning av sedimentære bergarter — altså metamorfose, ikke størkning av magma på dypet."
  },
  {
   "id": "dee145ef4c",
   "art": "kapitteloppgave",
   "q": "Pukk er stein som finnes i naturen.",
-  "f": ""
+  "f": "Fleip.\nPukk er maskinknust stein: fast fjell som er sprengt ut og knust. Det er sand og grus som er «naturlig knust stein»."
  },
  {
   "id": "6ce3791916",
   "art": "kapitteloppgave",
   "q": "Sand og grus er naturlig knust stein.",
-  "f": ""
+  "f": "Fakta.\nForvitring, breerosjon og elveerosjon har løsnet og knust materialet fra berggrunnen. De største forekomstene er avsatt av smeltevann på slutten av siste istid."
  },
  {
   "id": "3f4849b1e3",
   "art": "kapitteloppgave",
   "q": "Industrimineraler blir brukt som råstoffer i industriprosesser.",
-  "f": ""
+  "f": "Fakta.\nIndustrimineraler brukes som råstoff eller tilsettingsstoff i industrien, på grunn av sine fysiske, kjemiske og ikke-metalliske egenskaper. De finnes i papir, plast, keramikk, glass og maling."
  },
  {
   "id": "f25778ac49",
   "art": "kapitteloppgave",
   "q": "Urban gruvedrift drives som dagbrudd.",
-  "f": ""
+  "f": "Fleip.\nUrban gruvedrift er ikke gruvedrift i vanlig forstand i det hele tatt. Det handler om å gjenvinne mineraler og metaller fra avfall fra bedrifter og husholdninger — «gruva» er avfallsstrømmen, ikke berggrunnen."
  },
  {
   "id": "c31f3b1ea5",
   "art": "kapitteloppgave",
   "q": "Tilbakefylling er en måte å deponere overskuddsmasser på.",
-  "f": ""
+  "f": "Fakta.\nTilbakefylling betyr at overskuddsmassene føres tilbake til gruvegangene og deponeres der — et alternativ til landdeponi og sjødeponi."
  },
  {
   "id": "39a95b8820",
   "art": "kapitteloppgave",
   "q": "Gruvedeponier ligger alltid på land.",
-  "f": ""
+  "f": "Fleip.\nDeponering skjer på land, i innsjøer eller fjorder (sjødeponi), eller ved tilbakefylling i gruvegangene. Førdefjorden og Repparfjorden er omstridte eksempler på sjødeponier."
  }
 ]
