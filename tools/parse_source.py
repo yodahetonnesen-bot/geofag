@@ -177,7 +177,12 @@ def parse_kapittel(linjer: list[str], start: int, slutt: int, nr: int) -> dict:
             continue
 
         if modus == "laereplan":
-            if tekst in ("Elevene skal kunne", "I tillegg skal de"):
+            if tekst == "Elevene skal kunne":
+                continue
+            # Skiller de kapittelspesifikke malene fra de gjennomgaende.
+            # Beholdes i lista og gjengis som mellomtekst av build.py.
+            if tekst == "I tillegg skal de":
+                kap["laereplan"].append(tekst)
                 continue
             # Kompetansemalene er formulert som infinitiver med liten
             # forbokstav. Forste linje som ikke er det, avslutter lista.

@@ -107,6 +107,16 @@ def flett_ekstra(kap: dict) -> None:
                 d["tittel"] = None
         kap["deler"] = [d for d in kap["deler"] if d["blokker"]]
 
+    # Motsatt vei: linjer som er vanlig brodtekst, men som parseren tok for a
+    # vaere sporsmal (typisk verselinjer som ender med sporsmalstegn).
+    tilprosa = set(data.get("tilprosa") or [])
+    if tilprosa:
+        for d in kap["deler"]:
+            for b in d["blokker"]:
+                if b.get("tekst") and nokkel(b["tekst"]) in tilprosa:
+                    b["t"] = "p"
+                    b.pop("f", None)
+
     # Oppgaver som star som vanlig brodtekst i kilden (de ender med punktum og
     # har ingen OPPGAVE-markor foran seg) legges inn her, med fasit.
     for blokk in data.get("tilleggsoppgaver") or []:
@@ -441,7 +451,10 @@ def panel_oversikt(kap: dict, forrige: dict | None, neste: dict | None) -> str:
         ut.append('<span class="callout__tit">Hva sier læreplanen i geofag?</span>')
         ut.append("<p>Elevene skal kunne</p><ul>")
         for m in kap["laereplan"]:
-            ut.append(f"<li>{e(m)}</li>")
+            if m == "I tillegg skal de":
+                ut.append(f"</ul><p>{e(m)}</p><ul>")
+            else:
+                ut.append(f"<li>{e(m)}</li>")
         ut.append("</ul></div>")
 
     if kap["sammendrag"]:

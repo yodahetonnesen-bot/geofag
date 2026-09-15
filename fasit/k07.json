@@ -63,7 +63,7 @@
   "id": "c330d4c720",
   "art": "oppgave-i-tekst",
   "q": "På Hardangervidda er det gjort funn av gamle stubber av furu. I et av funnene er forholdet mellom de to karbonisotopene målt til 37,5 prosent av tilsvarende forhold i atmosfæren i dag. Hvor gammel er furustubben? Bruk figur 7.10 til å finne svaret.",
-  "f": ""
+  "f": "Svar: Furustubben er om lag 8100 år gammel.\n\nSlik finner du det:\nKarbon-14 har en halveringstid på 5730 år. Når treet dør, stopper opptaket av nytt karbon fra atmosfæren, og andelen ¹⁴C synker jevnt:\n• etter 5730 år: 50 prosent igjen\n• etter 11 460 år: 25 prosent igjen\n\nMålingen viser 37,5 prosent, altså et sted mellom én og to halveringstider – nærmere én. Leser du av kurven i figur 7.10 ved 37,5 prosent, havner du rundt 8000 år.\n\nKontrollregning:\n0,5^(t/5730) = 0,375\nt = 5730 · ln 0,375 / ln 0,5 = 5730 · 1,415 ≈ 8110 år\n\nHva forteller funnet oss?\nI dag vokser det ikke furu på Hardangervidda – der er det over skoggrensa. At det sto furuskog der for rundt 8000 år siden, viser at klimaet var flere grader varmere enn i dag. Dette var den varmeste perioden etter siste istid, ofte kalt varmetiden eller det postglasiale klimaoptimumet. Furustubber i myr er en av de viktigste kildene vi har til å rekonstruere hvor skoggrensa – og dermed temperaturen – har ligget gjennom etteristiden."
  },
  {
   "id": "7e075c3ee6",
