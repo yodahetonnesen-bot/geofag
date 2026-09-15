@@ -207,7 +207,7 @@ def skall(tittel: str, beskrivelse: str, side_id: str, sidemeny: str,
         </span>
         <span class="brandtext">
           <b>{NETTSTED}</b>
-          <span>{e(brodsmule)}</span>
+          <span id="merkeUnder">{e(brodsmule)}</span>
         </span>
       </a>
     </div>
@@ -332,6 +332,22 @@ def avsnitt(tekst: str) -> str:
     return "".join(ut)
 
 
+def sluggmap(kap: dict) -> dict[int, str]:
+    """En unik forankring per del. Flere kapitler har to deler med samme
+    overskrift — kapittel 13 har for eksempel bade et globalt og et norsk
+    avsnitt om bade jordbruk, industri, husholdninger og vannkraft. Uten
+    nummerering ville innholdslista hoppe til feil sted."""
+    brukt: dict[str, int] = {}
+    ut: dict[int, str] = {}
+    for i, d in enumerate(kap["deler"]):
+        if not d.get("tittel"):
+            continue
+        s = slugg(d["tittel"])
+        brukt[s] = brukt.get(s, 0) + 1
+        ut[i] = s if brukt[s] == 1 else f"{s}-{brukt[s]}"
+    return ut
+
+
 def panel_fagstoff(kap: dict) -> tuple[str, int]:
     teller = [0]
     ut = ['<section class="panel" id="panel-fagstoff">']
@@ -341,18 +357,19 @@ def panel_fagstoff(kap: dict) -> tuple[str, int]:
         "Refleksjonsspørsmålene underveis er merket <em>Tenk</em>.</p>"
     )
 
+    anker = sluggmap(kap)
     lenker = [
-        f'<a href="#{slugg(d["tittel"])}">{e(d["tittel"])}</a>'
-        for d in kap["deler"] if d.get("tittel")
+        f'<a href="#{anker[i]}">{e(d["tittel"])}</a>'
+        for i, d in enumerate(kap["deler"]) if d.get("tittel")
     ]
     if lenker:
         ut.append('<nav class="subnav" aria-label="Deler i kapitlet">' + "".join(lenker) + "</nav>")
 
     ut.append('<div class="brodtekst">')
-    for d in kap["deler"]:
+    for i, d in enumerate(kap["deler"]):
         if d.get("tittel"):
             sidetall = f' <span class="pill">s. {d["side"]}</span>' if d.get("side") else ""
-            ut.append(f'<h3 id="{slugg(d["tittel"])}">{e(d["tittel"])}{sidetall}</h3>')
+            ut.append(f'<h3 id="{anker[i]}">{e(d["tittel"])}{sidetall}</h3>')
         for b in d["blokker"]:
             ut.append(render_blokk(b, teller))
     ut.append("</div>")
@@ -736,6 +753,143 @@ def kortbeskrivelse(kap: dict) -> str:
     return tekst if len(tekst) <= 190 else tekst[:187].rsplit(" ", 1)[0] + " …"
 
 
+# ------------------------------------------------------------------- enkeltfil
+# Hele nettstedet samlet i ett dokument, med css og js limt inn. Adressen
+# styrer navigasjonen: #k13 apner kapittel 13, #k13-oppgaver apner
+# oppgavefanen der. Filen trenger ingenting annet for a virke.
+
+HOVED_RE = re.compile(
+    r'<main class="content wrap" id="hovedinnhold" tabindex="-1">\n(.*?)\n    </main>',
+    re.S,
+)
+
+# Id-er som javascriptet slar opp direkte, og som derfor ma beholde navnet.
+JS_IDER = {
+    "burger", "fcDef", "fcKat", "fcLett", "fcNeste", "fcNullstill", "fcStat",
+    "fcTerm", "fcVanskelig", "flashcard", "hovedinnhold", "merkeUnder", "noNa",
+    "quizPoeng", "quizRot", "ringFg", "ringPst", "ringTekst", "sidemeny",
+    "skygge", "sokFelt", "sokTreff", "temaBtn", "temaIkon", "tilTopp",
+    "topFyll", "topPst",
+}
+
+# Id-er som allerede er unike per kapittel (panel-kNN-…, kNN-sN) og
+# kapittelankere (#kNN, #kNN-oppgaver) skal sta urort.
+ALT_UNIKT = re.compile(r"^(panel-)?k\d\d(-|$)")
+
+
+def navnerom(html: str, pre: str) -> str:
+    """Gjor id-er og ankere unike, slik at 21 kapitler kan dele ett dokument."""
+    html = html.replace('id="panel-', f'id="panel-{pre}-')
+    html = html.replace('data-tab="', f'data-tab="{pre}-')
+
+    # Lenker mellom sidene blir til hash-navigasjon i samme dokument.
+    html = re.sub(r'href="(?:kapittel/)?k(\d\d)\.html"', r'href="#k\1"', html)
+    html = html.replace('href="../index.html"', 'href="#k00"')
+    html = html.replace('href="index.html"', 'href="#k00"')
+
+    def behold(v: str) -> bool:
+        return v in JS_IDER or bool(ALT_UNIKT.match(v))
+
+    def bytt(attr: str, prefiks: str):
+        def indre(m):
+            v = m.group(1)
+            return m.group(0) if behold(v) else f'{attr}="{prefiks}{pre}--{v}"'
+        return indre
+
+    html = re.sub(r'id="([^"]+)"', bytt("id", ""), html)
+    html = re.sub(r'for="([^"]+)"', bytt("for", ""), html)
+    html = re.sub(r'href="#([^"]+)"', bytt("href", "#"), html)
+    return html
+
+
+def kapittelfaner(kap: dict, pre: str) -> str:
+    ut = [f'      <div class="navgroup kapmeny" data-kapmeny="{pre}" hidden>',
+          '        <span class="navgroup__label">Dette kapitlet</span>']
+    for i, (navn, merke, tittel) in enumerate(FANER):
+        if navn == "flashcards" and not kap.get("flashcards"):
+            continue
+        if navn == "quiz" and not kap.get("quiz"):
+            continue
+        aktiv = " active" if i == 0 else ""
+        ut.append(
+            f'        <button class="tab{aktiv}" data-tab="{pre}-{navn}" data-tittel="{e(tittel)}">'
+            f'<span class="tab__dot" aria-hidden="true">{merke}</span>'
+            f'<span class="tab__txt">{e(tittel)}</span></button>'
+        )
+    ut.append("      </div>")
+    return "\n".join(ut)
+
+
+def bygg_enkeltfil(alle: list[dict]) -> str:
+    deler, meny = [], []
+
+    treff = HOVED_RE.search(bygg_index(alle))
+    if not treff:
+        raise SystemExit("fant ikke hovedinnholdet pa forsiden")
+    deler.append(
+        f'<div class="kapittel" data-kap="k00" data-navn="Alle kapitler"'
+        f' data-tittel="{e(NETTSTED)} — {e(UNDERTITTEL)}">\n'
+        f'{navnerom(treff.group(1), "k00")}\n</div>'
+    )
+    meny.append('      <div class="navgroup kapmeny" data-kapmeny="k00" hidden></div>')
+
+    for kap in alle:
+        pre = f"k{kap['nr']:02d}"
+        treff = HOVED_RE.search(bygg_kapittel(kap, alle))
+        if not treff:
+            raise SystemExit(f"fant ikke hovedinnholdet i kapittel {kap['nr']}")
+        deler.append(
+            f'<div class="kapittel" data-kap="{pre}" data-navn="Kapittel {kap["nr"]}"'
+            f' data-tittel="{e(NETTSTED)} — Kapittel {kap["nr"]}: {e(kap["tittel"])}" hidden>\n'
+            f'{navnerom(treff.group(1), pre)}\n</div>'
+        )
+        meny.append(kapittelfaner(kap, pre))
+
+    liste = ['      <div class="navgroup">',
+             '        <span class="navgroup__label">Alle kapitler</span>',
+             '        <a class="tab" href="#k00" data-gakap="k00">'
+             '<span class="tab__dot" aria-hidden="true">OV</span>'
+             '<span class="tab__txt">Forsiden</span></a>']
+    for k in alle:
+        liste.append(
+            f'        <a class="tab" href="#k{k["nr"]:02d}" data-gakap="k{k["nr"]:02d}">'
+            f'<span class="tab__dot" aria-hidden="true">{k["nr"]:02d}</span>'
+            f'<span class="tab__txt">{e(k["tittel"])}</span></a>'
+        )
+    liste.append("      </div>")
+    meny.append("\n".join(liste))
+
+    sum_opg = sum(tell_oppgaver(k) for k in alle)
+    side = skall(
+        tittel=f"{NETTSTED} — {UNDERTITTEL}",
+        beskrivelse=(
+            f"Hele Geofag 1 i én fil: {len(alle)} kapitler med fagstoff, "
+            f"sammendrag og {sum_opg} oppgaver med fasit."
+        ),
+        side_id="k00",
+        sidemeny="\n".join(meny),
+        brodsmule="Alle kapitler",
+        innhold="\n".join(deler),
+        dybde=0,
+    )
+
+    css = (ROOT / "assets" / "geofag.css").read_text(encoding="utf-8")
+    js = (ROOT / "assets" / "geofag.js").read_text(encoding="utf-8")
+    if "</style" in css or "</script" in js:
+        raise SystemExit("css eller js inneholder en tagg som ville brutt dokumentet")
+
+    side = side.replace('<a href="index.html">', '<a href="#k00">')
+    side = side.replace(
+        '<link rel="stylesheet" href="assets/geofag.css">',
+        "<style>\n" + css + "</style>",
+    )
+    side = side.replace(
+        '<script src="assets/geofag.js"></script>',
+        "<script>\n" + js + "</script>",
+    )
+    return side
+
+
 def main() -> int:
     alle = les_kapitler()
     UT_KAP.mkdir(exist_ok=True)
@@ -743,9 +897,13 @@ def main() -> int:
         (UT_KAP / f"k{kap['nr']:02d}.html").write_text(bygg_kapittel(kap, alle), encoding="utf-8")
     (ROOT / "index.html").write_text(bygg_index(alle), encoding="utf-8")
 
+    en = bygg_enkeltfil(alle)
+    (ROOT / "geofag-alt-i-en-fil.html").write_text(en, encoding="utf-8")
+
     sum_opg = sum(tell_oppgaver(k) for k in alle)
     sum_fasit = sum(tell_fasit(k) for k in alle)
     print(f"bygde index.html + {len(alle)} kapittelsider")
+    print(f"bygde geofag-alt-i-en-fil.html ({len(en.encode())/1e6:.2f} MB)")
     print(f"oppgaver: {sum_fasit}/{sum_opg} har fasit")
     return 0
 

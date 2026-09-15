@@ -67,19 +67,38 @@
   });
 
   /* ---------- faner ---------- */
-  var faner = $$('.tab[data-tab]');
-  var paneler = $$('.panel[id^="panel-"]');
+  /* Sidene kan bygges pa to mater: en fil per kapittel, eller alt i en fil.
+     I enkeltfil-versjonen ligger hvert kapittel i <div class="kapittel">, og
+     bare ett av dem er synlig av gangen. Derfor slar vi opp faner, paneler og
+     avkryssingsbokser pa nytt hver gang, avgrenset til det aktive kapitlet.
+     Finnes ingen slike containere, faller vi tilbake til hele dokumentet, og
+     oppforselen blir nøyaktig som for. */
   var noNa = $('#noNa');
+
+  function rotKap() {
+    return document.querySelector('.kapittel[data-kap]:not([hidden])');
+  }
+  function faneListe() {
+    var m = document.querySelector('[data-kapmeny]:not([hidden])');
+    return $$('.tab[data-tab]', m || document);
+  }
+  function panelListe() {
+    return $$('.panel[id^="panel-"]', rotKap() || document);
+  }
+  function sideNokkel() {
+    return document.body.dataset.side || 'global';
+  }
 
   function visFane(navn, skrivHistorikk) {
     // Finn treffet forst. Uten treff rorer vi ikke panelene, slik at siden
     // aldri ender opp med alt skjult.
+    var paneler = panelListe();
     var traff = paneler.some(function (p) { return p.id === 'panel-' + navn; });
     if (!traff) return false;
     paneler.forEach(function (p) {
       p.classList.toggle('active', p.id === 'panel-' + navn);
     });
-    faner.forEach(function (f) {
+    faneListe().forEach(function (f) {
       var pa = f.dataset.tab === navn;
       f.classList.toggle('active', pa);
       if (pa && noNa) noNa.textContent = f.dataset.tittel || f.textContent.trim();
@@ -87,30 +106,32 @@
     if (skrivHistorikk && history.replaceState) {
       history.replaceState(null, '', '#' + navn);
     }
-    lager.set('geofag:fane:' + document.body.dataset.side, navn);
+    lager.set('geofag:fane:' + sideNokkel(), navn);
     lukkMeny();
     return true;
   }
 
-  faner.forEach(function (f) {
-    f.addEventListener('click', function () {
-      visFane(f.dataset.tab, true);
-      var innhold = $('#hovedinnhold');
-      if (innhold) innhold.scrollIntoView({ block: 'start' });
-    });
+  // Delegert, slik at faner som byttes ut ved kapittelbytte ogsa virker.
+  document.addEventListener('click', function (ev) {
+    var f = ev.target.closest ? ev.target.closest('.tab[data-tab]') : null;
+    if (!f) return;
+    visFane(f.dataset.tab, true);
+    var innhold = $('#hovedinnhold');
+    if (innhold) innhold.scrollIntoView({ block: 'start' });
   });
 
-  if (faner.length && paneler.length) {
+  function startFane() {
+    var faner = faneListe();
+    if (!faner.length || !panelListe().length) return;
     var fraHash = (location.hash || '').replace('#', '');
-    var husket = lager.get('geofag:fane:' + document.body.dataset.side, null);
+    var husket = lager.get('geofag:fane:' + sideNokkel(), null);
     if (!visFane(fraHash, false) && !visFane(husket, false)) {
       visFane(faner[0].dataset.tab, false);
     }
   }
 
   /* ---------- framdrift ---------- */
-  var noklerPrefix = 'geofag:sjekk:' + (document.body.dataset.side || 'global') + ':';
-  var bokser = $$('.sjekk input[type="checkbox"]');
+  var bokser = [];
 
   function tegnFramdrift() {
     if (!bokser.length) return;
@@ -132,15 +153,22 @@
     if (ringTekst) ringTekst.textContent = gjort + ' av ' + bokser.length + ' punkter';
   }
 
-  bokser.forEach(function (b, i) {
-    var nokkel = noklerPrefix + (b.id || i);
-    b.checked = !!lager.get(nokkel, false);
-    b.addEventListener('change', function () {
-      lager.set(nokkel, b.checked);
-      tegnFramdrift();
+  function bindFramdrift() {
+    bokser = $$('.sjekk input[type="checkbox"]', rotKap() || document);
+    var prefix = 'geofag:sjekk:' + sideNokkel() + ':';
+    bokser.forEach(function (b, i) {
+      if (!b.dataset.bundet) {
+        b.dataset.bundet = '1';
+        var nokkel = prefix + (b.id || i);
+        b.checked = !!lager.get(nokkel, false);
+        b.addEventListener('change', function () {
+          lager.set(nokkel, b.checked);
+          tegnFramdrift();
+        });
+      }
     });
-  });
-  tegnFramdrift();
+    tegnFramdrift();
+  }
 
   /* ---------- fasit: apne og lukke alle ---------- */
   $$('[data-handling="apne-alle"]').forEach(function (kn) {
@@ -342,6 +370,69 @@
 
     stokk();
     tegnQuiz();
+  }
+
+  /* ---------- kapittelbytte (bare i enkeltfil-versjonen) ----------
+     Hvert kapittel ligger i <div class="kapittel" data-kap="kNN">, og
+     sidemenyen har en tilhorende <div data-kapmeny="kNN"> med fanene.
+     Adressen styrer alt: #k13 apner kapittel 13, #k13-oppgaver apner
+     oppgavefanen i kapittel 13. */
+  var kapitler = $$('.kapittel[data-kap]');
+
+  if (!kapitler.length) {
+    startFane();
+    bindFramdrift();
+  } else {
+    var kapmenyer = $$('[data-kapmeny]');
+    var merke = $('#merkeUnder');
+    var kicker = $('.topbar__crumb .kicker');
+
+    var visKapittel = function (id, skrivHistorikk) {
+      var akt = null;
+      kapitler.forEach(function (k) {
+        var pa = k.dataset.kap === id;
+        k.hidden = !pa;
+        if (pa) akt = k;
+      });
+      if (!akt) {
+        kapitler.forEach(function (k) { k.hidden = k.dataset.kap !== kapitler[0].dataset.kap; });
+        return false;
+      }
+      kapmenyer.forEach(function (m) { m.hidden = m.dataset.kapmeny !== id; });
+      $$('[data-gakap]').forEach(function (a) {
+        a.classList.toggle('active', a.dataset.gakap === id);
+      });
+
+      var navn = akt.dataset.navn || 'Oversikt';
+      if (merke) merke.textContent = navn;
+      if (kicker) kicker.textContent = navn;
+      document.title = akt.dataset.tittel || document.title;
+      document.body.dataset.side = id;
+
+      startFane();
+      bindFramdrift();
+      lukkMeny();
+      if (skrivHistorikk && history.replaceState) {
+        history.replaceState(null, '', '#' + id);
+      }
+      return true;
+    };
+
+    var fraAdresse = function () {
+      var h = (location.hash || '').replace('#', '');
+      var m = /^(k\d\d)/.exec(h);
+      if (!m || !visKapittel(m[1], false)) return false;
+      if (h !== m[1]) visFane(h, false);
+      return true;
+    };
+
+    window.addEventListener('hashchange', function () {
+      if (!fraAdresse()) return;
+      var innhold = $('#hovedinnhold');
+      if (innhold) innhold.scrollIntoView({ block: 'start' });
+    });
+
+    if (!fraAdresse()) visKapittel(kapitler[0].dataset.kap, false);
   }
 
   /* ---------- til toppen ---------- */
