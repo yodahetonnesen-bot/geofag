@@ -199,13 +199,11 @@
           "t": "figur",
           "nr": "18.7",
           "tekst": "Slik kan meandersvingen på bildet i figur 18.6 se ut om noen tiår. Bildet er fra Leira på Romerike."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser plassering av Leira og Numedalslågen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser plassering av Leira og Numedalslågen"
+        },
         {
           "t": "bilde",
           "tekst": "Flyfoto av slyngete sideelver bukter seg ut gjennom et krøllete jordbrukslandskap"
@@ -552,7 +550,7 @@
       "art": "oppgave",
       "overskrift": "OPPGAVE",
       "side": null,
-      "del": "Kart over Sør-Norge som viser plassering av Leira og Numedalslågen",
+      "del": "Meanderløp",
       "poster": [
         {
           "q": "Flyfotoet i figur 18.8 viser en sideelv til Barduelva i Troms.",
@@ -830,6 +828,6 @@
     "Elvevifter dannes der bratte sideelver kommer ned til den flate dalbunnen i hoveddalen. Farten på vannet avtar, det blir avsatt løsmasser, og elveløpet deler seg. Nye løp blir dannet, og det samme gjentar seg igjen og igjen. Etter hvert som avsetningene blir bygd opp, skifter elva løp fram og tilbake og danner en grusvifte – en elvevifte.",
     "Når flomstore elver går over sine bredder, avsetter elva materiale. Sand og grus blir avsatt like til siden for elveløpet og bygger opp elvevoller. Leire og finsand blir ført lenger av sted med flomvannet og avsatt på elvesletter.",
     "Der elva renner ut i en innsjø eller i havet, kan den danne et delta.",
-    "Når elva eroderer tidligere elvesletter og deltaflater, dannes det elveterrasser.Kapittel 19"
+    "Når elva eroderer tidligere elvesletter og deltaflater, dannes det elveterrasser."
   ]
 }

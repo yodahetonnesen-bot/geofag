@@ -43,13 +43,11 @@
           "t": "figur",
           "nr": "19.2",
           "tekst": "Skjærgårdskysten ved Kragerø. Øya Jomfruland til høyre på bildet er en del av Raet. Bildet er tatt mot nord."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser plassering av Rakke og Jomfruland",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser plassering av Rakke og Jomfruland"
+        },
         {
           "t": "p",
           "tekst": "Kystlandskapet blir til ved et samspill mellom forvitring i strandsonen, bølgeerosjon, havstrømmer og breerosjon. Men ikke minst har landet som møter havet, stor betydning. Er det fast fjell, eller er det løsmasser? Er det en småkupert landoverflate eller bratte fjell?"
@@ -208,17 +206,17 @@
           "t": "figur",
           "nr": "19.6",
           "tekst": "Næring fra Flågan mot Reinneset ved Breivikfjorden, Sørøya. Hasvik kommune i Finnmark"
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Nord-Norge som viser plassering av Hasvik, nord for Tromsø"
         }
       ]
     },
     {
-      "tittel": "Kart over Nord-Norge som viser plassering av Hasvik, nord for Tromsø",
+      "tittel": "Løsmassekysten",
       "side": null,
       "blokker": [
-        {
-          "t": "bilde",
-          "tekst": "Løsmassekysten"
-        },
         {
           "t": "p",
           "tekst": "På Jæren og Lista er det et annet landskap som møter havet. Her har innlandsisen avsatt tykke lag av morene ut mot kysten. Bølgeerosjon, havstrømmer og vind har formet kysten. Sandstrender, sanddyner og rullesteinstrender preger løsmassekysten."
@@ -559,7 +557,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 342,
-      "del": "Kart over Nord-Norge som viser plassering av Hasvik, nord for Tromsø",
+      "del": "Løsmassekysten",
       "poster": [
         {
           "q": "Beskriv hvordan skjærgårdskysten ser ut. Hvor på norskekysten finner vi denne kysttypen?",
@@ -583,7 +581,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Kart over Nord-Norge som viser plassering av Hasvik, nord for Tromsø",
+      "del": "Løsmassekysten",
       "poster": [
         {
           "q": "Hvilke landformer på land har vært utgangspunktet for fjordkysten? Enn for næringskysten?",
@@ -774,6 +772,6 @@
     "Marin grense er den øvre grensen for havnivået i forhold til landmassen like etter siste istid.",
     "Ravinelandskapet, eller leirlandskapet, er dannet i leiravsetningene under marin grense. Bekkedaler (raviner), skredgroper og gammel havbunn er vanlige landformer.",
     "I store deler av Skandinavia er landhevningen ennå ikke slutt, og den vil fortsette i flere tusen år.",
-    "Den globale havnivåstigningen har på noen kyststrekninger tatt igjen landhevningen.Kapittel 20"
+    "Den globale havnivåstigningen har på noen kyststrekninger tatt igjen landhevningen."
   ]
 }

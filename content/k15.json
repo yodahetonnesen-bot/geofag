@@ -38,13 +38,11 @@
           "t": "figur",
           "nr": "15.2",
           "tekst": "Utsikt fra Gvepseborg mot Rjukan og Gaustatoppen i Telemark. Gaustatoppen består av en hard kvartsitt som står opp over mindre harde bergarter rundt (figur 15.1). Vestfjorddalen med Rjukan tilhører de unge landformene, som er skåret ned i den gamle landoverflaten der Gaustatoppen er blitt stående igjen som et «restfjell»."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser plassering av Rukjan og Gaustatoppen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser plassering av Rukjan og Gaustatoppen"
+        },
         {
           "t": "p",
           "tekst": "Berggrunnen består av bergarter fra nesten hele jordhistorien, de eldste bergartene i Norge er over tre milliarder år gamle. Landformene er mye yngre, de er dannet i jordas mellomtid og nytid, de fleste er ikke eldre enn ca. 200 millioner år. Det er de samme prosessene som former jordoverflaten i dag som det var for milliarder av år siden. Unntakene er mindre landområder som har vært dekket av yngre bergarter og dermed skjermet mot erosjon gjennom store deler av jordhistorien – før de igjen er blitt synlige på jordoverflaten."
@@ -568,6 +566,6 @@
     "Ved inngangen til nytiden var den kaledonske fjellkjeden for lengst borte, landoverflaten var slitt ned til et lavtliggende sletteland. Bare «røttene» av fjellkjeden var tilbake som en del av berggrunnen.",
     "Gjennom nytiden, i paleogen og neogen, ble den vestlige delen av det baltiske skjoldet hevet og stilt på skrå.",
     "Som følge av hevningene i paleogen og neogen finner vi i dag rester av den paleiske overflaten som små og store flater (og restfjell) i ulike høydenivåer, både som høyfjellsvidder og skogvidder.",
-    "På den skråstilte landoverflaten fikk erosjonsprosessene fornyet kraft. Elvene som rant mot vest, gravde seg raskt østover og innover i landmassen og fanget inn de øverste delene av elvene som rant mot øst. Slike daler der dreneringen har snudd vestover, kaller vi agnordaler.Kapittel 16"
+    "På den skråstilte landoverflaten fikk erosjonsprosessene fornyet kraft. Elvene som rant mot vest, gravde seg raskt østover og innover i landmassen og fanget inn de øverste delene av elvene som rant mot øst. Slike daler der dreneringen har snudd vestover, kaller vi agnordaler."
   ]
 }

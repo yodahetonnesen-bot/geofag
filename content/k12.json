@@ -65,13 +65,11 @@
         {
           "t": "p",
           "tekst": "Havet er det største vannmagasinet i vannets kretsløp. Det meste av ferskvannet er lagret i de store innlandsisene på Grønland og i Antarktis. Innsjøer, elver og grunnvann er blant de viktigste ferskvannskildene (figur 12.2)."
-        }
-      ]
-    },
-    {
-      "tittel": "De største vannmagasinene er",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "p",
+          "tekst": "De største vannmagasinene er"
+        },
         {
           "t": "p",
           "tekst": "havet (96,55 %)"
@@ -168,13 +166,11 @@
         {
           "t": "p",
           "tekst": "Vannbalanseligningen viser sammenhengen mellom nedbør, avrenning, evapotranspirasjon og endringer i vannmagasinene i et nedbørsfelt i en kortere eller lengre periode:"
-        }
-      ]
-    },
-    {
-      "tittel": "Nedbør = avrenning + evapotranspirasjon +/– endring i vannmagasinene",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "formel",
+          "tekst": "Nedbør = avrenning + evapotranspirasjon +/– endring i vannmagasinene"
+        },
         {
           "t": "p",
           "tekst": "tegning av nedbørsfelt med hovedelv og sideelver"
@@ -299,7 +295,7 @@
           "tekst": "Avrenningen er den samlede vannmengden som passerer en målestasjon i løpet av et kortere eller lengre tidsrom, for eksempel et år. Den måles i m3."
         },
         {
-          "t": "p",
+          "t": "formel",
           "tekst": "Gjør en utregning som viser at 1 L/(s · km2) = 31,5 mm/år."
         },
         {
@@ -343,25 +339,21 @@
           "t": "oppg",
           "tekst": "Studer figuren og finn ut hvilke ord som skal stå til høyre for likhetstegnene her:",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Avrenning til hav + nedbør over hav =",
-      "side": null,
-      "blokker": [
+        },
         {
-          "t": "bilde",
+          "t": "formel",
+          "tekst": "Avrenning til hav + nedbør over hav ="
+        },
+        {
+          "t": "formel",
           "tekst": "Fordampning fra hav – nedbør over hav ="
-        }
-      ]
-    },
-    {
-      "tittel": "Nedbør over land – evapotranspirasjon fra land =",
-      "side": null,
-      "blokker": [
+        },
         {
-          "t": "bilde",
+          "t": "formel",
+          "tekst": "Nedbør over land – evapotranspirasjon fra land ="
+        },
+        {
+          "t": "formel",
           "tekst": "Nedbør over land – avrenning til hav ="
         }
       ]
@@ -578,13 +570,11 @@
         {
           "t": "p",
           "tekst": "De største flommene her til lands er kombinerte regn- og snøsmeltingsflommer. Storofsen og Vesleofsen er to slike eksempler (ofse = storm, uvær, naturkatastrofe som kommer brått på)."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser elvene Glomma og Gudbrandsdalslågen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser elvene Glomma og Gudbrandsdalslågen"
+        },
         {
           "t": "p",
           "tekst": "Den største kjente flommen her i landet er Storofsen (figur 12.12), som herjet i Gudbrandsdalslågen og Glomma i slutten av juli 1789, samtidig som revolusjonen rullet inn over Frankrike. Særlig ble Gudbrandsdalen hardt rammet. En lang periode med mye regn, kombinert med sterk snøsmelting i høyfjellet, førte til Storofsen. Flommen tok 72 menneskeliv."
@@ -756,13 +746,11 @@
           "t": "figur",
           "nr": "12.15",
           "tekst": "Store nedbørsmengder førte i mai 2013 til flom og store ødeleggelser flere steder på Østlandet, som her på Kvam i Gudbrandsdalen. Elvene Storåa og Veiklea ødela flere hus, jernbanelinja ble ødelagt, og E6 ble oversvømt av flomvann."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser Tynset, Kvam og Gudbrandsdalen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser Tynset, Kvam og Gudbrandsdalen"
+        },
         {
           "t": "p",
           "tekst": "En elv i flom har enorm erosjonsevne. Ofte blir elvebredden undergravd slik at den raser ut i elva. Veier og jernbane er utsatt. Store trær kan havne i elva og skape problemer lenger nede i vassdraget, for eksempel ved bruer."
@@ -943,13 +931,11 @@
         {
           "t": "p",
           "tekst": "Det meste av det vannet planterøttene tar opp fra jorda, transporteres gjennom planten og til spalteåpningene på bladene, der det transpirerer. Planterøttene klarer ikke å trekke ut alt markvannet. Etter hvert som vanninnholdet minker, blir det resterende vannet stadig sterkere bundet til jordpartiklene. Derfor er alltid en del av markvannet bundet vann. Dette vannet kalles visnegrensen (figur 12.20). Det vannet som er tilgjengelig for plantene, er lik forskjellen mellom feltkapasiteten og visnegrensen:"
-        }
-      ]
-    },
-    {
-      "tittel": "Tilgjengelig vann = feltkapasitet – visnegrense",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "formel",
+          "tekst": "Tilgjengelig vann = feltkapasitet – visnegrense"
+        },
         {
           "t": "p",
           "tekst": "Feltkapasitet og visnegrense varierer med jordartene (figur 12.21). Jo større porer det er i jorda, desto mindre vann kan jorda holde på. I sand kan for eksempel feltkapasiteten bare være 15 prosent av jordvolumet, mens visnegrensen kan tilsvare 5 prosent. Det betyr at den vannmengden som er tilgjengelig for plantene, tilsvarer 10 prosent av jordvolumet."
@@ -1393,13 +1379,11 @@
         {
           "t": "p",
           "tekst": "Det betyr at vi kan beregne massebalansen på breene ved å sammenligne nedbør, avrenning og evapotranspirasjon. Når vi kjenner nedbøren (P), avrenningen (Q) og evapotranspirasjonen (E), er massebalansen (B) gitt ved uttrykket"
-        }
-      ]
-    },
-    {
-      "tittel": "B = P – Q – E",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "formel",
+          "tekst": "B = P – Q – E"
+        },
         {
           "t": "p",
           "tekst": "Massebalansen tilsvarer da den vannmengden som er magasinert på breen – eller frigjort fra den."
@@ -1522,13 +1506,11 @@
         {
           "t": "p",
           "tekst": "De fleste fjellbreene i verden har negativ massebalanse som følge av høyere sommertemperatur, mindre vinternedbør eller begge deler. Den globale oppvarmingen kan føre til at fjellbreer over hele verden forsvinner de neste hundre årene. Dersom den gjennomsnittlige sommertemperaturen øker med 1,5–2 grader her i landet, kan det sammenlignes med forholdene like etter siste istid, for 6000–8000 år siden. I løpet av den perioden forsvant alle breene i Norge. Forskerne tror det kan gå raskere nå."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser plasseringen av Rena, Hallingskarvet, Hardangerjøkulen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser plasseringen av Rena, Hallingskarvet, Hardangerjøkulen"
+        },
         {
           "t": "p",
           "tekst": "Breer som har stor høydeforskjell mellom høyeste og laveste punkt, vil nok klare seg lengst. Dersom høydeforskjellen er liten, er breen mer utsatt for temperaturstigning. I løpet av kort tid kan hele breens næringsområde forsvinne, og den vil raskt smelte. Platåbreer, som for eksempel Hardangerjøkulen, er derfor sårbare."
@@ -1817,7 +1799,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "B = P – Q – E",
+      "del": "Avrenningen fra isbreene",
       "poster": [
         {
           "q": "Hvor mye ville verdenshavene stige dersom innlandsisene på Grønland og i Antarktis smeltet?",
@@ -1853,7 +1835,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "B = P – Q – E",
+      "del": "Avrenningen fra isbreene",
       "poster": [
         {
           "q": "Hvorfor ligger likevektslinjen høyere på kontinentale breer enn på kystnære breer?",
@@ -1869,7 +1851,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Kart over Sør-Norge som viser plasseringen av Rena, Hallingskarvet, Hardangerjøkulen",
+      "del": "Frontmålinger",
       "poster": [
         {
           "q": "Hva menes med at breen er en klimaindikator?",
@@ -1889,7 +1871,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Kart over Sør-Norge som viser plasseringen av Rena, Hallingskarvet, Hardangerjøkulen",
+      "del": "Frontmålinger",
       "poster": [
         {
           "q": "Vil et kaldt klima uten videre føre til at det dannes breer?",
@@ -1913,7 +1895,7 @@
       "art": "oppgave",
       "overskrift": "OPPGAVER",
       "side": null,
-      "del": "Kart over Sør-Norge som viser plasseringen av Rena, Hallingskarvet, Hardangerjøkulen",
+      "del": "Frontmålinger",
       "poster": [
         {
           "q": "Hva forteller bildet?",
@@ -2086,6 +2068,6 @@
     "Massebalansen på en bre beregnes ved at man måler sommer- og vinterbalansen ved avlesning på staker som er boret ned i isen, og ved at man måler snødybden på breen.",
     "I dag har de fleste norske breene en negativ massebalanse, noe som betyr at de smelter tilbake.",
     "I et nedbørsfelt med breer kan nedbøren bli magasinert i flere år.",
-    "Brefrontens posisjon flytter seg i takt med klimaendringer. Breen er en klimaindikator.Kapittel 13"
+    "Brefrontens posisjon flytter seg i takt med klimaendringer. Breen er en klimaindikator."
   ]
 }

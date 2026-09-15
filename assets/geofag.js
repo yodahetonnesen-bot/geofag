@@ -130,46 +130,6 @@
     }
   }
 
-  /* ---------- framdrift ---------- */
-  var bokser = [];
-
-  function tegnFramdrift() {
-    if (!bokser.length) return;
-    var gjort = bokser.filter(function (b) { return b.checked; }).length;
-    var andel = gjort / bokser.length;
-    var pst = Math.round(andel * 100);
-
-    var topFyll = $('#topFyll'), topPst = $('#topPst');
-    if (topFyll) topFyll.style.width = pst + '%';
-    if (topPst) topPst.textContent = pst + ' %';
-
-    var ringFg = $('#ringFg'), ringPst = $('#ringPst'), ringTekst = $('#ringTekst');
-    if (ringFg) {
-      var omkrets = 2 * Math.PI * 19;
-      ringFg.setAttribute('stroke-dasharray', omkrets.toFixed(1));
-      ringFg.setAttribute('stroke-dashoffset', (omkrets * (1 - andel)).toFixed(1));
-    }
-    if (ringPst) ringPst.textContent = pst + '%';
-    if (ringTekst) ringTekst.textContent = gjort + ' av ' + bokser.length + ' punkter';
-  }
-
-  function bindFramdrift() {
-    bokser = $$('.sjekk input[type="checkbox"]', rotKap() || document);
-    var prefix = 'geofag:sjekk:' + sideNokkel() + ':';
-    bokser.forEach(function (b, i) {
-      if (!b.dataset.bundet) {
-        b.dataset.bundet = '1';
-        var nokkel = prefix + (b.id || i);
-        b.checked = !!lager.get(nokkel, false);
-        b.addEventListener('change', function () {
-          lager.set(nokkel, b.checked);
-          tegnFramdrift();
-        });
-      }
-    });
-    tegnFramdrift();
-  }
-
   /* ---------- fasit: apne og lukke alle ---------- */
   $$('[data-handling="apne-alle"]').forEach(function (kn) {
     kn.addEventListener('click', function () {
@@ -381,7 +341,6 @@
 
   if (!kapitler.length) {
     startFane();
-    bindFramdrift();
   } else {
     var kapmenyer = $$('[data-kapmeny]');
     var merke = $('#merkeUnder');
@@ -410,7 +369,6 @@
       document.body.dataset.side = id;
 
       startFane();
-      bindFramdrift();
       lukkMeny();
       if (skrivHistorikk && history.replaceState) {
         history.replaceState(null, '', '#' + id);

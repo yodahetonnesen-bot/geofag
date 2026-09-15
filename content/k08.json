@@ -362,13 +362,11 @@
         {
           "t": "p",
           "tekst": "Kambriske leirskifre som lå oppå grunnfjellet, ble omdannet til fyllitt, samtidig som de minsket friksjonen mellom Jotundekket og grunnfjellet under."
-        }
-      ]
-    },
-    {
-      "tittel": "Tidslinje: Den kaledonske fjellkjedefoldningen midt i oldtiden",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Tidslinje: Den kaledonske fjellkjedefoldningen midt i oldtiden"
+        },
         {
           "t": "bilde",
           "tekst": "Kollisjon mellom to kontinentplater"
@@ -395,13 +393,11 @@
           "t": "figur",
           "nr": "8.12",
           "tekst": "Bitihorn (til venstre i bildet) i Jotunheimen er en del av Jotundekket. Flak av prekambrisk gabbro er skjøvet over yngre prekambriske sandsteiner i forgrunnen. Pila viser skyveretningen mot sørøst. Sammenlign med 8.11."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser plasseringen av Ålfoten, Bitihorn og Hårteigen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser plasseringen av Ålfoten, Bitihorn og Hårteigen"
+        },
         {
           "t": "p",
           "tekst": "Skyvedekket Jotundekket har tidligere dekket et større område, noe vi blant annet kan se på Hardangervidda. Fjell som Bitihorn i Valdres (figur 8.12), Hallingskarvet (se figur 14.5) og Hårteigen (se figur 15.3) er rester av dette skyvedekket."
@@ -638,13 +634,11 @@
           "t": "figur",
           "nr": "8.20",
           "tekst": "Brandbukampen i Oslofeltet– rest etter en permisk vulkan"
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser Brandbukampen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser Brandbukampen"
+        },
         {
           "t": "oppg",
           "tekst": "Lag på lag av kalkstein og leirskifer ved Fornebu. Bergartene har vært utsatt for sterk forvitring, og da får vi knudrete oppsrukne bergartstriper, som er vonde å tråkke på.",
@@ -1193,6 +1187,6 @@
     "Bergartene i kollisjonssonen mellom de to kontinentene ble omdannet, skjøvet og foldet. Bergarter som ble påvirket av foldningen, kaller vi kaledonske bergarter.",
     "Tidlig i perm var igjen alt land samlet i et nytt superkontinentet, Pangea, som strakk seg fra pol til pol.",
     "I løpet av perm sprakk Pangea opp, og Oslofeltet ble dannet. Mellom nordgående sprekker sank jordoverflaten inn, fulgt av en intens vulkansk aktivitet.",
-    "Et mangfold av magmatiske bergarter preger Oslofeltet, men sedimentære, kambrosiluriske bergarter er også bevart i store områder.Kapittel 9"
+    "Et mangfold av magmatiske bergarter preger Oslofeltet, men sedimentære, kambrosiluriske bergarter er også bevart i store områder."
   ]
 }

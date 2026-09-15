@@ -103,13 +103,11 @@
           "t": "figur",
           "nr": "16.4",
           "tekst": "Visbreen, som ligger i Visdalen mellom Spiterstulen og Leirvassbu i Jotunheimen, er en botnbre."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser plassering av Bøvra, Lom og Spiterstulen",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser plassering av Bøvra, Lom og Spiterstulen"
+        },
         {
           "t": "tenk",
           "tekst": "Hvorfor er hele ismassen i en temperert bre på trykksmeltepunktet om sommeren, men ikke om vinteren?",
@@ -998,6 +996,6 @@
     "Dalene og fjordene er i stor grad gravd ut av isstrømmer gjennom mange istider. Hver gang har dalen og fjorden blitt litt dypere.",
     "Endemorener vitner om en «levende» bre som reagerer på klimaforandringer ved å rykke fram.",
     "Glasifluviale avsetninger er løsmasser som er avsatt av smeltevann fra breene.",
-    "Glasiale og glasifluviale avsetninger er avsatt i store sedimentvifter flere steder langs eggakanten. Flere steder har det gått skred i disse avsetningene.Kapittel 17"
+    "Glasiale og glasifluviale avsetninger er avsatt i store sedimentvifter flere steder langs eggakanten. Flere steder har det gått skred i disse avsetningene."
   ]
 }

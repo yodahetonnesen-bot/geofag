@@ -89,23 +89,21 @@
           "t": "figur",
           "nr": "4.3",
           "tekst": "Skjoldvulkan, Mauna Loa på Hawaii"
+        },
+        {
+          "t": "bilde",
+          "tekst": "Tverrsnitt av en skjoldvulkan"
         }
       ]
     },
     {
-      "tittel": "Tverrsnitt av en skjoldvulkan",
+      "tittel": "Tegning av en skjoldvulkan",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Tegning av en skjoldvulkan"
-        }
-      ]
-    },
-    {
-      "tittel": "Skjoldvulkaner",
-      "side": null,
-      "blokker": [
+          "tekst": "Skjoldvulkaner"
+        },
         {
           "t": "p",
           "tekst": "Som navnet antyder, har skjoldvulkanene en form som minner om et skjold. Sidene er slake, og vulkanene kan dekke store arealer. Skjoldvulkaner er bygd opp av lava som har størknet fra et lettflytende magma."
@@ -141,17 +139,17 @@
           "t": "figur",
           "nr": "4.4",
           "tekst": "Stratovulkan, Mount Fuji på øya Honshu i Japan"
+        },
+        {
+          "t": "bilde",
+          "tekst": "Tverrsnitt av en stratovulkan"
         }
       ]
     },
     {
-      "tittel": "Tverrsnitt av en stratovulkan",
+      "tittel": "Tegning av en stratovulkan",
       "side": null,
       "blokker": [
-        {
-          "t": "bilde",
-          "tekst": "Tegning av en stratovulkan"
-        },
         {
           "t": "p",
           "tekst": "Et fjell i horisonten med skyer rundt En vukan med et voldsomt røykutbrudd En vukan med et voldsomt røykutbrudd"
@@ -160,23 +158,21 @@
           "t": "figur",
           "nr": "4.5",
           "tekst": "Vulkanen Mount St. Helens i USA eksploderte 18. mai 1980. Fjellet ble 418 meter lavere etter eksplosjonen."
+        },
+        {
+          "t": "bilde",
+          "tekst": "Skisse over hvordan vulkanen Mount St. Helens i USA eksploderte i 1980"
         }
       ]
     },
     {
-      "tittel": "Skisse over hvordan vulkanen Mount St. Helens i USA eksploderte i 1980",
+      "tittel": "Tegning av utbruddet",
       "side": null,
       "blokker": [
         {
           "t": "bilde",
-          "tekst": "Tegning av utbruddet"
-        }
-      ]
-    },
-    {
-      "tittel": "Verdenskart der Mount St. Helens er merket av",
-      "side": null,
-      "blokker": [
+          "tekst": "Verdenskart der Mount St. Helens er merket av"
+        },
         {
           "t": "p",
           "tekst": "Utbrudd fra stratovulkaner er til vanlig mer eksplosive enn utbrudd fra skjoldvulkaner. Tyktflytende magma samler seg i et magmakammer like under vulkanen. Jo mer magma som kommer til, desto høyere blir trykket i magmakammeret. Når det oppstår en eller flere sprekker opp til jordoverflaten, «punkterer» magmakammeret. Når trykket i magmakammeret plutselig faller, synker kokepunktet for magmaet, og det begynner å koke."
@@ -309,13 +305,11 @@
         {
           "t": "p",
           "tekst": "Over en søylestrøm i Yellowstone nasjonalpark langt inne på Den nordamerikanske plata sover en supervulkan. En supervulkan i utbrudd spyr ut enorme mengder aske og stein, men vanligvis lite lava. De aller kraftigste og mest eksplosjonsartede utbruddene i supervulkaner kan tømme dyptliggende magmakamre under vulkanen. Det fører til at jordskorpa over kollapser og danner en innsynkning som kalles kaldera (betyr «gryte» på spansk)."
-        }
-      ]
-    },
-    {
-      "tittel": "Verdenskart der Yellowstone er merket av",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Verdenskart der Yellowstone er merket av"
+        },
         {
           "t": "p",
           "tekst": "Geologene finner tydelige spor etter tidligere vulkanutbrudd i Yellowstone. Vulkanen har hatt tre store utbrudd med 600 000–700 000 års mellomrom, og nå er det 640 000 år siden sist! Varme kilder og geysirer vitner om at det fortsatt finnes magma under jordoverflaten i Yellowstone. En geysir er en naturlig kilde som med jevne mellomrom sender ut varmt vann eller damp. Geysiren Old Faithful i Yellowstone sender for eksempel ut en 60 meter høy vann- og dampstråle hvert 65. minutt."
@@ -420,13 +414,11 @@
         {
           "t": "p",
           "tekst": "Fra lufta truer lavastein som slynges ut fra krateråpningen og kan treffe folk og fe flere kilometer unna. De kalles vulkanske bomber. I Japan er det ikke uvanlig at folk som bor i nærheten av aktive vulkaner, bruker harde hatter for å beskytte seg mot det som måtte komme luftveien."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Afrika og Sør-Europa der La Plama er merket av",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Afrika og Sør-Europa der La Plama er merket av"
+        },
         {
           "t": "p",
           "tekst": "Høsten 2021 startet et langvarig vulkanutbrudd på øya La Palma på Kanariøyene langt unna noen plategrenser. La Palma ligger over en søylestrøm som var årsaken til vulkanutbruddet. Utbruddet varte i tre måneder, og lavastrømmer ødela hus og landområder, og store områder ble dekket av tykke askelag (figur 4.10)."
@@ -434,13 +426,11 @@
         {
           "t": "p",
           "tekst": "Pyroklastiske strømmer består av en glohet blanding av aske, støv og gass som raser nedover vulkansidene med en fart på opp mot 100–200 km/t. Dem er det umulig å løpe fra. Strømmen er så kraftig, så varm og så giftig at den ødelegger alt som kommer i veien for den. Dette er den dødeligste av alle vulkanske trusler."
-        }
-      ]
-    },
-    {
-      "tittel": "Europakart der Eyjafjallajökull er merket av",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Europakart der Eyjafjallajökull er merket av"
+        },
         {
           "t": "p",
           "tekst": "Bildet i figur 4.11 viser et vulkanutbrudd ved Eyjafjallajökull på Island i 2010. Askeskyer fra utbruddet drev inn over Europa og lammet store deler av flytrafikken. Passasjerene ble sittende «askefast» i flere dager. Det er ikke ufarlig å fly gjennom askeskyer. Det kan du lese mer om, under bildet."
@@ -525,7 +515,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 50,
-      "del": "Verdenskart der Yellowstone er merket av",
+      "del": "Hotspoter",
       "poster": [
         {
           "q": "Hva kommer ut av krateret på en vulkan når den har utbrudd?",
@@ -565,7 +555,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Verdenskart der Yellowstone er merket av",
+      "del": "Hotspoter",
       "poster": [
         {
           "q": "Hvordan vil du forklare at det kan komme både felsiske og mafiske lavastrømmer fra en og samme vulkan (se figur 4.2)?",
@@ -589,7 +579,7 @@
       "art": "oppgave",
       "overskrift": "OPPGAVER",
       "side": null,
-      "del": "Verdenskart der Yellowstone er merket av",
+      "del": "Hotspoter",
       "poster": [
         {
           "q": "Hvor dannes det vulkaner?",
@@ -773,6 +763,6 @@
     "Pyroklastiske strømmer består av en glohet blanding av aske, støv og gass som raser nedover vulkansidene med en fart på opp mot 100–200 km/t.",
     "Lava, pyroklastiske strømmer, vulkanske bomber, aske og gasser kan forekomme i varierende grad når vulkanen har utbrudd.",
     "Vulkanutbrudd på havbunnen kan utløse en tsunami.",
-    "Det er vanskelig å varsle vulkanutbrudd, selv om vulkanen noen ganger selv sier fra om at et utbrudd er nær forestående. Det kan skje ved svermer av små jordskjelv eller røyk fra krateret forut for utbruddet.Kapittel 5"
+    "Det er vanskelig å varsle vulkanutbrudd, selv om vulkanen noen ganger selv sier fra om at et utbrudd er nær forestående. Det kan skje ved svermer av små jordskjelv eller røyk fra krateret forut for utbruddet."
   ]
 }

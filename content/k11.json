@@ -48,13 +48,11 @@
         {
           "t": "p",
           "tekst": "En god lagringsplass for petroleumen (reservoar)"
-        }
-      ]
-    },
-    {
-      "tittel": "En forsegling (takbergart) som gjør at petroleumen ikke vandrer videre fra reservoaret",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En forsegling (takbergart) som gjør at petroleumen ikke vandrer videre fra reservoaret"
+        },
         {
           "t": "p",
           "tekst": "En avstengning av reservoaret og taket som sørger for at ikke petroleumen vandrer videre (felle)"
@@ -618,13 +616,11 @@
         {
           "t": "p",
           "tekst": "Om det ikke gjøres nye, større funn, vil produksjonen på sokkelen holde seg omtrent på dagens nivå fram mot 2030. Så vil den mer enn halveres fram mot 2050. Da vil noe av etterspørselen være redusert dersom verden følger FNs anbefalinger om overgang til fornybar energi."
-        }
-      ]
-    },
-    {
-      "tittel": "Skisse over bærekraftige alternativer for energiproduksjon",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Skisse over bærekraftige alternativer for energiproduksjon"
+        },
         {
           "t": "figur",
           "nr": "11.20",
@@ -1315,6 +1311,6 @@
     "I 2020 stod petroleumsvirksomheten for ca. en tredel av Norges samlede eksportinntekter og en stor del av dette plasseres i Statens pensjonsfond Utland (Oljefondet).",
     "Man regner med at der er like mye uoppdagede petroleumsressurser som det som hittil er produsert.",
     "Olje og gass er, sammen med kull, ikke-fornybare energiressurser som en dag vil ta slutt, og må erstattes av fornybare energiressurser.",
-    "Per i dag kommer imidlertid 50 prosent av verdens energiforbruk fra olje og gass. Det er ikke en bærekraftig energibruk.Kapittel 12"
+    "Per i dag kommer imidlertid 50 prosent av verdens energiforbruk fra olje og gass. Det er ikke en bærekraftig energibruk."
   ]
 }

@@ -273,13 +273,11 @@
         {
           "t": "p",
           "tekst": "Mange områder i Afrika og Asia opplever en mangel på ferskvann allerede i dag, og med befolkningsøkningen der vil utfordringene forsterke seg fram mot 2100. Mange av de mest folkerike områdene ligger riktignok nær ekvator der nedbøren kan øke som et resultat av varmere klima. Men også land i tørre områder, som Egypt og Sudan, som kan forventes å bli tørrere fremover, er antatt å ha en betydelig befolkningsvekst. I tillegg vil en stor del av de nye verdensborgerne ønske seg en livsstil som forbruker langt mer vann enn det foreldregenerasjonen gjorde."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Afrika der Egypt er markert",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Afrika der Egypt er markert"
+        },
         {
           "t": "p",
           "tekst": "Egypt er et av landene som vil oppleve økt vannknapphet fram mot år 2100. I dagens Egypt lever 100 millioner mennesker på en smal stripe livgivende land langs Nilens bredder. Nesten alt annet er ørken. Hovedstaden Kairo og området rundt har en befolkning på over 20 millioner, noe som gjør dette til den største byen i Afrika og Midtøsten og det 17. største byområdet i verden. Egypts befolkning er ventet å vokse til over 200 millioner innen 2100, med ytterligere vannsårbarhet som resultat."
@@ -324,13 +322,11 @@
         {
           "t": "p",
           "tekst": "Spansk næringsliv er avhengig av vann. Spania er blant Europas viktigste landbruksområder, og mye av jorda er avhengig av kunstig vanning. Dessuten er turistindustrien en storforbruker av ferskvann. Et gigantisk vannflytteprosjekt har vært lansert som en mulig løsning på problemet. Den mest omfattende planen går ut på å hente vann fra elva Ebro og sende noe av det nordover mot Barcelona, mens mesteparten skal sendes videre sørover til de tørre regionene i sørøst."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Europa der det er markert Spania, Barcelona og Ebro",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Europa der det er markert Spania, Barcelona og Ebro"
+        },
         {
           "t": "p",
           "tekst": "Det har rast en konflikt om dette i Spania i nærmere 20 år, og der kan vi se både regionale konflikter, konflikter mellom miljøbevegelsen og utbyggere og mellom de politiske partiene. Utbyggingsplanene er svært kostbare og har foreløpig strandet på manglende finansiering. Men vannknappheten er et konstant problem i landet, og det sørger for at konflikter om den interne fordelingen av vannet fortsetter."
@@ -431,13 +427,11 @@
         {
           "t": "p",
           "tekst": "I Midtøsten har Tyrkia status som det mektigste oppstrømslandet. På tyrkisk territorium ligger kildene til to av Midtøstens viktigste elver, Eufrat og Tigris. De siste tiårene har Tyrkia begynt å utnytte vannet industrielt og bygd et stort antall demninger i begge elvene, både for å produsere elektrisitet og skaffe vann til kunstig vanning. Fra Tyrkia renner Eufrat og Tigris inn i svært nedbørsfattige områder. Både Syria og Irak ser med bekymring på Tyrkias vannprosjekter. De frykter både at det skal bremse deres egen økonomiske utvikling, og at tilgangen til vann skal kunne brukes som politisk pressmiddel."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Tyrkia og land rundt, der elvene Tigris og Eurfrat er markert",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Tyrkia og land rundt, der elvene Tigris og Eurfrat er markert"
+        },
         {
           "t": "p",
           "tekst": "Tilgang til vann er også en viktig del av den langvarige Israel-Palestina-konflikten. Israels viktigste vannkilder er Jordanelva og to akviferer. Akviferene har vært hovedvannkilden. Begge akviferene kom under israelsk kontroll etter seksdagerskrigen i 1967, men er ikke internasjonalt anerkjent som israelsk territorium. Den palestinske befolkningen som tidligere utnyttet kildene, mener at de blir hindret i dette. Dyp mistro mellom partene har hittil gjort det umulig å få til en avtale om de felles vannressursene. Israel er blant verdens ledende land når det gjelder teknologi for avsalting. Nærmere halvparten av Israels vannbehov dekkes av avsaltet havvann fra Middelhavet."
@@ -1294,7 +1288,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Kart over Afrika der Egypt er markert",
+      "del": "Befolkningsvekst og utvikling krever mer vann",
       "poster": [
         {
           "q": "Hvor stor andel av verdens befolkning mangler tilgang på trygt drikkevann og adgang til fasiliteter for håndvask?",
@@ -1318,7 +1312,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Kart over Afrika der Egypt er markert",
+      "del": "Befolkningsvekst og utvikling krever mer vann",
       "poster": [
         {
           "q": "Hva kan være grunnen til at vannbruken stiger raskere enn befolkningsveksten?",
@@ -1334,7 +1328,7 @@
       "art": "oppgave",
       "overskrift": "OPPGAVER",
       "side": null,
-      "del": "Kart over Afrika der Egypt er markert",
+      "del": "Befolkningsvekst og utvikling krever mer vann",
       "poster": [
         {
           "q": "Studer figuren nedenfor.",
@@ -1354,7 +1348,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Kart over Tyrkia og land rundt, der elvene Tigris og Eurfrat er markert",
+      "del": "Midtøsten",
       "poster": [
         {
           "q": "Gi et eksempel på et land der man har interne konflikter knyttet til vannforvaltningen, og forklar hva som er årsaken til disse konfliktene.",
@@ -1394,7 +1388,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Kart over Tyrkia og land rundt, der elvene Tigris og Eurfrat er markert",
+      "del": "Midtøsten",
       "poster": [
         {
           "q": "Er det alltid oppstrømslandene som har mest makt når det gjelder vannforvaltning i et grensekryssende vassdrag?",
@@ -1410,7 +1404,7 @@
       "art": "oppgave",
       "overskrift": "OPPGAVER",
       "side": null,
-      "del": "Kart over Tyrkia og land rundt, der elvene Tigris og Eurfrat er markert",
+      "del": "Midtøsten",
       "poster": [
         {
           "q": "Ta utgangpunkt i grensekryssende elver i Afrika, Midtøsten eller Asia, og gjør rede for hvordan forvaltningen av felles ferskvannsressurser kan gi opphav til konflikter.",
@@ -2032,6 +2026,6 @@
     "Mesteparten av vannkraften er offentlig eid. Kraftprisen er markedsstyrt, og det selges strøm til utlandet via kabler.",
     "Norske vannverk leverer vanligvis vann av høy kvalitet, men gamle vannrør gjør at mye vann forsvinner på grunn av lekkasjer.",
     "I vannverket blir vannet renset. Membraner kan fjerne partikler, og klor, bestråling og ozonering kan fjerne virus, bakterier og parasitter.",
-    "Global oppvarming er ventet å gi mer nedbør de fleste steder i Norge i fremtiden.Kapittel 14"
+    "Global oppvarming er ventet å gi mer nedbør de fleste steder i Norge i fremtiden."
   ]
 }

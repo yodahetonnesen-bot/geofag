@@ -179,28 +179,9 @@
             "2,9–3,8",
             "5–7",
             "Svart, svartgrønn/ Grågrønn",
-            "Glass"
-          ]
-        }
-      ]
-    },
-    {
-      "tittel": "To spalte-retninger som nesten står vinkelrett på hverandre",
-      "side": null,
-      "blokker": [
-        {
-          "t": "bilde",
-          "tekst": "Amfibol"
-        }
-      ]
-    },
-    {
-      "tittel": null,
-      "side": null,
-      "blokker": [
-        {
-          "t": "tabell",
-          "celler": [
+            "Glass",
+            "To spalte-retninger som nesten står vinkelrett på hverandre",
+            "Amfibol",
             "NaAlCa2(MgFe)4",
             "Al2Si6O22(OH)2",
             "(hornblende)",
@@ -868,13 +849,11 @@
         {
           "t": "p",
           "tekst": "b Lagdelt sandstein fra Holmestrand"
-        }
-      ]
-    },
-    {
-      "tittel": "En steinblokk med små krusninger i patinaen som kunne minnet om krusninger i vann",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "En steinblokk med små krusninger i patinaen som kunne minnet om krusninger i vann"
+        },
         {
           "t": "p",
           "tekst": "c Leirskifer med bølgeslagsmerker fra området ved Tyrifjorden"
@@ -1739,6 +1718,6 @@
     "Vi skiller mellom kontaktmetamorfose (varmepåvirkning) og regionalmetamorfose (trykk- og varmepåvirkning).",
     "Den relative alderen forteller oss hvor gamle bergarter er i forhold til hverandre.",
     "Absolutt alder er alderen på bergarten i antall år. Radioaktive grunnstoffer kan brukes til å bestemme den absolutte alderen på en bergart.",
-    "Karbon-14-metoden brukes til å bestemme alderen på dødt organisk materiale.Kapittel 7"
+    "Karbon-14-metoden brukes til å bestemme alderen på dødt organisk materiale."
   ]
 }

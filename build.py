@@ -214,21 +214,6 @@ def skall(tittel: str, beskrivelse: str, side_id: str, sidemeny: str,
     <nav class="sidebar__scroll" aria-label="Innholdsnavigasjon">
 {sidemeny}
     </nav>
-    <div class="sidebar__foot">
-      <div class="ringwrap">
-        <span class="ring" aria-hidden="true">
-          <svg width="46" height="46" viewBox="0 0 46 46">
-            <circle class="ring__bg" cx="23" cy="23" r="19"></circle>
-            <circle class="ring__fg" cx="23" cy="23" r="19" id="ringFg" stroke-dasharray="119.4" stroke-dashoffset="119.4"></circle>
-          </svg>
-          <b id="ringPst">0%</b>
-        </span>
-        <div>
-          <small>Framdrift</small>
-          <span id="ringTekst">0 av 0 punkter</span>
-        </div>
-      </div>
-    </div>
   </aside>
   <div class="main">
     <header class="topbar">
@@ -239,10 +224,6 @@ def skall(tittel: str, beskrivelse: str, side_id: str, sidemeny: str,
         <span class="kicker">{e(brodsmule)}</span>
         <span class="sep">/</span>
         <span class="now" id="noNa">Oversikt</span>
-      </div>
-      <div class="topbar__prog" role="status" aria-label="Framdrift i sjekklista">
-        <span class="bar"><i id="topFyll"></i></span>
-        <span id="topPst">0 %</span>
       </div>
       <button class="iconbtn" id="temaBtn" aria-label="Bytt mellom lyst og mørkt tema" title="Lyst / mørkt tema">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path id="temaIkon" d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
@@ -257,7 +238,7 @@ def skall(tittel: str, beskrivelse: str, side_id: str, sidemeny: str,
     <footer class="sitefoot">
       <div class="wrap">
         <p>Læringsside for {NETTSTED} — {UNDERTITTEL}. Fagstoff, oppgaver og sammendrag følger kapittelstrukturen i læreverket.</p>
-        <p>Framdrift og flashcard-statistikk lagres lokalt i nettleseren din og sendes ingen steder.</p>
+        <p>Quizresultater lagres lokalt i nettleseren din og sendes ingen steder.</p>
       </div>
     </footer>
   </div>
@@ -282,6 +263,8 @@ def render_blokk(b: dict, teller: list[int]) -> str:
         )
     if t == "bilde":
         return f'<p class="bildetekst">Bilde: {e(b["tekst"])}</p>'
+    if t == "formel":
+        return f'<p class="formel">{e(b["tekst"])}</p>'
     if t == "tabell":
         celler = "".join(f"<li>{e(c)}</li>" for c in b["celler"])
         return (
@@ -332,6 +315,13 @@ def avsnitt(tekst: str) -> str:
     return "".join(ut)
 
 
+def har_brodtekst(d: dict) -> bool:
+    """En del er et virkelig tema bare hvis den har lopende tekst. Uten det er
+    overskriften i praksis en bildetekst, en formel eller navnet pa en
+    oppgaveboks, og da skal den ikke sta i innholdslista."""
+    return any(b["t"] == "p" for b in d["blokker"])
+
+
 def sluggmap(kap: dict) -> dict[int, str]:
     """En unik forankring per del. Flere kapitler har to deler med samme
     overskrift — kapittel 13 har for eksempel bade et globalt og et norsk
@@ -340,7 +330,7 @@ def sluggmap(kap: dict) -> dict[int, str]:
     brukt: dict[str, int] = {}
     ut: dict[int, str] = {}
     for i, d in enumerate(kap["deler"]):
-        if not d.get("tittel"):
+        if not d.get("tittel") or not har_brodtekst(d):
             continue
         s = slugg(d["tittel"])
         brukt[s] = brukt.get(s, 0) + 1
@@ -360,7 +350,7 @@ def panel_fagstoff(kap: dict) -> tuple[str, int]:
     anker = sluggmap(kap)
     lenker = [
         f'<a href="#{anker[i]}">{e(d["tittel"])}</a>'
-        for i, d in enumerate(kap["deler"]) if d.get("tittel")
+        for i, d in enumerate(kap["deler"]) if d.get("tittel") and har_brodtekst(d)
     ]
     if lenker:
         ut.append('<nav class="subnav" aria-label="Deler i kapitlet">' + "".join(lenker) + "</nav>")
@@ -368,8 +358,14 @@ def panel_fagstoff(kap: dict) -> tuple[str, int]:
     ut.append('<div class="brodtekst">')
     for i, d in enumerate(kap["deler"]):
         if d.get("tittel"):
-            sidetall = f' <span class="pill">s. {d["side"]}</span>' if d.get("side") else ""
-            ut.append(f'<h3 id="{anker[i]}">{e(d["tittel"])}{sidetall}</h3>')
+            if har_brodtekst(d):
+                sidetall = f' <span class="pill">s. {d["side"]}</span>' if d.get("side") else ""
+                ut.append(f'<h3 id="{anker[i]}">{e(d["tittel"])}{sidetall}</h3>')
+            else:
+                # Ikke et eget tema, men en bildetekst, en formel eller
+                # overskriften pa en oppgaveboks. Teksten beholdes, men den
+                # skal ikke lage et tomt punkt i innholdslista.
+                ut.append(f'<p class="bolktit">{e(d["tittel"])}</p>')
         for b in d["blokker"]:
             ut.append(render_blokk(b, teller))
     ut.append("</div>")
@@ -476,17 +472,9 @@ def panel_oversikt(kap: dict, forrige: dict | None, neste: dict | None) -> str:
 
     if kap["sammendrag"]:
         ut.append("<h2>Hva bør du få til etter dette kapitlet?</h2>")
-        ut.append(
-            '<p class="lede">Kryss av når du sitter med punktet. '
-            "Avkryssingen lagres lokalt i nettleseren din.</p>"
-        )
-        ut.append('<ul class="sjekk">')
-        for i, s in enumerate(kap["sammendrag"]):
-            boks_id = f"k{kap['nr']:02d}-s{i}"
-            ut.append(
-                f'<li><input type="checkbox" id="{boks_id}">'
-                f'<label for="{boks_id}">{e(s)}</label></li>'
-            )
+        ut.append('<ul class="maal">')
+        for s in kap["sammendrag"]:
+            ut.append(f"<li>{e(s)}</li>")
         ut.append("</ul>")
 
     ut.append(kapnav(forrige, neste))

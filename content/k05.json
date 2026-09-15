@@ -85,13 +85,11 @@
           "t": "figur",
           "nr": "5.3",
           "tekst": "Tsunamibølgene slår inn over land ved Penang i Malaysia i 2004."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart som viser India og Sumatra der bangalore og medan er merket av",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart som viser India og Sumatra der bangalore og medan er merket av"
+        },
         {
           "t": "p",
           "tekst": "Jordskjelvene under Stillehavet er til vanlig sterkere enn jordskjelv som utløses under Atlanterhavet. Grunnen er at de fleste jordskjelvene i Stillehavet skjer i kollisjonssoner, mens i Atlanterhavet utløses de langs en spredningsakse der platene glir bort fra hverandre."
@@ -197,7 +195,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 62,
-      "del": "Kart som viser India og Sumatra der bangalore og medan er merket av",
+      "del": "Tsunamien i Indiahavet i 2004",
       "poster": [
         {
           "q": "Hva betyr ordet tsunami?",
@@ -221,7 +219,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Kart som viser India og Sumatra der bangalore og medan er merket av",
+      "del": "Tsunamien i Indiahavet i 2004",
       "poster": [
         {
           "q": "Fører alle megaskjelv under havbunnen til tsunamier? Begrunn svaret.",
@@ -329,6 +327,6 @@
   "sammendrag": [
     "Tsunamier skyldes jordskjelv under havbunnen, vulkanutbrudd eller skred på havbunnen.",
     "Tsunamier lar seg varsle fordi jordskjelvbølger beveger seg mye raskere enn tsunamibølger. Dermed kan det sendes ut tsunamivarsel når det blir registrert et større jordskjelv under havbunnen.",
-    "Tsunamiene i Indiahavet i 2004 og i Japan i 2011 ble begge satt i gang av jordskjelv etter at to litosfæreplater forskjøv seg i forhold til hverandre.Kapittel 6"
+    "Tsunamiene i Indiahavet i 2004 og i Japan i 2011 ble begge satt i gang av jordskjelv etter at to litosfæreplater forskjøv seg i forhold til hverandre."
   ]
 }

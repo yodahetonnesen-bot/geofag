@@ -210,13 +210,11 @@
           "t": "figur",
           "nr": "21.6",
           "tekst": "Kvikkleireskredet på Ask i Gjerdrum på Romerike julen 2020. Bildet er tatt fem måneder etter at skredet gikk."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser plassering av Gjerdrum, nord for Oslo",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser plassering av Gjerdrum, nord for Oslo"
+        },
         {
           "t": "p",
           "tekst": "Det var flere årsaker til kvikkleireskredet på Ask i Gjerdrum. Under leiroverflaten var det dannet store mengder kvikkleire, samtidig var bekkedalene dype og skråningene bratte. Det gir ustabile skråninger som lett kan rase ut og åpne for kvikkleira under."
@@ -279,13 +277,11 @@
           "t": "figur",
           "nr": "21.7",
           "tekst": "Verdalsskredet i 1893, der 116 mennesker mistet livet."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser plassering av Verdal, nord for Trondheim",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser plassering av Verdal, nord for Trondheim"
+        },
         {
           "t": "p",
           "tekst": "Det er mange eksempler på at menneskelige inngrep i naturen har utløst skred. Det kan være graving i leirskråninger eller lagring av store jord- og steinmasser over ustabile skråninger. Både gravingen og belastningen av massene kan føre til at kvikkleirestrukturen bryter sammen og det oppstår kvikkleireskred."

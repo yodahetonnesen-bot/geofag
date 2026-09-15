@@ -448,13 +448,11 @@
         {
           "t": "p",
           "tekst": "Hvert år blir det registrert over en million jordskjelv i verden. De fleste er små og gjør ikke noe skade, og mange skjer i ubebodde områder. Det er «bare» noen få hundre skjelv per år som ødelegger bygninger og skader folk, og som omtales som naturkatastrofer. Det er oftest grunne jordskjelv som gjør størst skade. De har sentrum bare noen få kilometer nede i jordskorpa og merkes godt på jordoverflaten. Det er observert at bakken har beveget seg flere titalls centimeter i vertikal retning, men i de fleste tilfellene er bevegelsen bare noen få centimeter eller mindre."
-        }
-      ]
-    },
-    {
-      "tittel": "Verdenskart der Haiti er merket av",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Verdenskart der Haiti er merket av"
+        },
         {
           "t": "p",
           "tekst": "Jordskjelv hører til de naturkatastrofene som krever flest menneskeliv i et globalt perspektiv, særlig i fattige land der byggestandard og infrastruktur ofte er mindre robust enn i rike land. På den måten gjør jordskjelv forskjell på fattig og rik (figur 3.12)."
@@ -864,6 +862,6 @@
     "Det er de grunneste skjelvene som gjør størst skade.",
     "Sammenraste bygninger, branner og skred er ofte følger av jordskjelv og tar livet av mange mennesker.",
     "Det er vanlig med flere etterskjelv etter et større jordskjelv, for det tar tid før jordskorpa igjen faller til ro.",
-    "Det er nesten umulig å varsle jordskjelv, det hele skjer plutselig uten tydelige forvarsler.Kapittel 4"
+    "Det er nesten umulig å varsle jordskjelv, det hele skjer plutselig uten tydelige forvarsler."
   ]
 }

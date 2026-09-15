@@ -64,21 +64,6 @@
         <a class="tab" href="k21.html"><span class="tab__dot" aria-hidden="true">21</span><span class="tab__txt">Jordskred</span></a>
       </div>
     </nav>
-    <div class="sidebar__foot">
-      <div class="ringwrap">
-        <span class="ring" aria-hidden="true">
-          <svg width="46" height="46" viewBox="0 0 46 46">
-            <circle class="ring__bg" cx="23" cy="23" r="19"></circle>
-            <circle class="ring__fg" cx="23" cy="23" r="19" id="ringFg" stroke-dasharray="119.4" stroke-dashoffset="119.4"></circle>
-          </svg>
-          <b id="ringPst">0%</b>
-        </span>
-        <div>
-          <small>Framdrift</small>
-          <span id="ringTekst">0 av 0 punkter</span>
-        </div>
-      </div>
-    </div>
   </aside>
   <div class="main">
     <header class="topbar">
@@ -89,10 +74,6 @@
         <span class="kicker">Kapittel 9</span>
         <span class="sep">/</span>
         <span class="now" id="noNa">Oversikt</span>
-      </div>
-      <div class="topbar__prog" role="status" aria-label="Framdrift i sjekklista">
-        <span class="bar"><i id="topFyll"></i></span>
-        <span id="topPst">0 %</span>
       </div>
       <button class="iconbtn" id="temaBtn" aria-label="Bytt mellom lyst og mørkt tema" title="Lyst / mørkt tema">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path id="temaIkon" d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
@@ -117,27 +98,26 @@
 <li>gjøre rede for danning, kartlegging og utvinning av geologiske ressurser nasjonalt og globalt og drøfte konsekvenser av å utvinne og utnytte disse i et bærekraftsperspektiv</li>
 </ul></div>
 <h2>Hva bør du få til etter dette kapitlet?</h2>
-<p class="lede">Kryss av når du sitter med punktet. Avkryssingen lagres lokalt i nettleseren din.</p>
-<ul class="sjekk">
-<li><input type="checkbox" id="k09-s0"><label for="k09-s0">Forekomsten av verdifulle mineraler og bergarter kaller vi mineralressurser. Virksomhet som utvinner mineralressurser, kaller vi bergindustri.</label></li>
-<li><input type="checkbox" id="k09-s1"><label for="k09-s1">Tilstrekkelig tilgang på nye mineraler og metaller er en viktig forutsetning for det grønne skiftet.</label></li>
-<li><input type="checkbox" id="k09-s2"><label for="k09-s2">Vi deler mineralressursene inn i naturstein, byggeråstoffer, industrimineraler, metalliske malmer og energimineraler.</label></li>
-<li><input type="checkbox" id="k09-s3"><label for="k09-s3">Reserver er kjente forekomster som er i produksjon, eller som det er bestemt å sette i produksjon.</label></li>
-<li><input type="checkbox" id="k09-s4"><label for="k09-s4">Ressurser er forekomster man kjenner til, men det er ikke besluttet å sette i gang produksjon.</label></li>
-<li><input type="checkbox" id="k09-s5"><label for="k09-s5">Den geologiske historien er avgjørende for hvilke geologiske ressurser vi finner i ulike deler av landet.</label></li>
-<li><input type="checkbox" id="k09-s6"><label for="k09-s6">Naturstein omfatter blokkstein, skifer og murestein.</label></li>
-<li><input type="checkbox" id="k09-s7"><label for="k09-s7">Naturstein brukes i stor grad som prydstein, og mye går til eksport.</label></li>
-<li><input type="checkbox" id="k09-s8"><label for="k09-s8">Larvikitt dominerer norsk natursteinproduksjon.</label></li>
-<li><input type="checkbox" id="k09-s9"><label for="k09-s9">Det er byggeråstoffer som pukk, sand og grus som har størst økonomisk betydning i den norske bergindustrien.</label></li>
-<li><input type="checkbox" id="k09-s10"><label for="k09-s10">Det meste av byggeråstoffene går til veibygging, fyllmasse og betongproduksjon.</label></li>
-<li><input type="checkbox" id="k09-s11"><label for="k09-s11">Produksjon av industrimineraler har økt de siste årene, mens metallproduksjonen har minket.</label></li>
-<li><input type="checkbox" id="k09-s12"><label for="k09-s12">De viktigste norske industrimineralene er kalkstein og olivin.</label></li>
-<li><input type="checkbox" id="k09-s13"><label for="k09-s13">Olivin brukes som slaggdanner i stålproduksjon.</label></li>
-<li><input type="checkbox" id="k09-s14"><label for="k09-s14">Mange malmgruver er nedlagt fordi driften ikke ble lønnsom, eller fordi det var slutt på ressursene.</label></li>
-<li><input type="checkbox" id="k09-s15"><label for="k09-s15">De siste årene har interessen for å lete etter malmer i Norge økt. Det har sammenheng med at prisene på verdensmarkedet har steget. Et grønt skifte krever også tilgang på mange metaller.</label></li>
-<li><input type="checkbox" id="k09-s16"><label for="k09-s16">All bergverksdrift påvirker naturmiljøet med støy, støv, deponier, arealbruk og store sår i landskapet.</label></li>
-<li><input type="checkbox" id="k09-s17"><label for="k09-s17">Overskuddsmasser fra gruvedriften lagres både i land- og sjødeponier.</label></li>
-<li><input type="checkbox" id="k09-s18"><label for="k09-s18">Urban gruvedrift passer inn i det grønne skiftet.Kapittel 10</label></li>
+<ul class="maal">
+<li>Forekomsten av verdifulle mineraler og bergarter kaller vi mineralressurser. Virksomhet som utvinner mineralressurser, kaller vi bergindustri.</li>
+<li>Tilstrekkelig tilgang på nye mineraler og metaller er en viktig forutsetning for det grønne skiftet.</li>
+<li>Vi deler mineralressursene inn i naturstein, byggeråstoffer, industrimineraler, metalliske malmer og energimineraler.</li>
+<li>Reserver er kjente forekomster som er i produksjon, eller som det er bestemt å sette i produksjon.</li>
+<li>Ressurser er forekomster man kjenner til, men det er ikke besluttet å sette i gang produksjon.</li>
+<li>Den geologiske historien er avgjørende for hvilke geologiske ressurser vi finner i ulike deler av landet.</li>
+<li>Naturstein omfatter blokkstein, skifer og murestein.</li>
+<li>Naturstein brukes i stor grad som prydstein, og mye går til eksport.</li>
+<li>Larvikitt dominerer norsk natursteinproduksjon.</li>
+<li>Det er byggeråstoffer som pukk, sand og grus som har størst økonomisk betydning i den norske bergindustrien.</li>
+<li>Det meste av byggeråstoffene går til veibygging, fyllmasse og betongproduksjon.</li>
+<li>Produksjon av industrimineraler har økt de siste årene, mens metallproduksjonen har minket.</li>
+<li>De viktigste norske industrimineralene er kalkstein og olivin.</li>
+<li>Olivin brukes som slaggdanner i stålproduksjon.</li>
+<li>Mange malmgruver er nedlagt fordi driften ikke ble lønnsom, eller fordi det var slutt på ressursene.</li>
+<li>De siste årene har interessen for å lete etter malmer i Norge økt. Det har sammenheng med at prisene på verdensmarkedet har steget. Et grønt skifte krever også tilgang på mange metaller.</li>
+<li>All bergverksdrift påvirker naturmiljøet med støy, støv, deponier, arealbruk og store sår i landskapet.</li>
+<li>Overskuddsmasser fra gruvedriften lagres både i land- og sjødeponier.</li>
+<li>Urban gruvedrift passer inn i det grønne skiftet.</li>
 </ul>
 <nav class="kapnav" aria-label="Forrige og neste kapittel"><a href="k08.html"><small>Forrige kapittel</small><b>8. Norges geologiske historie</b></a><a class="neste" href="k10.html"><small>Neste kapittel</small><b>10. Den geologiske historien på kontinentalsokkelen</b></a></nav>
 </section>
@@ -459,7 +439,7 @@
 <li>De siste årene har interessen for å lete etter malmer i Norge økt. Det har sammenheng med at prisene på verdensmarkedet har steget. Et grønt skifte krever også tilgang på mange metaller.</li>
 <li>All bergverksdrift påvirker naturmiljøet med støy, støv, deponier, arealbruk og store sår i landskapet.</li>
 <li>Overskuddsmasser fra gruvedriften lagres både i land- og sjødeponier.</li>
-<li>Urban gruvedrift passer inn i det grønne skiftet.Kapittel 10</li>
+<li>Urban gruvedrift passer inn i det grønne skiftet.</li>
 </ul></div>
 </section>
 <section class="panel" id="panel-flashcards">
@@ -475,7 +455,7 @@
     <footer class="sitefoot">
       <div class="wrap">
         <p>Læringsside for Geofag 1 — Naturkatastrofer, geologi og landskap. Fagstoff, oppgaver og sammendrag følger kapittelstrukturen i læreverket.</p>
-        <p>Framdrift og flashcard-statistikk lagres lokalt i nettleseren din og sendes ingen steder.</p>
+        <p>Quizresultater lagres lokalt i nettleseren din og sendes ingen steder.</p>
       </div>
     </footer>
   </div>

@@ -351,13 +351,11 @@
           "t": "figur",
           "nr": "20.9",
           "tekst": "Strekkstag er satt ut i Åknesrevna for å registrere om fjellsprekken utvider seg. Den 600 meter lange sprekken i fjellet, som kan være opp mot 100 meter dyp, utvider seg hele tiden."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser plassering av Norfjord og Osmundneset",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser plassering av Norfjord og Osmundneset"
+        },
         {
           "t": "p",
           "tekst": "Fra en fjellside er det også mulig å registrere den nøyaktige beliggenheten av målepunkter ved hjelp av GPS – altså satellitter. Posisjonen kan bestemmes med millimeters nøyaktighet. Gjennom et nettverk av målepunkter, der noen er plassert i stabile områder av fjellet og andre i ustabile deler, er det mulig å se hvordan fjellsiden beveger seg."
@@ -442,7 +440,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": null,
-      "del": "Kart over Sør-Norge som viser plassering av Norfjord og Osmundneset",
+      "del": "Overvåking av skredfarlige fjellsider",
       "poster": [
         {
           "q": "Hvilke typer skred forekommer i Norge?",
@@ -486,7 +484,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Kart over Sør-Norge som viser plassering av Norfjord og Osmundneset",
+      "del": "Overvåking av skredfarlige fjellsider",
       "poster": [
         {
           "q": "Kan du gi noen grunner til at en flodbølge som følger etter et fjellskred, kanskje ikke skal kalles en tsunami?",
@@ -498,7 +496,7 @@
       "art": "kapitteloppgave",
       "overskrift": "KAPITTELOPPGAVER",
       "side": null,
-      "del": "Kart over Sør-Norge som viser plassering av Norfjord og Osmundneset",
+      "del": "Overvåking av skredfarlige fjellsider",
       "poster": [
         {
           "gruppe": "Én skal ut"
@@ -609,6 +607,6 @@
     "Det er vanskelig å hindre fjellskred. Derfor er det viktig med kartlegging og overvåking av skredfarlige fjellsider.",
     "NVE har ansvaret for overvåkingen av skredfarlige fjellsider i Norge.",
     "Ustabile fjellsider kan overvåkes med radar, laser, seismografer, geofoner, strekkstag, borehull og GPS.",
-    "Det er ofte økt aktivitet i en fjellside like før et fjellskred, og det gjør det mulig å varsle skredet.Kapittel 21"
+    "Det er ofte økt aktivitet i en fjellside like før et fjellskred, og det gjør det mulig å varsle skredet."
   ]
 }

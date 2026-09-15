@@ -273,13 +273,11 @@
           "t": "tenk",
           "tekst": "Hvordan er sporene etter de bredemte sjøene dannet?",
           "f": ""
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Sør-Norge som viser plassering av Østerdalen og Koppang",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Sør-Norge som viser plassering av Østerdalen og Koppang"
+        },
         {
           "t": "bilde",
           "tekst": "Skisse over dannelsen av bredemte sjøer"
@@ -428,7 +426,7 @@
       "art": "sporsmal",
       "overskrift": "SPØRSMÅL",
       "side": 318,
-      "del": "Kart over Sør-Norge som viser plassering av Østerdalen og Koppang",
+      "del": "Bredemte sjøer",
       "poster": [
         {
           "q": "Hvilke morenetyper kjenner du?",
@@ -476,7 +474,7 @@
       "art": "hvatrordu",
       "overskrift": "HVA TROR DU?",
       "side": null,
-      "del": "Kart over Sør-Norge som viser plassering av Østerdalen og Koppang",
+      "del": "Bredemte sjøer",
       "poster": [
         {
           "q": "Hvorfor er morenejorda usortert?",
@@ -594,6 +592,6 @@
     "En esker er en grusås av glasifluviale avsetninger som er avsatt av smeltevannet i en tunnel under en dødis. En dødis har ikke noe næringsområde og flytter ikke på seg.",
     "Randavsetninger er glasiale eller glasifluviale avsetninger som er avsatt foran breen.",
     "Dødisgroper er dannet i glasifluviale avsetninger når mindre isrester som var begravd i løsmassene, smeltet.",
-    "Som en følge av at isskillet i Sør-Norge lå sør og øst for vannskillet, dannet det seg bredemte sjøer øverst i de største østnorske dalene under isavsmeltingen.Kapittel 18"
+    "Som en følge av at isskillet i Sør-Norge lå sør og øst for vannskillet, dannet det seg bredemte sjøer øverst i de største østnorske dalene under isavsmeltingen."
   ]
 }

@@ -71,21 +71,66 @@ def del_opp_sidetall(linje: str) -> tuple[str, int | None]:
     return tekst, side
 
 
+# En linje med likhetstegn er en formel fra boka, ikke en overskrift.
+FORMEL = re.compile(r"=")
+
+# Bildetekster star ofte som frittstaende linjer uten sluttegn, og ser derfor
+# ut som overskrifter. De kjennes igjen pa hva de begynner med, eller pa at de
+# beskriver hva et kart eller bilde viser.
+BILDESTART = re.compile(
+    r"^(Kart|Verdenskart|Norgeskart|Tidslinje|Tverrsnitt|Skisse|Flyfoto|Nærbilde"
+    r"|Satelittbilde|Satellittbilde|Illustrasjon|Diagram|Grafikk|Foto)\b"
+)
+BILDEORD = re.compile(r" som viser | er merket av$| er markert$|, sett fra ")
+
+# Lange, ubestemte beskrivelser med «som» er ogsa bildetekster
+# («En steinblokk med sma krusninger i patinaen som kunne minnet om …»).
+BILDELANG = re.compile(r"^(En|Et|To|Tre|Fire|Flere) .+ som ")
+
+
+def er_formel(tekst: str) -> bool:
+    return bool(tekst) and len(tekst) < 90 and bool(FORMEL.search(tekst))
+
+
+def er_bildetekst(tekst: str) -> bool:
+    if BILDESTART.match(tekst) or BILDEORD.search(tekst):
+        return True
+    return len(tekst) > 55 and bool(BILDELANG.match(tekst))
+
+
 def er_overskrift(tekst: str) -> bool:
     """Korte linjer uten sluttegn leses som overskrifter, ikke som brodtekst."""
     if not tekst or len(tekst) > 90:
         return False
     if tekst.endswith(SLUTTTEGN):
         return False
+    # «De storste vannmagasinene er» og liknende er innledninger til en liste,
+    # ikke overskrifter.
+    if tekst.endswith(" er") or tekst.endswith(" ="):
+        return False
     return tekst[0].isupper() or tekst[0].isdigit()
+
+
+# Kapittelmarkoren er ofte limt bakpa siste setning i forrige kapittel
+# («… store basaltprovinser.Kapittel 1»). Da ma linja deles, ellers henger
+# «Kapittel 1» igjen midt i sammendraget til kapitlet foran.
+KAPITTELDELING = re.compile(r"^(/?.*?)(Kapittel \d+)$")
 
 
 def les_kilde() -> list[str]:
     linjer = []
     for rad in KILDE.read_text(encoding="utf-8").split("\n"):
         rad = STOY.sub("", rad.strip())
-        if rad:
-            linjer.append(rad)
+        if not rad:
+            continue
+        m = KAPITTELDELING.match(rad)
+        if m:
+            foran = m.group(1).lstrip("/").strip()
+            if foran:
+                linjer.append(foran)
+            linjer.append(m.group(2))
+            continue
+        linjer.append(rad)
     return linjer
 
 
@@ -214,6 +259,11 @@ def parse_kapittel(linjer: list[str], start: int, slutt: int, nr: int) -> dict:
             if er_overskrift(tekst):
                 lukk_blokk()
                 modus = "brodtekst"
+                # En bildetekst avslutter oppgaveboksen, men skal ikke bli
+                # en ny del med egen overskrift.
+                if er_bildetekst(tekst):
+                    gjeldende_del["blokker"].append({"t": "bilde", "tekst": tekst})
+                    continue
                 lagre_del()
                 gjeldende_del = {"tittel": tekst, "side": side, "blokker": []}
                 continue
@@ -228,7 +278,15 @@ def parse_kapittel(linjer: list[str], start: int, slutt: int, nr: int) -> dict:
             )
             continue
 
+        if er_formel(tekst):
+            gjeldende_del["blokker"].append({"t": "formel", "tekst": tekst})
+            continue
+
         if er_overskrift(tekst):
+            # Beskrivelser av kart og bilder er bildetekster, ikke nye deler.
+            if er_bildetekst(tekst):
+                gjeldende_del["blokker"].append({"t": "bilde", "tekst": tekst})
+                continue
             # En overskriftslignende linje rett foran en figurtekst er
             # alt-teksten til bildet, ikke en ny del.
             neste_er_figur = i < slutt and FIGUR.match(del_opp_sidetall(linjer[i])[0])
@@ -317,7 +375,9 @@ def main() -> int:
     UT.mkdir(exist_ok=True)
     kapitler = []
     for idx, (i, nr) in enumerate(treff):
-        slutt = treff[idx + 1][0] + 1 if idx + 1 < len(treff) else len(linjer)
+        # Markorlinja hores ikke til kapitlet foran — brodteksten som sto
+        # limt foran den, er allerede skilt ut som egen linje i les_kilde().
+        slutt = treff[idx + 1][0] if idx + 1 < len(treff) else len(linjer)
         kap = parse_kapittel(linjer, i, min(slutt, len(linjer)), nr)
         slaa_sammen_tabeller(kap)
         kapitler.append(kap)

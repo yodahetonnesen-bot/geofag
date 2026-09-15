@@ -135,13 +135,11 @@
         {
           "t": "p",
           "tekst": "I de høyeste toppene i Jotunheimen er det gabbro fra prekambrium som står opp. I Rondane er det en hard, senprekambrisk sandstein (sparagmitt) som danner de høyeste toppene. Deler av Lyngsalpene i Troms består også av hard, prekambrisk gabbro. Både i Jotunheimen, Rondane og Lyngsalpene er de harde bergartene skjøvet på plass under den kaledonske fjellkjedefoldningen midt i oldtiden."
-        }
-      ]
-    },
-    {
-      "tittel": "Kart over Nord-Norge, viser Helgelandskysten med plassering av Stetind og De syv søstre",
-      "side": null,
-      "blokker": [
+        },
+        {
+          "t": "bilde",
+          "tekst": "Kart over Nord-Norge, viser Helgelandskysten med plassering av Stetind og De syv søstre"
+        },
         {
           "t": "p",
           "tekst": "Et annet eksempel er fjellrekka De syv søstre på Helgelandskysten (figur 14.4). Søstrene består av motstandsdyktig granitt, som rager opp over løsere, metamorfe kambrosiluriske bergarter. Det er på samme måte som Norges nasjonalfjell Stetind (også i granitt) gjør det på forsiden av læreboka."
@@ -552,6 +550,6 @@
     "Gneisregionen er et område på Nordvestlandet der gneisbergartene er sterkt påvirket av den kaledonske fjellkjedefoldningen – det synes i landskapet.",
     "I Oslofeltet har foldede, kambrosiluriske bergarter styrt erosjonsprosessene som har dannet strøkdaler i foldenes lengderetning.",
     "Lavadekker danner store platåer i landskapet, mens dypbergarter gir et landskap med koller og åser.",
-    "Lagdelte, sedimentære bergarter kommer noen steder tydelig fram i landskapet – som i Ålfoten.Kapittel 15"
+    "Lagdelte, sedimentære bergarter kommer noen steder tydelig fram i landskapet – som i Ålfoten."
   ]
 }
