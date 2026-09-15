@@ -1,0 +1,38 @@
+{
+  "intro": ["252c162364", "558e5065f2", "1eb96af212", "8b8898a6d3", "a7856ab6c0"],
+  "grupper": [],
+  "tilleggsoppgaver": [
+    {
+      "art": "oppgave",
+      "overskrift": "Sammenlign to mineraler",
+      "side": 71,
+      "poster": [
+        { "intro": "Hvordan vil du avgjøre om et mineral er … (se figurene 6.3a og 6.3b)" },
+        { "q": "kvarts eller muskovitt",
+          "f": "Spalteretningene er det avgjørende. Muskovitt spalter i tynne, bøyelige flak; kvarts har ingen spalteretning i det hele tatt.\nHardheten skiller også klart: kvarts har hardhet 7 og riper glass, muskovitt har 2–3 og kan ripes med en negl.\nGlansen: kvarts har glassglans, muskovitt perlemorglans på spalteflatene." },
+        { "q": "biotitt eller pyroksen",
+          "f": "Begge er mørke, mafiske mineraler, så fargen hjelper ikke.\nSpaltingen avgjør: biotitt spalter i tynne flak, som glimmer flest. Pyroksen har to spalteretninger som nesten står vinkelrett på hverandre.\nHardheten bekrefter: biotitt 2,5–3 (ripes med negl), pyroksen 5–6 (riper glass så vidt)." },
+        { "q": "kalkspat eller feltspat",
+          "f": "Syretesten er den sikreste: kalkspat bruser kraftig med fortynnet saltsyre, feltspat gjør ingenting.\nHardheten skiller også: kalkspat har hardhet 3 og kan ripes med en spiker eller et knivblad, feltspat har 6–6,5 og riper glass.\nSpaltingen: kalkspat spalter i skjeve terninger (romboedre), feltspat i to retninger som nesten står vinkelrett på hverandre." },
+        { "q": "hematitt eller amfibol",
+          "f": "Strekfargen avgjør. Hematitt gir alltid rødbrun strek, selv når mineralet selv er stålgrått. Amfibol gir grågrønn eller gråbrun strek.\nGlansen: hematitt har metallglans (matt), amfibol glassglans.\nTettheten: hematitt er merkbart tyngre (5,2–5,3 mot 2,9–3,8) — det er nettopp derfor hematitt regnes som et ertsmineral." },
+        { "q": "apatitt eller olivin",
+          "f": "Fargen gir en pekepinn: olivin er tydelig olivengrønn, apatitt er gjerne blågrønn eller gulgrønn.\nHardheten skiller sikrere: olivin har 6,5–7 og riper glass godt, apatitt har 5 og riper glass så vidt.\nGlansen: olivin har fettglans, apatitt glassglans.\nOg kjemien: olivin er et silikatmineral, apatitt et fosfatmineral — det er derfor apatitt er råstoff for gjødsel." }
+      ]
+    },
+    {
+      "art": "oppgave",
+      "overskrift": "Oppstigning av magma",
+      "side": 78,
+      "poster": [
+        { "intro": "Et magma kan bruke lang tid på å nå opp til jordoverflaten. Regn ut hvor lang tid et magma bruker opp til overflaten fra et magmakammer 2 km under jordoverflaten ved ulike hastigheter." },
+        { "q": "5 millimeter per år",
+          "f": "2 km = 2 000 000 mm.\n2 000 000 mm ÷ 5 mm/år = 400 000 år.\nMed denne farten tar de siste to kilometerne 400 000 år — lengre enn mennesket har eksistert." },
+        { "q": "5 meter per år",
+          "f": "2 km = 2000 m.\n2000 m ÷ 5 m/år = 400 år.\nEn tusendel av tiden i forrige regnestykke, fordi farten er tusen ganger større." },
+        { "q": "50 meter per år",
+          "f": "2000 m ÷ 50 m/år = 40 år.\nDette svarer til den raske enden av spennet boka nevner — «opptil flere titalls meter per år».\nSammenligningen er poenget: samme strekning tar alt fra noen tiår til flere hundre tusen år, avhengig av hvor lett magmaet finner vei gjennom sprekker og svakhetssoner." }
+      ]
+    }
+  ]
+}

@@ -3,499 +3,499 @@
   "id": "b0d6ad5715",
   "art": "tenk",
   "q": "Hvilke snarveier i det geologiske kretsløpet finner du i figur 6.2?",
-  "f": ""
+  "f": "Snarveiene er de veiene som hopper over ett eller flere trinn i kretsløpet.\nEn magmatisk bergart kan forvitre og eroderes direkte til løsmasser og bli sedimentær — uten å bli metamorf først.\nEn sedimentær bergart kan smelte direkte til magma — uten å gå veien om metamorfose.\nEn metamorf bergart kan forvitre og bli til løsmasser igjen — uten å smelte.\nPoenget er at ingen bergart er tvunget til å gå hele runden. Kretsløpet viser mulige veier, ikke en fast rekkefølge."
  },
  {
   "id": "f92112f982",
   "art": "tenk",
   "q": "Hva tror du er forskjellen på steinaktig og metallisk utseende?",
-  "f": ""
+  "f": "Steinaktig glans er matt eller glassaktig — lyset trenger delvis inn i mineralet og spres. Silikatmineralene er slik.\nMetallisk glans er speilblank, som pusset metall — lyset reflekteres helt i overflaten. Ertsmineralene svovelkis, kobberkis, magnetitt og hematitt har metallglans.\nForskjellen henger sammen med om mineralet inneholder metall, og det er derfor glans er en av egenskapene man bruker til å bestemme mineraler."
  },
  {
   "id": "b898444a46",
   "art": "tenk",
   "q": "Hvilket metall finnes i svovelkis, magnetitt og hematitt?",
-  "f": ""
+  "f": "Jern i alle tre.\nSvovelkis er FeS₂, magnetitt er Fe₃O₄ og hematitt er Fe₂O₃. Fe er den kjemiske forkortelsen for jern (ferrum).\nSvovelkis er et sulfid — jern bundet til svovel. Magnetitt og hematitt er oksider — jern bundet til oksygen."
  },
  {
   "id": "bc45b281f7",
   "art": "tenk",
   "q": "Er det form eller kjemisk innhold som skiller en krystall av et mineral fra et mineralkorn?",
-  "f": ""
+  "f": "Formen. Den kjemiske sammensetningen er den samme.\nEt mineral har alltid sin karakteristiske krystallstruktur, altså sitt tredimensjonale atommønster. Får mineralet vokse fritt i et hulrom eller en sprekk, kommer krystallformen tydelig fram, og vi kaller det en krystall.\nInne i en bergart har mineralene ikke plass — de vokser inn i hverandre og blir uregelmessige mineralkorn. Kjemisk og strukturelt er de likevel nøyaktig det samme mineralet."
  },
  {
   "id": "94f3a9c51f",
   "art": "oppgave-i-tekst",
   "q": "Studer figur 6.2 som viser bergartenes geologiske kretsløp.",
-  "f": ""
+  "f": "Figur 6.2 viser de tre hovedgruppene bergarter og veiene mellom dem. Se etter tre ting: hvor magmaet kommer fra, hvilke prosesser pilene står for (smelting, størkning, forvitring og erosjon, avsetning, diagenese, metamorfose), og de blå pilene som er snarveier."
  },
  {
   "id": "9e50a94abf",
   "art": "tenk",
   "q": "Hvilket bilde viser en magmatisk bergart?",
-  "f": ""
+  "f": "Bildet nederst til venstre — det som viser en bergart størknet fra magma."
  },
  {
   "id": "d525320da1",
   "art": "tenk",
   "q": "Hvor kommer magmaet på figuren fra?",
-  "f": ""
+  "f": "Fra delvis oppsmelting av bergarter i mantelen og dypt nede i jordskorpa.\nDet skjer særlig tre steder: under midthavsrygger, der trykket faller når platene går fra hverandre; i kollisjonssoner, der vann og gass fra den synkende havbunnsplata senker smeltetemperaturen i mantelen over; og i hotspoter over søylestrømmer."
  },
  {
   "id": "2b03096fb1",
   "art": "tenk",
   "q": "To bilder har med sedimentære bergarter å gjøre. Hvilke to er det?",
-  "f": ""
+  "f": "Bildet øverst til høyre, som viser selve den sedimentære bergarten, og bildet som viser løsmasser — leire, sand og grus — altså råmaterialet som bergarten dannes av."
  },
  {
   "id": "f4cdb347fa",
   "art": "tenk",
   "q": "Hvordan kan du se på bildene at bergarten nederst til høyre er en metamorf bergart, at bergarten øverst til høyre er en sedimentær bergart, og at bildet nederst til venstre viser en magmatisk bergart?",
-  "f": ""
+  "f": "På strukturen — det er den enkleste huskeregelen.\nDen metamorfe bergarten er «stripete»: mineralene ligger ordnet i bånd eller flak, presset i én retning av trykket under omdanningen. Gneis og glimmerskifer ser slik ut.\nDen sedimentære bergarten er «lag på lag»: tydelig lagdeling, fordi den er bygd opp av løsmasser avsatt lag for lag.\nDen magmatiske bergarten er «prikkete»: mineralkorn uten retning, spredt tilfeldig om hverandre, fordi de krystalliserte fritt i smelta."
  },
  {
   "id": "1285e7d460",
   "art": "tenk",
   "q": "Ikke alle bergarter fullfører et helt kretsløp. Hva skjer langs de blå pilene på figur 6.2?",
-  "f": ""
+  "f": "De blå pilene er snarveiene — der en bergart hopper over ett eller flere trinn.\nEn magmatisk bergart kan forvitre direkte til løsmasser og bli sedimentær uten å ha vært metamorf. En sedimentær bergart kan smelte direkte til magma. En metamorf bergart kan forvitre og bli til løsmasser igjen.\nKretsløpet viser altså mulige veier, ikke en obligatorisk rekkefølge."
  },
  {
   "id": "24d08debb9",
   "art": "oppgave-i-tekst",
   "q": "Bruk figuren som viser det geologiske kretsløpet, til å forklare hvordan et magma først kan bli til en magmatisk bergart, så bli en metamorf bergart og deretter løsmasser som kan bli til en sedimentær bergart.",
-  "f": ""
+  "f": "Følg pilene i fire trinn.\n1. Magmaet stiger og størkner — enten nede i jordskorpa som dypbergart, eller på overflaten som dagbergart. Nå er det en magmatisk bergart.\n2. Bergarten havner i en kollisjonssone, eller får et magma trengende opp ved siden av seg. Høyt trykk og høy temperatur omdanner den uten at den smelter — den blir metamorf.\n3. Fjellkjeden heves, og de ytre kreftene tar over. Forvitring smuldrer bergarten opp, og elver, breer og vind eroderer og transporterer løsmassene bort.\n4. Løsmassene avsettes på havbunnen eller i en innsjø, begraves under 5–6 km med nye avsetninger, og sementeres ved diagenese. Nå er det en sedimentær bergart.\nDeretter kan den smelte igjen, og runden begynner på nytt."
  },
  {
   "id": "ced1487c2a",
   "art": "tenk",
   "q": "Steinsmelte som kommer opp på havbunnen – er det lava?",
-  "f": ""
+  "f": "Ja. Skillet går ved jordoverflaten, ikke ved vannflaten.\nSteinsmelte kalles magma så lenge den er under jordoverflaten, og lava når den har kommet ut på overflaten — enten det er på land eller på havbunnen.\nLangs midthavsryggene strømmer det altså ut lava, som størkner til basalt."
  },
  {
   "id": "a66a3d6be2",
   "art": "tenk",
   "q": "Kommer magma fra lava eller lava fra magma?",
-  "f": ""
+  "f": "Lava kommer fra magma. Magmaet dannes nede i mantelen eller jordskorpa og stiger oppover. Først når det når jordoverflaten, kalles det lava.\nSkillet handler bare om hvor smelta befinner seg, ikke om hva den er."
  },
  {
   "id": "09417792e3",
   "art": "tenk",
   "q": "Smelter en bergart helt dersom temperaturen over lang tid holder seg på smeltetemperaturen?",
-  "f": ""
+  "f": "Nei. Smeltetemperaturen er bare den temperaturen der bergarten begynner å smelte.\nSiden mineralene i bergarten har ulike smeltepunkt, smelter noen først og andre senere. Holdes temperaturen akkurat på smeltetemperaturen, smelter bare de mineralene som har lavest smeltepunkt. Resten blir liggende igjen.\nDet er nettopp dette som er delvis oppsmelting — og grunnen til at én bergart kan gi opphav til flere ulike magmaer."
  },
  {
   "id": "34e6ffb81c",
   "art": "tenk",
   "q": "Hva menes med «graden av oppsmelting»?",
-  "f": ""
+  "f": "Hvor stor andel av bergarten som har smeltet.\nVed lav grad av oppsmelting har bare de mineralene med lavest smeltepunkt smeltet, og magmaet blir felsisk. Ved høyere grad smelter også de mafiske mineralene, og magmaet blir mer mafisk.\nDerfor kan én og samme bergart gi ulike magmaer underveis i smelteprosessen — mineralsammensetningen i magmaet forandrer seg med graden av oppsmelting."
  },
  {
   "id": "773596c64d",
   "art": "tenk",
   "q": "Hva er drivkraften for søylestrømmene (se side 23)?",
-  "f": ""
+  "f": "Varmen fra jordkjernen.\nSøylestrømmene starter nederst i mantelen, like over den ytre kjernen, langs yttergrensene av de to lavhastighetsområdene under Afrika og Stillehavet. Store temperatur- og trykkforskjeller gjør at varme mantelbergarter river seg løs og stiger.\nDrivkraften er oppdrift: varme bergarter er lettere enn mantelen omkring, og derfor stiger de — som varm luft i et rom."
  },
  {
   "id": "2ecc6c26ce",
   "art": "oppgave-i-tekst",
   "q": "Et magma kan bruke lang tid på å nå opp til jordoverflaten. Regn ut hvor lang tid et magma bruker opp til overflaten fra et magmakammer 2 km under jordoverflaten når magmaet stiger med en hastighet på",
-  "f": ""
+  "f": "Regn om til samme enhet og del.\n2 km = 2000 m = 2 000 000 mm.\n2 000 000 mm ÷ 5 mm/år = 400 000 år.\nMed en hastighet på 5 millimeter i året bruker magmaet altså 400 000 år på de siste to kilometerne.\nTil sammenligning: går det 5 meter i året, tar det bare 400 år, og ved flere titalls meter i året er det snakk om noen tiår. Spennet i teksten — fra noen millimeter til flere titalls meter per år — betyr altså forskjellen mellom hundretusener av år og noen få år."
  },
  {
   "id": "240310ae96",
   "art": "tenk",
   "q": "Hva er sedimenter?",
-  "f": ""
+  "f": "Et sediment er en avsetning — noe som har «slått seg ned». Ordet kommer av latin sedere.\nDet kan være løsmasser som leire, sand og grus (klastiske sedimenter), kalk og salt utfelt fra havvannet (kjemiske sedimenter), skjell og kalkskall etter døde organismer (biokjemiske sedimenter), eller plante- og dyrerester som torv og kull (organiske sedimenter).\nAlt dette er råmateriale for sedimentære bergarter."
  },
  {
   "id": "f34d6ea292",
   "art": "tenk",
   "q": "Hva avgjør om elva transporterer sand langs bunnen eller svevende i vannet?",
-  "f": ""
+  "f": "Vannhastigheten.\nJo raskere vannet går, desto grovere materiale kan holdes svevende. Ved høy fart kan sand transporteres svevende i vannmassene som slamtransport. Ved lavere fart synker sanden ned og trekkes med langs bunnen i små og store hopp — bunntransport.\nDet groveste materialet, stein og grus, går alltid langs bunnen. Det fineste, silt og leire, holder seg svevende selv ved lav fart."
  },
  {
   "id": "ee96bc757a",
   "art": "tenk",
   "q": "Hvorfor er sedimentære bergarter ofte lagdelte?",
-  "f": ""
+  "f": "Fordi de bygges opp lag for lag over tid.\nLøsmassene avsettes på havbunnen etter hvert som de blir tilført, og hvert lag legger seg oppå det forrige. Endrer forholdene seg — vannføringen i elvene, havnivået, klimaet — endres også kornstørrelsen, og det gir synlige lag med ulikt materiale.\nDerfor er lagdeling et av de sikreste kjennetegnene på en sedimentær bergart, og grunnlaget for å bestemme relativ alder: nederst er eldst."
  },
  {
   "id": "917f9d595a",
   "art": "tenk",
   "q": "Hvorfor vitner leirskifre om små høydeforskjeller på land?",
-  "f": ""
+  "f": "Fordi leire bare avsettes når elvene fører med seg utelukkende fint materiale.\nStore høydeforskjeller gir bratte elver med stor fart og kraft, og de fører med seg grus, sand og stein. Da blir det konglomerat og sandstein, ikke leirskifer.\nSmå høydeforskjeller gir stilleflytende elver som bare klarer å transportere det aller fineste materialet. Det bæres langt ut i havet før det synker til bunns, og danner tykke leirlag.\nDe tertiære leirskifrene på kontinentalsokkelen forteller altså at landet innenfor var flatt."
  },
  {
   "id": "f18fac375b",
   "art": "tenk",
   "q": "Hvordan dannes et fossil?",
-  "f": ""
+  "f": "Ved at en organisme blir begravd raskt i sedimenter, før den rekker å brytes ned.\nDe harde delene — skall, skjelett, tenner — bevares best. Over tid erstattes det opprinnelige materialet gradvis av mineraler som felles ut fra vannet som sirkulerer gjennom sedimentene, slik at formen bevares i stein.\nNoen ganger bevares bare avtrykket av organismen i bergarten.\nDerfor finnes fossiler nesten bare i sedimentære bergarter — i magmatiske og metamorfe blir de ødelagt av varme og trykk."
  },
  {
   "id": "ebaa23157f",
   "art": "tenk",
   "q": "Hvor dannes sedimentære bergarter?",
-  "f": ""
+  "f": "Der løsmasser avsettes og kan bli liggende: oftest på havbunnen, men også i store innsjøer og på land.\nDet må være et sedimentasjonsbasseng som er stabilt over lang tid, typisk langs «passive» kontinentkyster uten aktive plategrenser.\nOg jordskorpa må synke inn etter hvert som nye løsmasser tilføres, slik at lagene blir tykke nok — det kreves 5–6 km med avsetninger over for at løsmassene skal herdes."
  },
  {
   "id": "481910a736",
   "art": "oppgave-i-tekst",
   "q": "Bruk ulike hjelpemidler til å bestemme fem–seks ukjente bergarter du har fått utdelt. Alle er sedimentære bergarter. Forklar hvordan du gikk fram, og presenter resultatet.",
-  "f": ""
+  "f": "Dette er en praktisk oppgave, men framgangsmåten er den samme hver gang:\n1. Se etter lagdeling. Sedimentære bergarter er «lag på lag».\n2. Bestem kornstørrelsen. Er kornene synlige og runde — konglomerat (over 2 mm) eller sandstein (0,06–2 mm)? Er de så fine at du ikke ser dem — leirskifer.\n3. Se på rundingsgraden. Runde korn betyr lang transport med vann.\n4. Test med syre eller tyggetest: bruser bergarten med saltsyre, er det kalkstein. Knaser den mellom tennene, er det silt; ikke, er det leire.\n5. Se etter fossiler, bølgeslagsmerker eller andre strukturer — de forteller om avsetningsmiljøet.\nBruk Digitalt steinatlas på naturfag.no eller «Welcome to webgeology» til å sjekke deg selv, og noter for hver prøve hva du observerte og hva du konkluderte med."
  },
  {
   "id": "e253bbed3e",
   "art": "tenk",
   "q": "Hvilken type gneis ser du på bildet i figur 6.19c?",
-  "f": ""
+  "f": "Båndgneis. Mineralene ligger ordnet i atskilte lyse og mørke bånd, som gir den karakteristiske stripete strukturen.\nI en øyegneis ville du i stedet sett store, linseformede feltspatkrystaller — «øyne» — i en finere grunnmasse."
  },
  {
   "id": "85a9f9d961",
   "art": "tenk",
   "q": "Hvorfor tror du ledefossiler er mer interessante enn vanlige fossiler?",
-  "f": ""
+  "f": "Fordi de er presise i tid og brede i rom.\nEt ledefossil er en art som levde i en kort periode, men var utbredt over store deler av jorda. Kort levetid gjør at fossilet daterer bergarten nøyaktig — arten fantes bare i det tidsrommet. Stor utbredelse gjør at det samme fossilet kan gjenfinnes på ulike kontinenter.\nDermed kan man si at to bergarter på hver sin side av jorda ble dannet i samme geologiske periode. En art som levde i hundre millioner år, ville ikke sagt noe presist, og en art som bare fantes ett sted, kunne ikke sammenlignes med noe annet."
  },
  {
   "id": "e690da3200",
   "art": "tenk",
   "q": "Hva er forskjellen på relativ og absolutt alder for en bergart?",
-  "f": ""
+  "f": "Relativ alder forteller om en bergart er eldre eller yngre enn en annen, og i hvilken rekkefølge ting har skjedd. Den bestemmes ved å se på hvordan bergartene ligger i forhold til hverandre, og ved hjelp av fossiler.\nAbsolutt alder forteller hvor gammel bergarten er i antall år. Den bestemmes ved å måle forholdet mellom radioaktive mor-isotoper og stabile datter-isotoper, og bruke halveringstiden.\nRelativ alder gir rekkefølgen, absolutt alder gir tallet."
  },
  {
   "id": "1756d90403",
   "art": "tenk",
   "q": "Hvor gammel er en bergart med en fordeling av mor-isotoper og datter-isotoper som vist i tegning C dersom halveringstiden er 1300 millioner år?",
-  "f": ""
+  "f": "Tegning C viser to halveringstider: bare en firedel av mor-isotopene er igjen, tre firedeler er blitt datter-isotoper.\n2 · 1300 millioner år = 2600 millioner år.\nBergarten er altså 2,6 milliarder år gammel."
  },
  {
   "id": "a0f7eadf42",
   "art": "tenk",
   "q": "Hvordan kan du lese halveringstiden for den radioaktive mor-isotopen ut av figur 6.23?",
-  "f": ""
+  "f": "Finn punktet der den svarte kurven har falt til 50 prosent, og les av tiden på den vannrette aksen.\nDet er definisjonen på halveringstid: tiden det tar før halvparten av mor-isotopene er brutt ned.\nDu kan kontrollere svaret ved å sjekke 25 prosent — den verdien skal ligge på nøyaktig det dobbelte av tiden. Og der de to kurvene krysser hverandre, er det like mange mor- som datter-isotoper, altså nettopp én halveringstid."
  },
  {
   "id": "e92aadbc04",
   "art": "tenk",
   "q": "Hvor mange prosent er det igjen av den opprinnelige mengden radioaktive isotoper i hver av de seks boksene på figur 6.23?",
-  "f": ""
+  "f": "Hver boks er én halveringstid, og andelen halveres for hver:\n100 %, 50 %, 25 %, 12,5 %, 6,25 %, 3,125 %.\nLegg merke til at kurven aldri når null — den nærmer seg bare. Det er derfor karbon-14-metoden har en grense: etter mange nok halveringstider er det for lite igjen til å måle."
  },
  {
   "id": "85c331fa7b",
   "art": "tenk",
   "q": "Hva menes med «lag på lag, prikkete og stripete» bergarter? Hva er hensikten med å bruke slike begreper?",
-  "f": ""
+  "f": "Det er en huskeregel for å kjenne igjen de tre hovedgruppene på utseendet:\n«Lag på lag» er sedimentære bergarter — de er bygd opp lag for lag av avsatte løsmasser.\n«Prikkete» er magmatiske bergarter — mineralkorn spredt tilfeldig om hverandre, uten retning, fordi de krystalliserte fritt i smelta.\n«Stripete» er metamorfe bergarter — mineralene ligger ordnet i bånd eller flak, presset i én retning av trykket.\nHensikten er å gi noe konkret å se etter i felt, før man kan faguttrykkene. Man går fra å observere til å slutte seg til hvordan bergarten er dannet."
  },
  {
   "id": "a75d54f19f",
   "art": "oppgave-i-tekst",
   "q": "Studer figur 6.20. Nedenfor er det et spørsmål til hver av figurene a–e. Begrunn svarene.",
-  "f": ""
+  "f": "Figur 6.20 viser fem situasjoner der du skal avgjøre rekkefølgen. Bruk to hovedregler:\nLagrekkefølgen: i en uforstyrret sedimentær lagrekke ligger det eldste nederst og det yngste øverst.\nGjennomskjæring: en bergart som skjærer gjennom en annen, må være yngre enn den den skjærer gjennom.\nOg et tredje, viktig prinsipp: en bergart som inneholder biter av en annen, må være yngre enn den bergarten bitene kommer fra."
  },
  {
   "id": "c81aafc656",
   "art": "tenk",
   "q": "Hvilken av de tre sedimentære bergartene (1, 2 eller 3) er eldst?",
-  "f": ""
+  "f": "Nummer 3 — den nederste.\nI en sedimentær lagrekke som ikke er forstyrret av indre krefter, ligger de eldste lagene nederst og de yngste øverst. Lagene avsettes lag på lag ovenfra."
  },
  {
   "id": "68c4a656e6",
   "art": "tenk",
   "q": "Hvilken bergart er yngst, sandsteinen eller den vulkanske gangbergarten?",
-  "f": ""
+  "f": "Gangbergarten.\nDen skjærer gjennom sandsteinen, og det betyr at sandsteinen må ha ligget der først. En bergart som skjærer gjennom en annen, er alltid yngst."
  },
  {
   "id": "2173ec9123",
   "art": "tenk",
   "q": "Er det de magmatiske eller de sedimentære bergartene som er eldst?",
-  "f": ""
+  "f": "De sedimentære — forutsatt at den magmatiske bergarten skjærer gjennom dem.\nBegrunnelsen er den samme: sedimentene må ha vært på plass før magmaet kunne trenge opp gjennom dem."
  },
  {
   "id": "44622ee2e2",
   "art": "tenk",
   "q": "En annen magmatisk bergart ligger mellom to lag av sedimentære bergarter. Det øverste laget er en sandstein, det underste er en kalkstein. Den magmatiske bergarten inneholder biter av både sandstein og kalkstein. Hvilken bergart er yngst?",
-  "f": ""
+  "f": "Den magmatiske bergarten.\nAt den inneholder biter av både sandsteinen over og kalksteinen under, betyr at begge lagene allerede var herdet til stein da magmaet kom. Magmaet rev løs biter av dem på veien.\nEn bergart som inneholder bruddstykker av en annen, må være yngre enn den."
  },
  {
   "id": "37a5fec0c2",
   "art": "tenk",
   "q": "En magmatisk bergart ligger mellom to lag av sedimentære bergarter. Det øverste laget er en sandstein, det underste er en kalkstein. Sandsteinen inneholder biter av den magmatiske bergarten. Hvilken bergart er yngst i dette tilfellet?",
-  "f": ""
+  "f": "Sandsteinen.\nHer er det motsatt: sandsteinen inneholder biter av den magmatiske bergarten. Da må den magmatiske bergarten ha vært størknet og erodert før sandsteinen ble avsatt oppå.\nDet er et fint eksempel på at samme situasjon — en magmatisk bergart mellom to sedimentære lag — kan ha to helt ulike forklaringer. Det avgjørende er hvem som inneholder biter av hvem."
  },
  {
   "id": "b6dcf19c5c",
   "art": "sporsmal",
   "q": "Hva er det geologiske kretsløpet?",
-  "f": ""
+  "f": "Det geologiske kretsløpet er sammenhengen mellom de tre hovedgruppene av bergarter: magmatiske, sedimentære og metamorfe.\nMagma størkner til magmatiske bergarter. De ytre kreftene sliter dem ned til løsmasser, som avsettes og herdes til sedimentære bergarter. Trykk og varme omdanner bergartene til metamorfe. Blir temperaturen høy nok, smelter de til magma igjen — og runden er sluttet.\nMen ikke alle bergarter går hele runden. Det finnes snarveier, markert med blå piler i figur 6.2."
  },
  {
   "id": "f59c17ba3e",
   "art": "sporsmal",
   "q": "Hvorfor er havbunnen så ung i forhold til kontinentene?",
-  "f": ""
+  "f": "Fordi havbunnsplatene sirkulerer raskere.\n«Bare» et par hundre millioner år etter at havbunnsskorpa dannes på en midthavsrygg, forsvinner den ned i en dyphavsgrop. Der går platene i oppløsning, og store biter synker mot jordkjernen.\nKontinentplatene forsvinner aldri ned i mantelen — bergartene der er for lette og «flyter» for godt. Derfor kan de være mer enn to milliarder år gamle."
  },
  {
   "id": "0660bf81f3",
   "art": "sporsmal",
   "q": "Hva er et bergartsdannende mineral?",
-  "f": ""
+  "f": "Et bergartsdannende mineral er et mineral som opptrer som et dominerende mineral i bergartene.\nVi kjenner ca. 4000 mineraler, men bare 30–40 er vanlige i bergarter, og om lag halvparten av dem er bergartsdannende.\nI en enkelt bergart er det oftest bare to–tre mineraler som dominerer, i tillegg til små mengder av andre."
  },
  {
   "id": "a0da5e4176",
   "art": "sporsmal",
   "q": "Nevn to viktige mineralgrupper og forskjellene mellom dem.",
-  "f": ""
+  "f": "Silikatmineraler og ertsmineraler.\nSilikatmineralene er den vanligste gruppen. De har steinaktig, ikke-metallisk utseende og forholdsvis liten tetthet. Bortsett fra kvarts er de bygd opp av oksygen, silisium og ett eller flere andre grunnstoffer. Feltspat, glimmer, pyroksen og olivin hører hit.\nErtsmineralene inneholder et metall med tetthet større enn 5. De har metallisk glans og stor tetthet. Sulfider som svovelkis og kobberkis inneholder svovel og et metall; oksider som magnetitt og hematitt inneholder oksygen og et metall."
  },
  {
   "id": "738937f25c",
   "art": "sporsmal",
   "q": "Hva er et ertsmineral?",
-  "f": ""
+  "f": "Et ertsmineral er et mineral som inneholder et metall med tetthet større enn 5.\nSulfider (svovelkis, kobberkis) og oksider (magnetitt, hematitt) er de viktigste gruppene. De kjennes på metallisk glans og stor tetthet."
  },
  {
   "id": "ab40724f81",
   "art": "sporsmal",
   "q": "Hva er forskjellen på en krystall og et mineralkorn?",
-  "f": ""
+  "f": "Formen — det kjemiske innholdet er det samme.\nEn krystall har fått vokse fritt, uten romlig begrensning, i et hulrom eller en sprekk. Da kommer mineralets karakteristiske krystallform tydelig fram.\nEt mineralkorn har vokst inne i en bergart, der mineralene presser mot hverandre. Da blir kornet uregelmessig, selv om krystallstrukturen inni er den samme."
  },
  {
   "id": "552767758c",
   "art": "sporsmal",
   "q": "Hva er en pegmatittgang?",
-  "f": ""
+  "f": "En pegmatittgang er en grovkornet magmatisk bergart som har størknet der magma trengte opp gjennom sprekker og ganger i jordskorpa.\nDet spesielle er de svært store mineralkornene. Granittiske pegmatitter er vanligst, med mye kvarts, feltspat og glimmer — de samme mineralene som i granitt.\nSlike ganger er vanlige i grunnfjellet på Sørlandet, særlig i Setesdal, og noen steder er det utviklet store, flotte krystaller i dem."
  },
  {
   "id": "ddcd964171",
   "art": "sporsmal",
   "q": "Hva er forskjellen på et mineral og en bergart?",
-  "f": ""
+  "f": "Et mineral er et fast stoff med en bestemt kjemisk sammensetning og en bestemt krystallstruktur.\nEn bergart er satt sammen av mineraler — oftest to–tre dominerende, i tillegg til små mengder andre.\nMineralene er altså byggesteinene, bergarten er bygningen. Granitt er en bergart; kvarts, feltspat og glimmer er mineralene den består av."
  },
  {
   "id": "6e1f0b4c99",
   "art": "hvatrordu",
   "q": "Hva er det flest av, mineraler eller bergarter?",
-  "f": ""
+  "f": "Det kommer an på hvordan man teller, og det er poenget med spørsmålet.\nVi kjenner ca. 4000 ulike mineraler, men bare 30–40 er vanlige i bergartene. Antall navngitte bergartstyper er betydelig færre enn 4000.\nSamtidig er hver enkelt bergart en kombinasjon av mineraler i varierende mengdeforhold og kornstørrelse, så tallet på mulige bergarter er i prinsippet ubegrenset.\nEt godt svar: det finnes flest mineraler blant de navngitte, men bergartene varierer kontinuerlig, mens mineralene er skarpt definerte."
  },
  {
   "id": "d762bf36de",
   "art": "hvatrordu",
   "q": "Hvordan kan et geologisk mangfold være grunnlaget for et biologisk mangfold?",
-  "f": ""
+  "f": "Fordi berggrunnen bestemmer hva som kan vokse.\nUlike bergarter gir ulik jord: kalkholdige og basiske bergarter forvitrer raskt og gir næringsrik jord, mens kvartsitt og granitt gir næringsfattig jord. Det gir helt ulik plantevekst, og dermed ulikt dyreliv.\nDer geologien varierer mye innenfor et lite område, får man derfor mange forskjellige levesteder tett i tett — kalkrike enger ved siden av fattig furuskog, og alt imellom.\nStort geologisk mangfold gir altså mange nisjer, og mange nisjer gir stort biologisk mangfold."
  },
  {
   "id": "bfd351d1d1",
   "art": "sporsmal",
   "q": "Hvilke to andre betegnelser brukes på magmatiske bergarter?",
-  "f": ""
+  "f": "Eruptive bergarter og størkningsbergarter.\n«Eruptive» viser til at bergartene er nær knyttet til vulkanutbrudd (erupsjon = utbrudd). «Størkningsbergarter» viser til at de dannes når magma eller lava størkner."
  },
  {
   "id": "4b80af4c9c",
   "art": "sporsmal",
   "q": "Hva er forskjellen på magma og lava?",
-  "f": ""
+  "f": "Bare hvor smelta befinner seg.\nSteinsmelte kalles magma så lenge den er under jordoverflaten, og lava når den har kommet ut på overflaten — på land eller på havbunnen."
  },
  {
   "id": "4d74a904ff",
   "art": "sporsmal",
   "q": "Hva påvirker smeltetemperaturen for en bergart?",
-  "f": ""
+  "f": "Tre ting.\nMineralinnholdet: mafiske bergarter med mørke mineraler har høyere smeltetemperatur enn felsiske med lyse mineraler.\nTrykket: smeltetemperaturen øker når trykket øker. Derfor smelter mantelbergarter når de stiger og trykket faller — som under midthavsrygger og i hotspoter.\nInnholdet av flyktige stoffer: smeltetemperaturen synker når innholdet av gass og vann øker. Det er dette som skjer i kollisjonssoner, der vann fra den synkende plata tilføres mantelen over."
  },
  {
   "id": "c09f483856",
   "art": "sporsmal",
   "q": "Hva menes med delvis oppsmelting av en bergart?",
-  "f": ""
+  "f": "At bare noen av mineralene i bergarten smelter.\nMineralene har ulike smeltepunkt, så bergarten smelter ikke ved én bestemt temperatur, men over et temperaturintervall. De mineralene med lavest smeltepunkt smelter først, og smelta søker seg oppover. Resten blir liggende igjen.\nStearinvoks med småstein i et begerglass er bildet boka bruker: voksen smelter og legger seg som topplag, steinene synker til bunns.\nDette er grunnen til at én bergart kan gi opphav til flere ulike magmaer."
  },
  {
   "id": "a1a99e632f",
   "art": "sporsmal",
   "q": "Hva er forskjellene på felsiske og mafiske bergarter?",
-  "f": ""
+  "f": "Felsiske bergarter inneholder mye lyse mineraler — kvarts, feltspat og andre silikarike mineraler. De har lavere smeltepunkt, lavere tetthet, og gir tyktflytende lava fordi silisiuminnholdet er høyt. Granitt er eksempelet.\nMafiske bergarter inneholder mye mørke mineraler — olivin, pyroksen, amfibol, biotitt — rike på magnesium og jern. De har høyere smeltepunkt, større tetthet, og gir lettflytende lava. Basalt og gabbro er eksempler.\nNavnene forteller det: felsisk av feltspat og silika, mafisk av magnesium og ferrum (jern)."
  },
  {
   "id": "3d0fa952ca",
   "art": "sporsmal",
   "q": "Hva er delvis krystallisasjon?",
-  "f": ""
+  "f": "At noen mineraler krystalliserer ut av magmaet før andre, mens det stiger og kjølner.\nI et mafisk magma begynner gjerne olivin, pyroksen og plagioklas å krystallisere først. Krystallene felles ut, synker til bunns i magmakammeret, og etterlater et restmagma med annen sammensetning enn det opprinnelige.\nEttersom de mafiske mineralene fjernes, blir restmagmaet stadig mer felsisk. Prosessen kan gjenta seg flere ganger.\nSammen med delvis oppsmelting forklarer dette det store mangfoldet av magmatiske bergarter."
  },
  {
   "id": "19c4f59beb",
   "art": "sporsmal",
   "q": "Hvor blir det dannet mafisk magma, og hvor blir det dannet felsisk magma?",
-  "f": ""
+  "f": "Mafisk magma dannes der mantelbergarter smelter: under midthavsrygger, i hotspoter over søylestrømmer, og i første omgang også i kollisjonssoner.\nFelsisk magma dannes stort sett ikke direkte, men oppstår ved delvis krystallisasjon av et mafisk magma på vei opp. Det skjer særlig i kollisjonssoner, der magmaet står lenge i magmakamre i den tykke kontinentskorpa.\nDerfor er granitt den vanligste dypbergarten i kontinentene, mens havbunnsskorpa er mafisk."
  },
  {
   "id": "53dc45eedf",
   "art": "sporsmal",
   "q": "Hvor er basalt dannet, og hvor dannes gabbro?",
-  "f": ""
+  "f": "Begge dannes fra samme mafiske magma, men størkner ulike steder.\nGabbro størkner nede i jordskorpa, langs sidene av magmakammeret der temperaturen er lavest. Fordi det går sakte, blir den grovkornet. Gabbro bygger opp den underste delen av havbunnsskorpa.\nBasalt størkner på jordoverflaten, av lava som strømmer ut langs midthavsryggene eller fra hotspoter. Fordi det går raskt, blir den finkornet. Basalt ligger over gabbroen i havbunnsskorpa, og er den vanligste dagbergarten."
  },
  {
   "id": "f871eaf6c5",
   "art": "sporsmal",
   "q": "Hva er et magmakammer?",
-  "f": ""
+  "f": "Et magmakammer er et hulrom i litosfæren der magma samler seg på vei opp mot overflaten.\nDer skjer mye av den delvise krystallisasjonen: mineraler krystalliserer ut langs sidene der temperaturen er lavest, synker til bunns, og etterlater et lettere restmagma som kan stige videre.\nUnder vulkaner ligger magmakammeret like under, og det er trykkoppbyggingen der som utløser utbrudd."
  },
  {
   "id": "a065627cd3",
   "art": "sporsmal",
   "q": "Hva er en hotspot?",
-  "f": ""
+  "f": "En hotspot er et smelteområde like under litosfæren, dannet der en søylestrøm fører glovarme mantelbergarter opp fra grensen mellom mantel og jordkjerne.\nNår søylestrømmen når opp, faller trykket, smeltetemperaturen synker, og bergartene begynner å smelte.\nMagmaet er mafisk, som under spredningsakser. Noe størkner til gabbro i jordskorpa, og lava som når overflaten, størkner til basalt."
  },
  {
   "id": "5886970a0a",
   "art": "hvatrordu",
   "q": "Hvorfor er det ikke noe som heter smeltepunkt for en bergart?",
-  "f": ""
+  "f": "Fordi en bergart består av flere mineraler med ulike smeltepunkt.\nEt rent stoff har ett bestemt smeltepunkt. En bergart er en blanding, og derfor smelter noen mineraler før andre. Smeltingen skjer over et temperaturintervall, ikke ved én temperatur.\nDerfor bruker vi begrepet smeltetemperatur — den temperaturen der bergarten begynner å smelte — og ikke smeltepunkt."
  },
  {
   "id": "5eb5a7e272",
   "art": "hvatrordu",
   "q": "Hva betyr det at en bergart smelter over et lengre temperaturintervall?",
-  "f": ""
+  "f": "At bergarten går gradvis over fra fast til flytende, mineral for mineral.\nVed den laveste temperaturen smelter bare de mineralene med lavest smeltepunkt. Etter hvert som temperaturen stiger, smelter flere.\nKonsekvensen er viktig: magmaet som dannes tidlig i prosessen, har en annen sammensetning enn det som dannes senere. Én bergart kan derfor gi opphav til flere ulike magmaer, avhengig av graden av oppsmelting."
  },
  {
   "id": "76f7eba89b",
   "art": "hvatrordu",
   "q": "Hvordan kan mineralinnholdet i en bergart påvirke smeltetemperaturen?",
-  "f": ""
+  "f": "Fordi hvert mineral har sitt eget smeltepunkt, og bergartens smeltetemperatur bestemmes av det mineralet som smelter først.\nFelsiske mineraler som kvarts og feltspat har lave smeltepunkt. En bergart rik på dem begynner å smelte ved lav temperatur.\nMafiske mineraler som olivin og pyroksen har høye smeltepunkt. En mafisk bergart må derfor varmes mye mer opp før den begynner å smelte.\nDet er derfor en granitt smelter lettere enn en gabbro."
  },
  {
   "id": "fdc22f600d",
   "art": "hvatrordu",
   "q": "Hvilken sammenheng er det mellom steinsmelte, magma og lava?",
-  "f": ""
+  "f": "Steinsmelte er samlebegrepet — smeltet bergart, uansett hvor den er.\nMagma er steinsmelte under jordoverflaten.\nLava er steinsmelte som har kommet ut på jordoverflaten.\nDet er altså det samme stoffet; navnet skifter når det passerer overflaten."
  },
  {
   "id": "87fdbce1ad",
   "art": "hvatrordu",
   "q": "Hva gjør at mantelbergartene i søylestrømmen smelter i en hotspot, mens mantelbergartene på sidene ikke gjør det?",
-  "f": ""
+  "f": "Fordi det bare er i søylestrømmen trykket faller raskt nok.\nMantelbergartene i søylestrømmen stiger opp fra store dyp. På vei opp synker trykket kraftig, og dermed synker også smeltetemperaturen. Like under litosfæren blir smeltetemperaturen så lav at bergartene smelter — selv om de ikke er blitt varmere underveis.\nBergartene på sidene stiger ikke. De står i ro ved sitt eget trykk, og smeltetemperaturen der er fortsatt høyere enn temperaturen de faktisk har.\nDet er altså trykkfallet, ikke varmen, som utløser smeltingen — såkalt trykkavlastningssmelting."
  },
  {
   "id": "1d70553372",
   "art": "sporsmal",
   "q": "Hva er et sediment?",
-  "f": ""
+  "f": "Et sediment er en avsetning — noe som har «slått seg ned». Ordet kommer av latin sedere.\nDet omfatter klastiske sedimenter (leire, sand, grus), kjemiske sedimenter (kalk og salt utfelt fra havvannet), biokjemiske sedimenter (skjell og kalkskall) og organiske sedimenter (torv, kull, koraller)."
  },
  {
   "id": "e1439ec006",
   "art": "sporsmal",
   "q": "Hva er klastiske sedimenter?",
-  "f": ""
+  "f": "Klastiske sedimenter er løsmasser som består av mineralkorn eller små steinbiter — bruddstykker av eldre bergarter. Ordet klastisk betyr «dannet av bruddstykker».\nLeire, silt, sand, grus, stein og blokk er alle klastiske sedimenter. De skiller seg fra kjemiske og biokjemiske sedimenter, som er felt ut fra vann eller bygd opp av organismer."
  },
  {
   "id": "be7670b129",
   "art": "sporsmal",
   "q": "Hvilke to typer forvitring regner vi med?",
-  "f": ""
+  "f": "Mekanisk og kjemisk forvitring.\nMekanisk forvitring bryter bergarten opp i mindre deler uten å endre den kjemisk. Frostsprengning er eksempelet: vann siver ned i sprekker, fryser, utvider seg og sprenger løs deler av fjellet. Det tar minst 200–300 år å danne et blokkhav.\nKjemisk forvitring løser opp mineralene. Ofte forvitrer bare noen av mineralene i en bergart, og da smuldrer resten opp og faller fra hverandre."
  },
  {
   "id": "a60705549b",
   "art": "sporsmal",
   "q": "Hvilke ulike typer løsmasser regner vi med? Hva skiller dem fra hverandre?",
-  "f": ""
+  "f": "Leire, silt, sand, grus, stein og blokk. Det som skiller dem, er kornstørrelsen.\nLeire er under 0,002 mm, silt 0,002–0,06 mm, sand 0,06–2 mm, grus 0,2–6 cm, stein 6–25 cm, og blokk er alt over.\nKornstørrelsen avgjør hvordan materialet transporteres og hvor det avsettes — og dermed hvilken sedimentær bergart det blir til."
  },
  {
   "id": "58b42ddf4b",
   "art": "sporsmal",
   "q": "Hva er diagenese?",
-  "f": ""
+  "f": "Diagenese er herdeprosessen der løsmasser blir til sedimentær bergart.\nTo ting skjer. Løsmassene presses sammen under vekten av lagene over — det kreves 5–6 km med avsetninger. Og vann som sirkulerer gjennom porene, feller ut mineraler som kvarts og feltspat, som kitter kornene sammen. Det kalles sementering.\nProsessen tar millioner av år. Leire blir til leirskifer, sand til sandstein, og grus til konglomerat."
  },
  {
   "id": "be2c5ee180",
   "art": "sporsmal",
   "q": "Hvordan kan sedimentære bergarter fortelle oss om klima, landformer og livsformer tidligere i jordhistorien?",
-  "f": ""
+  "f": "Fordi bergarten bærer med seg sporene av forholdene der den ble dannet.\nKlima: steinsalt på bunnen av Nordsjøen må være dannet i et varmt klima med sterk fordampning. Forsteinet morene (tillitt) vitner om kaldt klima med isbreer. Kalkstein fra korallrev forteller om varmt hav.\nLandformer: leirskifer betyr at elvene bare førte med seg det aller fineste materialet, altså at høydeforskjellene på land var små. Konglomerat betyr det motsatte — bratte elver med stor kraft.\nLivsformer: fossilinnholdet forteller om plante- og dyrelivet da bergarten ble dannet, og gjør det mulig å følge livets utvikling og tidligere miljøforandringer."
  },
  {
   "id": "707aac64c8",
   "art": "sporsmal",
   "q": "Hvor dannes det sedimentære bergarter?",
-  "f": ""
+  "f": "Oftest på havbunnen, men også i store innsjøer og på land.\nDet må være et sedimentasjonsbasseng som er stabilt over lang tid — typisk langs passive kontinentkyster uten aktive plategrenser.\nJordskorpa må dessuten synke inn etter hvert som nye løsmasser tilføres, slik at lagene blir tykke nok til at diagenesen kan fullføres."
  },
  {
   "id": "ede9fca4ba",
   "art": "hvatrordu",
   "q": "Hvordan kan en lagrekke av sedimentære bergarter veksle mellom sandsteiner og leirskifre – og kanskje konglomerater – på ett og samme sted?",
-  "f": ""
+  "f": "Fordi forholdene på stedet endrer seg over tid.\nKornstørrelsen som avsettes, avgjøres av hvor kraftig transporten er og hvor langt fra land stedet ligger. Endres havnivået, klimaet eller høydeforskjellene på land, endres også materialet som kommer.\nStiger havnivået, flytter kystlinjen seg innover, og et sted som før fikk sand, får nå leire. Synker havet, eller heves landet slik at elvene blir brattere, kommer det grovere materiale — sand og kanskje konglomerat.\nEn vekslende lagrekke er derfor et arkiv: hvert skifte i kornstørrelse markerer en endring i havnivå, klima eller tilførsel."
  },
  {
   "id": "41a6ce8e69",
   "art": "sporsmal",
   "q": "Hva er metamorfose?",
-  "f": ""
+  "f": "Metamorfose er omdanning av en bergart ved høy temperatur og/eller høyt trykk — uten at den smelter eller går i oppløsning.\nBergarten kan endre både utseende og mineralinnhold. Mineralene omkrystalliserer, og nye mineraler kan dannes.\nOrdet betyr formendring. Utgangspunktet kan være en magmatisk eller en sedimentær bergart — eller en metamorf som omdannes videre."
  },
  {
   "id": "3064d90378",
   "art": "sporsmal",
   "q": "Hva er forskjellen på kontakt- og regionalmetamorfose?",
-  "f": ""
+  "f": "Kontaktmetamorfose skyldes varme fra et magma. Når et varmt magma trenger opp og størkner, avgir det store mengder varme til bergartene rundt, og mineralene der omkrystalliserer. Virkningen rekker noen kilometer ut fra kontakten, og berører derfor et begrenset område.\nRegionalmetamorfose skyldes kollisjoner mellom kontinentplater. Bergartene i den nederste plata presses ned i mantelen, og omdanningen skjer 10–30 km under overflaten, med høyt trykk og høye temperaturer. Den berører store områder — hele fjellkjeder.\nDe fleste metamorfe bergarter er dannet ved regionalmetamorfose."
  },
  {
   "id": "14bf8e4e37",
   "art": "sporsmal",
   "q": "Hvilke tre metamorfe bergarter kan leirskifer omdannes til?",
-  "f": ""
+  "f": "Fyllitt, glimmerskifer og gneis — i den rekkefølgen, ved økende trykk og temperatur.\nJo kraftigere omdanningen er, desto grovere blir mineralkornene og desto tydeligere blir bånd- eller flakstrukturen."
  },
  {
   "id": "be1cc0408c",
   "art": "sporsmal",
   "q": "Hva er gneis?",
-  "f": ""
+  "f": "Gneis er en sterkt omdannet metamorf bergart, og den vanligste bergarten på det norske fastlandet.\nHøyt trykk og omkrystallisering har ordnet mineralene, noen steder i atskilte bånd — da kalles den båndgneis. I øyegneis ligger store, linseformede feltspatkrystaller («øyne») i en finere grunnmasse.\nGneis er sluttproduktet når en leirskifer omdannes gjennom fyllitt og glimmerskifer, men kan også dannes fra magmatiske bergarter som granitt."
  },
  {
   "id": "d5a9c95079",
   "art": "sporsmal",
   "q": "Hvilke metoder kan vi bruke til å bestemme den relative alderen?",
-  "f": ""
+  "f": "To hovedmetoder.\nLagfølge og gjennomskjæring: i en uforstyrret sedimentær lagrekke ligger det eldste nederst. En bergart som skjærer gjennom en annen, er yngre. En bergart som inneholder biter av en annen, er yngre enn den bitene kommer fra.\nFossiler: fossilinnholdet forteller når bergarten ble dannet. Ledefossiler — arter med kort levetid og stor utbredelse — er særlig nyttige, fordi de gjør det mulig å knytte sammen bergarter dannet i samme periode ulike steder på jorda."
  },
  {
   "id": "0c6abad719",
   "art": "sporsmal",
   "q": "Hvordan kan vi bestemme den absolutte alderen på bergarter?",
-  "f": ""
+  "f": "Ved å måle radioaktive isotoper.\nEn radioaktiv mor-isotop brytes ned til en stabil datter-isotop av et annet grunnstoff, med en kjent halveringstid. Etter hvert blir det færre mor-isotoper og flere datter-isotoper.\nMåler vi forholdet mellom dem, og kjenner halveringstiden, kan vi regne ut hvor lenge nedbrytningen har pågått — altså hvor gammel bergarten er. Isotopene virker som geologiske klokker.\nMineralet zirkon brukes ofte. Nydannet zirkon inneholder mye uran, men ikke bly. Uranisotopen ²³⁸U har en halveringstid på 4,5 milliarder år og brytes ned til den stabile blyisotopen ²⁰⁶Pb."
  },
  {
   "id": "cb1ac4f6da",
   "art": "hvatrordu",
   "q": "Kan en sedimentær bergart som smelter, bli en metamorf bergart? Forklar.",
-  "f": ""
+  "f": "Nei — smelter den, blir den magmatisk.\nDefinisjonen på en metamorf bergart er at den er omdannet ved høy temperatur og/eller høyt trykk uten å ha smeltet. Smelting er nettopp grensen.\nEn sedimentær bergart kan derimot godt bli metamorf: leirskifer blir til fyllitt, glimmerskifer og gneis, og kalkstein blir til marmor.\nMen skrus varmen opp til den smelter, er den blitt magma — og størkner den igjen, er resultatet en magmatisk bergart."
  },
  {
   "id": "5d006a5fbd",
   "art": "hvatrordu",
   "q": "Hvordan ligger dypbergarter og de tilhørende kontaktmetamorfe bergartene i forhold til hverandre?",
-  "f": ""
+  "f": "De kontaktmetamorfe bergartene ligger som en sone rundt dypbergarten — omtrent som en skorpe rundt en bakt deig.\nDypbergarten er selve magmalegemet som har størknet. Varmen den avga, omdannet bergartene utenfor, og virkningen avtar utover: kraftigst omdanning nærmest kontakten, gradvis svakere utover, opptil flere kilometer.\nDet er nettopp denne sonen som avslører at bergarten under er en dypbergart som en gang var glovarmt magma."
  },
  {
   "id": "f1034187e5",
   "art": "hvatrordu",
   "q": "Gneiser kan se så forskjellige ut. Hva kan grunnene være til det?",
-  "f": ""
+  "f": "Fordi både utgangspunktet og graden av omdanning varierer.\nUtgangspunktet: gneis kan komme fra en leirskifer som er omdannet gjennom fyllitt og glimmerskifer, eller fra en magmatisk bergart som granitt. Mineralinnholdet blir da forskjellig, og dermed også fargen.\nGraden og typen påkjenning: ulik kombinasjon av trykk og temperatur gir ulike mineraler og ulik grovhet på kornene.\nStrukturen: der trykket har ordnet mineralene i atskilte bånd, får vi båndgneis. Der store feltspatkrystaller ligger i en finere grunnmasse, får vi øyegneis.\nAt gneis er sluttstasjonen for mange ulike veier, er nettopp derfor den ser så forskjellig ut."
  },
  {
   "id": "03c08a828c",
   "art": "hvatrordu",
   "q": "Hvorfor kalles fossiler av organismer med «kort» levetid og stor utbredelse på jordoverflaten for ledefossiler?",
-  "f": ""
+  "f": "Fordi de «leder» oss til riktig tidsrom.\nEn art med kort levetid finnes bare i et smalt tidsvindu. Finner du fossilet, vet du ganske nøyaktig når bergarten ble dannet.\nStor utbredelse gjør at det samme fossilet kan gjenfinnes på ulike kontinenter, slik at bergarter på hver sin side av jorda kan knyttes til samme geologiske periode.\nBegge egenskapene må være til stede. En langlivet art gir upresis datering; en art som bare fantes ett sted, kan ikke brukes til sammenligning."
  },
  {
   "id": "85bc2fbdd0",
   "art": "hvatrordu",
   "q": "Da Norges grunnlov ble vedtatt på Eidsvold i 1814, het det «enige og tro til Dovre faller». Hva synes du om dette tidsperspektivet?",
-  "f": ""
+  "f": "I geologisk perspektiv er det et ganske beskjedent løfte.\nDovre er bygd av harde bergarter, men også det fjellet slites ned. Den kaledonske fjellkjeden, som var like mektig som Himalaya, brukte «bare» 50 millioner år på å forsvinne.\nSå Dovre kommer til å falle — det er bare et spørsmål om tid, og tiden er millioner av år.\nSamtidig er nettopp det poenget med formuleringen: i menneskelig målestokk er fjellet det mest urokkelige man kan tenke seg. Det sier noe om hvor forskjellig geologisk tid og menneskelig tid er."
  },
  {
   "id": "ce3970632e",
   "art": "hvatrordu",
   "q": "Zirkon er et hardt mineral som er motstandsdyktig mot erosjon. Mineralkorn av zirkon finnes derfor ofte i sandstein. Gir en datering av zirkonmineralet også alderen til sandsteinen? Grunngi svaret.",
-  "f": ""
+  "f": "Nei. Dateringen gir alderen på zirkonkornet, ikke på sandsteinen.\nZirkon dannes i magmatiske bergarter. Fordi mineralet er hardt og motstandsdyktig mot erosjon, overlever det når den magmatiske bergarten forvitrer, og kornene fraktes med elvene og avsettes som sand.\nDateringen forteller altså når den opprinnelige magmatiske bergarten ble dannet — som kan være milliarder av år før sandsteinen.\nMen metoden er likevel nyttig på to måter: sandsteinen må være yngre enn det yngste zirkonkornet i den, og sammensetningen av zirkonaldre forteller hvilke fjellkjeder materialet kom fra."
  },
  {
   "id": "bd84bb8ccf",
   "art": "hvatrordu",
   "q": "Forskerne har beregnet at solsystemet ble dannet (Big Bang) for nøyaktig 4567 millioner år siden – det er et lett tall å huske! Hvorfor? Jorda ble dannet litt over 100 millioner år senere.",
-  "f": ""
+  "f": "Fordi sifrene kommer i rekkefølge: 4-5-6-7.\nMerk likevel en viktig presisering i spørsmålet: Big Bang er ikke det samme som dannelsen av solsystemet. Big Bang skjedde for ca. 13,8 milliarder år siden og er universets begynnelse. Tallet 4567 millioner år gjelder dannelsen av solsystemet vårt.\nJorda ble dannet litt over 100 millioner år senere, for ca. 4570–4540 millioner år siden."
  },
  {
   "id": "252c162364",
@@ -507,271 +507,271 @@
   "id": "cd5a209dad",
   "art": "kapitteloppgave",
   "q": "Det kan være flere mulige løsninger – med ulike begrunnelser! Prøv å lage noen «én skal ut»-oppgaver selv. Test dem på noen rundt deg.",
-  "f": ""
+  "f": "Dette er en egenproduksjonsoppgave uten fasit.\nSlik lager du en god «én skal ut»: velg tre faguttrykk der to henger tett sammen på én bestemt måte, og det tredje bryter med akkurat det. Sjekk at du klarer å begrunne valget med én setning.\nEksempler fra dette kapitlet: «basalt – gabbro – granitt» (granitt er felsisk, de to andre mafiske), «leirskifer – fyllitt – gneis» (leirskifer er sedimentær, de to andre metamorfe), «kvarts – feltspat – magnetitt» (magnetitt er et ertsmineral).\nDe beste oppgavene er de der flere svar kan forsvares."
  },
  {
   "id": "acb44724ee",
   "art": "kapitteloppgave",
   "q": "mineralkorn – krystall – pegmatittgang",
-  "f": ""
+  "f": "Pegmatittgang skal ut.\nMineralkorn og krystall er to former av det samme mineralet — forskjellen er bare om det har fått vokse fritt. En pegmatittgang er en bergart, ikke en mineralform."
  },
  {
   "id": "823682d416",
   "art": "kapitteloppgave",
   "q": "hotspot – midthavsrygg – dyphavsgrop",
-  "f": ""
+  "f": "Hotspot skal ut.\nMidthavsrygg og dyphavsgrop ligger begge på en plategrense. En hotspot ligger midt inne på en plate, over en søylestrøm.\nDu kan også argumentere for dyphavsgrop: midthavsrygg og hotspot gir begge mafisk magma og basalt, mens en kollisjonssone gir felsisk magma ved delvis krystallisasjon."
  },
  {
   "id": "bb1637a38c",
   "art": "kapitteloppgave",
   "q": "størkning – delvis krystallisasjon – herding",
-  "f": ""
+  "f": "Herding skal ut.\nStørkning og delvis krystallisasjon hører begge til magmaets overgang fra smelte til fast bergart. Herding — diagenese — er det som skjer med løsmasser når de blir til sedimentær bergart, og har ingenting med smelte å gjøre."
  },
  {
   "id": "d9d241f139",
   "art": "kapitteloppgave",
   "q": "diagenese – metamorfose – sediment",
-  "f": ""
+  "f": "Metamorfose skal ut.\nDiagenese er prosessen der sedimenter blir til sedimentær bergart, så de to henger direkte sammen. Metamorfose er omdanning ved trykk og varme, et helt annet trinn i kretsløpet."
  },
  {
   "id": "1c6dc7d816",
   "art": "kapitteloppgave",
   "q": "sedimenter – løsmasser – lava",
-  "f": ""
+  "f": "Lava skal ut.\nSedimenter og løsmasser er i praksis det samme — avsatt materiale. Lava er steinsmelte på jordoverflaten."
  },
  {
   "id": "718f5e97dc",
   "art": "kapitteloppgave",
   "q": "marmor – kontaktmetamorfose – fyllitt",
-  "f": ""
+  "f": "Fyllitt skal ut.\nMarmor er kontaktmetamorf (eller regionalmetamorf) kalkstein, så marmor og kontaktmetamorfose hører sammen. Fyllitt dannes ved regionalmetamorfose av leirskifer."
  },
  {
   "id": "3c30a2b4f2",
   "art": "kapitteloppgave",
   "q": "uran – karbon-14-metoden – geologisk klokke",
-  "f": ""
+  "f": "Her henger alle tre sammen, og begrunnelsen teller.\nEn mulighet er karbon-14-metoden: uran og geologisk klokke gjelder datering av bergarter over milliarder av år, mens karbon-14 bare virker på organisk materiale opptil ca. 50 000 år.\nEn annen er geologisk klokke: de to første er konkrete grunnstoffer og metoder, mens «geologisk klokke» er bildet vi bruker om prinsippet."
  },
  {
   "id": "f4082f51dc",
   "art": "kapitteloppgave",
   "q": "Krystaller kan ha kuleform.",
-  "f": ""
+  "f": "Fleip.\nEn krystall får sin form av mineralets krystallstruktur — det tredimensjonale mønsteret atomene danner. Det gir flate flater og skarpe kanter, ikke kuleform.\nEt uregelmessig, avrundet korn er ikke en krystall, men et mineralkorn."
  },
  {
   "id": "24d8be1163",
   "art": "kapitteloppgave",
   "q": "Fargen på et mineral er alltid lik strekfargen for mineralet.",
-  "f": ""
+  "f": "Fleip.\nStrekfargen — fargen på pulveret når mineralet strykes mot en uglasert porselensplate — kan være helt annerledes enn mineralets egen farge.\nHematitt er et godt eksempel: den kan være stålgrå, men strekfargen er alltid rødbrun. Det er nettopp derfor strekfarge er en så nyttig bestemmelsesegenskap — den er pålitelig når fargen ikke er det."
  },
  {
   "id": "968ba072cc",
   "art": "kapitteloppgave",
   "q": "Magma er et annet ord for lava.",
-  "f": ""
+  "f": "Fleip.\nMagma er steinsmelte under jordoverflaten, lava er steinsmelte på jordoverflaten. Det er samme stoff, men navnet skifter når det passerer overflaten."
  },
  {
   "id": "3590495d97",
   "art": "kapitteloppgave",
   "q": "Alle bergarter gjennomfører hele det geologiske kretsløpet.",
-  "f": ""
+  "f": "Fleip.\nDet finnes snarveier — de blå pilene i figur 6.2. En magmatisk bergart kan forvitre direkte til løsmasser og bli sedimentær, en sedimentær bergart kan smelte direkte, og en metamorf kan forvitre uten å smelte."
  },
  {
   "id": "e4e23fc9d7",
   "art": "kapitteloppgave",
   "q": "Mafisk magma holder høyere temperatur enn felsisk magma.",
-  "f": ""
+  "f": "Fakta.\nMafiske mineraler har høyere smeltepunkt enn felsiske. Derfor holder et mafisk magma høy temperatur — 900–1200 °C langs midthavsryggene."
  },
  {
   "id": "59b30e26b5",
   "art": "kapitteloppgave",
   "q": "Magmaet som dannes i en hotspot, er et mafisk magma.",
-  "f": ""
+  "f": "Fakta.\nMagmaet i en hotspot dannes ved at mantelbergarter smelter, og er derfor mafisk — samme type som under spredningsakser. Det gir gabbro på dypet og basalt på overflaten."
  },
  {
   "id": "88eb5a05cd",
   "art": "kapitteloppgave",
   "q": "Delvis krystallisasjon kan skje i forbindelse med både smelting og størkning.",
-  "f": ""
+  "f": "Fleip — eller i beste fall upresist.\nDelvis krystallisasjon skjer under størkning, når magmaet kjølner og noen mineraler krystalliserer før andre.\nDet motsvarende under smelting heter delvis oppsmelting. De to prosessene speiler hverandre, men det er to forskjellige begreper."
  },
  {
   "id": "1d1fb97f2a",
   "art": "kapitteloppgave",
   "q": "Sedimenter er det samme som løsmasser.",
-  "f": ""
+  "f": "Delvis fakta.\nLøsmasser som leire, sand og grus er sedimenter — klastiske sedimenter.\nMen sedimentbegrepet er videre: det omfatter også kjemiske sedimenter som salt og kalk, biokjemiske som skjell og kalkskall, og organiske som torv og kull. Alle sedimenter er ikke løsmasser."
  },
  {
   "id": "839561278f",
   "art": "kapitteloppgave",
   "q": "Kjemisk og mekanisk forvitring kan ikke foregå samtidig.",
-  "f": ""
+  "f": "Fleip.\nDe foregår tvert imot ofte samtidig, og forsterker hverandre. Frostsprengning sprekker opp berget og gir vannet flere flater å angripe kjemisk. Kjemisk forvitring svekker bindingene og gjør berget lettere å sprenge opp mekanisk."
  },
  {
   "id": "d687027b21",
   "art": "kapitteloppgave",
   "q": "Metamorfe bergarter blir til ved diagenese.",
-  "f": ""
+  "f": "Fleip.\nDiagenese er herdingen av løsmasser til sedimentær bergart. Metamorfe bergarter dannes ved metamorfose — omdanning ved høyt trykk og høy temperatur, uten at bergarten smelter."
  },
  {
   "id": "2982fd5dfb",
   "art": "kapitteloppgave",
   "q": "Den relative alderen på bergarter oppgis i millioner år.",
-  "f": ""
+  "f": "Fleip.\nRelativ alder sier bare om en bergart er eldre eller yngre enn en annen, og i hvilken rekkefølge ting skjedde. Alder i antall år er absolutt alder, og bestemmes med radioaktive isotoper."
  },
  {
   "id": "bce393db25",
   "art": "kapitteloppgave",
   "q": "Fossiler brukes til å bestemme den absolutte alderen for en bergart.",
-  "f": ""
+  "f": "Fleip.\nFossiler brukes til å bestemme relativ alder — rekkefølgen, og hvilken geologisk periode bergarten tilhører. Ledefossiler er særlig nyttige til dette.\nAbsolutt alder i antall år krever måling av radioaktive isotoper."
  },
  {
   "id": "1eb96af212",
   "art": "kapitteloppgave",
   "q": "Handler det om magmatiske, sedimentære eller metamorfe bergarter?",
-  "f": ""
+  "f": "Dette er overskriften på en sorteringsoppgave. Bruk disse kjennetegnene:\nMagmatiske: størknet fra magma eller lava, «prikkete» struktur uten retning. Dypbergarter er grovkornede, dagbergarter finkornede.\nSedimentære: dannet av avsatte løsmasser, «lag på lag», kan inneholde fossiler.\nMetamorfe: omdannet fra bergarter i de to andre gruppene ved trykk og varme, «stripete» struktur."
  },
  {
   "id": "c69c6aba14",
   "art": "kapitteloppgave",
   "q": "Bergarten er dannet ved størkning av magma.",
-  "f": ""
+  "f": "Magmatiske bergarter."
  },
  {
   "id": "bbbe2ee29d",
   "art": "kapitteloppgave",
   "q": "Bergartene er dannet fra bergarter i de to andre hovedgruppene.",
-  "f": ""
+  "f": "Metamorfe bergarter.\nDe er omdannet fra magmatiske eller sedimentære bergarter ved høyt trykk og høy temperatur — uten at bergarten har smeltet."
  },
  {
   "id": "8daacb5f97",
   "art": "kapitteloppgave",
   "q": "Bergarten er dannet fra løsmasser.",
-  "f": ""
+  "f": "Sedimentære bergarter.\nLøsmassene avsettes, begraves og herdes ved diagenese."
  },
  {
   "id": "aea6a7d9aa",
   "art": "kapitteloppgave",
   "q": "Bergarten er dannet i løpet av dager.",
-  "f": ""
+  "f": "Magmatiske bergarter — nærmere bestemt dagbergarter.\nDe størkner på jordoverflaten i løpet av dager, og blir derfor finkornede. Gangbergarter bruker uker, dypbergarter måneder eller år."
  },
  {
   "id": "1c54663b1e",
   "art": "kapitteloppgave",
   "q": "Bergarten er dannet nede i jordskorpa.",
-  "f": ""
+  "f": "Magmatiske bergarter — dyp- og gangbergarter.\nMen også metamorfe bergarter dannes nede i jordskorpa, ved regionalmetamorfose 10–30 km under overflaten. Begge svar kan forsvares, og begrunnelsen er det viktigste."
  },
  {
   "id": "0af684206b",
   "art": "kapitteloppgave",
   "q": "Bergarten dannes langs aktive plategrenser.",
-  "f": ""
+  "f": "Magmatiske og metamorfe bergarter.\nMagmatiske dannes langs spredningsakser og i kollisjonssoner — det er bare der (og i hotspoter) det dannes magma i større mengder.\nMetamorfe dannes først og fremst ved regionalmetamorfose i kollisjonssoner.\nSedimentære bergarter dannes derimot helst der det er rolig — i stabile sedimentasjonsbasseng langs passive kontinentkyster."
  },
  {
   "id": "23670a5557",
   "art": "kapitteloppgave",
   "q": "Bergarten dannes på havbunnen.",
-  "f": ""
+  "f": "Sedimentære bergarter først og fremst — løsmasser, kalk, salt og skjell avsettes på havbunnen.\nMen også magmatiske: langs midthavsryggene strømmer lava ut på havbunnen og størkner til basalt.\nDette er en påstand der begge svar kan forsvares, og begrunnelsen avgjør."
  },
  {
   "id": "094b0ff38e",
   "art": "kapitteloppgave",
   "q": "Bergarten inneholder fossiler.",
-  "f": ""
+  "f": "Sedimentære bergarter.\nFossiler bevares når organismer begraves raskt i sedimenter. I magmatiske og metamorfe bergarter ødelegges de av varme og trykk."
  },
  {
   "id": "8b8898a6d3",
   "art": "kapitteloppgave",
   "q": "Bergartene i nærmiljøet (mini-feltarbeid)",
-  "f": ""
+  "f": "Dette er en feltoppgave i nærmiljøet — se etter prydstein og bygningsstein i gater, på bygg, i trapper og på gravsteiner."
  },
  {
   "id": "4a7d033282",
   "art": "kapitteloppgave",
   "q": "Hvilke bergarter er brukt som prydstein og/eller bygningsstein i dine nære omgivelser?",
-  "f": ""
+  "f": "Dette avhenger av hvor du bor, men noen bergarter går igjen over hele landet:\nLarvikitt — Norges nasjonalstein, mørk med blått fargespill, svært vanlig som fasadestein.\nGranitt — lys og spraglet, brukt i trapper, kantstein og fasader.\nSkifer — i heller, gangveier og på tak.\nMarmor — lys og polert, i innganger og interiør.\nGabbro og andre mørke dypbergarter — ofte på gravsteiner.\nSe etter kornstørrelse og struktur: er den «prikkete» (magmatisk), «lag på lag» (sedimentær) eller «stripete» (metamorf)?"
  },
  {
   "id": "e03b6e9cb0",
   "art": "kapitteloppgave",
   "q": "Hvor kommer bergartene fra?",
-  "f": ""
+  "f": "Mange av dem er norske, og opprinnelsen følger geologien.\nLarvikitt kommer fra Larvik-området i Oslofeltet. Skifer kommer fra Oppdal, Alta, Otta eller Jondalen. Marmor kommer fra kaledonske områder, blant annet i Nordland. Granitt brytes flere steder i grunnfjellsområdene, blant annet på Helgelandskysten og i Østfold.\nMen mye er også importert — kinesisk og indisk granitt er vanlig i moderne bygg, og italiensk marmor i eldre.\nSteinleverandøren eller byggets dokumentasjon kan ofte fortelle hvor steinen kommer fra."
  },
  {
   "id": "31edbc3c01",
   "art": "kapitteloppgave",
   "q": "Hvilken bergartsgruppe tilhører de ulike bergartene?",
-  "f": ""
+  "f": "Sorter etter struktur:\nMagmatiske («prikkete»): larvikitt, granitt, gabbro, nordmarkitt.\nMetamorfe («stripete»): marmor, gneis, glimmerskifer, kvartsitt-skifer.\nSedimentære («lag på lag»): kalkstein, sandstein, enkelte skifertyper.\nLegg merke til at magmatiske og metamorfe bergarter dominerer som natursteinn — de er harde og motstandsdyktige."
  },
  {
   "id": "a61d669245",
   "art": "kapitteloppgave",
   "q": "Kan du finne ut hvorfor de er brukt – hvilke egenskaper er viktige?",
-  "f": ""
+  "f": "Fire egenskaper avgjør:\nHardhet og slitestyrke — steinen må tåle trafikk og vær. Kvartsskifer regnes som særlig egnet der det er mye trafikk.\nSpaltbarhet — skifer brukes til heller og tak nettopp fordi den lar seg spalte i tynne flak.\nUtseende — larvikitt brukes som dekorstein på grunn av det blå fargespillet i feltspatkrystallene.\nTilgjengelighet og pris — at steinen kan tas ut i store, sprekkfrie blokker i nærheten, betyr mye, siden transport av stein er dyrt.\nNorsk blokkstein har god kvalitet fordi innlandsisen høvlet bort det øverste laget med sprekker og forvitret fjell."
  },
  {
   "id": "cf053b6feb",
   "art": "kapitteloppgave",
   "q": "Gjør en liten ekskursjon til et steinsliperi dersom et slikt finnes i nærheten. Hvilke bergarter inngår i produksjonen? Hva produseres?",
-  "f": ""
+  "f": "Dette er en ekskursjonsoppgave uten fasit.\nSe etter hvilke bergarter som bearbeides, hvor de kommer fra, og hva som produseres — benkeplater, gravsteiner, heller, smykkestein.\nSpør gjerne om hvorfor akkurat disse bergartene brukes, hvor stor andel som blir skrotstein, og hva skrotsteinen brukes til. Det knytter direkte an til stoffet om naturstein i kapittel 9."
  },
  {
   "id": "531e74d5f7",
   "art": "kapitteloppgave",
   "q": "Alle fylkene i Norge har valgt ut en stein som er særlig karakteristisk for området eller har særlig økonomisk, vitenskapelig, estetisk eller kulturhistorisk verdi der. Søk på «fylkesstein» på Naturhistorisk museum sine nettsider ([www.nhm.uio.no](https://www.nhm.uio.no)).",
-  "f": ""
+  "f": "Fylkessteinene er valgt fordi de er karakteristiske for området, eller har særlig økonomisk, vitenskapelig, estetisk eller kulturhistorisk verdi.\nNoen kjente eksempler: larvikitt for Vestfold, rombeporfyr for Oslo, olivin for Møre og Romsdal, og ulike skifertyper og marmor i nord.\nBruk Naturhistorisk museums nettsider for den oppdaterte listen — fylkesinndelingen har endret seg."
  },
  {
   "id": "4c274ac996",
   "art": "kapitteloppgave",
   "q": "Du kan også søke med «fylkesstein» på nettet.",
-  "f": ""
+  "f": "Søket gir treff både hos Naturhistorisk museum og hos NGU. Husk at fylkesinndelingen er endret siden steinene ble valgt, så noen fylker er slått sammen eller delt."
  },
  {
   "id": "8bbd290d67",
   "art": "kapitteloppgave",
   "q": "Klikk deg inn på fylkene og lag en liste over hvilke bergarter som er fylkessteiner.",
-  "f": ""
+  "f": "Lag listen med tre kolonner: fylke, bergart og hovedgruppe (magmatisk, sedimentær eller metamorf).\nDa ser du sammenhengen med geologien: fylker i Oslofeltet har magmatiske bergarter fra perm, fylker i den kaledonske foldesonen har metamorfe bergarter som marmor og skifer, og grunnfjellsområdene har gneis og granitt."
  },
  {
   "id": "47939fb38f",
   "art": "kapitteloppgave",
   "q": "Hvordan fordeler fylkessteinene seg på de tre hovedgruppene av bergarter?",
-  "f": ""
+  "f": "Magmatiske og metamorfe bergarter dominerer klart, mens sedimentære er i klart mindretall.\nDet er ingen tilfeldighet: to tredeler av den norske landoverflaten er grunnfjell, altså i hovedsak metamorfe og magmatiske bergarter. I tillegg kommer de kaledonske bergartene langs vestkysten og de permiske i Oslofeltet.\nDe sedimentære bergartene på fastlandet er dessuten stort sett omdannet i den kaledonske fjellkjedefoldningen — så selv der utgangspunktet var sedimentært, er resultatet metamorft."
  },
  {
   "id": "9efd9bc116",
   "art": "kapitteloppgave",
   "q": "Studer fylkessteinen fra ditt hjemfylke litt mer inngående, og forbered deg på å presentere hva nettstedet forteller om denne steinen.",
-  "f": ""
+  "f": "Dette avhenger av hvilket fylke du bor i. Få med disse punktene i presentasjonen:\nHva slags bergart er det, og hvilken hovedgruppe tilhører den?\nHvilke mineraler består den av, og hvordan ser den ut?\nNår og hvordan ble den dannet — hvilken geologisk periode, og i hvilken prosess?\nHvor i fylket finnes den, og brytes den kommersielt?\nHvorfor er akkurat den valgt — økonomisk betydning, utseende, eller kulturhistorie?"
  },
  {
   "id": "8253b7ec7d",
   "art": "kapitteloppgave",
   "q": "Du har fått utdelt seks–åtte ulike bergarter. Bruk bøker og Internett for å bestemme hvilke bergarter det er.",
-  "f": ""
+  "f": "Framgangsmåten er den samme uansett hvilke bergarter du får:\n1. Bestem hovedgruppen på strukturen: «prikkete» (magmatisk), «lag på lag» (sedimentær) eller «stripete» (metamorf).\n2. Se på kornstørrelsen. I magmatiske bergarter betyr grove korn dypbergart (lang størkningstid), fine korn dagbergart.\n3. Se på fargen. Lyse mineraler betyr felsisk (granitt), mørke betyr mafisk (gabbro, basalt).\n4. Kjenn på vekten — mafiske bergarter er merkbart tyngre.\n5. Identifiser mineralene ved hjelp av hardhet, glans, farge, strekfarge og spalteretninger (se figur 6.3).\n6. Sjekk mot Digitalt steinatlas eller «Welcome to webgeology».\nNoter observasjonene dine for hver prøve før du slår opp — det er da du lærer."
  },
  {
   "id": "a7856ab6c0",
   "art": "kapitteloppgave",
   "q": "Nettsteder:",
-  "f": ""
+  "f": "De nyttigste er Digitalt steinatlas på naturfag.no og «Welcome to webgeology» ved Norsk Bergverksmuseum (nbvm.no).\nAv bøker: Torgeir T. Garmo, «Norsk steinbok» (Universitetsforlaget), og Walther Schumann, «Norsk steinhåndbok» (Aschehoug)."
  },
  {
   "id": "a095974a71",
   "art": "kapitteloppgave",
   "q": "Søk med «Steinsamling på nettet»",
-  "f": ""
+  "f": "«Steinsamling på nettet» gir treff på bildebaserte samlinger der du kan sammenligne prøven din med fotografier av kjente bergarter.\nDet er en god måte å kontrollere en bestemmelse på — men ta alltid observasjonene dine først, og slå opp etterpå."
  },
  {
   "id": "3d8b3784c6",
   "art": "kapitteloppgave",
   "q": "«Welcome to webgeology» (Kåre Kullerud/Norsk)",
-  "f": ""
+  "f": "«Welcome to webgeology» er laget av Kåre Kullerud ved Norsk Bergverksmuseum. Der finner du gjennomganger av mineraler, bergarter og geologiske prosesser, med bilder og forklaringer."
  },
  {
   "id": "df4e6de638",
   "art": "kapitteloppgave",
   "q": "Se på bildene av ulike bergarter i læreboka og bruk det geologiske norgeskartet i figur 6.24. Prøv å plassere hver av bergartene på riktig sted på kartet. Hva slags bergarter skal det være der ifølge kartet? Stemmer det med bildet?",
-  "f": ""
+  "f": "Framgangsmåten er å koble bilde og kart:\nEr bergarten en gneis eller granitt, hører den til grunnfjellet — Finnmark, det sørnorske eller det sørøstnorske grunnfjellsområdet.\nEr det leirskifer, kalkstein eller sandstein som ikke er omdannet, hører den til kambrosilur — beltet fra Rogaland til Finnmark, eller Oslofeltet.\nEr det marmor, glimmerskifer, fyllitt eller eklogitt, hører den til den kaledonske foldesonen langs vestkysten.\nEr det larvikitt, rombeporfyr eller basalt, hører den til Oslofeltet, mellom Langesund og Brumunddal.\nEr det sparagmitt, hører den til skyvedekkene nord for Mjøsa eller i Finnmark.\nPoenget med oppgaven er nettopp å oppdage at bergarten forteller hvor i landet du er — og at kartet kan forutsi hva du vil finne."
  },
  {
   "id": "558e5065f2",
@@ -783,6 +783,6 @@
   "id": "ea38dbc3d8",
   "art": "kapitteloppgave",
   "q": "6.24 Geologisk kart over Norge. Kaledonske bergarter er dannet i forbindelse med den kaledonske fjellkjedefoldningen. Skyvedekker er store flak av bergarter som ble forskjøvet i kollisjonen mellom platene Baltika og Laurentia. (Kilde: NGU)",
-  "f": ""
+  "f": "Figur 6.24 er det geologiske kartet over Norge fra NGU. Fargene viser hovedgruppene: grunnfjell fra prekambrium, kambrosiluriske bergarter, kaledonske bergarter og skyvedekker, og de permiske bergartene i Oslofeltet.\nKaledonske bergarter er dannet eller omdannet i den kaledonske fjellkjedefoldningen. Skyvedekker er store flak av bergarter som ble forskjøvet i kollisjonen mellom Baltika og Laurentia — noen steder mer enn 300 km mot sørøst."
  }
 ]
