@@ -228,10 +228,18 @@
   }
 
   /* ---------- quiz ---------- */
-  var qData = window.GEOFAG_QUIZ;
-  var qRot = $('#quizRot');
-  if (qRot && qData && qData.length) {
-    var qNr = 0, qPoeng = 0, qRekke = [];
+  // Quizen bygges opp pa nytt hver gang et kapittel vises. I enkeltfil-
+  // versjonen ligger dataene for alle kapitlene i ett oppslag; ellers er de
+  // lagt inn som window.GEOFAG_QUIZ pa den enkelte kapittelsida.
+  function startQuiz() {
+    var qRot = $('#quizRot');
+    if (!qRot) return;
+    var kap = rotKap();
+    var qData = window.GEOFAG_QUIZ_ALLE
+      ? window.GEOFAG_QUIZ_ALLE[kap ? kap.dataset.kap : '']
+      : window.GEOFAG_QUIZ;
+    if (!qData || !qData.length) return;
+    var qNr = 0, qPoeng = 0, qSvart = 0, qRekke = [];
 
     function stokk() {
       qRekke = qData.map(function (_, i) { return i; });
@@ -281,6 +289,7 @@
         if (i === q.rett) kn.classList.add('rett');
         else if (i === valgt) kn.classList.add('feil');
       });
+      qSvart++;
       if (valgt === q.rett) qPoeng++;
 
       var svarBoks = document.createElement('div');
@@ -301,6 +310,10 @@
 
     function tegnResultat() {
       var andel = Math.round((qPoeng / qRekke.length) * 100);
+      var bestNokkel = 'geofag:quiz:' + sideNokkel();
+      var forrigeBeste = lager.get(bestNokkel, null);
+      var nyRekord = forrigeBeste === null || qPoeng > forrigeBeste;
+      if (nyRekord) lager.set(bestNokkel, qPoeng);
       var dom = ['Her er det mer å hente — les kapitlet en gang til.',
                  'Godt i gang. Gå tilbake til delene du bommet på.',
                  'Solid. Du sitter med det meste.',
@@ -317,15 +330,26 @@
       kn.type = 'button';
       kn.className = 'knapp knapp--primar';
       kn.textContent = 'Ta quizen på nytt';
-      kn.addEventListener('click', function () { qNr = 0; qPoeng = 0; stokk(); tegnQuiz(); });
-      kort.appendChild(h); kort.appendChild(p); kort.appendChild(kn);
+      kn.addEventListener('click', function () { qNr = 0; qPoeng = 0; qSvart = 0; stokk(); tegnQuiz(); });
+      kort.appendChild(h); kort.appendChild(p);
+      if (forrigeBeste !== null) {
+        var best = document.createElement('p');
+        best.className = 'quiz-best';
+        best.textContent = nyRekord
+          ? 'Ny rekord! Forrige beste var ' + forrigeBeste + ' av ' + qRekke.length + '.'
+          : 'Ditt beste resultat er ' + forrigeBeste + ' av ' + qRekke.length + '.';
+        kort.appendChild(best);
+      }
+      kort.appendChild(kn);
       qRot.appendChild(kort);
       oppdaterPoeng();
     }
 
     function oppdaterPoeng() {
       var el = $('#quizPoeng');
-      if (el) el.textContent = qPoeng + ' av ' + Math.min(qNr, qRekke.length) + ' riktige så langt';
+      if (!el) return;
+      // qNr sier hvilket sporsmal som vises, qSvart hvor mange som er besvart.
+      el.textContent = qSvart ? qPoeng + ' av ' + qSvart + ' riktige så langt' : '';
     }
 
     stokk();
@@ -341,6 +365,7 @@
 
   if (!kapitler.length) {
     startFane();
+    startQuiz();
   } else {
     var kapmenyer = $$('[data-kapmeny]');
     var merke = $('#merkeUnder');
@@ -369,6 +394,7 @@
       document.body.dataset.side = id;
 
       startFane();
+      startQuiz();
       lukkMeny();
       if (skrivHistorikk && history.replaceState) {
         history.replaceState(null, '', '#' + id);

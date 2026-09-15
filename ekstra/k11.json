@@ -1,1 +1,176 @@
-{ "intro": ["25132c3403"], "grupper": [] }
+{
+  "intro": [
+    "25132c3403"
+  ],
+  "grupper": [],
+  "quiz": [
+    {
+      "k": "Petroleum",
+      "q": "Hva er petroleum?",
+      "alt": [
+        "Samlebetegnelsen for råolje og naturgass — en blanding av hydrokarboner",
+        "Bare råolje",
+        "Bare naturgass",
+        "Alt organisk materiale i berggrunnen"
+      ],
+      "rett": 0,
+      "f": "Petroleum er råolje og naturgass under ett, og består av mange forskjellige hydrokarboner. Det finnes naturlig i feller under havbunnen."
+    },
+    {
+      "k": "Modning",
+      "q": "Hva kalles prosessen som omdanner organisk materiale til petroleum?",
+      "alt": [
+        "Modning",
+        "Migrasjon",
+        "Metamorfose",
+        "Diagenese"
+      ],
+      "rett": 0,
+      "f": "Modning skjer når kildebergarten presses ned på dyp med høyt trykk og temperatur. Olje- og gassvinduene er temperaturintervallene der henholdsvis olje og gass dannes."
+    },
+    {
+      "k": "Migrasjon",
+      "q": "Hva menes med migrasjon?",
+      "alt": [
+        "Forflytningen av petroleum opp gjennom sprekker i jordskorpa",
+        "At kildebergarten synker ned",
+        "At oljen omdannes til gass",
+        "At plattformene flyttes til nye felt"
+      ],
+      "rett": 0,
+      "f": "Petroleum er lettere enn vannet i porene rundt og stiger oppover, helt til den stanses av en tett takbergart. Da har den nådd en felle."
+    },
+    {
+      "k": "Feller",
+      "q": "Hvilke er de vanligste olje- og gassfellene?",
+      "alt": [
+        "Forkastningsfeller, foldefeller og saltdomer",
+        "Kratere, forkastninger og grotter",
+        "Riftdaler, sprekker og skred",
+        "Sandbanker, rev og laguner"
+      ],
+      "rett": 0,
+      "f": "Alle tre virker på samme måte: de skaper en lomme der tett bergart hindrer petroleumen i å stige videre. Saltdomene i Nordsjøen stammer fra saltlagene som ble avsatt i perm."
+    },
+    {
+      "k": "Reservoar",
+      "q": "Hvorfor er sandstein en god reservoarbergart?",
+      "alt": [
+        "Den har stor porøsitet og høy permeabilitet",
+        "Den er svært tett",
+        "Den inneholder mye organisk materiale",
+        "Den er den eldste bergarten på sokkelen"
+      ],
+      "rett": 0,
+      "f": "Porøsitet er hvor mye hulrom bergarten har — altså plass til petroleum. Permeabilitet er hvor lett væsken strømmer gjennom. Sandstein har mye av begge."
+    },
+    {
+      "k": "Takbergart",
+      "q": "Hvorfor egner leirskifer seg som takbergart?",
+      "alt": [
+        "Den har ofte lav permeabilitet",
+        "Den har svært høy porøsitet",
+        "Den er magmatisk",
+        "Den er tyngre enn sandstein"
+      ],
+      "rett": 0,
+      "f": "Lav permeabilitet betyr at væske knapt strømmer gjennom. Dermed danner leirskiferen et tett lokk som holder petroleumen fanget i reservoaret under."
+    },
+    {
+      "k": "Leting",
+      "q": "Hvilke geofysiske metoder brukes for å lete etter petroleum?",
+      "alt": [
+        "Seismikk, gravimetri og magnetometri",
+        "Karbon-14-datering og seismografi",
+        "Satellittfoto og ekkolodd alene",
+        "Kjerneboring på land"
+      ],
+      "rett": 0,
+      "f": "Metodene måler hvordan lydbølger, tyngdefelt og magnetfelt varierer, og gir et bilde av lagene under havbunnen. Først når de ser lovende ut, gjøres en kostbar leteboring."
+    },
+    {
+      "k": "Trykk",
+      "q": "Hva menes med naturlig vanndriv i et reservoar?",
+      "alt": [
+        "Vann strømmer til fra sidene og opprettholder trykket i reservoaret",
+        "Vann pumpes ned fra plattformen",
+        "Regnvann siger ned i reservoaret",
+        "Havvann lekker inn gjennom takbergarten"
+      ],
+      "rett": 0,
+      "f": "I en tidlig fase «produserer brønnen seg selv» på grunn av høyt trykk. Vann som strømmer til fra sidene, holder trykket oppe etter hvert som olje tappes ut."
+    },
+    {
+      "k": "Utvinningsgrad",
+      "q": "Hvordan kan utvinningsgraden på et felt økes?",
+      "alt": [
+        "Ved å pumpe gass eller vann ned i reservoaret for å opprettholde trykket",
+        "Ved å bore flere hull i takbergarten",
+        "Ved å varme opp kildebergarten",
+        "Ved å senke plattformen"
+      ],
+      "rett": 0,
+      "f": "Uten trykk blir mye av oljen liggende igjen. Ved å injisere vann eller gass holdes trykket oppe, og en større andel av oljen kan hentes ut."
+    },
+    {
+      "k": "Historie",
+      "q": "Når startet oljeutvinningen på norsk sokkel, og hvor?",
+      "alt": [
+        "I 1971, på Ekofiskfeltet i Nordsjøen",
+        "I 1962, på Trollfeltet",
+        "I 1980, i Barentshavet",
+        "I 1990, på Statfjord"
+      ],
+      "rett": 0,
+      "f": "Den første oljen ble pumpet opp fra Ekofisk i 1971. I dag er det produksjon i alle tre sokkelprovinsene — Nordsjøen, Norskehavet og Barentshavet."
+    },
+    {
+      "k": "Norge i verden",
+      "q": "Hvor stor petroleumsprodusent var Norge i 2020?",
+      "alt": [
+        "Blant de sju største gassprodusentene og de tretten største oljeprodusentene",
+        "Verdens største oljeprodusent",
+        "Blant de tre største oljeprodusentene",
+        "Utenfor topp femti på begge"
+      ],
+      "rett": 0,
+      "f": "Norge er en betydelig aktør, særlig på gass, men en liten oljeprodusent i verdenssammenheng sammenliknet med land som Saudi-Arabia, USA og Russland."
+    },
+    {
+      "k": "Økonomi",
+      "q": "Hvor stor del av Norges eksportinntekter kom fra petroleum i 2020?",
+      "alt": [
+        "Omtrent en tredel",
+        "Omtrent 5 prosent",
+        "Omtrent 80 prosent",
+        "Omtrent halvparten"
+      ],
+      "rett": 0,
+      "f": "Om lag en tredel av de samlede eksportinntektene. En stor del plasseres i Statens pensjonsfond utland, Oljefondet."
+    },
+    {
+      "k": "Gjenværende ressurser",
+      "q": "Hvor mye uoppdaget petroleum regner man med finnes på norsk sokkel?",
+      "alt": [
+        "Omtrent like mye som det som hittil er produsert",
+        "Omtrent ti ganger så mye som produsert",
+        "Praktisk talt ingenting",
+        "Bare gass, ingen olje"
+      ],
+      "rett": 0,
+      "f": "Anslaget er at det gjenstår omtrent like mye uoppdaget som det som allerede er hentet opp — men det er anslag, ikke påviste reserver."
+    },
+    {
+      "k": "Bærekraft",
+      "q": "Hvor stor andel av verdens energiforbruk kommer fra olje og gass?",
+      "alt": [
+        "Omtrent 50 prosent",
+        "Omtrent 10 prosent",
+        "Omtrent 90 prosent",
+        "Omtrent 25 prosent"
+      ],
+      "rett": 0,
+      "f": "Rundt halvparten. Olje og gass er, sammen med kull, ikke-fornybare ressurser som en dag tar slutt, og dagens energibruk er ikke bærekraftig."
+    }
+  ]
+}

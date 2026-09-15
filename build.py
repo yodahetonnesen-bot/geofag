@@ -866,6 +866,17 @@ def bygg_enkeltfil(alle: list[dict]) -> str:
     if "</style" in css or "</script" in js:
         raise SystemExit("css eller js inneholder en tagg som ville brutt dokumentet")
 
+    # Kapittelsidene far quizdataene sine hver for seg. I enkeltfila ma alle
+    # ligge i ett oppslag, slik at riktig sett kan hentes ved kapittelbytte.
+    quiz_alle = {
+        f"k{k['nr']:02d}": k["quiz"] for k in alle if k.get("quiz")
+    }
+    data_js = (
+        "<script>window.GEOFAG_QUIZ_ALLE="
+        + json.dumps(quiz_alle, ensure_ascii=False)
+        + ";</script>\n"
+    )
+
     side = side.replace('<a href="index.html">', '<a href="#k00">')
     side = side.replace(
         '<link rel="stylesheet" href="assets/geofag.css">',
@@ -873,7 +884,7 @@ def bygg_enkeltfil(alle: list[dict]) -> str:
     )
     side = side.replace(
         '<script src="assets/geofag.js"></script>',
-        "<script>\n" + js + "</script>",
+        data_js + "<script>\n" + js + "</script>",
     )
     return side
 

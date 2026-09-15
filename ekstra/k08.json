@@ -1,1 +1,179 @@
-{ "intro": ["252c162364", "c1def5f9ab", "bc48bc29b1", "21a6a46161"], "grupper": [] }
+{
+  "intro": [
+    "252c162364",
+    "c1def5f9ab",
+    "bc48bc29b1",
+    "21a6a46161"
+  ],
+  "grupper": [],
+  "quiz": [
+    {
+      "k": "Tidsrommet",
+      "q": "Omtrent hvor lang er jordas geologiske historie?",
+      "alt": [
+        "Mer enn 4,5 milliarder år",
+        "Omtrent 540 millioner år",
+        "Omtrent 2,6 millioner år",
+        "Omtrent 100 millioner år"
+      ],
+      "rett": 0,
+      "f": "Jorda er over 4,5 milliarder år gammel. Historien deles inn i hovedperioder og perioder, der prekambrium alene dekker nesten 90 prosent av tiden."
+    },
+    {
+      "k": "Prekambrium",
+      "q": "Når sluttet prekambrium?",
+      "alt": [
+        "For 540 millioner år siden",
+        "For 2,6 millioner år siden",
+        "For 4,5 milliarder år siden",
+        "For 65 millioner år siden"
+      ],
+      "rett": 0,
+      "f": "Prekambrium er den eldste tiden og varte til for 540 millioner år siden. Den inneholder flere hovedperioder."
+    },
+    {
+      "k": "Masseutryddelser",
+      "q": "Hvor mange masseutryddelser av arter har det vært etter prekambrium?",
+      "alt": [
+        "Fem",
+        "To",
+        "Tolv",
+        "Ingen"
+      ],
+      "rett": 0,
+      "f": "Fem store masseutryddelser. Den mest kjente er den ved slutten av krittiden, da dinosaurene forsvant — men den ved slutten av perm var den kraftigste."
+    },
+    {
+      "k": "Rodinia",
+      "q": "Hva var Rodinia?",
+      "alt": [
+        "Superkontinentet der alt land var samlet mot slutten av prekambrium",
+        "Havet mellom Laurentia og Baltika",
+        "Den kaledonske fjellkjeden",
+        "Et innlandsis-dekke over Baltika"
+      ],
+      "rett": 0,
+      "f": "Rodinia er et eldre superkontinent enn Pangea. Siden det ble dannet i prekambrium, besto det bare av grunnfjell."
+    },
+    {
+      "k": "Grunnfjell",
+      "q": "Hva menes med grunnfjell?",
+      "alt": [
+        "Bergarter som ble dannet i prekambrium",
+        "Bergarter som ligger dypest i dag",
+        "Bergarter dannet i den kaledonske fjellkjeden",
+        "All fast berggrunn under løsmassene"
+      ],
+      "rett": 0,
+      "f": "Grunnfjell er prekambriske bergarter. Store deler av den norske berggrunnen er grunnfjell, dannet ved platekollisjoner tidlig i jordas historie."
+    },
+    {
+      "k": "Peneplan",
+      "q": "Hva er et peneplan?",
+      "alt": [
+        "Et jevnt, bølgende sletteland nær havets overflate, slitt ned over lang tid",
+        "En bratt fjellside formet av isbreer",
+        "En undersjøisk slette på dyphavet",
+        "En forkastningssone"
+      ],
+      "rett": 0,
+      "f": "Mot slutten av prekambrium var Rodinia slitt helt ned til et slikt sletteland. Rester av dette gamle landskapet finnes fortsatt i Norge, som vidder og fjellplatåer."
+    },
+    {
+      "k": "Laurentia og Baltika",
+      "q": "Hvilket av disse kontinentene var Norge en del av?",
+      "alt": [
+        "Baltika",
+        "Laurentia",
+        "Gondwana",
+        "Rodinia, helt til i dag"
+      ],
+      "rett": 0,
+      "f": "Da Rodinia ble splittet i senprekambrium, drev flere mindre kontinenter fra hverandre. Norge lå på Baltika, mens Laurentia ble til Nord-Amerika og Grønland."
+    },
+    {
+      "k": "Iapetushavet",
+      "q": "Hva ble avsatt på bunnen av Iapetushavet gjennom kambrosilur?",
+      "alt": [
+        "Tykke lag av leire, sand og kalk",
+        "Basalt og gabbro",
+        "Morenemateriale",
+        "Vulkansk aske alene"
+      ],
+      "rett": 0,
+      "f": "Iapetushavet åpnet seg mellom Laurentia og Baltika. Gjennom hele kambrosilur ble det avsatt tykke lag av leire, sand og kalk på havbunnen."
+    },
+    {
+      "k": "Kambrosiluriske bergarter",
+      "q": "Hvilke bergarter ble avsetningene i Iapetushavet herdet til?",
+      "alt": [
+        "Leirskifre, sandsteiner og kalksteiner",
+        "Granitt, gabbro og basalt",
+        "Gneis og marmor utelukkende",
+        "Kvartsitt og amfibolitt"
+      ],
+      "rett": 0,
+      "f": "Leire ble til leirskifer, sand til sandstein og kalk til kalkstein. Disse kalles «kambrosiluriske bergarter» og finnes blant annet i Oslofeltet."
+    },
+    {
+      "k": "Den kaledonske fjellkjeden",
+      "q": "Når kolliderte Baltika og Laurentia og dannet den kaledonske fjellkjeden?",
+      "alt": [
+        "Midt i oldtiden, på slutten av silur",
+        "I perm",
+        "I krittiden",
+        "I prekambrium"
+      ],
+      "rett": 0,
+      "f": "Bevegelsen snudde for ca. 485 millioner år siden i ordovicium, og platene kolliderte på slutten av silur. Fjellkjeden strakte seg videre inn i det som i dag er Skottland og Øst-Grønland."
+    },
+    {
+      "k": "Kaledonske bergarter",
+      "q": "Hva skjedde med bergartene i kollisjonssonen mellom Baltika og Laurentia?",
+      "alt": [
+        "De ble omdannet, skjøvet og foldet",
+        "De smeltet fullstendig",
+        "De ble erodert bort uten spor",
+        "De ble avsatt på havbunnen"
+      ],
+      "rett": 0,
+      "f": "Bergarter som ble påvirket av foldningen, kalles kaledonske bergarter. Store flak ble skjøvet mange mil innover — det er slike skyvedekker vi finner i store deler av den norske fjellheimen."
+    },
+    {
+      "k": "Pangea",
+      "q": "Når var alt land igjen samlet i superkontinentet Pangea?",
+      "alt": [
+        "Tidlig i perm",
+        "I ordovicium",
+        "I krittiden",
+        "I prekambrium"
+      ],
+      "rett": 0,
+      "f": "Tidlig i perm var alt land samlet i Pangea, som strakte seg fra pol til pol. Det er det yngste superkontinentet."
+    },
+    {
+      "k": "Oslofeltet",
+      "q": "Hvordan ble Oslofeltet dannet?",
+      "alt": [
+        "Pangea sprakk opp, jordoverflaten sank inn mellom nordgående sprekker, og det fulgte intens vulkansk aktivitet",
+        "Ved at den kaledonske fjellkjeden ble foldet",
+        "Ved at en isbre gravde ut en dal",
+        "Ved at havet trengte inn over et peneplan"
+      ],
+      "rett": 0,
+      "f": "I løpet av perm sprakk Pangea opp. Mellom nordgående sprekker sank jordoverflaten inn — en riftdal — med kraftig vulkanisme."
+    },
+    {
+      "k": "Oslofeltet",
+      "q": "Hvilke bergarter preger Oslofeltet?",
+      "alt": [
+        "Et mangfold av magmatiske bergarter, men også bevarte kambrosiluriske sedimentære bergarter",
+        "Bare grunnfjell",
+        "Bare kalkstein",
+        "Bare kaledonske skyvedekker"
+      ],
+      "rett": 0,
+      "f": "Vulkanismen i perm ga et uvanlig mangfold av magmatiske bergarter. Samtidig er de eldre, kambrosiluriske sedimentbergartene bevart i store områder — nettopp fordi de sank ned i riften."
+    }
+  ]
+}

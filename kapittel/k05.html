@@ -38,6 +38,7 @@
         <button class="tab" data-tab="fagstoff" data-tittel="Fagstoff"><span class="tab__dot" aria-hidden="true">FS</span><span class="tab__txt">Fagstoff</span></button>
         <button class="tab" data-tab="oppgaver" data-tittel="Oppgaver og fasit"><span class="tab__dot" aria-hidden="true">OP</span><span class="tab__txt">Oppgaver og fasit</span></button>
         <button class="tab" data-tab="sammendrag" data-tittel="Sammendrag"><span class="tab__dot" aria-hidden="true">SM</span><span class="tab__txt">Sammendrag</span></button>
+        <button class="tab" data-tab="quiz" data-tittel="Quiz"><span class="tab__dot" aria-hidden="true">QZ</span><span class="tab__txt">Quiz</span></button>
       </div>
       <div class="navgroup">
         <span class="navgroup__label">Alle kapitler</span>
@@ -236,7 +237,10 @@
 <p>Det er ikke laget flashcards for dette kapitlet ennå.</p></section>
 <section class="panel" id="panel-quiz">
 <h2 style="margin-top:0">Quiz</h2>
-<p>Det er ikke laget quiz for dette kapitlet ennå.</p></section>
+<p class="lede">8 flervalgsspørsmål fra kapitlet, i tilfeldig rekkefølge. Du får en forklaring til hvert svar.</p>
+<p class="quiz-poeng" id="quizPoeng"></p>
+<div id="quizRot"></div>
+</section>
     </main>
     <button id="tilTopp" class="totop" aria-label="Til toppen av siden" title="Til toppen">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
@@ -249,6 +253,7 @@
     </footer>
   </div>
 </div>
+<script>window.GEOFAG_QUIZ=[{"k": "Årsaker", "q": "Hva kan utløse en tsunami?", "alt": ["Jordskjelv under havbunnen, vulkanutbrudd eller skred på havbunnen", "Bare jordskjelv under havbunnen", "Sterk vind over åpent hav", "Springflo og fullmåne"], "rett": 0, "f": "Felles for årsakene er at store vannmasser settes i bevegelse på kort tid — enten ved at havbunnen hever eller senker seg, eller ved at masser raser ut i vannet."}, {"k": "Varsling", "q": "Hvorfor lar tsunamier seg varsle, når jordskjelv ikke gjør det?", "alt": ["Jordskjelvbølger beveger seg mye raskere enn tsunamibølger", "Tsunamier kommer bare om dagen", "Satellitter ser bølgen lenge før den dannes", "Tsunamier gir alltid et kraftig forvarsel i været"], "rett": 0, "f": "Jordskjelvbølgene når målestasjonene lenge før tsunamibølgen når land. Registreres et større skjelv under havbunnen, kan det sendes ut tsunamivarsel mens bølgen ennå er underveis."}, {"k": "2004", "q": "Hva satte i gang tsunamien i Indiahavet i 2004?", "alt": ["Et jordskjelv der to litosfæreplater forskjøv seg i forhold til hverandre", "Et vulkanutbrudd på Krakatau", "Et fjellskred på Sumatra", "En syklon i Bengalbukta"], "rett": 0, "f": "Skjelvet utenfor Sumatra oppsto da to litosfæreplater forskjøv seg. Det samme gjaldt tsunamien i Japan i 2011."}, {"k": "2011", "q": "Hva forårsaket tsunamien i Japan i 2011?", "alt": ["Et jordskjelv etter at to litosfæreplater forskjøv seg", "Et undersjøisk vulkanutbrudd", "Et meteorittnedslag", "Kollaps av en demning"], "rett": 0, "f": "Som i 2004 var årsaken et megaskjelv i en subduksjonssone, der havbunnen ble forskjøvet og satte enorme vannmasser i bevegelse."}, {"k": "Varselet fra havet", "q": "Hva betyr det at havet plutselig trekker seg tilbake fra stranda?", "alt": ["En bølgedal kommer først, og bølgetoppen følger like etter", "At tsunamifaren er over", "At det er fjære sjø", "At bølgen har passert uten skade"], "rett": 0, "f": "Trekker vannet seg ut, er det bølgedalen som treffer først. Det er et varsel om at bølgetoppen kommer. Men varselet gis bare på den ene siden av bruddsonen — i 2004 opplevde Thailand det, mens Sri Lanka ikke gjorde det."}, {"k": "Bølgen på åpent hav", "q": "Hvorfor merkes ikke en tsunami av skip på åpent hav?", "alt": ["Bølgen er svært lang, men bare noen titalls centimeter høy på dypt vann", "Den beveger seg for sakte til å merkes", "Den går bare langs havbunnen", "Skip er for store til å påvirkes av bølger"], "rett": 0, "f": "På dypt vann er tsunamien lang og lav, og skip merker den knapt. Først når den når grunt vann, bremses den opp og bygger seg i høyden."}, {"k": "Norge", "q": "Hva er den vanligste årsaken til tsunamier i Norge?", "alt": ["Fjellskred som raser ut i fjorder eller innsjøer", "Jordskjelv under Nordsjøen", "Vulkanutbrudd på Jan Mayen", "Kraftige stormer"], "rett": 0, "f": "Norske tsunamier — flodbølger — utløses av skred. Tafjord i 1934 og Loen i 1905 og 1936 er de mest kjente, og Åknes i Storfjorden overvåkes i dag av samme grunn."}, {"k": "Fart", "q": "Hvor fort kan en tsunami bevege seg over dypt hav?", "alt": ["Opp mot farten til et passasjerfly, flere hundre km/t", "Omtrent 20 km/t", "Omtrent like fort som en vanlig bølge", "Over lydens hastighet"], "rett": 0, "f": "Over dypt hav kan en tsunami holde flere hundre kilometer i timen. Farten avhenger av havdypet — jo dypere vann, desto raskere bølge."}];</script>
 <script src="../assets/geofag.js"></script>
 </body>
 </html>

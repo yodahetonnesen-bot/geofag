@@ -1,4 +1,109 @@
 {
-  "intro": ["323e29a57d", "7add0c109b", "3abe5c1cb9", "6a8c4f2085", "c66c15a70c", "19861258a5"],
-  "grupper": []
+  "intro": [
+    "323e29a57d",
+    "7add0c109b",
+    "3abe5c1cb9",
+    "6a8c4f2085",
+    "c66c15a70c",
+    "19861258a5"
+  ],
+  "grupper": [],
+  "quiz": [
+    {
+      "k": "Eggakanten",
+      "q": "Hvor er det avsatt enorme mengder glasiale og glasifluviale avsetninger?",
+      "alt": [
+        "Langs eggakanten og øverst på kontinentalskråningen",
+        "Midt på dyphavsbunnen",
+        "Bare i norske daler",
+        "På toppen av fjellene"
+      ],
+      "rett": 0,
+      "f": "Isen og smeltevannet fraktet massene helt ut til kanten av kontinentalsokkelen og dumpet dem der. Slike avsetninger er ustabile — det er her Storeggaskredet gikk."
+    },
+    {
+      "k": "Drumlin",
+      "q": "Hva er en drumlin?",
+      "alt": [
+        "En ryggformet moreneavsetning avsatt av en bre i bevegelse",
+        "En grusås avsatt av smeltevann",
+        "En grop etter en smeltet isrest",
+        "En rygg avsatt foran brefronten"
+      ],
+      "rett": 0,
+      "f": "Drumliner ligger med lengderetningen i isens bevegelsesretning og forteller derfor hvilken vei isen gikk."
+    },
+    {
+      "k": "Esker",
+      "q": "Hva er en esker?",
+      "alt": [
+        "En grusås av glasifluviale avsetninger, avsatt av smeltevann i en tunnel under en dødis",
+        "En morenerygg foran breen",
+        "En elveslette i en dal",
+        "En forkastning i berggrunnen"
+      ],
+      "rett": 0,
+      "f": "Smeltevannet renner i tunneler under isen og fyller dem med sortert grus og sand. Når isen smelter bort, står avsetningen igjen som en slyngete ås."
+    },
+    {
+      "k": "Dødis",
+      "q": "Hva kjennetegner en dødis?",
+      "alt": [
+        "Den har ikke noe næringsområde og flytter ikke på seg",
+        "Den beveger seg raskere enn andre breer",
+        "Den er alltid polar",
+        "Den ligger under havet"
+      ],
+      "rett": 0,
+      "f": "Uten næringsområde får isen ikke påfyll. Den blir liggende i ro og smelter bort på stedet — og former derfor andre landformer enn en bre i bevegelse."
+    },
+    {
+      "k": "Randavsetninger",
+      "q": "Hva er randavsetninger?",
+      "alt": [
+        "Glasiale eller glasifluviale avsetninger avsatt foran breen",
+        "Avsetninger under breen",
+        "Avsetninger langs kysten",
+        "Avsetninger fra havet"
+      ],
+      "rett": 0,
+      "f": "De bygges opp ved brefronten. Raet på Østlandet er den mest kjente norske randavsetningen, dannet under et opphold i isavsmeltingen."
+    },
+    {
+      "k": "Dødisgroper",
+      "q": "Hvordan dannes dødisgroper?",
+      "alt": [
+        "Mindre isrester begravd i løsmassene smelter, og massene over synker ned",
+        "Ved at elver graver ut hull",
+        "Ved at breen presser ned underlaget",
+        "Ved at havet vasker ut løsmasser"
+      ],
+      "rett": 0,
+      "f": "Isbiter blir liggende igjen i de glasifluviale avsetningene. Når de smelter, oppstår en grop — som ofte blir en liten rund tjern eller myr."
+    },
+    {
+      "k": "Bredemte sjøer",
+      "q": "Hvorfor dannet det seg bredemte sjøer øverst i de største østnorske dalene?",
+      "alt": [
+        "Isskillet lå sør og øst for vannskillet, slik at isen sperret for vannet",
+        "Fordi dalene var for bratte til å drenere",
+        "Fordi havet steg inn i dalene",
+        "Fordi elvene frøs til"
+      ],
+      "rett": 0,
+      "f": "Vannet ville renne én vei, men isen lå i veien. Da samlet det seg opp i store sjøer langs iskanten, til det til slutt fant utløp et annet sted."
+    },
+    {
+      "k": "Sortering",
+      "q": "Hva er hovedforskjellen mellom morene og glasifluviale avsetninger?",
+      "alt": [
+        "Morene er usortert med kantete stein; glasifluviale avsetninger er sortert, lagdelt og med runde korn",
+        "Morene er lagdelt, glasifluviale avsetninger er ikke",
+        "Morene inneholder bare leire",
+        "Det er ingen forskjell"
+      ],
+      "rett": 0,
+      "f": "Isen frakter alt uten å sortere. Rennende vann kan bare frakte korn opp til en viss størrelse og runder dem av på veien. Derfor er sortering og rundingsgrad fasiten på hva som avsatte materialet."
+    }
+  ]
 }

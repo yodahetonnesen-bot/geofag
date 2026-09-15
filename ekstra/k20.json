@@ -1,1 +1,129 @@
-{ "intro": ["e18e97b1a9", "d07a0068f6"], "grupper": [] }
+{
+  "intro": [
+    "e18e97b1a9",
+    "d07a0068f6"
+  ],
+  "grupper": [],
+  "quiz": [
+    {
+      "k": "Skredtyper",
+      "q": "Hvilke er de vanligste skredtypene?",
+      "alt": [
+        "Fjellskred, steinskred, jordskred, kvikkleireskred og snøskred",
+        "Bare fjellskred og snøskred",
+        "Bare jordskred og kvikkleireskred",
+        "Flomskred og isskred"
+      ],
+      "rett": 0,
+      "f": "I tillegg forekommer skred på havbunnen — som Storeggaskredet, det største kjente undersjøiske skredet."
+    },
+    {
+      "k": "Steinsprang",
+      "q": "Hva kalles det når enkeltsteiner raser ut?",
+      "alt": [
+        "Steinsprang",
+        "Steinskred",
+        "Fjellskred",
+        "Jordskred"
+      ],
+      "rett": 0,
+      "f": "Steinsprang er enkeltsteiner. Steinskred er større mengder samtidig, og fjellskred er de aller største utrasingene fra en hel fjellside."
+    },
+    {
+      "k": "Klima",
+      "q": "Hvordan kan klimaendringer påvirke skredfaren?",
+      "alt": [
+        "De kan øke den",
+        "De reduserer skredfaren",
+        "De har ingen betydning",
+        "De påvirker bare snøskred"
+      ],
+      "rett": 0,
+      "f": "Mer ekstremnedbør, flere fryse- og tinesykluser og tining av permafrost i fjellet svekker fjellsidene og øker faren."
+    },
+    {
+      "k": "Fjellskred",
+      "q": "Hva øker faren for fjellskred?",
+      "alt": [
+        "Bratte fjellsider og svakhetssoner i berggrunnen",
+        "Flatt terreng",
+        "Tykke løsmasselag",
+        "Høy grunnvannstand alene"
+      ],
+      "rett": 0,
+      "f": "Bratt terreng gir tyngdekraften noe å ta tak i, og svakhetssoner — sprekker, forkastninger, lagdeling — gir bruddet en flate å gli langs."
+    },
+    {
+      "k": "Utløsere",
+      "q": "Hva kan utløse et fjellskred?",
+      "alt": [
+        "Jordskjelv",
+        "Sterk vind",
+        "Tidevann",
+        "Lav temperatur alene"
+      ],
+      "rett": 0,
+      "f": "Jordskjelv kan gi det siste puffet til en fjellside som allerede er ustabil. Kraftig nedbør og frostsprengning virker på samme måte."
+    },
+    {
+      "k": "Forebygging",
+      "q": "Hvorfor er kartlegging og overvåking så viktig for fjellskred?",
+      "alt": [
+        "Fordi det er vanskelig å hindre selve skredet",
+        "Fordi kartlegging stopper skredet",
+        "Fordi det er billigere enn å bygge sikring, men like effektivt mot skredet",
+        "Fordi fjellskred alltid går på samme sted"
+      ],
+      "rett": 0,
+      "f": "En hel fjellside lar seg ikke sikre. Derfor er strategien å vite hvor faren er, følge med på bevegelsen, og evakuere i tide."
+    },
+    {
+      "k": "Ansvar",
+      "q": "Hvem har ansvaret for overvåkingen av skredfarlige fjellsider i Norge?",
+      "alt": [
+        "NVE",
+        "Mattilsynet",
+        "Statens vegvesen",
+        "Meteorologisk institutt"
+      ],
+      "rett": 0,
+      "f": "Norges vassdrags- og energidirektorat har ansvaret. Åknes i Storfjorden er det mest kjente overvåkede objektet."
+    },
+    {
+      "k": "Overvåking",
+      "q": "Hvilke metoder brukes til å overvåke ustabile fjellsider?",
+      "alt": [
+        "Radar, laser, seismografer, geofoner, strekkstag, borehull og GPS",
+        "Bare visuell inspeksjon",
+        "Bare satellittfoto",
+        "Bare værmeldinger"
+      ],
+      "rett": 0,
+      "f": "Alle måler det samme: bevegelse. Til sammen gir de et bilde av om fjellsiden kryper langsomt eller akselererer."
+    },
+    {
+      "k": "Varsling",
+      "q": "Hvorfor er det mulig å varsle fjellskred, i motsetning til jordskjelv?",
+      "alt": [
+        "Det er ofte økt aktivitet i fjellsiden like før skredet går",
+        "Fordi fjellskred alltid skjer om våren",
+        "Fordi fjellskred utløses av værmeldinger",
+        "Fordi fjellsider aldri beveger seg uventet"
+      ],
+      "rett": 0,
+      "f": "Bevegelsen akselererer gjerne i timene og dagene før bruddet. Registreres det, kan området evakueres — som ved Åknes-beredskapen."
+    },
+    {
+      "k": "Tsunami",
+      "q": "Hvorfor er fjellskred ved fjorder spesielt farlige i Norge?",
+      "alt": [
+        "Massene som raser i sjøen kan utløse flodbølger",
+        "Fordi de utløser jordskjelv",
+        "Fordi de demmer opp fjorden",
+        "Fordi de forurenser drikkevannet"
+      ],
+      "rett": 0,
+      "f": "Tafjord i 1934 og Loen i 1905 og 1936 er de mest kjente. Det er nettopp flodbølgefaren som gjør Åknes så alvorlig."
+    }
+  ]
+}

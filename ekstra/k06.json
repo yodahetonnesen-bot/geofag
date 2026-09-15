@@ -1,5 +1,11 @@
 {
-  "intro": ["252c162364", "558e5065f2", "1eb96af212", "8b8898a6d3", "a7856ab6c0"],
+  "intro": [
+    "252c162364",
+    "558e5065f2",
+    "1eb96af212",
+    "8b8898a6d3",
+    "a7856ab6c0"
+  ],
   "grupper": [],
   "tilleggsoppgaver": [
     {
@@ -7,17 +13,29 @@
       "overskrift": "Sammenlign to mineraler",
       "side": 71,
       "poster": [
-        { "intro": "Hvordan vil du avgjøre om et mineral er … (se figurene 6.3a og 6.3b)" },
-        { "q": "kvarts eller muskovitt",
-          "f": "Spalteretningene er det avgjørende. Muskovitt spalter i tynne, bøyelige flak; kvarts har ingen spalteretning i det hele tatt.\nHardheten skiller også klart: kvarts har hardhet 7 og riper glass, muskovitt har 2–3 og kan ripes med en negl.\nGlansen: kvarts har glassglans, muskovitt perlemorglans på spalteflatene." },
-        { "q": "biotitt eller pyroksen",
-          "f": "Begge er mørke, mafiske mineraler, så fargen hjelper ikke.\nSpaltingen avgjør: biotitt spalter i tynne flak, som glimmer flest. Pyroksen har to spalteretninger som nesten står vinkelrett på hverandre.\nHardheten bekrefter: biotitt 2,5–3 (ripes med negl), pyroksen 5–6 (riper glass så vidt)." },
-        { "q": "kalkspat eller feltspat",
-          "f": "Syretesten er den sikreste: kalkspat bruser kraftig med fortynnet saltsyre, feltspat gjør ingenting.\nHardheten skiller også: kalkspat har hardhet 3 og kan ripes med en spiker eller et knivblad, feltspat har 6–6,5 og riper glass.\nSpaltingen: kalkspat spalter i skjeve terninger (romboedre), feltspat i to retninger som nesten står vinkelrett på hverandre." },
-        { "q": "hematitt eller amfibol",
-          "f": "Strekfargen avgjør. Hematitt gir alltid rødbrun strek, selv når mineralet selv er stålgrått. Amfibol gir grågrønn eller gråbrun strek.\nGlansen: hematitt har metallglans (matt), amfibol glassglans.\nTettheten: hematitt er merkbart tyngre (5,2–5,3 mot 2,9–3,8) — det er nettopp derfor hematitt regnes som et ertsmineral." },
-        { "q": "apatitt eller olivin",
-          "f": "Fargen gir en pekepinn: olivin er tydelig olivengrønn, apatitt er gjerne blågrønn eller gulgrønn.\nHardheten skiller sikrere: olivin har 6,5–7 og riper glass godt, apatitt har 5 og riper glass så vidt.\nGlansen: olivin har fettglans, apatitt glassglans.\nOg kjemien: olivin er et silikatmineral, apatitt et fosfatmineral — det er derfor apatitt er råstoff for gjødsel." }
+        {
+          "intro": "Hvordan vil du avgjøre om et mineral er … (se figurene 6.3a og 6.3b)"
+        },
+        {
+          "q": "kvarts eller muskovitt",
+          "f": "Spalteretningene er det avgjørende. Muskovitt spalter i tynne, bøyelige flak; kvarts har ingen spalteretning i det hele tatt.\nHardheten skiller også klart: kvarts har hardhet 7 og riper glass, muskovitt har 2–3 og kan ripes med en negl.\nGlansen: kvarts har glassglans, muskovitt perlemorglans på spalteflatene."
+        },
+        {
+          "q": "biotitt eller pyroksen",
+          "f": "Begge er mørke, mafiske mineraler, så fargen hjelper ikke.\nSpaltingen avgjør: biotitt spalter i tynne flak, som glimmer flest. Pyroksen har to spalteretninger som nesten står vinkelrett på hverandre.\nHardheten bekrefter: biotitt 2,5–3 (ripes med negl), pyroksen 5–6 (riper glass så vidt)."
+        },
+        {
+          "q": "kalkspat eller feltspat",
+          "f": "Syretesten er den sikreste: kalkspat bruser kraftig med fortynnet saltsyre, feltspat gjør ingenting.\nHardheten skiller også: kalkspat har hardhet 3 og kan ripes med en spiker eller et knivblad, feltspat har 6–6,5 og riper glass.\nSpaltingen: kalkspat spalter i skjeve terninger (romboedre), feltspat i to retninger som nesten står vinkelrett på hverandre."
+        },
+        {
+          "q": "hematitt eller amfibol",
+          "f": "Strekfargen avgjør. Hematitt gir alltid rødbrun strek, selv når mineralet selv er stålgrått. Amfibol gir grågrønn eller gråbrun strek.\nGlansen: hematitt har metallglans (matt), amfibol glassglans.\nTettheten: hematitt er merkbart tyngre (5,2–5,3 mot 2,9–3,8) — det er nettopp derfor hematitt regnes som et ertsmineral."
+        },
+        {
+          "q": "apatitt eller olivin",
+          "f": "Fargen gir en pekepinn: olivin er tydelig olivengrønn, apatitt er gjerne blågrønn eller gulgrønn.\nHardheten skiller sikrere: olivin har 6,5–7 og riper glass godt, apatitt har 5 og riper glass så vidt.\nGlansen: olivin har fettglans, apatitt glassglans.\nOg kjemien: olivin er et silikatmineral, apatitt et fosfatmineral — det er derfor apatitt er råstoff for gjødsel."
+        }
       ]
     },
     {
@@ -25,14 +43,216 @@
       "overskrift": "Oppstigning av magma",
       "side": 78,
       "poster": [
-        { "intro": "Et magma kan bruke lang tid på å nå opp til jordoverflaten. Regn ut hvor lang tid et magma bruker opp til overflaten fra et magmakammer 2 km under jordoverflaten ved ulike hastigheter." },
-        { "q": "5 millimeter per år",
-          "f": "2 km = 2 000 000 mm.\n2 000 000 mm ÷ 5 mm/år = 400 000 år.\nMed denne farten tar de siste to kilometerne 400 000 år — lengre enn mennesket har eksistert." },
-        { "q": "5 meter per år",
-          "f": "2 km = 2000 m.\n2000 m ÷ 5 m/år = 400 år.\nEn tusendel av tiden i forrige regnestykke, fordi farten er tusen ganger større." },
-        { "q": "50 meter per år",
-          "f": "2000 m ÷ 50 m/år = 40 år.\nDette svarer til den raske enden av spennet boka nevner — «opptil flere titalls meter per år».\nSammenligningen er poenget: samme strekning tar alt fra noen tiår til flere hundre tusen år, avhengig av hvor lett magmaet finner vei gjennom sprekker og svakhetssoner." }
+        {
+          "intro": "Et magma kan bruke lang tid på å nå opp til jordoverflaten. Regn ut hvor lang tid et magma bruker opp til overflaten fra et magmakammer 2 km under jordoverflaten ved ulike hastigheter."
+        },
+        {
+          "q": "5 millimeter per år",
+          "f": "2 km = 2 000 000 mm.\n2 000 000 mm ÷ 5 mm/år = 400 000 år.\nMed denne farten tar de siste to kilometerne 400 000 år — lengre enn mennesket har eksistert."
+        },
+        {
+          "q": "5 meter per år",
+          "f": "2 km = 2000 m.\n2000 m ÷ 5 m/år = 400 år.\nEn tusendel av tiden i forrige regnestykke, fordi farten er tusen ganger større."
+        },
+        {
+          "q": "50 meter per år",
+          "f": "2000 m ÷ 50 m/år = 40 år.\nDette svarer til den raske enden av spennet boka nevner — «opptil flere titalls meter per år».\nSammenligningen er poenget: samme strekning tar alt fra noen tiår til flere hundre tusen år, avhengig av hvor lett magmaet finner vei gjennom sprekker og svakhetssoner."
+        }
       ]
+    }
+  ],
+  "quiz": [
+    {
+      "k": "Det geologiske kretsløpet",
+      "q": "Hva viser det geologiske kretsløpet?",
+      "alt": [
+        "Hvordan bergarter eroderes, omdannes og smelter for så å oppstå som nye bergarter",
+        "Hvordan vann sirkulerer mellom hav og atmosfære",
+        "Hvordan platene beveger seg over jordoverflaten",
+        "Hvordan mineraler utvinnes og gjenbrukes"
+      ],
+      "rett": 0,
+      "f": "Ingen bergart er endelig. Den eroderes til løsmasser, avsettes, herdes, omdannes under trykk og varme, smelter — og størkner som en ny bergart."
+    },
+    {
+      "k": "Mineraler",
+      "q": "Hva er et mineral?",
+      "alt": [
+        "Et fast stoff bygd opp av ett eller flere grunnstoffer",
+        "En blanding av flere bergarter",
+        "Alt løst materiale over berggrunnen",
+        "Størknet lava"
+      ],
+      "rett": 0,
+      "f": "Mineraler er faste stoffer bygd opp av ett eller flere grunnstoffer, med en bestemt kjemisk sammensetning og atomstruktur. Bergarter er satt sammen av mineraler."
+    },
+    {
+      "k": "Krystaller",
+      "q": "Hva er en krystall?",
+      "alt": [
+        "Et mineral der atomstrukturen kommer til syne som en ytre form avgrenset av plane flater",
+        "Et gjennomsiktig mineral",
+        "Et mineral som er hardere enn kvarts",
+        "Et mineral dannet i vann"
+      ],
+      "rett": 0,
+      "f": "I en krystall speiler den ytre formen den indre atomstrukturen. Krystallformen får bare utvikle seg fritt når mineralet har hatt plass til å vokse."
+    },
+    {
+      "k": "Magma og lava",
+      "q": "Hva er forskjellen på magma og lava?",
+      "alt": [
+        "Magma er steinsmelte i dypet, lava er steinsmelte på jordoverflaten",
+        "Magma er varmere enn lava per definisjon",
+        "Lava inneholder mineraler, magma gjør ikke",
+        "Magma er fast, lava er flytende"
+      ],
+      "rett": 0,
+      "f": "Det er samme stoff — bare på ulike steder. I dypet kalles det magma, ute på overflaten kalles det lava."
+    },
+    {
+      "k": "Magmatiske bergarter",
+      "q": "Hvordan dannes magmatiske bergarter?",
+      "alt": [
+        "Ved at lava og magma størkner",
+        "Ved at løsmasser herdes",
+        "Ved at bergarter omdannes under trykk",
+        "Ved kjemisk utfelling i havvann"
+      ],
+      "rett": 0,
+      "f": "Størkner smelta i dypet, blir kornene store (som i granitt og gabbro). Størkner den raskt på overflaten, blir kornene små (som i basalt og ryolitt)."
+    },
+    {
+      "k": "Smelting",
+      "q": "Hva menes med delvis oppsmelting av en bergart?",
+      "alt": [
+        "Noen mineraler smelter før andre",
+        "Hele bergarten smelter, men bare halvparten renner ut",
+        "Bergarten smelter bare om sommeren",
+        "Bare overflaten av bergarten smelter"
+      ],
+      "rett": 0,
+      "f": "Mineralene i en bergart har ulike smeltepunkt. Derfor smelter noen først, og smelta får en annen sammensetning enn bergarten den kom fra."
+    },
+    {
+      "k": "Smelting",
+      "q": "Hva er smeltetemperaturen for en bergart?",
+      "alt": [
+        "Den temperaturen da de første mineralene begynner å smelte",
+        "Den temperaturen da hele bergarten er flytende",
+        "Gjennomsnittet av mineralenes smeltepunkt",
+        "Temperaturen der bergarten blir metamorf"
+      ],
+      "rett": 0,
+      "f": "Fordi bergarter smelter delvis, defineres smeltetemperaturen som punktet der de første mineralene gir etter."
+    },
+    {
+      "k": "Mafisk magma",
+      "q": "Hvor dannes mafisk magma?",
+      "alt": [
+        "Ved smelting av mantelbergarter under spredningsakser og i hotspoter",
+        "Ved smelting av skorpebergarter under fjellkjeder",
+        "I subduksjonssoner, av havbunnssedimenter",
+        "I kontaktsonen rundt et intrusjon"
+      ],
+      "rett": 0,
+      "f": "Mafisk magma kommer fra mantelen. Den er jern- og magnesiumrik, tynnflytende og gir bergarter som basalt og gabbro."
+    },
+    {
+      "k": "Felsisk magma",
+      "q": "Hvordan kan felsisk magma dannes?",
+      "alt": [
+        "Ved smelting av skorpebergarter, eller ved fraksjonert krystallisasjon i et mafisk magma",
+        "Bare ved smelting av mantelbergarter",
+        "Bare i hotspoter",
+        "Ved at lava blandes med havvann"
+      ],
+      "rett": 0,
+      "f": "To veier: enten smelter skorpebergarter direkte, eller så krystalliserer de tyngste mineralene ut av et mafisk magma først, slik at restsmelta blir stadig mer felsisk."
+    },
+    {
+      "k": "Delvis krystallisasjon",
+      "q": "Hvordan kan ulike bergarter dannes fra det samme magmaet?",
+      "alt": [
+        "Ved delvis krystallisasjon",
+        "Ved at magmaet deler seg i to",
+        "Ved at det blandes med sedimenter",
+        "Det er ikke mulig"
+      ],
+      "rett": 0,
+      "f": "Mineralene krystalliserer ut i en bestemt rekkefølge etter hvert som smelta kjøles. Skilles krystallene fra restsmelta, endrer restsmelta sammensetning — og gir en annen bergart."
+    },
+    {
+      "k": "Havbunnsskorpe",
+      "q": "Hvordan er havbunnsskorpa bygd opp?",
+      "alt": [
+        "Basalt øverst, gabbro underst",
+        "Gabbro øverst, basalt underst",
+        "Granitt øverst, basalt underst",
+        "Kalkstein øverst, gabbro underst"
+      ],
+      "rett": 0,
+      "f": "Samme mafiske smelte gir begge: den delen som når overflaten og størkner raskt, blir finkornet basalt; den som størkner langsomt i dypet, blir grovkornet gabbro."
+    },
+    {
+      "k": "Sedimentære bergarter",
+      "q": "Hvor dannes de fleste sedimentære bergarter?",
+      "alt": [
+        "På havbunnen utenfor kontinentene",
+        "På toppen av fjellkjeder",
+        "I dypet under kontinentene",
+        "I vulkankratre"
+      ],
+      "rett": 0,
+      "f": "Materialet eroderes fra land, fraktes ut med elvene og avsettes på havbunnen utenfor kontinentene, der det med tiden herdes til bergart."
+    },
+    {
+      "k": "Metamorfose",
+      "q": "Hva er en metamorf bergart?",
+      "alt": [
+        "En magmatisk eller sedimentær bergart som er omdannet",
+        "En bergart dannet direkte av smelte",
+        "Løsmasser som er herdet",
+        "En bergart som bare finnes i Norge"
+      ],
+      "rett": 0,
+      "f": "Utgangspunktet er alltid en bergart som fantes fra før. Trykk og varme endrer mineralene og strukturen uten at bergarten smelter."
+    },
+    {
+      "k": "Metamorfose",
+      "q": "Hva er forskjellen på kontaktmetamorfose og regionalmetamorfose?",
+      "alt": [
+        "Kontaktmetamorfose skyldes varme alene, regionalmetamorfose både trykk og varme",
+        "Kontaktmetamorfose skjer i havet, regionalmetamorfose på land",
+        "Kontaktmetamorfose rammer store områder, regionalmetamorfose små",
+        "Det er to navn på det samme"
+      ],
+      "rett": 0,
+      "f": "Kontaktmetamorfose skjer i en smal sone rundt en varm intrusjon. Regionalmetamorfose skjer over store områder i fjellkjeder, der både trykk og varme virker."
+    },
+    {
+      "k": "Aldersbestemmelse",
+      "q": "Hva forteller den relative alderen til en bergart?",
+      "alt": [
+        "Hvor gammel bergarten er i forhold til andre bergarter",
+        "Alderen i antall år",
+        "Hvor dypt bergarten ligger",
+        "Hvor mange ganger den er omdannet"
+      ],
+      "rett": 0,
+      "f": "Relativ alder rangerer bergartene innbyrdes — hva som er eldst og yngst. Absolutt alder gir alderen i antall år, og bestemmes ved hjelp av radioaktive grunnstoffer."
+    },
+    {
+      "k": "Karbon-14",
+      "q": "Hva brukes karbon-14-metoden til?",
+      "alt": [
+        "Å bestemme alderen på dødt organisk materiale",
+        "Å bestemme alderen på magmatiske bergarter",
+        "Å måle trykket under en fjellkjede",
+        "Å finne ut hvor mye kalk en bergart inneholder"
+      ],
+      "rett": 0,
+      "f": "Metoden virker bare på organisk materiale — tre, bein, skjell — og rekker bare noen titusen år tilbake. Eldre bergarter dateres med andre radioaktive grunnstoffer."
     }
   ]
 }
