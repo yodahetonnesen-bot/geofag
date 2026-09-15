@@ -1,0 +1,17 @@
+{
+  "intro": ["ac8df48bf1"],
+  "grupper": [],
+  "tilleggsoppgaver": [
+    {
+      "art": "oppgave",
+      "overskrift": "Hydrologiske begreper",
+      "side": 197,
+      "poster": [
+        { "q": "Gjør en utregning som viser at 1 L/(s · km²) = 31,5 mm/år.",
+          "f": "Start med å skrive alt om til meter og sekunder.\n1 liter = 0,001 m³, og 1 km² = 1 000 000 m².\n1 L/(s · km²) = 0,001 m³/s ÷ 1 000 000 m² = 0,000000001 m/s = 10⁻⁹ m/s.\nGang med antall sekunder i et år: 365 · 24 · 3600 = 31 536 000 s.\n10⁻⁹ m/s · 31 536 000 s = 0,0315 m = 31,5 mm.\nAltså: 1 L/(s · km²) svarer til et vannlag på 31,5 millimeter fordelt jevnt over hele nedbørsfeltet i løpet av et år." },
+        { "q": "Hva menes med et tverrsnitt av elveløpet? Lag en figur.",
+          "f": "Et tverrsnitt er et snitt på tvers av elva — arealet vannet strømmer gjennom på et bestemt sted.\nTegn elva sett fra siden, på tvers: bunnen som en U- eller V-form, og vannflaten som en vannrett strek over. Flaten mellom dem er tverrsnittet, og måles i m².\nVannføringen finner du ved å gange tverrsnittsarealet med vannhastigheten: Q = A · v. Er arealet 20 m² og farten 2 m/s, blir vannføringen 40 m³/s.\nLegg merke til at tverrsnittet endrer seg med vannstanden — det er derfor limnigrafen måler vannstand, som så regnes om til vannføring." }
+      ]
+    }
+  ]
+}
